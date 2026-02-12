@@ -1,5 +1,10 @@
 project:
   type: website
+  output-dir: _site
+  render:
+    - index.qmd
+    - about.qmd
+    - posts/**/index.qmd
 
 website:
   description: "A blog built with Quarto"
@@ -10,6 +15,7 @@ website:
       - about.qmd
       - icon: github
         href: https://github.com/johnplake/blog
+
 format:
   html:
     theme:
