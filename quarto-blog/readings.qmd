@@ -64,14 +64,14 @@ function filterByStatus(status) {
   event.target.classList.add('active');
   
   // Filter listings
-  const items = document.querySelectorAll('.quarto-listing-default .list .quarto-post');
+  const items = document.querySelectorAll('.quarto-post');
   
   items.forEach(item => {
     if (status === 'all') {
       item.style.display = '';
     } else {
       const statusBadge = item.querySelector('.listing-status');
-      const itemStatus = statusBadge ? statusBadge.textContent.toLowerCase() : '';
+      const itemStatus = statusBadge ? statusBadge.textContent.trim().toLowerCase() : '';
       item.style.display = itemStatus === status ? '' : 'none';
     }
   });
