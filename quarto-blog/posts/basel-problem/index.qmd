@@ -1,0 +1,78 @@
+---
+title: "The Basel Problem: A Fourier Series Proof"
+author: "John P. Lake"
+date: "2026-02-13"
+categories: [mathematics, analysis, fourier-series]
+---
+
+## The Basel Problem
+
+One of the most elegant results in analysis is the evaluation of the infinite series:
+
+$$\sum_{n=1}^{\infty} \frac{1}{n^2} = \frac{\pi^2}{6}$$
+
+This problem stumped mathematicians for decades until Euler solved it in 1734. While Euler's original proof was ingenious but not entirely rigorous, the Fourier series approach provides a clean, modern proof.
+
+## The Setup
+
+Consider the function $f(x) = x$ on the interval $[-\pi, \pi]$, extended periodically. The Fourier series for this function is:
+
+$$f(x) = \sum_{n=1}^{\infty} b_n \sin(nx)$$
+
+where the coefficients are given by:
+
+$$b_n = \frac{2}{\pi} \int_0^{\pi} x \sin(nx) \, dx$$
+
+## Computing the Coefficients
+
+Let's evaluate this integral using integration by parts:
+
+$$\begin{align}
+b_n &= \frac{2}{\pi} \int_0^{\pi} x \sin(nx) \, dx \\
+&= \frac{2}{\pi} \left[ -\frac{x \cos(nx)}{n} \bigg|_0^{\pi} + \frac{1}{n} \int_0^{\pi} \cos(nx) \, dx \right] \\
+&= \frac{2}{\pi} \left[ -\frac{\pi \cos(n\pi)}{n} + \frac{\sin(nx)}{n^2} \bigg|_0^{\pi} \right]
+\end{align}$$
+
+Since $\cos(n\pi) = (-1)^n$ and $\sin(n\pi) = 0$, we get:
+
+$$b_n = \frac{2}{\pi} \cdot \frac{-\pi(-1)^n}{n} = \frac{-2(-1)^n}{n} = \frac{2(-1)^{n+1}}{n}$$
+
+So our Fourier series is:
+
+$$x = \sum_{n=1}^{\infty} \frac{2(-1)^{n+1}}{n} \sin(nx), \quad x \in (-\pi, \pi)$$
+
+## Parseval's Identity
+
+Here's where the magic happens. Parseval's identity tells us that for a function $f$ with Fourier series:
+
+$$\frac{1}{\pi} \int_{-\pi}^{\pi} |f(x)|^2 \, dx = \frac{a_0^2}{2} + \sum_{n=1}^{\infty} (a_n^2 + b_n^2)$$
+
+For our function $f(x) = x$, we have only sine terms, so $a_n = 0$ for all $n$. Thus:
+
+$$\frac{1}{\pi} \int_{-\pi}^{\pi} x^2 \, dx = \sum_{n=1}^{\infty} b_n^2$$
+
+## The Calculation
+
+The left side is straightforward:
+
+$$\frac{1}{\pi} \int_{-\pi}^{\pi} x^2 \, dx = \frac{1}{\pi} \cdot \frac{2x^3}{3} \bigg|_0^{\pi} = \frac{1}{\pi} \cdot \frac{2\pi^3}{3} = \frac{2\pi^2}{3}$$
+
+The right side gives us:
+
+$$\sum_{n=1}^{\infty} b_n^2 = \sum_{n=1}^{\infty} \left(\frac{2(-1)^{n+1}}{n}\right)^2 = \sum_{n=1}^{\infty} \frac{4}{n^2} = 4 \sum_{n=1}^{\infty} \frac{1}{n^2}$$
+
+## The Final Step
+
+Equating both sides:
+
+$$\frac{2\pi^2}{3} = 4 \sum_{n=1}^{\infty} \frac{1}{n^2}$$
+
+Therefore:
+
+$$\sum_{n=1}^{\infty} \frac{1}{n^2} = \frac{2\pi^2}{12} = \frac{\pi^2}{6}$$
+
+And we're done! The Basel problem falls elegantly from the machinery of Fourier analysis. 🐟
+
+## Why This Matters
+
+This proof showcases the power of Fourier series not just for solving differential equations or signal processing, but for evaluating seemingly unrelated infinite series. The connection between the geometry of periodic functions and number-theoretic sums remains one of the most beautiful bridges in mathematics.
