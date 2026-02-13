@@ -42,7 +42,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-afa37c5c79185640b9c231024f4fe5ea.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-b024e90aaa764b06df7ba97b59ff58a1.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -203,8 +203,66 @@ window.Quarto = {
 </header>
 
 
+<style>
+.status-filter {
+  display: flex;
+  gap: 0.75rem;
+  margin-bottom: 2rem;
+  justify-content: center;
+}
+
+.status-btn {
+  padding: 0.5rem 1.5rem;
+  border: 2px solid #dee2e6;
+  background: white;
+  color: #495057;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  font-weight: 500;
+  transition: all 0.2s ease;
+  font-size: 0.95rem;
+}
+
+.status-btn:hover {
+  border-color: #0d6efd;
+  color: #0d6efd;
+  transform: translateY(-1px);
+  box-shadow: 0 2px 8px rgba(13, 110, 253, 0.15);
+}
+
+.status-btn.active {
+  background: #0d6efd;
+  border-color: #0d6efd;
+  color: white;
+  box-shadow: 0 2px 8px rgba(13, 110, 253, 0.3);
+}
+</style>
+<div class="status-filter">
+<p><button class="status-btn active" onclick="filterByStatus('all')">All</button> <button class="status-btn" onclick="filterByStatus('to-read')">To Read</button> <button class="status-btn" onclick="filterByStatus('finished')">Finished</button></p>
+</div>
+<script>
+function filterByStatus(status) {
+  // Update button states
+  document.querySelectorAll('.status-btn').forEach(btn => {
+    btn.classList.remove('active');
+  });
+  event.target.classList.add('active');
+  
+  // Filter listings
+  const items = document.querySelectorAll('.quarto-listing-default .list .quarto-post');
+  
+  items.forEach(item => {
+    if (status === 'all') {
+      item.style.display = '';
+    } else {
+      const statusBadge = item.querySelector('.listing-status');
+      const itemStatus = statusBadge ? statusBadge.textContent.toLowerCase() : '';
+      item.style.display = itemStatus === status ? '' : 'none';
+    }
+  });
+}
+</script>
 <p>A curated collection of interesting articles, essays, and papers.</p>
-<p><strong>Filter by status:</strong> Use the category filter to show only “to-read” or “finished” items.</p>
 
 
 
@@ -236,7 +294,7 @@ window.Quarto = {
     </div>
 </div>
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="cGh5c2ljcyUyQ3F1YW50dW0tbWVjaGFuaWNz" data-listing-date-sort="1770940800000" data-listing-file-modified-sort="1771012050795" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="45">
+<div class="quarto-post image-right" data-index="0" data-categories="cGh5c2ljcyUyQ3F1YW50dW0tbWVjaGFuaWNz" data-listing-date-sort="1770940800000" data-listing-file-modified-sort="1771011997516" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="45">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./readings/quantum-mysteries/index.html" class="no-external">Are the Mysteries of Quantum Mechanics Beginning To Dissolve?</a>
@@ -263,7 +321,7 @@ to-read
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="QUklMkNtYWNoaW5lLWxlYXJuaW5nJTJDc2NhbGluZw==" data-listing-date-sort="1552435200000" data-listing-file-modified-sort="1771012050795" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="57">
+<div class="quarto-post image-right" data-index="1" data-categories="QUklMkNtYWNoaW5lLWxlYXJuaW5nJTJDc2NhbGluZw==" data-listing-date-sort="1552435200000" data-listing-file-modified-sort="1771011982076" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="57">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./readings/bitter-lesson/index.html" class="no-external">The Bitter Lesson</a>
