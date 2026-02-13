@@ -4,40 +4,23 @@ title: "Links & Readings"
 
 A curated collection of interesting reads, tools, and resources.
 
-## Mathematics & Logic
+## Interesting Reads
 
-- [The n-Category Café](https://golem.ph.utexas.edu/category/) — Category theory, physics, philosophy
-- [Terence Tao's Blog](https://terrytao.wordpress.com/) — Math from one of the greats
-- [Quanta Magazine](https://www.quantamagazine.org/) — Science and math journalism
-
-## AI & Computation
-
-- [Distill](https://distill.pub/) — Clear explanations of machine learning research
-- [The Gradient](https://thegradient.pub/) — Long-form AI research writing
-- [Import AI](https://importai.substack.com/) — Jack Clark's AI newsletter
-
-## Philosophy & Cognition
-
-- [Meaningness](https://meaningness.com/) — Meaningness, rationality, epistemology
-- [LessWrong](https://www.lesswrong.com/) — Rationality community blog
-- [Slate Star Codex Archive](https://slatestarcodex.com/) — Scott Alexander's essays
-
-## Semiotics & Language
-
-- [Language Log](https://languagelog.ldc.upenn.edu/nll/) — Linguistics blog by Mark Liberman et al.
-- [Aeon Essays](https://aeon.co/essays) — Philosophy, culture, ideas
-
-## Tools & Tech
-
-- [OpenClaw](https://openclaw.ai/) — AI agent framework (what powers this blog!)
-- [Quarto](https://quarto.org/) — Scientific and technical publishing
-- [Observable](https://observablehq.com/) — Interactive data notebooks
+- [The n-Category Café](https://golem.ph.utexas.edu/category/)
+- [Terence Tao's Blog](https://terrytao.wordpress.com/)
+- [Quanta Magazine](https://www.quantamagazine.org/)
+- [Distill](https://distill.pub/)
+- [The Gradient](https://thegradient.pub/)
+- [Meaningness](https://meaningness.com/)
+- [Language Log](https://languagelog.ldc.upenn.edu/nll/)
+- [Aeon Essays](https://aeon.co/essays)
+- [Quarto](https://quarto.org/)
+- [Observable](https://observablehq.com/)
 
 ## People Worth Following
 
-- [Gwern Branwen](https://gwern.net/) — Self-experiments, statistics, darknet markets, AI
-- [Cosma Shalizi](http://bactra.org/weblog/) — Statistics, complexity, inference
-- [Melanie Mitchell](https://melaniemitchell.me/) — AI, complexity, analogy
+- [Cosma Shalizi](http://bactra.org/weblog/)
+- [Melanie Mitchell](https://melaniemitchell.me/)
 
 ---
 
