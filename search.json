@@ -7,18 +7,74 @@
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "posts/basel-problem/index.html",
+    "href": "posts/basel-problem/index.html",
+    "title": "The Basel Problem: A Fourier Series Proof",
     "section": "",
-    "text": "About this blog"
+    "text": "One of the most elegant results in analysis is the evaluation of the infinite series:\n\\[\\sum_{n=1}^{\\infty} \\frac{1}{n^2} = \\frac{\\pi^2}{6}\\]\nThis problem stumped mathematicians for decades until Euler solved it in 1734. While Euler’s original proof was ingenious but not entirely rigorous, the Fourier series approach provides a clean, modern proof."
+  },
+  {
+    "objectID": "posts/basel-problem/index.html#the-basel-problem",
+    "href": "posts/basel-problem/index.html#the-basel-problem",
+    "title": "The Basel Problem: A Fourier Series Proof",
+    "section": "",
+    "text": "One of the most elegant results in analysis is the evaluation of the infinite series:\n\\[\\sum_{n=1}^{\\infty} \\frac{1}{n^2} = \\frac{\\pi^2}{6}\\]\nThis problem stumped mathematicians for decades until Euler solved it in 1734. While Euler’s original proof was ingenious but not entirely rigorous, the Fourier series approach provides a clean, modern proof."
+  },
+  {
+    "objectID": "posts/basel-problem/index.html#the-setup",
+    "href": "posts/basel-problem/index.html#the-setup",
+    "title": "The Basel Problem: A Fourier Series Proof",
+    "section": "The Setup",
+    "text": "The Setup\nConsider the function \\(f(x) = x\\) on the interval \\([-\\pi, \\pi]\\), extended periodically. The Fourier series for this function is:\n\\[f(x) = \\sum_{n=1}^{\\infty} b_n \\sin(nx)\\]\nwhere the coefficients are given by:\n\\[b_n = \\frac{2}{\\pi} \\int_0^{\\pi} x \\sin(nx) \\, dx\\]"
+  },
+  {
+    "objectID": "posts/basel-problem/index.html#computing-the-coefficients",
+    "href": "posts/basel-problem/index.html#computing-the-coefficients",
+    "title": "The Basel Problem: A Fourier Series Proof",
+    "section": "Computing the Coefficients",
+    "text": "Computing the Coefficients\nLet’s evaluate this integral using integration by parts:\n\\[\\begin{align}\nb_n &= \\frac{2}{\\pi} \\int_0^{\\pi} x \\sin(nx) \\, dx \\\\\n&= \\frac{2}{\\pi} \\left[ -\\frac{x \\cos(nx)}{n} \\bigg|_0^{\\pi} + \\frac{1}{n} \\int_0^{\\pi} \\cos(nx) \\, dx \\right] \\\\\n&= \\frac{2}{\\pi} \\left[ -\\frac{\\pi \\cos(n\\pi)}{n} + \\frac{\\sin(nx)}{n^2} \\bigg|_0^{\\pi} \\right]\n\\end{align}\\]\nSince \\(\\cos(n\\pi) = (-1)^n\\) and \\(\\sin(n\\pi) = 0\\), we get:\n\\[b_n = \\frac{2}{\\pi} \\cdot \\frac{-\\pi(-1)^n}{n} = \\frac{-2(-1)^n}{n} = \\frac{2(-1)^{n+1}}{n}\\]\nSo our Fourier series is:\n\\[x = \\sum_{n=1}^{\\infty} \\frac{2(-1)^{n+1}}{n} \\sin(nx), \\quad x \\in (-\\pi, \\pi)\\]"
+  },
+  {
+    "objectID": "posts/basel-problem/index.html#parsevals-identity",
+    "href": "posts/basel-problem/index.html#parsevals-identity",
+    "title": "The Basel Problem: A Fourier Series Proof",
+    "section": "Parseval’s Identity",
+    "text": "Parseval’s Identity\nHere’s where the magic happens. Parseval’s identity tells us that for a function \\(f\\) with Fourier series:\n\\[\\frac{1}{\\pi} \\int_{-\\pi}^{\\pi} |f(x)|^2 \\, dx = \\frac{a_0^2}{2} + \\sum_{n=1}^{\\infty} (a_n^2 + b_n^2)\\]\nFor our function \\(f(x) = x\\), we have only sine terms, so \\(a_n = 0\\) for all \\(n\\). Thus:\n\\[\\frac{1}{\\pi} \\int_{-\\pi}^{\\pi} x^2 \\, dx = \\sum_{n=1}^{\\infty} b_n^2\\]"
+  },
+  {
+    "objectID": "posts/basel-problem/index.html#the-calculation",
+    "href": "posts/basel-problem/index.html#the-calculation",
+    "title": "The Basel Problem: A Fourier Series Proof",
+    "section": "The Calculation",
+    "text": "The Calculation\nThe left side is straightforward:\n\\[\\frac{1}{\\pi} \\int_{-\\pi}^{\\pi} x^2 \\, dx = \\frac{1}{\\pi} \\cdot \\frac{2x^3}{3} \\bigg|_0^{\\pi} = \\frac{1}{\\pi} \\cdot \\frac{2\\pi^3}{3} = \\frac{2\\pi^2}{3}\\]\nThe right side gives us:\n\\[\\sum_{n=1}^{\\infty} b_n^2 = \\sum_{n=1}^{\\infty} \\left(\\frac{2(-1)^{n+1}}{n}\\right)^2 = \\sum_{n=1}^{\\infty} \\frac{4}{n^2} = 4 \\sum_{n=1}^{\\infty} \\frac{1}{n^2}\\]"
+  },
+  {
+    "objectID": "posts/basel-problem/index.html#the-final-step",
+    "href": "posts/basel-problem/index.html#the-final-step",
+    "title": "The Basel Problem: A Fourier Series Proof",
+    "section": "The Final Step",
+    "text": "The Final Step\nEquating both sides:\n\\[\\frac{2\\pi^2}{3} = 4 \\sum_{n=1}^{\\infty} \\frac{1}{n^2}\\]\nTherefore:\n\\[\\sum_{n=1}^{\\infty} \\frac{1}{n^2} = \\frac{2\\pi^2}{12} = \\frac{\\pi^2}{6}\\]\nAnd we’re done! The Basel problem falls elegantly from the machinery of Fourier analysis. 🐟"
+  },
+  {
+    "objectID": "posts/basel-problem/index.html#why-this-matters",
+    "href": "posts/basel-problem/index.html#why-this-matters",
+    "title": "The Basel Problem: A Fourier Series Proof",
+    "section": "Why This Matters",
+    "text": "Why This Matters\nThis proof showcases the power of Fourier series not just for solving differential equations or signal processing, but for evaluating seemingly unrelated infinite series. The connection between the geometry of periodic functions and number-theoretic sums remains one of the most beautiful bridges in mathematics."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "John’s Blog",
     "section": "",
-    "text": "A home for notes on research, tools, and whatever I’m learning week to week.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nFeb 12, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nFeb 9, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+    "text": "A home for notes on research, tools, and whatever I’m learning week to week.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Basel Problem: A Fourier Series Proof\n\n\n\nmathematics\n\nanalysis\n\nfourier-series\n\n\n\n\n\n\n\n\n\nFeb 13, 2026\n\n\nJohn P. Lake\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nFeb 12, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nFeb 9, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
   },
   {
     "objectID": "posts/post-with-code/index.html",
