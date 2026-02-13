@@ -6,5 +6,12 @@
       "/posts/post-with-code/index.html",
       "/posts/welcome/index.html"
     ]
+  },
+  {
+    "listing": "/readings.html",
+    "items": [
+      "/readings/quantum-mysteries/index.html",
+      "/readings/bitter-lesson/index.html"
+    ]
   }
 ]
