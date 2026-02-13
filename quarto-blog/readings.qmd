@@ -1,0 +1,19 @@
+---
+title: "Readings"
+listing:
+  contents: readings
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  fields: [title, author, date, categories, status]
+  field-display-names:
+    status: "Status"
+    categories: "Topics"
+page-layout: full
+---
+
+A curated collection of interesting articles, essays, and papers.
+
+**Filter by status:** Use the category filter to show only "to-read" or "finished" items.

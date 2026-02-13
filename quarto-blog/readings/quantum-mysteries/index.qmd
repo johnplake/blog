@@ -1,0 +1,12 @@
+---
+title: "Are the Mysteries of Quantum Mechanics Beginning To Dissolve?"
+author: "Philip Ball"
+date: "2026-02-13"
+categories: [physics, quantum-mechanics]
+status: to-read
+url: "https://www.quantamagazine.org/are-the-mysteries-of-quantum-mechanics-beginning-to-dissolve-20260213/"
+---
+
+Philip Ball explores Wojciech Zurek's work on decoherence and quantum Darwinism as a potential resolution to long-standing interpretational puzzles in quantum mechanics. Could these ideas finally explain the quantum-classical transition without resorting to many worlds, wavefunction collapse, or other contentious interpretations?
+
+[Read the full article →](https://www.quantamagazine.org/are-the-mysteries-of-quantum-mechanics-beginning-to-dissolve-20260213/)

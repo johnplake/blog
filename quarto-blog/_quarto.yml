@@ -5,7 +5,9 @@ project:
     - index.qmd
     - about.qmd
     - links.qmd
+    - readings.qmd
     - posts/**/index.qmd
+    - readings/**/index.qmd
 
 website:
   description: "A blog built with Quarto"
@@ -14,6 +16,7 @@ website:
   navbar:
     right:
       - about.qmd
+      - readings.qmd
       - links.qmd
       - icon: github
         href: https://github.com/johnplake/blog

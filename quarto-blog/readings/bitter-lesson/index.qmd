@@ -1,0 +1,12 @@
+---
+title: "The Bitter Lesson"
+author: "Rich Sutton"
+date: "2019-03-13"
+categories: [AI, machine-learning, scaling]
+status: finished
+url: "http://www.incompleteideas.net/IncIdeas/BitterLesson.html"
+---
+
+Rich Sutton's influential essay arguing that the biggest lesson from AI research is that general methods leveraging computation scale better than methods that rely on human knowledge. Historical examples from chess, Go, speech recognition, and computer vision show that approaches based on search and learning ultimately win over hand-crafted features and domain knowledge.
+
+[Read the full essay →](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
