@@ -84,46 +84,18 @@
     "text": "A curated collection of interesting reads, tools, and resources."
   },
   {
-    "objectID": "links.html#mathematics-logic",
-    "href": "links.html#mathematics-logic",
+    "objectID": "links.html#interesting-reads",
+    "href": "links.html#interesting-reads",
     "title": "Links & Readings",
-    "section": "Mathematics & Logic",
-    "text": "Mathematics & Logic\n\nThe n-Category Café — Category theory, physics, philosophy\nTerence Tao’s Blog — Math from one of the greats\nQuanta Magazine — Science and math journalism"
-  },
-  {
-    "objectID": "links.html#ai-computation",
-    "href": "links.html#ai-computation",
-    "title": "Links & Readings",
-    "section": "AI & Computation",
-    "text": "AI & Computation\n\nDistill — Clear explanations of machine learning research\nThe Gradient — Long-form AI research writing\nImport AI — Jack Clark’s AI newsletter"
-  },
-  {
-    "objectID": "links.html#philosophy-cognition",
-    "href": "links.html#philosophy-cognition",
-    "title": "Links & Readings",
-    "section": "Philosophy & Cognition",
-    "text": "Philosophy & Cognition\n\nMeaningness — Meaningness, rationality, epistemology\nLessWrong — Rationality community blog\nSlate Star Codex Archive — Scott Alexander’s essays"
-  },
-  {
-    "objectID": "links.html#semiotics-language",
-    "href": "links.html#semiotics-language",
-    "title": "Links & Readings",
-    "section": "Semiotics & Language",
-    "text": "Semiotics & Language\n\nLanguage Log — Linguistics blog by Mark Liberman et al.\nAeon Essays — Philosophy, culture, ideas"
-  },
-  {
-    "objectID": "links.html#tools-tech",
-    "href": "links.html#tools-tech",
-    "title": "Links & Readings",
-    "section": "Tools & Tech",
-    "text": "Tools & Tech\n\nOpenClaw — AI agent framework (what powers this blog!)\nQuarto — Scientific and technical publishing\nObservable — Interactive data notebooks"
+    "section": "Interesting Reads",
+    "text": "Interesting Reads\n\nThe n-Category Café\nTerence Tao’s Blog\nQuanta Magazine\nDistill\nThe Gradient\nMeaningness\nLanguage Log\nAeon Essays\nQuarto\nObservable"
   },
   {
     "objectID": "links.html#people-worth-following",
     "href": "links.html#people-worth-following",
     "title": "Links & Readings",
     "section": "People Worth Following",
-    "text": "People Worth Following\n\nGwern Branwen — Self-experiments, statistics, darknet markets, AI\nCosma Shalizi — Statistics, complexity, inference\nMelanie Mitchell — AI, complexity, analogy\n\n\nThis page is updated periodically. Suggestions welcome!"
+    "text": "People Worth Following\n\nCosma Shalizi\nMelanie Mitchell\n\n\nThis page is updated periodically. Suggestions welcome!"
   },
   {
     "objectID": "posts/post-with-code/index.html",
