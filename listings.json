@@ -1,18 +1,19 @@
 [
   {
-    "listing": "/readings.html",
-    "items": [
-      "/readings/quantum-mysteries/index.html",
-      "/readings/lacy-small-language-models/index.html",
-      "/readings/bitter-lesson/index.html"
-    ]
-  },
-  {
     "listing": "/index.html",
     "items": [
       "/posts/basel-problem/index.html",
       "/posts/post-with-code/index.html",
       "/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/readings.html",
+    "items": [
+      "/readings/quantum-mysteries/index.html",
+      "/readings/we-can-choose-not-to-let-ai-destroy-us/index.html",
+      "/readings/lacy-small-language-models/index.html",
+      "/readings/bitter-lesson/index.html"
     ]
   }
 ]
