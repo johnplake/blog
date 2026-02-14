@@ -1,5 +1,13 @@
 [
   {
+    "listing": "/index.html",
+    "items": [
+      "/posts/basel-problem/index.html",
+      "/posts/post-with-code/index.html",
+      "/posts/welcome/index.html"
+    ]
+  },
+  {
     "listing": "/readings.html",
     "items": [
       "/readings/quantum-mysteries/index.html",
@@ -7,16 +15,9 @@
       "/readings/lacy-small-language-models/index.html",
       "/readings/pi-minimal-agent-openclaw/index.html",
       "/readings/context-widows/index.html",
+      "/readings/ai-attack-from-above-on-wages/index.html",
       "/readings/texting-network-end-of-world/index.html",
       "/readings/bitter-lesson/index.html"
-    ]
-  },
-  {
-    "listing": "/index.html",
-    "items": [
-      "/posts/basel-problem/index.html",
-      "/posts/post-with-code/index.html",
-      "/posts/welcome/index.html"
     ]
   }
 ]
