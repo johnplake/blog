@@ -1,16 +1,9 @@
 [
   {
-    "listing": "/index.html",
-    "items": [
-      "/posts/basel-problem/index.html",
-      "/posts/post-with-code/index.html",
-      "/posts/welcome/index.html"
-    ]
-  },
-  {
     "listing": "/readings.html",
     "items": [
       "/readings/bsky-continual-learning-token-space/index.html",
+      "/readings/bsky-victorian-rlhf-toy-models/index.html",
       "/readings/resonant-computing-manifesto/index.html",
       "/readings/quantum-mysteries/index.html",
       "/readings/we-can-choose-not-to-let-ai-destroy-us/index.html",
@@ -34,6 +27,14 @@
       "/readings/tapeagents-framework-review/index.html",
       "/readings/large-ai-models-cultural-social-technologies/index.html",
       "/readings/bitter-lesson/index.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/basel-problem/index.html",
+      "/posts/post-with-code/index.html",
+      "/posts/welcome/index.html"
     ]
   }
 ]
