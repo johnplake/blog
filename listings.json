@@ -1,13 +1,5 @@
 [
   {
-    "listing": "/index.html",
-    "items": [
-      "/posts/basel-problem/index.html",
-      "/posts/post-with-code/index.html",
-      "/posts/welcome/index.html"
-    ]
-  },
-  {
     "listing": "/readings.html",
     "items": [
       "/readings/bsky-continual-learning-token-space/index.html",
@@ -27,7 +19,16 @@
       "/readings/texting-network-end-of-world/index.html",
       "/readings/hidden-gems-simons/index.html",
       "/readings/tapeagents-framework-review/index.html",
+      "/readings/large-ai-models-cultural-social-technologies/index.html",
       "/readings/bitter-lesson/index.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/basel-problem/index.html",
+      "/posts/post-with-code/index.html",
+      "/posts/welcome/index.html"
     ]
   }
 ]
