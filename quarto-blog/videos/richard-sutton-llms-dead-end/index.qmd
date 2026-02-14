@@ -1,0 +1,13 @@
+---
+title: "Richard Sutton – Father of RL thinks LLMs are a dead end"
+author: "Dwarkesh Patel"
+date: "2025-09-26"
+date-added: "2026-02-14"
+categories: [AI, reinforcement-learning, LLMs]
+status: to-watch
+url: "https://www.youtube.com/watch?v=21EYKqUsPfg"
+---
+
+Interview/conversation with Richard Sutton ("The Bitter Lesson") on reinforcement learning, agents, and why he thinks LLMs are a dead end.
+
+[Watch →](https://www.youtube.com/watch?v=21EYKqUsPfg)
