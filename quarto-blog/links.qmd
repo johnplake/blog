@@ -26,6 +26,11 @@ A curated collection of interesting reads, tools, and resources.
 - [Melanie Mitchell — *AI: A Guide for Thinking Humans*](https://aiguide.substack.com/)
 - [Maxim Raginsky — *The Art of the Realizable*](https://realizable.substack.com/)
 - [Henry Farrell — *Programmable Mutter*](https://www.programmablemutter.com/)
+- [Erik J. Larson](https://erikjlarson.substack.com/)
+- [Crooked Timber](https://crookedtimber.org/)
+- [Brad DeLong](https://braddelong.substack.com/)
+- [Marginal Revolution](https://marginalrevolution.com/)
+- [Ted Underwood](https://tedunderwood.com/)
 
 ---
 
