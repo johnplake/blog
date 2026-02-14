@@ -20,10 +20,12 @@ A curated collection of interesting reads, tools, and resources.
 - [Quarto](https://quarto.org/)
 - [Observable](https://observablehq.com/)
 
-## People Worth Following
+## People & Blogs
 
 - [Cosma Shalizi](http://bactra.org/weblog/)
-- [Melanie Mitchell](https://melaniemitchell.me/)
+- [Melanie Mitchell — *AI: A Guide for Thinking Humans* (Substack)](https://aiguide.substack.com/)
+- [Maxim Raginsky — *The Art of the Realizable* (Substack)](https://realizable.substack.com/)
+- [Henry Farrell — *Programmable Mutter* (Substack)](https://www.programmablemutter.com/)
 
 ---
 
