@@ -42,7 +42,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-afa37c5c79185640b9c231024f4fe5ea.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-b024e90aaa764b06df7ba97b59ff58a1.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -211,23 +211,8 @@ window.Quarto = {
 .status-filter {
   display: flex;
   gap: 0.75rem;
-  margin-bottom: 1rem;
-  justify-content: center;
-  align-items: center;
-}
-
-.sort-filter {
-  display: flex;
-  gap: 0.75rem;
   margin-bottom: 2rem;
   justify-content: center;
-  align-items: center;
-}
-
-.filter-label {
-  font-weight: 500;
-  color: #6c757d;
-  font-size: 0.9rem;
 }
 
 .status-btn {
@@ -257,69 +242,27 @@ window.Quarto = {
 }
 </style>
 <div class="status-filter">
-<p><span class="filter-label">Status:</span> <button class="status-btn active" onclick="filterByStatus('all', this)">All</button> <button class="status-btn" onclick="filterByStatus('to-watch', this)">To Watch</button> <button class="status-btn" onclick="filterByStatus('finished', this)">Finished</button></p>
-</div>
-<div class="sort-filter">
-<p><span class="filter-label">Sort by:</span> <button class="status-btn active" onclick="sortBy('date', this)">Video Date</button> <button class="status-btn" onclick="sortBy('date-added', this)">Date Added</button></p>
+<p><button class="status-btn active" onclick="filterByStatus('all')">All</button> <button class="status-btn" onclick="filterByStatus('to-watch')">To Watch</button> <button class="status-btn" onclick="filterByStatus('finished')">Finished</button></p>
 </div>
 <script>
-let currentStatus = 'all';
-
-function filterByStatus(status, btn) {
-  currentStatus = status;
-  
-  // Update button states in status row
-  btn.parentElement.querySelectorAll('.status-btn').forEach(b => b.classList.remove('active'));
-  btn.classList.add('active');
-  
-  applyFilters();
-}
-
-function sortBy(field, btn) {
-  // Update button states in sort row
-  btn.parentElement.querySelectorAll('.status-btn').forEach(b => b.classList.remove('active'));
-  btn.classList.add('active');
-  
-  const listingContainer = document.querySelector('.quarto-listing');
-  const items = Array.from(document.querySelectorAll('.quarto-post'));
-  
-  items.sort((a, b) => {
-    let aVal, bVal;
-    if (field === 'date') {
-      aVal = a.querySelector('.listing-date')?.textContent.trim() || '';
-      bVal = b.querySelector('.listing-date')?.textContent.trim() || '';
-    } else if (field === 'date-added') {
-      aVal = a.querySelector('.listing-date-added')?.textContent.trim() || '';
-      bVal = b.querySelector('.listing-date-added')?.textContent.trim() || '';
-    }
-    // Parse dates and sort descending (newest first)
-    const dateA = new Date(aVal);
-    const dateB = new Date(bVal);
-    return dateB - dateA;
+function filterByStatus(status) {
+  // Update button states
+  document.querySelectorAll('.status-btn').forEach(btn => {
+    btn.classList.remove('active');
   });
+  event.target.classList.add('active');
   
-  // Reorder DOM elements
-  items.forEach(item => listingContainer.appendChild(item));
-  
-  applyFilters();
-}
-
-function applyFilters() {
+  // Filter listings
   const items = document.querySelectorAll('.quarto-post');
   
   items.forEach(item => {
-    let show = true;
-    
-    // Status filter
-    if (currentStatus !== 'all') {
+    if (status === 'all') {
+      item.style.display = '';
+    } else {
       const statusBadge = item.querySelector('.listing-status');
       const itemStatus = statusBadge ? statusBadge.textContent.trim().toLowerCase() : '';
-      if (itemStatus !== currentStatus) {
-        show = false;
-      }
+      item.style.display = itemStatus === status ? '' : 'none';
     }
-    
-    item.style.display = show ? '' : 'none';
   });
 }
 </script>
@@ -355,7 +298,7 @@ function applyFilters() {
     </div>
 </div>
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="QUklMkNyZWluZm9yY2VtZW50LWxlYXJuaW5nJTJDTExNcw==" data-listing-date-sort="1758844800000" data-listing-file-modified-sort="1771112454086" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="21">
+<div class="quarto-post image-right" data-index="0" data-categories="QUklMkNyZWluZm9yY2VtZW50LWxlYXJuaW5nJTJDTExNcw==" data-listing-date-sort="1758844800000" data-listing-file-modified-sort="1771110844566" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="21">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./videos/richard-sutton-llms-dead-end/index.html" class="no-external">Richard Sutton – Father of RL thinks LLMs are a dead end</a>
@@ -387,7 +330,7 @@ to-watch
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="QUklMkNMTE1zJTJDQ09MTQ==" data-listing-date-sort="1727740800000" data-listing-file-modified-sort="1771112454086" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="24">
+<div class="quarto-post image-right" data-index="1" data-categories="QUklMkNMTE1zJTJDQ09MTQ==" data-listing-date-sort="1727740800000" data-listing-file-modified-sort="1771108819984" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="24">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./videos/carlini-are-llms-worth-it/index.html" class="no-external">Are LLMs worth it?</a>
