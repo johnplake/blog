@@ -21,81 +21,32 @@
     "text": "A Thinking Machines post on constraining neural network weight matrices to live on manifolds (e.g., Stiefel manifold) and designing manifold-aware optimizers. Frames normalization/constraints as a way to keep tensors “healthy” and proposes the idea of modular manifolds for composing constraints in larger systems.\nRead the post →"
   },
   {
-    "objectID": "readings/deflating-hype-wont-save-us/index.html",
-    "href": "readings/deflating-hype-wont-save-us/index.html",
-    "title": "Deflating “Hype” Won’t Save Us",
+    "objectID": "readings/elusive-nature-of-consciousness/index.html",
+    "href": "readings/elusive-nature-of-consciousness/index.html",
+    "title": "The elusive nature of consciousness",
     "section": "",
-    "text": "Argument that the core problem with AI isn’t just marketing hype or exaggerated capability claims—it’s the political economy of who benefits from the tech and how it gets deployed (propaganda, surveillance, labor discipline, etc.).\nRead the article →"
+    "text": "Science piece (book-related, per Crossref metadata) touching on the difficulty of explaining consciousness.\nRead on Science →"
   },
   {
-    "objectID": "readings/bsky-continual-learning-token-space/index.html",
-    "href": "readings/bsky-continual-learning-token-space/index.html",
-    "title": "Continual learning in token + capability space (Bluesky thread)",
+    "objectID": "readings/context-widows/index.html",
+    "href": "readings/context-widows/index.html",
+    "title": "Context Widows",
     "section": "",
-    "text": "Short Bluesky thread pushing back on “continual learning = weight updates” and arguing that practical continual learning for agents can happen in token/context space (memories, skills, prompts, capabilities) because it’s more portable, inspectable, and transferable across model generations.\nIncludes links to Letta posts: - Continual Learning in Token Space | Letta - Skill Learning | Letta\nRead the thread →"
+    "text": "An institutional / science-studies flavored argument that the “can LLMs do science?” debate is a trap: the interesting question is how LLMs get enrolled into existing incentive structures and measurement regimes—often intensifying goal displacement rather than reforming it.\nRead the post →"
   },
   {
-    "objectID": "readings/ai-attack-from-above-on-wages/index.html",
-    "href": "readings/ai-attack-from-above-on-wages/index.html",
-    "title": "“AI is an attack from above on wages”: An interview with cognitive scientist Hagen Blix",
+    "objectID": "readings/bitter-lesson/index.html",
+    "href": "readings/bitter-lesson/index.html",
+    "title": "The Bitter Lesson",
     "section": "",
-    "text": "Interview/Q&A framing AI less as a neutral productivity tool and more as a technology likely to be deployed for deskilling and wage suppression, with discussion of how “AI” narratives resonate with lived experience of algorithmic management.\nRead the post →"
+    "text": "Rich Sutton’s influential essay arguing that the biggest lesson from AI research is that general methods leveraging computation scale better than methods that rely on human knowledge. Historical examples from chess, Go, speech recognition, and computer vision show that approaches based on search and learning ultimately win over hand-crafted features and domain knowledge.\nRead the full essay →"
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
     "section": "",
-    "text": "This is a post with executable code."
-  },
-  {
-    "objectID": "readings.html",
-    "href": "readings.html",
-    "title": "Readings",
-    "section": "",
-    "text": "All To Read Finished\n\n\nA curated collection of interesting articles, essays, and papers.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nContinual learning in token + capability space (Bluesky thread)\n\n\n\nAI\n\nagents\n\ncontinual-learning\n\nmemory\n\n\n\n\n\n\nFeb 14, 2026\n\n\nCameron (@cameron.stream)\n\n\nto-read\n\n\n\n\n\n\n\nAre the Mysteries of Quantum Mechanics Beginning To Dissolve?\n\n\n\nphysics\n\nquantum-mechanics\n\n\n\n\n\n\nFeb 13, 2026\n\n\nPhilip Ball\n\n\nto-read\n\n\n\n\n\n\n\nWe Can Choose Not to Let AI Destroy Us\n\n\n\nAI\n\npolicy\n\neconomics\n\nsystems\n\n\n\n\n\n\nFeb 13, 2026\n\n\nJonathan V. Last\n\n\nto-read\n\n\n\n\n\n\n\nLaCy: What Small Language Models Can and Should Learn is Not Just a Question of Loss\n\n\n\nAI\n\nlanguage-models\n\nSLM\n\nfactuality\n\npretraining\n\n\n\n\n\n\nFeb 12, 2026\n\n\nSzilvia Ujváry et al.\n\n\nto-read\n\n\n\n\n\n\n\nPi: The Minimal Agent Within OpenClaw\n\n\n\nAI\n\nagents\n\ntooling\n\nprogramming\n\n\n\n\n\n\nJan 31, 2026\n\n\nArmin Ronacher\n\n\nto-read\n\n\n\n\n\n\n\nContext Widows\n\n\n\nAI\n\nscience\n\ninstitutions\n\nincentives\n\nmetrics\n\n\n\n\n\n\nDec 12, 2025\n\n\nKevin Baker\n\n\nto-read\n\n\n\n\n\n\n\n“AI is an attack from above on wages”: An interview with cognitive scientist Hagen Blix\n\n\n\nAI\n\nlabor\n\neconomics\n\npolitics\n\n\n\n\n\n\nOct 1, 2025\n\n\nBrian Merchant\n\n\nto-read\n\n\n\n\n\n\n\nModular Manifolds\n\n\n\ndeep-learning\n\noptimization\n\ngeometry\n\n\n\n\n\n\nSep 26, 2025\n\n\nJeremy Bernstein\n\n\nto-read\n\n\n\n\n\n\n\nDeflating “Hype” Won’t Save Us\n\n\n\nAI\n\npolitics\n\nlabor\n\nmedia\n\n\n\n\n\n\nSep 16, 2025\n\n\nHagen Blix; Ingeborg Glimmer\n\n\nto-read\n\n\n\n\n\n\n\nThe Texting Network for the End of the World\n\n\n\nnetworks\n\nresilience\n\nradio\n\nLoRa\n\nmeshtastic\n\n\n\n\n\n\nJun 4, 2025\n\n\nAndrew Couts; Dhruv Mehrotra\n\n\nfinished\n\n\n\n\n\n\n\nThe Bitter Lesson\n\n\n\nAI\n\nmachine-learning\n\nscaling\n\n\n\n\n\n\nMar 13, 2019\n\n\nRich Sutton\n\n\nfinished\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this blog"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "John’s Blog",
-    "section": "",
-    "text": "A home for notes on research, tools, and whatever I’m learning week to week.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Basel Problem: A Fourier Series Proof\n\n\n\nmathematics\n\nanalysis\n\nfourier-series\n\n\n\n\n\n\n\n\n\nFeb 13, 2026\n\n\nJohn P. Lake\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nFeb 12, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nFeb 9, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "links.html",
-    "href": "links.html",
-    "title": "Links & Readings",
-    "section": "",
-    "text": "A curated collection of interesting reads, tools, and resources."
-  },
-  {
-    "objectID": "links.html#interesting-reads",
-    "href": "links.html#interesting-reads",
-    "title": "Links & Readings",
-    "section": "Interesting Reads",
-    "text": "Interesting Reads\n\nThe n-Category Café\nTerence Tao’s Blog\nQuanta Magazine\nDistill\nThe Gradient \nLanguage Log\nAeon Essays"
-  },
-  {
-    "objectID": "links.html#tools-tech",
-    "href": "links.html#tools-tech",
-    "title": "Links & Readings",
-    "section": "Tools & Tech",
-    "text": "Tools & Tech\n\nQuarto\nObservable"
-  },
-  {
-    "objectID": "links.html#people-blogs",
-    "href": "links.html#people-blogs",
-    "title": "Links & Readings",
-    "section": "People & Blogs",
-    "text": "People & Blogs\n\nCosma Shalizi\nMelanie Mitchell\nMaxim Raginsky\nHenry Farrell\nErik J. Larson\nCrooked Timber\nBrad DeLong\nMarginal Revolution\nTed Underwood\nSimon Willison\nScott Aaronson\nEthan Mollick\nPlatformer\nBrian Merchant\nPluralistic \n\n\nThis page is updated periodically. Suggestions welcome!"
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
     "objectID": "posts/basel-problem/index.html",
@@ -154,25 +105,81 @@
     "text": "Why This Matters\nThis proof showcases the power of Fourier series not just for solving differential equations or signal processing, but for evaluating seemingly unrelated infinite series. The connection between the geometry of periodic functions and number-theoretic sums remains one of the most beautiful bridges in mathematics."
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "links.html",
+    "href": "links.html",
+    "title": "Links & Readings",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "A curated collection of interesting reads, tools, and resources."
   },
   {
-    "objectID": "readings/bitter-lesson/index.html",
-    "href": "readings/bitter-lesson/index.html",
-    "title": "The Bitter Lesson",
-    "section": "",
-    "text": "Rich Sutton’s influential essay arguing that the biggest lesson from AI research is that general methods leveraging computation scale better than methods that rely on human knowledge. Historical examples from chess, Go, speech recognition, and computer vision show that approaches based on search and learning ultimately win over hand-crafted features and domain knowledge.\nRead the full essay →"
+    "objectID": "links.html#interesting-reads",
+    "href": "links.html#interesting-reads",
+    "title": "Links & Readings",
+    "section": "Interesting Reads",
+    "text": "Interesting Reads\n\nThe n-Category Café\nTerence Tao’s Blog\nQuanta Magazine\nDistill\nThe Gradient \nLanguage Log\nAeon Essays"
   },
   {
-    "objectID": "readings/context-widows/index.html",
-    "href": "readings/context-widows/index.html",
-    "title": "Context Widows",
+    "objectID": "links.html#tools-tech",
+    "href": "links.html#tools-tech",
+    "title": "Links & Readings",
+    "section": "Tools & Tech",
+    "text": "Tools & Tech\n\nQuarto\nObservable"
+  },
+  {
+    "objectID": "links.html#people-blogs",
+    "href": "links.html#people-blogs",
+    "title": "Links & Readings",
+    "section": "People & Blogs",
+    "text": "People & Blogs\n\nCosma Shalizi\nMelanie Mitchell\nMaxim Raginsky\nHenry Farrell\nErik J. Larson\nCrooked Timber\nBrad DeLong\nMarginal Revolution\nTed Underwood\nSimon Willison\nScott Aaronson\nEthan Mollick\nPlatformer\nBrian Merchant\nPluralistic \n\n\nThis page is updated periodically. Suggestions welcome!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "John’s Blog",
     "section": "",
-    "text": "An institutional / science-studies flavored argument that the “can LLMs do science?” debate is a trap: the interesting question is how LLMs get enrolled into existing incentive structures and measurement regimes—often intensifying goal displacement rather than reforming it.\nRead the post →"
+    "text": "A home for notes on research, tools, and whatever I’m learning week to week.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Basel Problem: A Fourier Series Proof\n\n\n\nmathematics\n\nanalysis\n\nfourier-series\n\n\n\n\n\n\n\n\n\nFeb 13, 2026\n\n\nJohn P. Lake\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nFeb 12, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nFeb 9, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "readings.html",
+    "href": "readings.html",
+    "title": "Readings",
+    "section": "",
+    "text": "All To Read Finished\n\n\nA curated collection of interesting articles, essays, and papers.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nContinual learning in token + capability space (Bluesky thread)\n\n\n\nAI\n\nagents\n\ncontinual-learning\n\nmemory\n\n\n\n\n\n\nFeb 14, 2026\n\n\nCameron (@cameron.stream)\n\n\nto-read\n\n\n\n\n\n\n\nAre the Mysteries of Quantum Mechanics Beginning To Dissolve?\n\n\n\nphysics\n\nquantum-mechanics\n\n\n\n\n\n\nFeb 13, 2026\n\n\nPhilip Ball\n\n\nto-read\n\n\n\n\n\n\n\nWe Can Choose Not to Let AI Destroy Us\n\n\n\nAI\n\npolicy\n\neconomics\n\nsystems\n\n\n\n\n\n\nFeb 13, 2026\n\n\nJonathan V. Last\n\n\nto-read\n\n\n\n\n\n\n\nThe elusive nature of consciousness\n\n\n\nconsciousness\n\nphilosophy\n\nneuroscience\n\n\n\n\n\n\nFeb 12, 2026\n\n\nNed Block\n\n\nto-read\n\n\n\n\n\n\n\nLaCy: What Small Language Models Can and Should Learn is Not Just a Question of Loss\n\n\n\nAI\n\nlanguage-models\n\nSLM\n\nfactuality\n\npretraining\n\n\n\n\n\n\nFeb 12, 2026\n\n\nSzilvia Ujváry et al.\n\n\nto-read\n\n\n\n\n\n\n\nPi: The Minimal Agent Within OpenClaw\n\n\n\nAI\n\nagents\n\ntooling\n\nprogramming\n\n\n\n\n\n\nJan 31, 2026\n\n\nArmin Ronacher\n\n\nto-read\n\n\n\n\n\n\n\nContext Widows\n\n\n\nAI\n\nscience\n\ninstitutions\n\nincentives\n\nmetrics\n\n\n\n\n\n\nDec 12, 2025\n\n\nKevin Baker\n\n\nto-read\n\n\n\n\n\n\n\n“AI is an attack from above on wages”: An interview with cognitive scientist Hagen Blix\n\n\n\nAI\n\nlabor\n\neconomics\n\npolitics\n\n\n\n\n\n\nOct 1, 2025\n\n\nBrian Merchant\n\n\nto-read\n\n\n\n\n\n\n\nModular Manifolds\n\n\n\ndeep-learning\n\noptimization\n\ngeometry\n\n\n\n\n\n\nSep 26, 2025\n\n\nJeremy Bernstein\n\n\nto-read\n\n\n\n\n\n\n\nDeflating “Hype” Won’t Save Us\n\n\n\nAI\n\npolitics\n\nlabor\n\nmedia\n\n\n\n\n\n\nSep 16, 2025\n\n\nHagen Blix; Ingeborg Glimmer\n\n\nto-read\n\n\n\n\n\n\n\nThe Texting Network for the End of the World\n\n\n\nnetworks\n\nresilience\n\nradio\n\nLoRa\n\nmeshtastic\n\n\n\n\n\n\nJun 4, 2025\n\n\nAndrew Couts; Dhruv Mehrotra\n\n\nfinished\n\n\n\n\n\n\n\nThe Bitter Lesson\n\n\n\nAI\n\nmachine-learning\n\nscaling\n\n\n\n\n\n\nMar 13, 2019\n\n\nRich Sutton\n\n\nfinished\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "readings/ai-attack-from-above-on-wages/index.html",
+    "href": "readings/ai-attack-from-above-on-wages/index.html",
+    "title": "“AI is an attack from above on wages”: An interview with cognitive scientist Hagen Blix",
+    "section": "",
+    "text": "Interview/Q&A framing AI less as a neutral productivity tool and more as a technology likely to be deployed for deskilling and wage suppression, with discussion of how “AI” narratives resonate with lived experience of algorithmic management.\nRead the post →"
+  },
+  {
+    "objectID": "readings/bsky-continual-learning-token-space/index.html",
+    "href": "readings/bsky-continual-learning-token-space/index.html",
+    "title": "Continual learning in token + capability space (Bluesky thread)",
+    "section": "",
+    "text": "Short Bluesky thread pushing back on “continual learning = weight updates” and arguing that practical continual learning for agents can happen in token/context space (memories, skills, prompts, capabilities) because it’s more portable, inspectable, and transferable across model generations.\nIncludes links to Letta posts: - Continual Learning in Token Space | Letta - Skill Learning | Letta\nRead the thread →"
+  },
+  {
+    "objectID": "readings/deflating-hype-wont-save-us/index.html",
+    "href": "readings/deflating-hype-wont-save-us/index.html",
+    "title": "Deflating “Hype” Won’t Save Us",
+    "section": "",
+    "text": "Argument that the core problem with AI isn’t just marketing hype or exaggerated capability claims—it’s the political economy of who benefits from the tech and how it gets deployed (propaganda, surveillance, labor discipline, etc.).\nRead the article →"
   },
   {
     "objectID": "readings/lacy-small-language-models/index.html",
