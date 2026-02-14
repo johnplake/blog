@@ -31,6 +31,7 @@ A curated collection of interesting reads, tools, and resources.
 - [Brad DeLong](https://braddelong.substack.com/)
 - [Marginal Revolution](https://marginalrevolution.com/)
 - [Ted Underwood](https://tedunderwood.com/)
+- [Simon Willison](https://simonwillison.net/)
 
 ---
 
