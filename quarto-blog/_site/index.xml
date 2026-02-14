@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>John’s Blog</title>
+<link>https://johnplake.github.io/blog/</link>
+<atom:link href="https://johnplake.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
+<description>A blog built with Quarto</description>
+<generator>quarto-1.8.27</generator>
+<lastBuildDate>Fri, 13 Feb 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>The Basel Problem: A Fourier Series Proof</title>
+  <dc:creator>John P. Lake</dc:creator>
+  <link>https://johnplake.github.io/blog/posts/basel-problem/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="the-basel-problem" class="level2">
+<h2 class="anchored" data-anchor-id="the-basel-problem">The Basel Problem</h2>
+<p>One of the most elegant results in analysis is the evaluation of the infinite series:</p>
+<p><img src="https://latex.codecogs.com/png.latex?%5Csum_%7Bn=1%7D%5E%7B%5Cinfty%7D%20%5Cfrac%7B1%7D%7Bn%5E2%7D%20=%20%5Cfrac%7B%5Cpi%5E2%7D%7B6%7D"></p>
+<p>This problem stumped mathematicians for decades until Euler solved it in 1734. While Euler’s original proof was ingenious but not entirely rigorous, the Fourier series approach provides a clean, modern proof.</p>
+</section>
+<section id="the-setup" class="level2">
+<h2 class="anchored" data-anchor-id="the-setup">The Setup</h2>
+<p>Consider the function <img src="https://latex.codecogs.com/png.latex?f(x)%20=%20x"> on the interval <img src="https://latex.codecogs.com/png.latex?%5B-%5Cpi,%20%5Cpi%5D">, extended periodically. The Fourier series for this function is:</p>
+<p><img src="https://latex.codecogs.com/png.latex?f(x)%20=%20%5Csum_%7Bn=1%7D%5E%7B%5Cinfty%7D%20b_n%20%5Csin(nx)"></p>
+<p>where the coefficients are given by:</p>
+<p><img src="https://latex.codecogs.com/png.latex?b_n%20=%20%5Cfrac%7B2%7D%7B%5Cpi%7D%20%5Cint_0%5E%7B%5Cpi%7D%20x%20%5Csin(nx)%20%5C,%20dx"></p>
+</section>
+<section id="computing-the-coefficients" class="level2">
+<h2 class="anchored" data-anchor-id="computing-the-coefficients">Computing the Coefficients</h2>
+<p>Let’s evaluate this integral using integration by parts:</p>
+<p><img src="https://latex.codecogs.com/png.latex?%5Cbegin%7Balign%7D%0Ab_n%20&amp;=%20%5Cfrac%7B2%7D%7B%5Cpi%7D%20%5Cint_0%5E%7B%5Cpi%7D%20x%20%5Csin(nx)%20%5C,%20dx%20%5C%5C%0A&amp;=%20%5Cfrac%7B2%7D%7B%5Cpi%7D%20%5Cleft%5B%20-%5Cfrac%7Bx%20%5Ccos(nx)%7D%7Bn%7D%20%5Cbigg%7C_0%5E%7B%5Cpi%7D%20+%20%5Cfrac%7B1%7D%7Bn%7D%20%5Cint_0%5E%7B%5Cpi%7D%20%5Ccos(nx)%20%5C,%20dx%20%5Cright%5D%20%5C%5C%0A&amp;=%20%5Cfrac%7B2%7D%7B%5Cpi%7D%20%5Cleft%5B%20-%5Cfrac%7B%5Cpi%20%5Ccos(n%5Cpi)%7D%7Bn%7D%20+%20%5Cfrac%7B%5Csin(nx)%7D%7Bn%5E2%7D%20%5Cbigg%7C_0%5E%7B%5Cpi%7D%20%5Cright%5D%0A%5Cend%7Balign%7D"></p>
+<p>Since <img src="https://latex.codecogs.com/png.latex?%5Ccos(n%5Cpi)%20=%20(-1)%5En"> and <img src="https://latex.codecogs.com/png.latex?%5Csin(n%5Cpi)%20=%200">, we get:</p>
+<p><img src="https://latex.codecogs.com/png.latex?b_n%20=%20%5Cfrac%7B2%7D%7B%5Cpi%7D%20%5Ccdot%20%5Cfrac%7B-%5Cpi(-1)%5En%7D%7Bn%7D%20=%20%5Cfrac%7B-2(-1)%5En%7D%7Bn%7D%20=%20%5Cfrac%7B2(-1)%5E%7Bn+1%7D%7D%7Bn%7D"></p>
+<p>So our Fourier series is:</p>
+<p><img src="https://latex.codecogs.com/png.latex?x%20=%20%5Csum_%7Bn=1%7D%5E%7B%5Cinfty%7D%20%5Cfrac%7B2(-1)%5E%7Bn+1%7D%7D%7Bn%7D%20%5Csin(nx),%20%5Cquad%20x%20%5Cin%20(-%5Cpi,%20%5Cpi)"></p>
+</section>
+<section id="parsevals-identity" class="level2">
+<h2 class="anchored" data-anchor-id="parsevals-identity">Parseval’s Identity</h2>
+<p>Here’s where the magic happens. Parseval’s identity tells us that for a function <img src="https://latex.codecogs.com/png.latex?f"> with Fourier series:</p>
+<p><img src="https://latex.codecogs.com/png.latex?%5Cfrac%7B1%7D%7B%5Cpi%7D%20%5Cint_%7B-%5Cpi%7D%5E%7B%5Cpi%7D%20%7Cf(x)%7C%5E2%20%5C,%20dx%20=%20%5Cfrac%7Ba_0%5E2%7D%7B2%7D%20+%20%5Csum_%7Bn=1%7D%5E%7B%5Cinfty%7D%20(a_n%5E2%20+%20b_n%5E2)"></p>
+<p>For our function <img src="https://latex.codecogs.com/png.latex?f(x)%20=%20x">, we have only sine terms, so <img src="https://latex.codecogs.com/png.latex?a_n%20=%200"> for all <img src="https://latex.codecogs.com/png.latex?n">. Thus:</p>
+<p><img src="https://latex.codecogs.com/png.latex?%5Cfrac%7B1%7D%7B%5Cpi%7D%20%5Cint_%7B-%5Cpi%7D%5E%7B%5Cpi%7D%20x%5E2%20%5C,%20dx%20=%20%5Csum_%7Bn=1%7D%5E%7B%5Cinfty%7D%20b_n%5E2"></p>
+</section>
+<section id="the-calculation" class="level2">
+<h2 class="anchored" data-anchor-id="the-calculation">The Calculation</h2>
+<p>The left side is straightforward:</p>
+<p><img src="https://latex.codecogs.com/png.latex?%5Cfrac%7B1%7D%7B%5Cpi%7D%20%5Cint_%7B-%5Cpi%7D%5E%7B%5Cpi%7D%20x%5E2%20%5C,%20dx%20=%20%5Cfrac%7B1%7D%7B%5Cpi%7D%20%5Ccdot%20%5Cfrac%7B2x%5E3%7D%7B3%7D%20%5Cbigg%7C_0%5E%7B%5Cpi%7D%20=%20%5Cfrac%7B1%7D%7B%5Cpi%7D%20%5Ccdot%20%5Cfrac%7B2%5Cpi%5E3%7D%7B3%7D%20=%20%5Cfrac%7B2%5Cpi%5E2%7D%7B3%7D"></p>
+<p>The right side gives us:</p>
+<p><img src="https://latex.codecogs.com/png.latex?%5Csum_%7Bn=1%7D%5E%7B%5Cinfty%7D%20b_n%5E2%20=%20%5Csum_%7Bn=1%7D%5E%7B%5Cinfty%7D%20%5Cleft(%5Cfrac%7B2(-1)%5E%7Bn+1%7D%7D%7Bn%7D%5Cright)%5E2%20=%20%5Csum_%7Bn=1%7D%5E%7B%5Cinfty%7D%20%5Cfrac%7B4%7D%7Bn%5E2%7D%20=%204%20%5Csum_%7Bn=1%7D%5E%7B%5Cinfty%7D%20%5Cfrac%7B1%7D%7Bn%5E2%7D"></p>
+</section>
+<section id="the-final-step" class="level2">
+<h2 class="anchored" data-anchor-id="the-final-step">The Final Step</h2>
+<p>Equating both sides:</p>
+<p><img src="https://latex.codecogs.com/png.latex?%5Cfrac%7B2%5Cpi%5E2%7D%7B3%7D%20=%204%20%5Csum_%7Bn=1%7D%5E%7B%5Cinfty%7D%20%5Cfrac%7B1%7D%7Bn%5E2%7D"></p>
+<p>Therefore:</p>
+<p><img src="https://latex.codecogs.com/png.latex?%5Csum_%7Bn=1%7D%5E%7B%5Cinfty%7D%20%5Cfrac%7B1%7D%7Bn%5E2%7D%20=%20%5Cfrac%7B2%5Cpi%5E2%7D%7B12%7D%20=%20%5Cfrac%7B%5Cpi%5E2%7D%7B6%7D"></p>
+<p>And we’re done! The Basel problem falls elegantly from the machinery of Fourier analysis. 🐟</p>
+</section>
+<section id="why-this-matters" class="level2">
+<h2 class="anchored" data-anchor-id="why-this-matters">Why This Matters</h2>
+<p>This proof showcases the power of Fourier series not just for solving differential equations or signal processing, but for evaluating seemingly unrelated infinite series. The connection between the geometry of periodic functions and number-theoretic sums remains one of the most beautiful bridges in mathematics.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>mathematics</category>
+  <category>analysis</category>
+  <category>fourier-series</category>
+  <guid>https://johnplake.github.io/blog/posts/basel-problem/</guid>
+  <pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Post With Code</title>
+  <dc:creator>Harlow Malloc</dc:creator>
+  <link>https://johnplake.github.io/blog/posts/post-with-code/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This is a post with executable code.</p>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <category>code</category>
+  <category>analysis</category>
+  <guid>https://johnplake.github.io/blog/posts/post-with-code/</guid>
+  <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://johnplake.github.io/blog/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Welcome To My Blog</title>
+  <dc:creator>Tristan O&#39;Malley</dc:creator>
+  <link>https://johnplake.github.io/blog/posts/welcome/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This is the first post in a Quarto blog. Welcome!</p>
+<p><img src="https://johnplake.github.io/blog/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
+<p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <guid>https://johnplake.github.io/blog/posts/welcome/</guid>
+  <pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

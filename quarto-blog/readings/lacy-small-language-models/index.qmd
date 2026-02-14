@@ -18,3 +18,5 @@ Results: LaCy outperforms loss thresholding, Rho-1 learnability scores, and LLM-
 Interesting finding: Validation loss is not correlated with downstream factual accuracy across methods and scales.
 
 [Read the paper →](https://arxiv.org/abs/2602.12005)
+
+[Author's thread on Bluesky →](https://bsky.app/profile/szilviaujvary.bsky.social/post/3meqvqslmj22l)
