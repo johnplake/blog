@@ -1,0 +1,12 @@
+---
+title: "My response to AI 2027"
+author: "Vitalik Buterin"
+date: "2025-07-10"
+categories: [ai, forecasting, society]
+status: to-read
+url: "https://vitalik.eth.limo/general/2025/07/10/2027.html"
+---
+
+Vitalik’s response/critique of the *AI 2027* scenario, focusing on how the scenario treats capabilities as highly asymmetric (offense races ahead while defense lags), and exploring what changes when “both sides get AI superpowers.”
+
+Link: <https://vitalik.eth.limo/general/2025/07/10/2027.html>
