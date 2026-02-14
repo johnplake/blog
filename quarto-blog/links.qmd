@@ -1,5 +1,5 @@
 ---
-title: "Links & Readings"
+title: "Links"
 ---
 
 A curated collection of interesting reads, tools, and resources.
