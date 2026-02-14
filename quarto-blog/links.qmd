@@ -33,6 +33,7 @@ A curated collection of interesting reads, tools, and resources.
 - [Ted Underwood](https://tedunderwood.com/)
 - [Simon Willison](https://simonwillison.net/)
 - [Scott Aaronson](https://scottaaronson.blog/)
+- [Ethan Mollick](https://www.oneusefulthing.org/)
 - [Brian Merchant](https://brianmerchant.org/)
 - [Pluralistic](https://pluralistic.net/)
 - [Evgeny Morozov](https://evgenymorozov.substack.com/)
