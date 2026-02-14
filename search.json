@@ -231,6 +231,13 @@
     "text": "Bluesky thread pointing to a couple of “toy models” attempting something like historically-grounded preferences (explicitly noting it’s not RLHF from Victorian-era people).\nBluesky thread: https://bsky.app/profile/neku42.bsky.social/post/3meta5wrttc2x\nSource links mentioned: - https://huggingface.co/haykgrigorian/TimeCapsuleLLM-v2-llama-1.2B - https://huggingface.co/bahree/london-historical-slm"
   },
   {
+    "objectID": "readings/bsky-victorian-rlhf-toy-models/index.html#related-reading",
+    "href": "readings/bsky-victorian-rlhf-toy-models/index.html#related-reading",
+    "title": "Toy models for (pseudo) historical preference learning (Bluesky thread)",
+    "section": "Related Reading",
+    "text": "Related Reading\n\nMonadGPT — “What would have happened if ChatGPT was invented in the 17th century?” A Mistral-Hermes finetune on 11,000 early modern texts (English, French, Latin) from EEBO and Gallica. Answers in historical language/style with period-appropriate (i.e., dated) references."
+  },
+  {
     "objectID": "readings/deflating-hype-wont-save-us/index.html",
     "href": "readings/deflating-hype-wont-save-us/index.html",
     "title": "Deflating “Hype” Won’t Save Us",
