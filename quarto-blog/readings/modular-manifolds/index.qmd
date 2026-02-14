@@ -1,0 +1,12 @@
+---
+title: "Modular Manifolds"
+author: "Jeremy Bernstein"
+date: "2025-09-26"
+categories: [deep-learning, optimization, geometry]
+status: to-read
+url: "https://thinkingmachines.ai/blog/modular-manifolds/"
+---
+
+A Thinking Machines post on constraining neural network **weight matrices** to live on manifolds (e.g., Stiefel manifold) and designing **manifold-aware optimizers**. Frames normalization/constraints as a way to keep tensors “healthy” and proposes the idea of **modular manifolds** for composing constraints in larger systems.
+
+[Read the post →](https://thinkingmachines.ai/blog/modular-manifolds/)
