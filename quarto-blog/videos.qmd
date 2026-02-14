@@ -16,14 +16,30 @@ page-layout: full
 ---
 
 <style>
-.status-filter {
+.filter-controls {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin-bottom: 2rem;
+  align-items: center;
+}
+
+.filter-row {
   display: flex;
   gap: 0.75rem;
-  margin-bottom: 2rem;
+  align-items: center;
+  flex-wrap: wrap;
   justify-content: center;
 }
 
-.status-btn {
+.filter-label {
+  font-weight: 500;
+  color: #6c757d;
+  font-size: 0.9rem;
+  margin-right: 0.25rem;
+}
+
+.filter-btn {
   padding: 0.5rem 1.5rem;
   border: 2px solid #dee2e6;
   background: white;
@@ -35,14 +51,14 @@ page-layout: full
   font-size: 0.95rem;
 }
 
-.status-btn:hover {
+.filter-btn:hover {
   border-color: #0d6efd;
   color: #0d6efd;
   transform: translateY(-1px);
   box-shadow: 0 2px 8px rgba(13, 110, 253, 0.15);
 }
 
-.status-btn.active {
+.filter-btn.active {
   background: #0d6efd;
   border-color: #0d6efd;
   color: white;
@@ -50,31 +66,78 @@ page-layout: full
 }
 </style>
 
-<div class="status-filter">
-  <button class="status-btn active" onclick="filterByStatus('all')">All</button>
-  <button class="status-btn" onclick="filterByStatus('to-watch')">To Watch</button>
-  <button class="status-btn" onclick="filterByStatus('finished')">Finished</button>
+<div class="filter-controls">
+  <div class="filter-row">
+    <span class="filter-label">Status:</span>
+    <button class="filter-btn active" onclick="filterByStatus('all', this)">All</button>
+    <button class="filter-btn" onclick="filterByStatus('to-watch', this)">To Watch</button>
+    <button class="filter-btn" onclick="filterByStatus('finished', this)">Finished</button>
+  </div>
+  <div class="filter-row">
+    <span class="filter-label">Sort by:</span>
+    <button class="filter-btn active" onclick="sortBy('date', this)">Video Date</button>
+    <button class="filter-btn" onclick="sortBy('date-added', this)">Date Added</button>
+  </div>
 </div>
 
 <script>
-function filterByStatus(status) {
-  // Update button states
-  document.querySelectorAll('.status-btn').forEach(btn => {
-    btn.classList.remove('active');
-  });
-  event.target.classList.add('active');
+let currentStatus = 'all';
+
+function filterByStatus(status, btn) {
+  currentStatus = status;
   
-  // Filter listings
+  // Update button states in status row
+  btn.parentElement.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  
+  applyFilters();
+}
+
+function sortBy(field, btn) {
+  // Update button states in sort row
+  btn.parentElement.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  
+  const listingContainer = document.querySelector('.quarto-listing');
+  const items = Array.from(document.querySelectorAll('.quarto-post'));
+  
+  items.sort((a, b) => {
+    let aVal, bVal;
+    if (field === 'date') {
+      aVal = a.querySelector('.listing-date')?.textContent.trim() || '';
+      bVal = b.querySelector('.listing-date')?.textContent.trim() || '';
+    } else if (field === 'date-added') {
+      aVal = a.querySelector('.listing-date-added')?.textContent.trim() || '';
+      bVal = b.querySelector('.listing-date-added')?.textContent.trim() || '';
+    }
+    // Parse dates and sort descending (newest first)
+    const dateA = new Date(aVal);
+    const dateB = new Date(bVal);
+    return dateB - dateA;
+  });
+  
+  // Reorder DOM elements
+  items.forEach(item => listingContainer.appendChild(item));
+  
+  applyFilters();
+}
+
+function applyFilters() {
   const items = document.querySelectorAll('.quarto-post');
   
   items.forEach(item => {
-    if (status === 'all') {
-      item.style.display = '';
-    } else {
+    let show = true;
+    
+    // Status filter
+    if (currentStatus !== 'all') {
       const statusBadge = item.querySelector('.listing-status');
       const itemStatus = statusBadge ? statusBadge.textContent.trim().toLowerCase() : '';
-      item.style.display = itemStatus === status ? '' : 'none';
+      if (itemStatus !== currentStatus) {
+        show = false;
+      }
     }
+    
+    item.style.display = show ? '' : 'none';
   });
 }
 </script>
