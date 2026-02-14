@@ -36,5 +36,11 @@
       "/posts/post-with-code/index.html",
       "/posts/welcome/index.html"
     ]
+  },
+  {
+    "listing": "/videos.html",
+    "items": [
+      "/videos/example-talk/index.html"
+    ]
   }
 ]
