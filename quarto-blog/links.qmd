@@ -11,7 +11,7 @@ A curated collection of interesting reads, tools, and resources.
 - [Quanta Magazine](https://www.quantamagazine.org/)
 - [Distill](https://distill.pub/)
 - [The Gradient](https://thegradient.pub/)
-- [Meaningness](https://meaningness.com/)
+<!-- removed Meaningness -->
 - [Language Log](https://languagelog.ldc.upenn.edu/nll/)
 - [Aeon Essays](https://aeon.co/essays)
 
