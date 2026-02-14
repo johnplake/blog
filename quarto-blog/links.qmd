@@ -14,7 +14,6 @@ A curated collection of interesting reads, tools, and resources.
 <!-- removed Meaningness -->
 - [Language Log](https://languagelog.ldc.upenn.edu/nll/)
 - [Aeon Essays](https://aeon.co/essays)
-- [Resonant Computing Manifesto](https://resonantcomputing.org/)
 
 ## Tools & Tech
 
