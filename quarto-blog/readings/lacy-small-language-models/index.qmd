@@ -1,0 +1,20 @@
+---
+title: "LaCy: What Small Language Models Can and Should Learn is Not Just a Question of Loss"
+author: "Szilvia Ujváry et al."
+date: "2026-02-12"
+categories: [AI, language-models, SLM, factuality, pretraining]
+status: to-read
+url: "https://arxiv.org/abs/2602.12005"
+---
+
+Small Language Models have limited capacity to store world knowledge, leading to factual errors. This paper asks: which tokens should an SLM learn during pretraining, and which should it delegate to an external source (larger model, database, etc.)?
+
+Key insight: High loss alone isn't enough to decide when to delegate. Some high-loss tokens have acceptable alternative continuations that aren't factually wrong—they shouldn't trigger a `<CALL>`. The key is identifying tokens that are both high-loss *and* factual.
+
+**LaCy** uses a spaCy grammar parser to cheaply identify factual tokens, training SLMs to delegate these when loss is high. At inference, a `<CALL>` token triggers extraction from a cascade partner (larger model).
+
+Results: LaCy outperforms loss thresholding, Rho-1 learnability scores, and LLM-as-judge methods on FactScore while being simpler and cheaper.
+
+Interesting finding: Validation loss is not correlated with downstream factual accuracy across methods and scales.
+
+[Read the paper →](https://arxiv.org/abs/2602.12005)
