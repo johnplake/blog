@@ -1,0 +1,12 @@
+---
+title: "The Texting Network for the End of the World"
+author: "Andrew Couts; Dhruv Mehrotra"
+date: "2025-06-04"
+categories: [networks, resilience, radio, LoRa, meshtastic]
+status: to-read
+url: "https://www.wired.com/story/youre-not-ready-for-phone-dead-zones/"
+---
+
+WIRED piece on **Meshtastic**: an open-source system for sending text messages over **LoRa** radios in an ad-hoc mesh, useful for dead zones and disaster scenarios where cell service/internet are unavailable.
+
+[Read the article →](https://www.wired.com/story/youre-not-ready-for-phone-dead-zones/)

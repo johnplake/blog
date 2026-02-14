@@ -1,0 +1,12 @@
+---
+title: "Context Widows"
+author: "Kevin Baker"
+date: "2025-12-12"
+categories: [AI, science, institutions, incentives, metrics]
+status: to-read
+url: "https://artificialbureaucracy.substack.com/p/context-widows"
+---
+
+An institutional / science-studies flavored argument that the “can LLMs do science?” debate is a trap: the interesting question is how LLMs get **enrolled** into existing incentive structures and measurement regimes—often intensifying goal displacement rather than reforming it.
+
+[Read the post →](https://artificialbureaucracy.substack.com/p/context-widows)
