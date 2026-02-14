@@ -1,0 +1,13 @@
+---
+title: "The elusive nature of consciousness"
+author: "Ned Block"
+date: "2026-02-12"
+categories: [consciousness, philosophy, neuroscience]
+status: to-read
+url: "https://www.science.org/doi/10.1126/science.aec8147"
+doi: "10.1126/science.aec8147"
+---
+
+Science piece (book-related, per Crossref metadata) touching on the difficulty of explaining consciousness.
+
+[Read on Science →](https://www.science.org/doi/10.1126/science.aec8147)
