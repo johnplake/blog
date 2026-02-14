@@ -23,9 +23,9 @@ A curated collection of interesting reads, tools, and resources.
 ## People & Blogs
 
 - [Cosma Shalizi](http://bactra.org/weblog/)
-- [Melanie Mitchell — *AI: A Guide for Thinking Humans* (Substack)](https://aiguide.substack.com/)
-- [Maxim Raginsky — *The Art of the Realizable* (Substack)](https://realizable.substack.com/)
-- [Henry Farrell — *Programmable Mutter* (Substack)](https://www.programmablemutter.com/)
+- [Melanie Mitchell — *AI: A Guide for Thinking Humans*](https://aiguide.substack.com/)
+- [Maxim Raginsky — *The Art of the Realizable*](https://realizable.substack.com/)
+- [Henry Farrell — *Programmable Mutter*](https://www.programmablemutter.com/)
 
 ---
 
