@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "videos/example-talk/index.html",
-    "href": "videos/example-talk/index.html",
-    "title": "Example Talk (Delete Me)",
+    "objectID": "videos/carlini-are-llms-worth-it/index.html",
+    "href": "videos/carlini-are-llms-worth-it/index.html",
+    "title": "Are LLMs worth it?",
     "section": "",
-    "text": "This is an example video entry. Replace or delete this.\nSchema for videos: - title — Video title - author — Speaker/creator - date — Original publish/talk date - date-added — When you added it to the list - categories — Topic tags - status — to-watch or finished - url — Link to video\nWatch →"
+    "text": "Nicholas Carlini’s talk at the Conference on Language Modeling (COLM) examining whether large language models are worth the investment and resources they require.\nWatch →"
   },
   {
     "objectID": "readings/why-agi-will-not-happen/index.html",
@@ -214,7 +214,7 @@
     "href": "videos.html",
     "title": "Videos",
     "section": "",
-    "text": "All To Watch Finished\n\n\nA curated collection of talks, lectures, and videos worth watching.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nExample Talk (Delete Me)\n\n\n\nAI\n\nexample\n\n\n\n\n\n\nJan 1, 2026\n\n\nSpeaker Name\n\n\n2026-02-14\n\n\nto-watch\n\n\n\n\n\nNo matching items"
+    "text": "All To Watch Finished\n\n\nA curated collection of talks, lectures, and videos worth watching.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nAre LLMs worth it?\n\n\n\nAI\n\nLLMs\n\nCOLM\n\n\n\n\n\n\nOct 1, 2024\n\n\nNicholas Carlini\n\n\n2026-02-14\n\n\nto-watch\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/post-with-code/index.html",
