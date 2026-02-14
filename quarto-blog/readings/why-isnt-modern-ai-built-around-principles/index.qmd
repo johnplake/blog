@@ -1,0 +1,12 @@
+---
+title: "Why isn’t modern AI built around principles from cognitive science?"
+author: "Andrew Lampinen"
+date: "2025-12-16"
+categories: [ai, cognitive-science, neuroscience]
+status: to-read
+url: "https://infinitefaculty.substack.com/p/why-isnt-modern-ai-built-around-principles"
+---
+
+Post kicking off a series on AI ↔ cognitive science, with a historical perspective on why recent AI progress has been driven more by compute/data/engineering and ML-centric architectural innovation than by cognitive/neuroscience principles.
+
+Link: <https://infinitefaculty.substack.com/p/why-isnt-modern-ai-built-around-principles>
