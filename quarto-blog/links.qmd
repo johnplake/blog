@@ -34,6 +34,7 @@ A curated collection of interesting reads, tools, and resources.
 - [Simon Willison](https://simonwillison.net/)
 - [Brian Merchant](https://brianmerchant.org/)
 - [Pluralistic](https://pluralistic.net/)
+- [Evgeny Morozov](https://evgenymorozov.substack.com/)
 
 ---
 
