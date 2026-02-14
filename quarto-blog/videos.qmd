@@ -19,23 +19,8 @@ page-layout: full
 .status-filter {
   display: flex;
   gap: 0.75rem;
-  margin-bottom: 1rem;
-  justify-content: center;
-  align-items: center;
-}
-
-.sort-filter {
-  display: flex;
-  gap: 0.75rem;
   margin-bottom: 2rem;
   justify-content: center;
-  align-items: center;
-}
-
-.filter-label {
-  font-weight: 500;
-  color: #6c757d;
-  font-size: 0.9rem;
 }
 
 .status-btn {
@@ -66,76 +51,30 @@ page-layout: full
 </style>
 
 <div class="status-filter">
-<span class="filter-label">Status:</span>
-<button class="status-btn active" onclick="filterByStatus('all', this)">All</button>
-<button class="status-btn" onclick="filterByStatus('to-watch', this)">To Watch</button>
-<button class="status-btn" onclick="filterByStatus('finished', this)">Finished</button>
-</div>
-
-<div class="sort-filter">
-<span class="filter-label">Sort by:</span>
-<button class="status-btn active" onclick="sortBy('date', this)">Video Date</button>
-<button class="status-btn" onclick="sortBy('date-added', this)">Date Added</button>
+  <button class="status-btn active" onclick="filterByStatus('all')">All</button>
+  <button class="status-btn" onclick="filterByStatus('to-watch')">To Watch</button>
+  <button class="status-btn" onclick="filterByStatus('finished')">Finished</button>
 </div>
 
 <script>
-let currentStatus = 'all';
-
-function filterByStatus(status, btn) {
-  currentStatus = status;
-  
-  // Update button states in status row
-  btn.parentElement.querySelectorAll('.status-btn').forEach(b => b.classList.remove('active'));
-  btn.classList.add('active');
-  
-  applyFilters();
-}
-
-function sortBy(field, btn) {
-  // Update button states in sort row
-  btn.parentElement.querySelectorAll('.status-btn').forEach(b => b.classList.remove('active'));
-  btn.classList.add('active');
-  
-  const listingContainer = document.querySelector('.quarto-listing');
-  const items = Array.from(document.querySelectorAll('.quarto-post'));
-  
-  items.sort((a, b) => {
-    let aVal, bVal;
-    if (field === 'date') {
-      aVal = a.querySelector('.listing-date')?.textContent.trim() || '';
-      bVal = b.querySelector('.listing-date')?.textContent.trim() || '';
-    } else if (field === 'date-added') {
-      aVal = a.querySelector('.listing-date-added')?.textContent.trim() || '';
-      bVal = b.querySelector('.listing-date-added')?.textContent.trim() || '';
-    }
-    // Parse dates and sort descending (newest first)
-    const dateA = new Date(aVal);
-    const dateB = new Date(bVal);
-    return dateB - dateA;
+function filterByStatus(status) {
+  // Update button states
+  document.querySelectorAll('.status-btn').forEach(btn => {
+    btn.classList.remove('active');
   });
+  event.target.classList.add('active');
   
-  // Reorder DOM elements
-  items.forEach(item => listingContainer.appendChild(item));
-  
-  applyFilters();
-}
-
-function applyFilters() {
+  // Filter listings
   const items = document.querySelectorAll('.quarto-post');
   
   items.forEach(item => {
-    let show = true;
-    
-    // Status filter
-    if (currentStatus !== 'all') {
+    if (status === 'all') {
+      item.style.display = '';
+    } else {
       const statusBadge = item.querySelector('.listing-status');
       const itemStatus = statusBadge ? statusBadge.textContent.trim().toLowerCase() : '';
-      if (itemStatus !== currentStatus) {
-        show = false;
-      }
+      item.style.display = itemStatus === status ? '' : 'none';
     }
-    
-    item.style.display = show ? '' : 'none';
   });
 }
 </script>
