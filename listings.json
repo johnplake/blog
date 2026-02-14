@@ -1,5 +1,13 @@
 [
   {
+    "listing": "/index.html",
+    "items": [
+      "/posts/basel-problem/index.html",
+      "/posts/post-with-code/index.html",
+      "/posts/welcome/index.html"
+    ]
+  },
+  {
     "listing": "/readings.html",
     "items": [
       "/readings/bsky-continual-learning-token-space/index.html",
@@ -9,6 +17,7 @@
       "/readings/lacy-small-language-models/index.html",
       "/readings/pi-minimal-agent-openclaw/index.html",
       "/readings/adolescence-of-technology/index.html",
+      "/readings/why-isnt-modern-ai-built-around-principles/index.html",
       "/readings/context-widows/index.html",
       "/readings/ai-attack-from-above-on-wages/index.html",
       "/readings/modular-manifolds/index.html",
@@ -23,14 +32,6 @@
       "/readings/tapeagents-framework-review/index.html",
       "/readings/large-ai-models-cultural-social-technologies/index.html",
       "/readings/bitter-lesson/index.html"
-    ]
-  },
-  {
-    "listing": "/index.html",
-    "items": [
-      "/posts/basel-problem/index.html",
-      "/posts/post-with-code/index.html",
-      "/posts/welcome/index.html"
     ]
   }
 ]
