@@ -1,0 +1,12 @@
+---
+title: "Language Modeling by Language Models"
+author: "Junyan Cheng et al."
+date: "2025-06-25"
+categories: [AI, agents, auto-ml, architecture-search]
+status: to-read
+url: "https://arxiv.org/abs/2506.20249"
+---
+
+Introduces **Genesys**, a multi-agent LLM system that simulates stages of research (ideation → review → implementation → training → evaluation) to discover new LM architectures using a genetic-programming backbone and a “Ladder of Scales” verification strategy.
+
+[Read on arXiv →](https://arxiv.org/abs/2506.20249)

@@ -1,0 +1,12 @@
+---
+title: "Book Review: The Ordinal Society"
+author: "Laura K. Nelson"
+date: "2025-06-23"
+categories: [sociology, rankings, algorithms]
+status: to-read
+url: "https://www.lauraknelson.com/publication/book-review-ordinal-society/ordinal-society-review.pdf"
+---
+
+Review of *The Ordinal Society* (Marion Fourcade & Kieran Healy) on what it means for computers/metrics/rankings to intervene in how society is seen and organized.
+
+[Read the PDF →](https://www.lauraknelson.com/publication/book-review-ordinal-society/ordinal-society-review.pdf)

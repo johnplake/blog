@@ -1,0 +1,12 @@
+---
+title: "Hidden Gems"
+author: "Simons Institute for the Theory of Computing"
+date: "2025-06-01"
+categories: [research, talks]
+status: to-read
+url: "https://simons.berkeley.edu/sites/default/files/2025-06/hidden_gems.pdf"
+---
+
+PDF from the Simons Institute site (title: “Hidden Gems”).
+
+[Read the PDF →](https://simons.berkeley.edu/sites/default/files/2025-06/hidden_gems.pdf)

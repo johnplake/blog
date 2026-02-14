@@ -1,0 +1,12 @@
+---
+title: "Mechanistic Interpretability Needs Philosophy"
+author: "Iwan Williams"
+date: "2025-06-23"
+categories: [AI, interpretability, philosophy]
+status: to-read
+url: "https://arxiv.org/abs/2506.18852"
+---
+
+Position paper arguing that mechanistic interpretability should treat philosophy as an ongoing partner for clarifying concepts, methods, and the epistemic/ethical stakes of interpreting AI systems.
+
+[Read on arXiv →](https://arxiv.org/abs/2506.18852)

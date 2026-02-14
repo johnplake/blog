@@ -1,0 +1,12 @@
+---
+title: "AI-Driven Storytelling with Multi-Agent LLMs — Part I"
+author: "Franco Hernández Piloto; Alejandro Piad Morffis"
+date: "2025-06-16"
+categories: [AI, agents, storytelling]
+status: to-read
+url: "https://blog.apiad.net/p/ai-storytelling-1"
+---
+
+Discussion of using multi-agent workflows + symbolic AI ideas to improve long-form story generation (coherence, character consistency, emergent plot), without fine-tuning model weights.
+
+[Read the post →](https://blog.apiad.net/p/ai-storytelling-1)

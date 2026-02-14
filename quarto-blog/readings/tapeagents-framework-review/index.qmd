@@ -1,0 +1,12 @@
+---
+title: "TapeAgents: a Holistic Framework for Agent Development and Optimization"
+author: "EleventhHourEnthusiast"
+date: "2025-05-01"
+categories: [AI, agents, engineering]
+status: to-read
+url: "https://medium.com/@EleventhHourEnthusiast/tapeagents-a-holistic-framework-for-agent-development-and-optimization-93b4110b5c41"
+---
+
+Medium post reviewing TapeAgents (Bahdanau et al.): a framework for agent development built around a structured “tape” (session log/state) to support persistence, auditing, debugging, and hierarchical delegation.
+
+[Read the post →](https://medium.com/@EleventhHourEnthusiast/tapeagents-a-holistic-framework-for-agent-development-and-optimization-93b4110b5c41)
