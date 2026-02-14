@@ -1,0 +1,12 @@
+---
+title: "Why AGI Will Not Happen"
+author: "Tim Dettmers"
+date: "2025-12-10"
+categories: [ai, agi, hardware]
+status: to-read
+url: "https://timdettmers.com/2025/12/10/why-agi-will-not-happen/"
+---
+
+A critique of AGI/superintelligence discourse grounded in the “computation is physical” perspective—arguing hardware/memory movement constraints and architecture-level realities are underweighted in common narratives.
+
+Link: <https://timdettmers.com/2025/12/10/why-agi-will-not-happen/>
