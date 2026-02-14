@@ -3,7 +3,7 @@ title: "The Texting Network for the End of the World"
 author: "Andrew Couts; Dhruv Mehrotra"
 date: "2025-06-04"
 categories: [networks, resilience, radio, LoRa, meshtastic]
-status: to-read
+status: finished
 url: "https://www.wired.com/story/youre-not-ready-for-phone-dead-zones/"
 ---
 
