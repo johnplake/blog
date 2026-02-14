@@ -1,0 +1,16 @@
+---
+title: "Toy models for (pseudo) historical preference learning (Bluesky thread)"
+author: "Max Klyga"
+date: "2026-02-14"
+categories: [ai, llms]
+status: to-read
+url: "https://bsky.app/profile/neku42.bsky.social/post/3meta5wrttc2x"
+---
+
+Bluesky thread pointing to a couple of “toy models” attempting something like historically-grounded preferences (explicitly noting it’s **not** RLHF from Victorian-era people).
+
+Bluesky thread: <https://bsky.app/profile/neku42.bsky.social/post/3meta5wrttc2x>
+
+Source links mentioned:
+- <https://huggingface.co/haykgrigorian/TimeCapsuleLLM-v2-llama-1.2B>
+- <https://huggingface.co/bahree/london-historical-slm>
