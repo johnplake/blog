@@ -1,0 +1,14 @@
+---
+title: "We Can Choose Not to Let AI Destroy Us"
+author: "Jonathan V. Last"
+date: "2026-02-13"
+categories: [AI, policy, economics, systems]
+status: to-read
+url: "https://www.thebulwark.com/p/we-can-choose-not-to-let-ai-artificial-intelligence-destroy-us"
+---
+
+A Bulwark/Triad essay arguing that the central risk from AI may be **speed**: rapid adoption could create a macroeconomic shock (job displacement → reduced consumption → cascading demand collapse) that complex social/economic systems may not adapt to quickly.
+
+It also emphasizes that society can choose **regulatory constraints** on where/when machine labor is permitted—i.e., “we have agency,” and don’t have to accept a dystopian default.
+
+[Read the full article →](https://www.thebulwark.com/p/we-can-choose-not-to-let-ai-artificial-intelligence-destroy-us)
