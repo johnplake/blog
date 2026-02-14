@@ -39,7 +39,7 @@ A curated collection of interesting reads, tools, and resources.
 - [Ethan Mollick](https://www.oneusefulthing.org/)
 - [Platformer](https://www.platformer.news/)
 - [Brian Merchant](https://brianmerchant.org/)
-- [Pluralistic](https://pluralistic.net/)
+- [Cory Doctorow](https://pluralistic.net/)
 - [Resonant Computing](https://resonantcomputing.org/)
 <!-- (removed) -->
 
