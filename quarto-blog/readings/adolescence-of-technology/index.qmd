@@ -1,0 +1,12 @@
+---
+title: "The Adolescence of Technology"
+author: "Dario Amodei"
+date: "2026-01-01"
+categories: [ai, safety, society]
+status: to-read
+url: "https://www.darioamodei.com/essay/the-adolescence-of-technology"
+---
+
+Essay on navigating powerful-AI risks (with an explicit emphasis on avoiding doomerism, acknowledging uncertainty, and aiming for “surgical” interventions).
+
+Link: <https://www.darioamodei.com/essay/the-adolescence-of-technology>
