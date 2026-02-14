@@ -1,0 +1,15 @@
+---
+title: "Large AI models are cultural and social technologies"
+author: "Henry Farrell"
+date: "2025-03-13"
+categories: [ai, llms, society]
+status: to-read
+url: "https://henryfarrell.net/large-ai-models-are-cultural-and-social-technologies/"
+---
+
+Henry Farrell’s author-posted version of the *Science* piece (published March 13, 2025; **DOI:** [10.1126/science.adt9819](https://doi.org/10.1126/science.adt9819)).
+
+Coauthors listed on the page: Alison Gopnik, Cosma Shalizi, and James Evans.
+
+- Web version: <https://henryfarrell.net/large-ai-models-are-cultural-and-social-technologies/>
+- Accepted-version PDF (linked from the page): <http://henryfarrell.net/wp-content/uploads/2025/03/Science-Accepted-Version.pdf>
