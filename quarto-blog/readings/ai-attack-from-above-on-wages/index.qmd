@@ -1,0 +1,12 @@
+---
+title: "\"AI is an attack from above on wages\": An interview with cognitive scientist Hagen Blix"
+author: "Brian Merchant"
+date: "2025-10-01"
+categories: [AI, labor, economics, politics]
+status: to-read
+url: "https://www.bloodinthemachine.com/p/ai-is-an-attack-from-above-on-wages"
+---
+
+Interview/Q&A framing AI less as a neutral productivity tool and more as a technology likely to be deployed for **deskilling and wage suppression**, with discussion of how “AI” narratives resonate with lived experience of algorithmic management.
+
+[Read the post →](https://www.bloodinthemachine.com/p/ai-is-an-attack-from-above-on-wages)
