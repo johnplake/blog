@@ -7,11 +7,67 @@
     "text": "Philip Ball explores Wojciech Zurek’s work on decoherence and quantum Darwinism as a potential resolution to long-standing interpretational puzzles in quantum mechanics. Could these ideas finally explain the quantum-classical transition without resorting to many worlds, wavefunction collapse, or other contentious interpretations?\nRead the full article →"
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "readings/bitter-lesson/index.html",
+    "href": "readings/bitter-lesson/index.html",
+    "title": "The Bitter Lesson",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "Rich Sutton’s influential essay arguing that the biggest lesson from AI research is that general methods leveraging computation scale better than methods that rely on human knowledge. Historical examples from chess, Go, speech recognition, and computer vision show that approaches based on search and learning ultimately win over hand-crafted features and domain knowledge.\nRead the full essay →"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "readings.html",
+    "href": "readings.html",
+    "title": "Readings",
+    "section": "",
+    "text": "All To Read Finished\n\n\nA curated collection of interesting articles, essays, and papers.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nAre the Mysteries of Quantum Mechanics Beginning To Dissolve?\n\n\n\nphysics\n\nquantum-mechanics\n\n\n\n\n\n\nFeb 13, 2026\n\n\nPhilip Ball\n\n\nto-read\n\n\n\n\n\n\n\nLaCy: What Small Language Models Can and Should Learn is Not Just a Question of Loss\n\n\n\nAI\n\nlanguage-models\n\nSLM\n\nfactuality\n\npretraining\n\n\n\n\n\n\nFeb 12, 2026\n\n\nSzilvia Ujváry et al.\n\n\nto-read\n\n\n\n\n\n\n\nThe Bitter Lesson\n\n\n\nAI\n\nmachine-learning\n\nscaling\n\n\n\n\n\n\nMar 13, 2019\n\n\nRich Sutton\n\n\nfinished\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "John’s Blog",
+    "section": "",
+    "text": "A home for notes on research, tools, and whatever I’m learning week to week.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Basel Problem: A Fourier Series Proof\n\n\n\nmathematics\n\nanalysis\n\nfourier-series\n\n\n\n\n\n\n\n\n\nFeb 13, 2026\n\n\nJohn P. Lake\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nFeb 12, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nFeb 9, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "links.html",
+    "href": "links.html",
+    "title": "Links & Readings",
+    "section": "",
+    "text": "A curated collection of interesting reads, tools, and resources."
+  },
+  {
+    "objectID": "links.html#interesting-reads",
+    "href": "links.html#interesting-reads",
+    "title": "Links & Readings",
+    "section": "Interesting Reads",
+    "text": "Interesting Reads\n\nThe n-Category Café\nTerence Tao’s Blog\nQuanta Magazine\nDistill\nThe Gradient\nMeaningness\nLanguage Log\nAeon Essays"
+  },
+  {
+    "objectID": "links.html#tools-tech",
+    "href": "links.html#tools-tech",
+    "title": "Links & Readings",
+    "section": "Tools & Tech",
+    "text": "Tools & Tech\n\nQuarto\nObservable"
+  },
+  {
+    "objectID": "links.html#people-worth-following",
+    "href": "links.html#people-worth-following",
+    "title": "Links & Readings",
+    "section": "People Worth Following",
+    "text": "People Worth Following\n\nCosma Shalizi\nMelanie Mitchell\n\n\nThis page is updated periodically. Suggestions welcome!"
   },
   {
     "objectID": "posts/basel-problem/index.html",
@@ -70,66 +126,17 @@
     "text": "Why This Matters\nThis proof showcases the power of Fourier series not just for solving differential equations or signal processing, but for evaluating seemingly unrelated infinite series. The connection between the geometry of periodic functions and number-theoretic sums remains one of the most beautiful bridges in mathematics."
   },
   {
-    "objectID": "links.html",
-    "href": "links.html",
-    "title": "Links & Readings",
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
     "section": "",
-    "text": "A curated collection of interesting reads, tools, and resources."
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
-    "objectID": "links.html#interesting-reads",
-    "href": "links.html#interesting-reads",
-    "title": "Links & Readings",
-    "section": "Interesting Reads",
-    "text": "Interesting Reads\n\nThe n-Category Café\nTerence Tao’s Blog\nQuanta Magazine\nDistill\nThe Gradient\nMeaningness\nLanguage Log\nAeon Essays"
-  },
-  {
-    "objectID": "links.html#tools-tech",
-    "href": "links.html#tools-tech",
-    "title": "Links & Readings",
-    "section": "Tools & Tech",
-    "text": "Tools & Tech\n\nQuarto\nObservable"
-  },
-  {
-    "objectID": "links.html#people-worth-following",
-    "href": "links.html#people-worth-following",
-    "title": "Links & Readings",
-    "section": "People Worth Following",
-    "text": "People Worth Following\n\nCosma Shalizi\nMelanie Mitchell\n\n\nThis page is updated periodically. Suggestions welcome!"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "John’s Blog",
+    "objectID": "readings/lacy-small-language-models/index.html",
+    "href": "readings/lacy-small-language-models/index.html",
+    "title": "LaCy: What Small Language Models Can and Should Learn is Not Just a Question of Loss",
     "section": "",
-    "text": "A home for notes on research, tools, and whatever I’m learning week to week.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Basel Problem: A Fourier Series Proof\n\n\n\nmathematics\n\nanalysis\n\nfourier-series\n\n\n\n\n\n\n\n\n\nFeb 13, 2026\n\n\nJohn P. Lake\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nFeb 12, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nFeb 9, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this blog"
-  },
-  {
-    "objectID": "readings.html",
-    "href": "readings.html",
-    "title": "Readings",
-    "section": "",
-    "text": "All To Read Finished\n\n\nA curated collection of interesting articles, essays, and papers.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nAre the Mysteries of Quantum Mechanics Beginning To Dissolve?\n\n\n\nphysics\n\nquantum-mechanics\n\n\n\n\n\n\nFeb 13, 2026\n\n\nPhilip Ball\n\n\nto-read\n\n\n\n\n\n\n\nThe Bitter Lesson\n\n\n\nAI\n\nmachine-learning\n\nscaling\n\n\n\n\n\n\nMar 13, 2019\n\n\nRich Sutton\n\n\nfinished\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code."
-  },
-  {
-    "objectID": "readings/bitter-lesson/index.html",
-    "href": "readings/bitter-lesson/index.html",
-    "title": "The Bitter Lesson",
-    "section": "",
-    "text": "Rich Sutton’s influential essay arguing that the biggest lesson from AI research is that general methods leveraging computation scale better than methods that rely on human knowledge. Historical examples from chess, Go, speech recognition, and computer vision show that approaches based on search and learning ultimately win over hand-crafted features and domain knowledge.\nRead the full essay →"
+    "text": "Small Language Models have limited capacity to store world knowledge, leading to factual errors. This paper asks: which tokens should an SLM learn during pretraining, and which should it delegate to an external source (larger model, database, etc.)?\nKey insight: High loss alone isn’t enough to decide when to delegate. Some high-loss tokens have acceptable alternative continuations that aren’t factually wrong—they shouldn’t trigger a &lt;CALL&gt;. The key is identifying tokens that are both high-loss and factual.\nLaCy uses a spaCy grammar parser to cheaply identify factual tokens, training SLMs to delegate these when loss is high. At inference, a &lt;CALL&gt; token triggers extraction from a cascade partner (larger model).\nResults: LaCy outperforms loss thresholding, Rho-1 learnability scores, and LLM-as-judge methods on FactScore while being simpler and cheaper.\nInteresting finding: Validation loss is not correlated with downstream factual accuracy across methods and scales.\nRead the paper →"
   }
 ]
