@@ -6,17 +6,20 @@ project:
     - about.qmd
     - links.qmd
     - readings.qmd
+    - videos.qmd
     - posts/**/index.qmd
     - readings/**/index.qmd
+    - videos/**/index.qmd
 
 website:
   description: "A blog built with Quarto"
   site-url: https://johnplake.github.io/blog/ # required for RSS / absolute URLs
-  title: "John’s Blog"
+  title: "John's Blog"
   navbar:
     right:
       - about.qmd
       - readings.qmd
+      - videos.qmd
       - links.qmd
       - icon: github
         href: https://github.com/johnplake/blog

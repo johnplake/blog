@@ -2,8 +2,30 @@
   {
     "listing": "/readings.html",
     "items": [
+      "/readings/bsky-continual-learning-token-space/index.html",
+      "/readings/bsky-victorian-rlhf-toy-models/index.html",
+      "/readings/resonant-computing-manifesto/index.html",
       "/readings/quantum-mysteries/index.html",
+      "/readings/we-can-choose-not-to-let-ai-destroy-us/index.html",
+      "/readings/elusive-nature-of-consciousness/index.html",
       "/readings/lacy-small-language-models/index.html",
+      "/readings/pi-minimal-agent-openclaw/index.html",
+      "/readings/adolescence-of-technology/index.html",
+      "/readings/why-isnt-modern-ai-built-around-principles/index.html",
+      "/readings/context-widows/index.html",
+      "/readings/why-agi-will-not-happen/index.html",
+      "/readings/ai-attack-from-above-on-wages/index.html",
+      "/readings/modular-manifolds/index.html",
+      "/readings/deflating-hype-wont-save-us/index.html",
+      "/readings/my-response-to-ai-2027/index.html",
+      "/readings/language-modeling-by-language-models/index.html",
+      "/readings/mechanistic-interpretability-needs-philosophy/index.html",
+      "/readings/ordinal-society-review/index.html",
+      "/readings/ai-storytelling-multi-agent-1/index.html",
+      "/readings/texting-network-end-of-world/index.html",
+      "/readings/hidden-gems-simons/index.html",
+      "/readings/tapeagents-framework-review/index.html",
+      "/readings/large-ai-models-cultural-social-technologies/index.html",
       "/readings/bitter-lesson/index.html"
     ]
   },
@@ -13,6 +35,12 @@
       "/posts/basel-problem/index.html",
       "/posts/post-with-code/index.html",
       "/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/videos.html",
+    "items": [
+      "/videos/example-talk/index.html"
     ]
   }
 ]

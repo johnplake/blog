@@ -1,0 +1,22 @@
+---
+title: "Example Talk (Delete Me)"
+author: "Speaker Name"
+date: "2026-01-01"
+date-added: "2026-02-14"
+categories: [AI, example]
+status: to-watch
+url: "https://www.youtube.com/watch?v=example"
+---
+
+This is an example video entry. Replace or delete this.
+
+**Schema for videos:**
+- `title` — Video title
+- `author` — Speaker/creator
+- `date` — Original publish/talk date
+- `date-added` — When you added it to the list
+- `categories` — Topic tags
+- `status` — `to-watch` or `finished`
+- `url` — Link to video
+
+[Watch →](https://www.youtube.com/watch?v=example)
