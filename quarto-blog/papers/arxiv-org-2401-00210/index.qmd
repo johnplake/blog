@@ -3,7 +3,7 @@ title: "The Problem of Alignment"
 author: "Tsvetelina Hristova; Liam Magee; Karen Soldatic"
 date: "2023-12-30"
 date-added: "2026-02-15"
-categories: [Papers, arXiv]
+categories: [Papers, arXiv, Alignment]
 status: to-read
 url: "https://arxiv.org/abs/2401.00210"
 ---

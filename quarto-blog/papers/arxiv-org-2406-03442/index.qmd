@@ -3,7 +3,7 @@ title: "Are language models rational? The case of coherence norms and belief rev
 author: "Thomas Hofweber; Peter Hase; Elias Stengel-Eskin et al."
 date: "2024-06-05"
 date-added: "2026-02-15"
-categories: [Papers, arXiv]
+categories: [Papers, arXiv, Multimodal, NLP]
 status: to-read
 url: "https://arxiv.org/pdf/2406.03442"
 ---

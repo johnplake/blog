@@ -3,7 +3,7 @@ title: "IdeaBench: Benchmarking Large Language Models for Research Idea Generati
 author: "Sikun Guo; Amir Hassan Shariatmadari; Guangzhi Xiong et al."
 date: "2024-10-31"
 date-added: "2026-02-15"
-categories: [Papers, arXiv]
+categories: [Papers, arXiv, Evaluation, NLP]
 status: to-read
 url: "https://arxiv.org/abs/2411.02429"
 ---

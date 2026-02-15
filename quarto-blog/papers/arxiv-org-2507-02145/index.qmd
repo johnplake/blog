@@ -3,7 +3,7 @@ title: "Reasoning or Not? A Comprehensive Evaluation of Reasoning LLMs for Dialo
 author: "Keyan Jin; Yapeng Wang; Leonel Santos et al."
 date: "2025-07-02"
 date-added: "2026-02-15"
-categories: [Papers, arXiv]
+categories: [Papers, arXiv, Evaluation, Reasoning, Summarization, NLP]
 status: to-read
 url: "https://arxiv.org/pdf/2507.02145"
 ---

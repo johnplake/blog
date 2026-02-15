@@ -3,7 +3,7 @@ title: "MeetingBank: A Benchmark Dataset for Meeting Summarization"
 author: "Yebowen Hu; Tim Ganter; Hanieh Deilamsalehy et al."
 date: "2023-05-27"
 date-added: "2026-02-15"
-categories: [Papers, arXiv]
+categories: [Papers, arXiv, Evaluation, Summarization, Data, NLP]
 status: to-read
 url: "https://arxiv.org/pdf/2305.17529#page10"
 ---

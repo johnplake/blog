@@ -3,7 +3,7 @@ title: "Brittle Minds, Fixable Activations: Understanding Belief Representations
 author: "Matteo Bortoletto; Constantin Ruhdorfer; Lei Shi et al."
 date: "2024-06-25"
 date-added: "2026-02-15"
-categories: [Papers, arXiv]
+categories: [Papers, arXiv, Representation, NLP]
 status: to-read
 url: "https://arxiv.org/abs/2406.17513"
 ---

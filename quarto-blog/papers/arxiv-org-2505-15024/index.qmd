@@ -3,7 +3,7 @@ title: "Diagnosing our datasets: How does my language model learn clinical infor
 author: "Furong Jia; David Sontag; Monica Agrawal"
 date: "2025-05-21"
 date-added: "2026-02-15"
-categories: [Papers, arXiv]
+categories: [Papers, arXiv, Data, NLP]
 status: to-read
 url: "https://arxiv.org/abs/2505.15024"
 ---

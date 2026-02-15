@@ -3,7 +3,7 @@ title: "Human-like object concept representations emerge naturally in multimodal
 author: "Du, Changde"
 date: "2026-02-15"
 date-added: "2026-02-15"
-categories: [Papers]
+categories: [Papers, Representation, Multimodal, Scaling, NLP]
 status: to-read
 url: "https://www.nature.com/articles/s42256-025-01049-z"
 ---

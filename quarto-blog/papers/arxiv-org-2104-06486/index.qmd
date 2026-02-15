@@ -3,7 +3,7 @@ title: "MS2: Multi-Document Summarization of Medical Studies"
 author: "Jay DeYoung; Iz Beltagy; Madeleine van Zuylen et al."
 date: "2021-04-13"
 date-added: "2026-02-15"
-categories: [Papers, arXiv]
+categories: [Papers, arXiv, Summarization, NLP]
 status: to-read
 url: "https://arxiv.org/abs/2104.06486#:~:text=and%20aggregate%20contradictory%20evidence%20across,available%20at%20this%20https%20URL"
 ---

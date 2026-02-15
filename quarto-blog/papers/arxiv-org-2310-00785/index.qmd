@@ -3,7 +3,7 @@ title: "BooookScore: A systematic exploration of book-length summarization in th
 author: "Yapei Chang; Kyle Lo; Tanya Goyal et al."
 date: "2023-10-01"
 date-added: "2026-02-15"
-categories: [Papers, arXiv]
+categories: [Papers, arXiv, Evaluation, Summarization, NLP]
 status: to-read
 url: "https://arxiv.org/pdf/2310.00785"
 ---

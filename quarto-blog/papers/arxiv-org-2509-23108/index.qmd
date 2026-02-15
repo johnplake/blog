@@ -3,7 +3,7 @@ title: "Artificial Phantasia: Evidence for Propositional Reasoning-Based Mental 
 author: "Morgan McCarty; Jorge Morales"
 date: "2025-09-27"
 date-added: "2026-02-15"
-categories: [Papers, arXiv]
+categories: [Papers, arXiv, Reasoning, Multimodal, NLP]
 status: to-read
 url: "https://arxiv.org/pdf/2509.23108"
 ---

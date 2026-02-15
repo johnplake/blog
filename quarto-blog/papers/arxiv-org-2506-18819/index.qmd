@@ -3,7 +3,7 @@ title: "RWESummary: A Framework and Test for Choosing Large Language Models to S
 author: "Arjun Mukerji; Michael L. Jackson; Jason Jones et al."
 date: "2025-06-23"
 date-added: "2026-02-15"
-categories: [Papers, arXiv]
+categories: [Papers, arXiv, Summarization, NLP]
 status: to-read
 url: "https://arxiv.org/abs/2506.18819"
 ---

@@ -3,7 +3,7 @@ title: "Agent-as-Judge for Factual Summarization of Long Narratives"
 author: "Yeonseok Jeong; Minsoo Kim; Seung-won Hwang et al."
 date: "2025-01-17"
 date-added: "2026-02-15"
-categories: [Papers, arXiv]
+categories: [Papers, arXiv, Agents, Summarization, NLP]
 status: to-read
 url: "https://arxiv.org/pdf/2501.09993"
 ---

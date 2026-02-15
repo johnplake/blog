@@ -3,7 +3,7 @@ title: "Less is More for Long Document Summary Evaluation by LLMs"
 author: "Yunshu Wu; Hayate Iso; Pouya Pezeshkpour et al."
 date: "2023-09-14"
 date-added: "2026-02-15"
-categories: [Papers, arXiv]
+categories: [Papers, arXiv, Evaluation]
 status: to-read
 url: "https://arxiv.org/pdf/2309.07382"
 ---

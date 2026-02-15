@@ -3,7 +3,7 @@ title: "How Do Multilingual Language Models Remember Facts?"
 author: "Constanza Fierro; Negar Foroutan; Desmond Elliott et al."
 date: "2024-10-18"
 date-added: "2026-02-15"
-categories: [Papers, arXiv]
+categories: [Papers, arXiv, NLP]
 status: to-read
 url: "https://arxiv.org/abs/2410.14387"
 ---

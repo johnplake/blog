@@ -3,7 +3,7 @@ title: "When AI Co-Scientists Fail: SPOT-a Benchmark for Automated Verification 
 author: "Guijin Son; Jiwoo Hong; Honglu Fan et al."
 date: "2025-05-17"
 date-added: "2026-02-15"
-categories: [Papers, arXiv]
+categories: [Papers, arXiv, Evaluation]
 status: to-read
 url: "https://arxiv.org/abs/2505.11855"
 ---

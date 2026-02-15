@@ -3,7 +3,7 @@ title: "Conformal Arbitrage: Risk-Controlled Balancing of Competing Objectives i
 author: "William Overman; Mohsen Bayati"
 date: "2025-06-01"
 date-added: "2026-02-15"
-categories: [Papers, arXiv]
+categories: [Papers, arXiv, Calibration, Math, NLP]
 status: to-read
 url: "https://arxiv.org/abs/2506.00911"
 ---

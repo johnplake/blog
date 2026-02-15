@@ -3,7 +3,7 @@ title: "RefineBench: Evaluating Refinement Capability in Language Models"
 author: "OpenReview"
 date: "2026-02-15"
 date-added: "2026-02-15"
-categories: [Papers, ML]
+categories: [Papers, ML, Evaluation, NLP]
 status: to-read
 url: "https://openreview.net/pdf?id=Ycred6ETQR"
 ---

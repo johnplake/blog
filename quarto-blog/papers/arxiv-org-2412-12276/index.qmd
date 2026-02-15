@@ -3,7 +3,7 @@ title: "Emergence and Effectiveness of Task Vectors in In-Context Learning: An E
 author: "Seungwook Han; Jinyeop Song; Jeff Gore et al."
 date: "2024-12-16"
 date-added: "2026-02-15"
-categories: [Papers, arXiv]
+categories: [Papers, arXiv, Scaling]
 status: to-read
 url: "https://arxiv.org/abs/2412.12276"
 ---
