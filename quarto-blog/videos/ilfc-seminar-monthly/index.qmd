@@ -1,0 +1,13 @@
+---
+title: "Monthly Online ILFC Seminar"
+author: "Réseau thématique LIFT (ILFC)"
+date: "2026-02-12"
+date-added: "2026-02-14"
+categories: [Computational-Linguistics, Seminars, LLMs]
+status: to-watch
+url: "https://gdr-lift.loria.fr/monthy-online-ilfc-seminar/"
+---
+
+Monthly online seminar on interactions between formal and computational linguistics (includes recorded talks/links).
+
+[Watch →](https://gdr-lift.loria.fr/monthy-online-ilfc-seminar/)

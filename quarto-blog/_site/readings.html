@@ -80,7 +80,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-categories','listing-status',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-date-added-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-date','listing-date-added','listing-categories','listing-status',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-date-added-sort'] }],
       
       searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
@@ -208,6 +208,11 @@ window.Quarto = {
 
 
 <style>
+/* Hide date-added from display but keep it sortable */
+.listing-date-added {
+  display: none !important;
+}
+
 .status-filter {
   display: flex;
   gap: 0.75rem;
@@ -290,6 +295,12 @@ function filterByStatus(status) {
       <option value="listing-date-sort" data-direction="desc">
         Date - Newest
       </option>
+      <option value="listing-date-added-sort" data-direction="asc">
+        Added - Oldest
+      </option>
+      <option value="listing-date-added-sort" data-direction="desc">
+        Added - Newest
+      </option>
     </select>
   </div>
     <div class="input-group input-group-sm quarto-listing-filter">
@@ -320,6 +331,9 @@ Jan 1, 2026
 </div>
 <div class="listing-author">
 Dario Amodei
+</div>
+<div class="metadata-value listing-date-added">
+Feb 14, 2026
 </div>
 <div class="metadata-value listing-status">
 to-read
@@ -352,6 +366,9 @@ Oct 1, 2025
 <div class="listing-author">
 Brian Merchant
 </div>
+<div class="metadata-value listing-date-added">
+Feb 14, 2026
+</div>
 <div class="metadata-value listing-status">
 to-read
 </div>
@@ -380,6 +397,9 @@ Jun 16, 2025
 </div>
 <div class="listing-author">
 Franco Hernández Piloto; Alejandro Piad Morffis
+</div>
+<div class="metadata-value listing-date-added">
+Feb 14, 2026
 </div>
 <div class="metadata-value listing-status">
 to-read
@@ -412,6 +432,9 @@ Feb 14, 2026
 <div class="listing-author">
 Cameron (<span class="citation" data-cites="cameron.stream">@cameron.stream</span>)
 </div>
+<div class="metadata-value listing-date-added">
+Feb 14, 2026
+</div>
 <div class="metadata-value listing-status">
 to-read
 </div>
@@ -438,6 +461,9 @@ Feb 14, 2026
 </div>
 <div class="listing-author">
 Max Klyga
+</div>
+<div class="metadata-value listing-date-added">
+Feb 14, 2026
 </div>
 <div class="metadata-value listing-status">
 to-read
@@ -472,6 +498,9 @@ Dec 12, 2025
 <div class="listing-author">
 Kevin Baker
 </div>
+<div class="metadata-value listing-date-added">
+Feb 14, 2026
+</div>
 <div class="metadata-value listing-status">
 to-read
 </div>
@@ -503,6 +532,9 @@ Sep 16, 2025
 <div class="listing-author">
 Hagen Blix; Ingeborg Glimmer
 </div>
+<div class="metadata-value listing-date-added">
+Feb 14, 2026
+</div>
 <div class="metadata-value listing-status">
 to-read
 </div>
@@ -532,6 +564,9 @@ Feb 12, 2026
 <div class="listing-author">
 Ned Block
 </div>
+<div class="metadata-value listing-date-added">
+Feb 14, 2026
+</div>
 <div class="metadata-value listing-status">
 to-read
 </div>
@@ -558,6 +593,9 @@ Jun 1, 2025
 </div>
 <div class="listing-author">
 Simons Institute for the Theory of Computing
+</div>
+<div class="metadata-value listing-date-added">
+Feb 14, 2026
 </div>
 <div class="metadata-value listing-status">
 to-read
@@ -592,6 +630,9 @@ Feb 12, 2026
 <div class="listing-author">
 Szilvia Ujváry et al.
 </div>
+<div class="metadata-value listing-date-added">
+Feb 14, 2026
+</div>
 <div class="metadata-value listing-status">
 to-read
 </div>
@@ -623,6 +664,9 @@ Jun 25, 2025
 <div class="listing-author">
 Junyan Cheng et al.
 </div>
+<div class="metadata-value listing-date-added">
+Feb 14, 2026
+</div>
 <div class="metadata-value listing-status">
 to-read
 </div>
@@ -651,6 +695,9 @@ Mar 13, 2025
 </div>
 <div class="listing-author">
 Henry Farrell
+</div>
+<div class="metadata-value listing-date-added">
+Feb 14, 2026
 </div>
 <div class="metadata-value listing-status">
 to-read
@@ -681,6 +728,9 @@ Jun 23, 2025
 <div class="listing-author">
 Iwan Williams
 </div>
+<div class="metadata-value listing-date-added">
+Feb 14, 2026
+</div>
 <div class="metadata-value listing-status">
 to-read
 </div>
@@ -709,6 +759,9 @@ Sep 26, 2025
 </div>
 <div class="listing-author">
 Jeremy Bernstein
+</div>
+<div class="metadata-value listing-date-added">
+Feb 14, 2026
 </div>
 <div class="metadata-value listing-status">
 to-read
@@ -739,6 +792,9 @@ Jul 10, 2025
 <div class="listing-author">
 Vitalik Buterin
 </div>
+<div class="metadata-value listing-date-added">
+Feb 14, 2026
+</div>
 <div class="metadata-value listing-status">
 to-read
 </div>
@@ -767,6 +823,9 @@ Jun 23, 2025
 </div>
 <div class="listing-author">
 Laura K. Nelson
+</div>
+<div class="metadata-value listing-date-added">
+Feb 14, 2026
 </div>
 <div class="metadata-value listing-status">
 to-read
@@ -799,6 +858,9 @@ Jan 31, 2026
 <div class="listing-author">
 Armin Ronacher
 </div>
+<div class="metadata-value listing-date-added">
+Feb 14, 2026
+</div>
 <div class="metadata-value listing-status">
 to-read
 </div>
@@ -826,6 +888,9 @@ Feb 13, 2026
 <div class="listing-author">
 Philip Ball
 </div>
+<div class="metadata-value listing-date-added">
+Feb 14, 2026
+</div>
 <div class="metadata-value listing-status">
 to-read
 </div>
@@ -852,6 +917,9 @@ Feb 14, 2026
 </div>
 <div class="listing-author">
 Resonant Computing
+</div>
+<div class="metadata-value listing-date-added">
+Feb 14, 2026
 </div>
 <div class="metadata-value listing-status">
 to-read
@@ -881,6 +949,9 @@ May 1, 2025
 </div>
 <div class="listing-author">
 EleventhHourEnthusiast
+</div>
+<div class="metadata-value listing-date-added">
+Feb 14, 2026
 </div>
 <div class="metadata-value listing-status">
 to-read
@@ -915,6 +986,9 @@ Jun 4, 2025
 <div class="listing-author">
 Andrew Couts; Dhruv Mehrotra
 </div>
+<div class="metadata-value listing-date-added">
+Feb 14, 2026
+</div>
 <div class="metadata-value listing-status">
 finished
 </div>
@@ -946,6 +1020,9 @@ Feb 13, 2026
 <div class="listing-author">
 Jonathan V. Last
 </div>
+<div class="metadata-value listing-date-added">
+Feb 14, 2026
+</div>
 <div class="metadata-value listing-status">
 to-read
 </div>
@@ -974,6 +1051,9 @@ Dec 10, 2025
 </div>
 <div class="listing-author">
 Tim Dettmers
+</div>
+<div class="metadata-value listing-date-added">
+Feb 14, 2026
 </div>
 <div class="metadata-value listing-status">
 to-read
@@ -1004,6 +1084,9 @@ Dec 16, 2025
 <div class="listing-author">
 Andrew Lampinen
 </div>
+<div class="metadata-value listing-date-added">
+Feb 14, 2026
+</div>
 <div class="metadata-value listing-status">
 to-read
 </div>
@@ -1032,6 +1115,9 @@ Mar 13, 2019
 </div>
 <div class="listing-author">
 Rich Sutton
+</div>
+<div class="metadata-value listing-date-added">
+Feb 13, 2026
 </div>
 <div class="metadata-value listing-status">
 finished

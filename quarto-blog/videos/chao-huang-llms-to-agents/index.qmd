@@ -1,0 +1,13 @@
+---
+title: "From LLMs to Agents: Challenges and Opportunities"
+author: "Chao Huang (AI & Scientific Discovery Seminar)"
+date: "2026-02-14"
+date-added: "2026-02-14"
+categories: [AI, Agents, LLMs]
+status: to-watch
+url: "https://www.youtube.com/watch?v=c7OlLVfzuRM"
+---
+
+Talk by Chao Huang on the transition from LLMs to agentic systems.
+
+[Watch →](https://www.youtube.com/watch?v=c7OlLVfzuRM)

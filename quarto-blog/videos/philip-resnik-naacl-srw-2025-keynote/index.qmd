@@ -1,0 +1,13 @@
+---
+title: "Keynote: Philip Resnik (NAACL SRW 2025)"
+author: "Philip Resnik"
+date: "2026-02-14"
+date-added: "2026-02-14"
+categories: [NLP, Keynotes, NAACL]
+status: to-watch
+url: "https://us06web.zoom.us/rec/play/vfzJ8UaW0Tvv97Vj0urlEZEPjrzWaRL3WsFjwaTUIDzZ3r2QK7JxxZIzaI-1en4T_QCaKVudPg5RyD14.8Siixjo3DQPQppQq"
+---
+
+Zoom recording of Philip Resnik’s keynote at SRW @ NAACL 2025.
+
+[Watch →](https://us06web.zoom.us/rec/play/vfzJ8UaW0Tvv97Vj0urlEZEPjrzWaRL3WsFjwaTUIDzZ3r2QK7JxxZIzaI-1en4T_QCaKVudPg5RyD14.8Siixjo3DQPQppQq)

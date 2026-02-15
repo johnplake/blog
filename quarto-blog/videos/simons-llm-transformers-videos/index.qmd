@@ -1,0 +1,13 @@
+---
+title: "Large Language Models and Transformers (Simons Institute)"
+author: "Simons Institute for the Theory of Computing"
+date: "2023-08-14"
+date-added: "2026-02-14"
+categories: [AI, LLMs, Transformers, Workshops]
+status: to-watch
+url: "https://simons.berkeley.edu/workshops/large-language-models-transformers/videos#simons-tabs"
+---
+
+Talk videos from the Simons Institute workshop **“Large Language Models and Transformers”** (Aug 14–18, 2023).
+
+[Watch →](https://simons.berkeley.edu/workshops/large-language-models-transformers/videos#simons-tabs)

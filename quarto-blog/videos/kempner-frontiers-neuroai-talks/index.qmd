@@ -1,0 +1,13 @@
+---
+title: "Frontiers in NeuroAI — Talk Recordings"
+author: "Kempner Institute (Harvard)"
+date: "2025-06-05"
+date-added: "2026-02-14"
+categories: [AI, Neuroscience, NeuroAI]
+status: to-watch
+url: "https://kempnerinstitute.harvard.edu/frontiers-in-neuroai/talk-recordings/"
+---
+
+Recordings of full talks from **Frontiers in NeuroAI** (June 5–6, 2025).
+
+[Watch →](https://kempnerinstitute.harvard.edu/frontiers-in-neuroai/talk-recordings/)

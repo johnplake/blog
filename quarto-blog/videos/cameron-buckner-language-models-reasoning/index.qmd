@@ -1,0 +1,13 @@
+---
+title: "Language Models as Models of Human Reasoning"
+author: "Cameron Buckner (CogIST webinar)"
+date: "2026-02-14"
+date-added: "2026-02-14"
+categories: [AI, Cognitive-Science, Reasoning]
+status: to-watch
+url: "https://www.youtube.com/watch?v=URAZzjbDEqY"
+---
+
+CogIST webinar talk by Cameron Buckner on language models and human reasoning.
+
+[Watch →](https://www.youtube.com/watch?v=URAZzjbDEqY)

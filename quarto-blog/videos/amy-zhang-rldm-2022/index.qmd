@@ -1,0 +1,13 @@
+---
+title: "RLDM 2022 Talk"
+author: "Amy Zhang"
+date: "2022-06-08"
+date-added: "2026-02-14"
+categories: [Reinforcement-Learning, Talks]
+status: to-watch
+url: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aab5d85e-48ec-42f0-b291-aebd00d56148"
+---
+
+Amy Zhang’s talk at RLDM 2022 (Panopto recording).
+
+[Watch →](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aab5d85e-48ec-42f0-b291-aebd00d56148)

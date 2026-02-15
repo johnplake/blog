@@ -1,0 +1,13 @@
+---
+title: "Language Models as World Models"
+author: "MITCBMM"
+date: "2026-02-14"
+date-added: "2026-02-14"
+categories: [AI, World-Models, LLMs]
+status: to-watch
+url: "https://www.youtube.com/watch?v=dqBwKCabTXA"
+---
+
+MIT CBMM talk exploring the “language models as world models” framing.
+
+[Watch →](https://www.youtube.com/watch?v=dqBwKCabTXA)

@@ -1,0 +1,13 @@
+---
+title: "AI & Scientific Discovery Seminar (YouTube channel)"
+author: "AI & Scientific Discovery Seminar"
+date: "2026-02-14"
+date-added: "2026-02-14"
+categories: [AI, Scientific-Discovery]
+status: to-watch
+url: "https://www.youtube.com/@AIScientificDiscoverySeminar"
+---
+
+YouTube channel for the **AI & Scientific Discovery Seminar** series.
+
+[Watch →](https://www.youtube.com/@AIScientificDiscoverySeminar)
