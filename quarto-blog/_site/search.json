@@ -357,6 +357,13 @@
     "text": "Book link →"
   },
   {
+    "objectID": "videos/the-physics-of-dissonance/index.html",
+    "href": "videos/the-physics-of-dissonance/index.html",
+    "title": "The Physics Of Dissonance",
+    "section": "",
+    "text": "Watch \u00136"
+  },
+  {
     "objectID": "videos/simons-llm-transformers-videos/index.html",
     "href": "videos/simons-llm-transformers-videos/index.html",
     "title": "Large Language Models and Transformers (Simons Institute)",
@@ -371,32 +378,46 @@
     "text": "Zoom recording of Philip Resnik’s keynote at SRW @ NAACL 2025.\nWatch →"
   },
   {
-    "objectID": "videos/mitcbmm-language-models-world-models/index.html",
-    "href": "videos/mitcbmm-language-models-world-models/index.html",
-    "title": "Language Models as World Models",
+    "objectID": "videos/non-euclidean-worlds-engine/index.html",
+    "href": "videos/non-euclidean-worlds-engine/index.html",
+    "title": "Non-Euclidean Worlds Engine",
     "section": "",
-    "text": "MIT CBMM talk exploring the “language models as world models” framing.\nWatch →"
+    "text": "Watch \u00136"
   },
   {
-    "objectID": "videos/ilfc-seminar-monthly/index.html",
-    "href": "videos/ilfc-seminar-monthly/index.html",
-    "title": "Monthly Online ILFC Seminar",
+    "objectID": "videos/kempner-frontiers-neuroai-talks/index.html",
+    "href": "videos/kempner-frontiers-neuroai-talks/index.html",
+    "title": "Frontiers in NeuroAI — Talk Recordings",
     "section": "",
-    "text": "Monthly online seminar on interactions between formal and computational linguistics (includes recorded talks/links).\nWatch →"
+    "text": "Recordings of full talks from Frontiers in NeuroAI (June 5–6, 2025).\nWatch →"
   },
   {
-    "objectID": "videos/centaurs-or-butlers-cogx/index.html",
-    "href": "videos/centaurs-or-butlers-cogx/index.html",
-    "title": "Centaurs or Butlers? Designing for Human Relationships with Non-Human Intelligences",
+    "objectID": "videos/how-to-see-the-4th-dimension-with-topology/index.html",
+    "href": "videos/how-to-see-the-4th-dimension-with-topology/index.html",
+    "title": "How to ‘See’ the 4th Dimension with Topology",
     "section": "",
-    "text": "Talk on designing for human relationships with non-human intelligences.\nWatch →"
+    "text": "Watch \u00136"
   },
   {
-    "objectID": "videos/cameron-buckner-language-models-reasoning/index.html",
-    "href": "videos/cameron-buckner-language-models-reasoning/index.html",
-    "title": "Language Models as Models of Human Reasoning",
+    "objectID": "videos/chao-huang-llms-to-agents/index.html",
+    "href": "videos/chao-huang-llms-to-agents/index.html",
+    "title": "From LLMs to Agents: Challenges and Opportunities",
     "section": "",
-    "text": "CogIST webinar talk by Cameron Buckner on language models and human reasoning.\nWatch →"
+    "text": "Talk by Chao Huang on the transition from LLMs to agentic systems.\nWatch →"
+  },
+  {
+    "objectID": "videos/carlini-are-llms-worth-it/index.html",
+    "href": "videos/carlini-are-llms-worth-it/index.html",
+    "title": "Are LLMs worth it?",
+    "section": "",
+    "text": "Nicholas Carlini’s talk at the Conference on Language Modeling (COLM) examining whether large language models are worth the investment and resources they require.\nWatch →"
+  },
+  {
+    "objectID": "videos/amy-zhang-rldm-2022/index.html",
+    "href": "videos/amy-zhang-rldm-2022/index.html",
+    "title": "RLDM 2022 Talk",
+    "section": "",
+    "text": "Amy Zhang’s talk at RLDM 2022 (Panopto recording).\nWatch →"
   },
   {
     "objectID": "videos/ai-scientific-discovery-seminar-channel/index.html",
@@ -404,6 +425,13 @@
     "title": "AI & Scientific Discovery Seminar (YouTube channel)",
     "section": "",
     "text": "YouTube channel for the AI & Scientific Discovery Seminar series.\nWatch →"
+  },
+  {
+    "objectID": "videos/4d-toys-update-rotating-the-3d-slice-face-projections-marble-scenes-every-new-fe/index.html",
+    "href": "videos/4d-toys-update-rotating-the-3d-slice-face-projections-marble-scenes-every-new-fe/index.html",
+    "title": "4D Toys Update: Rotating the 3D Slice, Face Projections, Marble scenes + Every new feature",
+    "section": "",
+    "text": "Watch \u00136"
   },
   {
     "objectID": "readings/why-isnt-modern-ai-built-around-principles/index.html",
@@ -742,6 +770,13 @@
     "text": "A critique of AGI/superintelligence discourse grounded in the “computation is physical” perspective—arguing hardware/memory movement constraints and architecture-level realities are underweighted in common narratives.\nLink: https://timdettmers.com/2025/12/10/why-agi-will-not-happen/"
   },
   {
+    "objectID": "videos/20-minutes-of-useless-information-about-gta-san-andreas/index.html",
+    "href": "videos/20-minutes-of-useless-information-about-gta-san-andreas/index.html",
+    "title": "20 Minutes of Useless Information about GTA San Andreas",
+    "section": "",
+    "text": "Watch \u00136"
+  },
+  {
     "objectID": "videos/ai-and-the-digital-playlist/index.html",
     "href": "videos/ai-and-the-digital-playlist/index.html",
     "title": "AI & the Digital (YouTube playlist)",
@@ -749,32 +784,46 @@
     "text": "YouTube playlist: “AI & the Digital.” (Publish dates vary by video.)\nWatch →"
   },
   {
-    "objectID": "videos/amy-zhang-rldm-2022/index.html",
-    "href": "videos/amy-zhang-rldm-2022/index.html",
-    "title": "RLDM 2022 Talk",
+    "objectID": "videos/american-conversations-technology-reporter-gil-duran/index.html",
+    "href": "videos/american-conversations-technology-reporter-gil-duran/index.html",
+    "title": "American Conversations: Technology Reporter Gil Duran",
     "section": "",
-    "text": "Amy Zhang’s talk at RLDM 2022 (Panopto recording).\nWatch →"
+    "text": "Watch \u00136"
   },
   {
-    "objectID": "videos/carlini-are-llms-worth-it/index.html",
-    "href": "videos/carlini-are-llms-worth-it/index.html",
-    "title": "Are LLMs worth it?",
+    "objectID": "videos/cameron-buckner-language-models-reasoning/index.html",
+    "href": "videos/cameron-buckner-language-models-reasoning/index.html",
+    "title": "Language Models as Models of Human Reasoning",
     "section": "",
-    "text": "Nicholas Carlini’s talk at the Conference on Language Modeling (COLM) examining whether large language models are worth the investment and resources they require.\nWatch →"
+    "text": "CogIST webinar talk by Cameron Buckner on language models and human reasoning.\nWatch →"
   },
   {
-    "objectID": "videos/chao-huang-llms-to-agents/index.html",
-    "href": "videos/chao-huang-llms-to-agents/index.html",
-    "title": "From LLMs to Agents: Challenges and Opportunities",
+    "objectID": "videos/centaurs-or-butlers-cogx/index.html",
+    "href": "videos/centaurs-or-butlers-cogx/index.html",
+    "title": "Centaurs or Butlers? Designing for Human Relationships with Non-Human Intelligences",
     "section": "",
-    "text": "Talk by Chao Huang on the transition from LLMs to agentic systems.\nWatch →"
+    "text": "Talk on designing for human relationships with non-human intelligences.\nWatch →"
   },
   {
-    "objectID": "videos/kempner-frontiers-neuroai-talks/index.html",
-    "href": "videos/kempner-frontiers-neuroai-talks/index.html",
-    "title": "Frontiers in NeuroAI — Talk Recordings",
+    "objectID": "videos/featured-former-fellow-samuel-schindler-11-21-25/index.html",
+    "href": "videos/featured-former-fellow-samuel-schindler-11-21-25/index.html",
+    "title": "Featured Former Fellow - Samuel Schindler 11/21/25",
     "section": "",
-    "text": "Recordings of full talks from Frontiers in NeuroAI (June 5–6, 2025).\nWatch →"
+    "text": "Watch \u00136"
+  },
+  {
+    "objectID": "videos/ilfc-seminar-monthly/index.html",
+    "href": "videos/ilfc-seminar-monthly/index.html",
+    "title": "Monthly Online ILFC Seminar",
+    "section": "",
+    "text": "Monthly online seminar on interactions between formal and computational linguistics (includes recorded talks/links).\nWatch →"
+  },
+  {
+    "objectID": "videos/mitcbmm-language-models-world-models/index.html",
+    "href": "videos/mitcbmm-language-models-world-models/index.html",
+    "title": "Language Models as World Models",
+    "section": "",
+    "text": "MIT CBMM talk exploring the “language models as world models” framing.\nWatch →"
   },
   {
     "objectID": "videos/osbert-tay-language-modeling-tutorial/index.html",
@@ -789,6 +838,13 @@
     "title": "Richard Sutton – Father of RL thinks LLMs are a dead end",
     "section": "",
     "text": "Interview/conversation with Richard Sutton (“The Bitter Lesson”) on reinforcement learning, agents, and why he thinks LLMs are a dead end.\nWatch →"
+  },
+  {
+    "objectID": "videos/the-dynamic-mind-an-architectural-blueprint/index.html",
+    "href": "videos/the-dynamic-mind-an-architectural-blueprint/index.html",
+    "title": "The Dynamic Mind - An Architectural Blueprint",
+    "section": "",
+    "text": "Watch \u00136"
   },
   {
     "objectID": "books/amazon-com-in-a-flight-of-starlings-the-wonders-of-complex-systems-ebook-parisi-/index.html",
