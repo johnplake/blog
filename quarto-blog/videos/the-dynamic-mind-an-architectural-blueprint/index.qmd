@@ -1,0 +1,11 @@
+---
+title: "The Dynamic Mind - An Architectural Blueprint"
+author: "Knut Jägersberg"
+date: "2026-02-15"
+date-added: "2026-02-15"
+categories: [Videos]
+status: to-watch
+url: "https://www.youtube.com/watch?v=tEiS9in87vA"
+---
+
+[Watch 6](https://www.youtube.com/watch?v=tEiS9in87vA)
