@@ -2,6 +2,7 @@
 title: "Book Review: The Ordinal Society"
 author: "Laura K. Nelson"
 date: "2025-06-23"
+date-added: "2026-02-14"
 categories: [sociology, rankings, algorithms]
 status: to-read
 url: "https://www.lauraknelson.com/publication/book-review-ordinal-society/ordinal-society-review.pdf"

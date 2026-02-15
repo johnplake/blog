@@ -2,6 +2,7 @@
 title: "AI-Driven Storytelling with Multi-Agent LLMs — Part I"
 author: "Franco Hernández Piloto; Alejandro Piad Morffis"
 date: "2025-06-16"
+date-added: "2026-02-14"
 categories: [AI, agents, storytelling]
 status: to-read
 url: "https://blog.apiad.net/p/ai-storytelling-1"

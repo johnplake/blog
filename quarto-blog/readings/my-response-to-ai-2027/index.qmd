@@ -2,6 +2,7 @@
 title: "My response to AI 2027"
 author: "Vitalik Buterin"
 date: "2025-07-10"
+date-added: "2026-02-14"
 categories: [ai, forecasting, society]
 status: to-read
 url: "https://vitalik.eth.limo/general/2025/07/10/2027.html"

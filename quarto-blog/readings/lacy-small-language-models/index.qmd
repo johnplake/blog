@@ -2,6 +2,7 @@
 title: "LaCy: What Small Language Models Can and Should Learn is Not Just a Question of Loss"
 author: "Szilvia Ujváry et al."
 date: "2026-02-12"
+date-added: "2026-02-14"
 categories: [AI, language-models, SLM, factuality, pretraining]
 status: to-read
 url: "https://arxiv.org/abs/2602.12005"

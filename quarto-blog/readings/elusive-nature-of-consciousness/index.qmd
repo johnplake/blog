@@ -2,6 +2,7 @@
 title: "The elusive nature of consciousness"
 author: "Ned Block"
 date: "2026-02-12"
+date-added: "2026-02-14"
 categories: [consciousness, philosophy, neuroscience]
 status: to-read
 url: "https://www.science.org/doi/10.1126/science.aec8147"

@@ -2,6 +2,7 @@
 title: "Are the Mysteries of Quantum Mechanics Beginning To Dissolve?"
 author: "Philip Ball"
 date: "2026-02-13"
+date-added: "2026-02-14"
 categories: [physics, quantum-mechanics]
 status: to-read
 url: "https://www.quantamagazine.org/are-the-mysteries-of-quantum-mechanics-beginning-to-dissolve-20260213/"

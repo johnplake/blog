@@ -2,6 +2,7 @@
 title: "Large AI models are cultural and social technologies"
 author: "Henry Farrell"
 date: "2025-03-13"
+date-added: "2026-02-14"
 categories: [ai, llms, society]
 status: to-read
 url: "https://henryfarrell.net/large-ai-models-are-cultural-and-social-technologies/"

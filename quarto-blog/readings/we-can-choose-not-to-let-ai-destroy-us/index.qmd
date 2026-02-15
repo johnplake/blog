@@ -2,6 +2,7 @@
 title: "We Can Choose Not to Let AI Destroy Us"
 author: "Jonathan V. Last"
 date: "2026-02-13"
+date-added: "2026-02-14"
 categories: [AI, policy, economics, systems]
 status: to-read
 url: "https://www.thebulwark.com/p/we-can-choose-not-to-let-ai-artificial-intelligence-destroy-us"

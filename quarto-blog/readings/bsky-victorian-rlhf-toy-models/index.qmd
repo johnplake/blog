@@ -2,6 +2,7 @@
 title: "Toy models for (pseudo) historical preference learning (Bluesky thread)"
 author: "Max Klyga"
 date: "2026-02-14"
+date-added: "2026-02-14"
 categories: [ai, llms]
 status: to-read
 url: "https://bsky.app/profile/neku42.bsky.social/post/3meta5wrttc2x"

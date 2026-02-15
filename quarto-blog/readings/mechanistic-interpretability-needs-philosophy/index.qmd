@@ -2,6 +2,7 @@
 title: "Mechanistic Interpretability Needs Philosophy"
 author: "Iwan Williams"
 date: "2025-06-23"
+date-added: "2026-02-14"
 categories: [AI, interpretability, philosophy]
 status: to-read
 url: "https://arxiv.org/abs/2506.18852"

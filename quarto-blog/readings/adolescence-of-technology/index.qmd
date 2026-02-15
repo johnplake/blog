@@ -2,6 +2,7 @@
 title: "The Adolescence of Technology"
 author: "Dario Amodei"
 date: "2026-01-01"
+date-added: "2026-02-14"
 categories: [ai, safety, society]
 status: to-read
 url: "https://www.darioamodei.com/essay/the-adolescence-of-technology"

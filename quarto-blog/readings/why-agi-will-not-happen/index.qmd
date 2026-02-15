@@ -2,6 +2,7 @@
 title: "Why AGI Will Not Happen"
 author: "Tim Dettmers"
 date: "2025-12-10"
+date-added: "2026-02-14"
 categories: [ai, agi, hardware]
 status: to-read
 url: "https://timdettmers.com/2025/12/10/why-agi-will-not-happen/"

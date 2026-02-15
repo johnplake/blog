@@ -2,6 +2,7 @@
 title: "Continual learning in token + capability space (Bluesky thread)"
 author: "Cameron (@cameron.stream)"
 date: "2026-02-14"
+date-added: "2026-02-14"
 categories: [AI, agents, continual-learning, memory]
 status: to-read
 url: "https://bsky.app/profile/cameron.stream/post/3meryue7hds2s"

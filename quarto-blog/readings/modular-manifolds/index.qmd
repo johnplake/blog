@@ -2,6 +2,7 @@
 title: "Modular Manifolds"
 author: "Jeremy Bernstein"
 date: "2025-09-26"
+date-added: "2026-02-14"
 categories: [deep-learning, optimization, geometry]
 status: to-read
 url: "https://thinkingmachines.ai/blog/modular-manifolds/"

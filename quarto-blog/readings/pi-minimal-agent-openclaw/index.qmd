@@ -2,6 +2,7 @@
 title: "Pi: The Minimal Agent Within OpenClaw"
 author: "Armin Ronacher"
 date: "2026-01-31"
+date-added: "2026-02-14"
 categories: [AI, agents, tooling, programming]
 status: to-read
 url: "https://lucumr.pocoo.org/2026/1/31/pi/"

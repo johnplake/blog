@@ -2,6 +2,7 @@
 title: "The Bitter Lesson"
 author: "Rich Sutton"
 date: "2019-03-13"
+date-added: "2026-02-13"
 categories: [AI, machine-learning, scaling]
 status: finished
 url: "http://www.incompleteideas.net/IncIdeas/BitterLesson.html"

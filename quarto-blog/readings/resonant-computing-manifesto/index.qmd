@@ -2,6 +2,7 @@
 title: "The Resonant Computing Manifesto"
 author: "Resonant Computing"
 date: "2026-02-14"
+date-added: "2026-02-14"
 categories: [technology, society]
 status: to-read
 url: "https://resonantcomputing.org"

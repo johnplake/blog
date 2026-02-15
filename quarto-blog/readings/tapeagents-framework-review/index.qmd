@@ -2,6 +2,7 @@
 title: "TapeAgents: a Holistic Framework for Agent Development and Optimization"
 author: "EleventhHourEnthusiast"
 date: "2025-05-01"
+date-added: "2026-02-14"
 categories: [AI, agents, engineering]
 status: to-read
 url: "https://medium.com/@EleventhHourEnthusiast/tapeagents-a-holistic-framework-for-agent-development-and-optimization-93b4110b5c41"

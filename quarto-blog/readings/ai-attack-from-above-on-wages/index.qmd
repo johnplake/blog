@@ -2,6 +2,7 @@
 title: "\"AI is an attack from above on wages\": An interview with cognitive scientist Hagen Blix"
 author: "Brian Merchant"
 date: "2025-10-01"
+date-added: "2026-02-14"
 categories: [AI, labor, economics, politics]
 status: to-read
 url: "https://www.bloodinthemachine.com/p/ai-is-an-attack-from-above-on-wages"
