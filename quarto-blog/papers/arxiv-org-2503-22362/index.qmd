@@ -3,7 +3,7 @@ title: "Supposedly Equivalent Facts That Aren't? Entity Frequency in Pre-trainin
 author: "Yuan He; Bailan He; Zifeng Ding et al."
 date: "2025-03-28"
 date-added: "2026-02-15"
-categories: [Papers, arXiv, AI]
+categories: [Papers, arXiv, LLMs]
 status: to-read
 url: "https://arxiv.org/pdf/2503.22362"
 ---

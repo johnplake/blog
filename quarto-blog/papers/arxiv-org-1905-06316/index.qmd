@@ -3,7 +3,7 @@ title: "What do you learn from context? Probing for sentence structure in contex
 author: "Ian Tenney; Patrick Xia; Berlin Chen et al."
 date: "2019-05-15"
 date-added: "2026-02-15"
-categories: [Papers, arXiv, Interpretability, Representation, AI]
+categories: [Papers, arXiv, Interpretability, Representation]
 status: to-read
 url: "https://arxiv.org/pdf/1905.06316"
 ---

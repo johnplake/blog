@@ -3,7 +3,7 @@ title: "HypoBench: Towards Systematic and Principled Benchmarking for Hypothesis
 author: "Haokun Liu; Sicong Huang; Jingyu Hu et al."
 date: "2025-04-15"
 date-added: "2026-02-15"
-categories: [Papers, arXiv, Evaluation, AI]
+categories: [Papers, arXiv, Evaluation]
 status: to-read
 url: "https://arxiv.org/abs/2504.11524"
 ---

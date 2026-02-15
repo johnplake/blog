@@ -3,7 +3,7 @@ title: "Large AI models are cultural and social technologies"
 author: "Henry Farrell; Alison Gopnik; Cosma Shalizi et al."
 date: "2025-03-14"
 date-added: "2026-02-15"
-categories: [Papers, AI, ML, Society]
+categories: [Papers, Science, Society, AI]
 status: to-read
 url: "https://www.science.org/doi/10.1126/science.adt9819"
 ---

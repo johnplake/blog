@@ -3,7 +3,7 @@ title: "On the Theory of Continual Learning with Gradient Descent for Neural Net
 author: "Hossein Taheri; Avishek Ghosh; Arya Mazumdar"
 date: "2025-10-07"
 date-added: "2026-02-15"
-categories: [Papers, arXiv, Math, AI, ML]
+categories: [Papers, arXiv, ML]
 status: to-read
 url: "https://arxiv.org/pdf/2510.05573"
 ---

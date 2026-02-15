@@ -3,7 +3,7 @@ title: "In-Context Learning for Pure Exploration"
 author: "Alessio Russo; Ryan Welch; Aldo Pacchiano"
 date: "2025-06-02"
 date-added: "2026-02-15"
-categories: [Papers, arXiv, AI]
+categories: [Papers, arXiv]
 status: to-read
 url: "https://arxiv.org/pdf/2506.01876"
 ---

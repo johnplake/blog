@@ -3,7 +3,7 @@ title: "DetectiveQA: Evaluating Long-Context Reasoning on Detective Novels"
 author: "Zhe Xu; Jiasheng Ye; Xiaoran Liu et al."
 date: "2024-09-04"
 date-added: "2026-02-15"
-categories: [Papers, arXiv, Evaluation, Reasoning, AI, Cognitive-Science]
+categories: [Papers, arXiv, Evaluation, Reasoning]
 status: to-read
 url: "https://arxiv.org/pdf/2409.02465"
 ---

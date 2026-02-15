@@ -3,7 +3,7 @@ title: "The impact of language models on the humanities and vice versa - Nature 
 author: "Underwood, Ted"
 date: "2026-02-15"
 date-added: "2026-02-15"
-categories: [Papers, NLP, AI, ML, Cognitive-Science]
+categories: [Papers, Nature, LLMs]
 status: to-read
 url: "https://www.nature.com/articles/s43588-025-00819-4.pdf"
 ---

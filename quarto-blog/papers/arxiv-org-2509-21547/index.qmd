@@ -3,7 +3,7 @@ title: "Machine Learning. The Science of Selection under Uncertainty"
 author: "Yevgeny Seldin"
 date: "2025-09-25"
 date-added: "2026-02-15"
-categories: [Papers, arXiv, Calibration, AI, ML]
+categories: [Papers, arXiv, Calibration, ML]
 status: to-read
 url: "https://arxiv.org/pdf/2509.21547"
 ---

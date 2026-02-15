@@ -3,7 +3,7 @@ title: "Self-Improving Transformers Overcome Easy-to-Hard and Length Generalizat
 author: "Nayoung Lee; Ziyang Cai; Avi Schwarzschild et al."
 date: "2025-02-03"
 date-added: "2026-02-15"
-categories: [Papers, arXiv, AI, ML]
+categories: [Papers, arXiv, ML]
 status: to-read
 url: "https://arxiv.org/pdf/2502.01612"
 ---

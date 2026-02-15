@@ -3,7 +3,7 @@ title: "Using Shapley interactions to understand how models use structure"
 author: "Divyansh Singhvi; Diganta Misra; Andrej Erkelens et al."
 date: "2024-03-19"
 date-added: "2026-02-15"
-categories: [Papers, arXiv, AI, ML]
+categories: [Papers, arXiv]
 status: to-read
 url: "https://arxiv.org/abs/2403.13106"
 ---

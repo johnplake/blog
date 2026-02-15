@@ -3,7 +3,7 @@ title: "Satori: Reinforcement Learning with Chain-of-Action-Thought Enhances LLM
 author: "Maohao Shen; Guangtao Zeng; Zhenting Qi et al."
 date: "2025-02-04"
 date-added: "2026-02-15"
-categories: [Papers, arXiv, Reasoning, RL, AI, Cognitive-Science]
+categories: [Papers, arXiv, LLMs, Reasoning, RL]
 status: to-read
 url: "https://arxiv.org/abs/2502.02508"
 ---

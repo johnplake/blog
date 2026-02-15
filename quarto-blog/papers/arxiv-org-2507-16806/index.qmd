@@ -3,7 +3,7 @@ title: "Beyond Binary Rewards: Training LMs to Reason About Their Uncertainty"
 author: "Mehul Damani; Isha Puri; Stewart Slocum et al."
 date: "2025-07-22"
 date-added: "2026-02-15"
-categories: [Papers, arXiv, Reasoning, Calibration, AI]
+categories: [Papers, arXiv, Reasoning, Calibration]
 status: to-read
 url: "https://arxiv.org/abs/2507.16806"
 ---

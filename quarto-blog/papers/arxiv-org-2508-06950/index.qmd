@@ -3,7 +3,7 @@ title: "Large Language Models Do Not Simulate Human Psychology"
 author: "Sarah Schröder; Thekla Morgenroth; Ulrike Kuhl et al."
 date: "2025-08-09"
 date-added: "2026-02-15"
-categories: [Papers, arXiv, NLP, AI, ML, Cognitive-Science]
+categories: [Papers, arXiv, LLMs, Cognitive-Science]
 status: to-read
 url: "https://arxiv.org/pdf/2508.06950"
 ---

@@ -3,7 +3,7 @@ title: "Is this a wampimuk? Cross-modal mapping between distributional semantics
 author: "ACL Anthology"
 date: "2026-02-15"
 date-added: "2026-02-15"
-categories: [Papers, NLP, AI]
+categories: [Papers, ACL, NLP]
 status: to-read
 url: "https://aclanthology.org/P14-1132.pdf"
 ---

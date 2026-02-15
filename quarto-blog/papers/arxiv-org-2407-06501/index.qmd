@@ -3,7 +3,7 @@ title: "STORYSUMM: Evaluating Faithfulness in Story Summarization"
 author: "Melanie Subbiah; Faisal Ladhak; Akankshya Mishra et al."
 date: "2024-07-09"
 date-added: "2026-02-15"
-categories: [Papers, arXiv, Evaluation, Summarization, NLP, AI]
+categories: [Papers, arXiv, Evaluation, Summarization]
 status: to-read
 url: "https://arxiv.org/pdf/2407.06501"
 ---

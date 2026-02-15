@@ -3,7 +3,7 @@ title: "Gauguin, Descartes, Bayes: A Diurnal Golem’s Brain"
 author: "Kartik Chandra; Amanda Liu; Jonathan Ragan-Kelley et al."
 date: "2025-10-09"
 date-added: "2026-02-15"
-categories: [Papers, Math, Neuroscience, AI]
+categories: [Papers, ACM, Math, Neuroscience]
 status: to-read
 url: "https://dl.acm.org/doi/pdf/10.1145/3759429.3762631"
 ---

@@ -3,7 +3,7 @@ title: "Tracking Evolving Relationship Between Characters in Books in the Era of
 author: "ACL Anthology"
 date: "2026-02-15"
 date-added: "2026-02-15"
-categories: [Papers, NLP, AI, ML]
+categories: [Papers, ACL, LLMs]
 status: to-read
 url: "https://aclanthology.org/2025.wnu-1.12/"
 ---

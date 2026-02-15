@@ -6,7 +6,7 @@ title: "Following in our footsteps
 author: "Adrian Woolfson"
 date: "2025-07-10"
 date-added: "2026-02-15"
-categories: [Papers]
+categories: [Papers, Science]
 status: to-read
 url: "https://www.science.org/doi/10.1126/science.adz3267"
 ---

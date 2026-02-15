@@ -3,7 +3,7 @@ title: "How important is language for human-like intelligence?"
 author: "Gary Lupyan; Hunter Gentry; Martin Zettersten"
 date: "2025-09-19"
 date-added: "2026-02-15"
-categories: [Papers, arXiv, NLP, AI, Cognitive-Science]
+categories: [Papers, arXiv]
 status: to-read
 url: "https://arxiv.org/pdf/2509.15560"
 ---

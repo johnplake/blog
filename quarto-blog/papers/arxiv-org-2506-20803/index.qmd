@@ -3,7 +3,7 @@ title: "The Ideation-Execution Gap: Execution Outcomes of LLM-Generated versus H
 author: "Chenglei Si; Tatsunori Hashimoto; Diyi Yang"
 date: "2025-06-25"
 date-added: "2026-02-15"
-categories: [Papers, arXiv, AI, Cognitive-Science]
+categories: [Papers, arXiv, LLMs]
 status: to-read
 url: "https://arxiv.org/pdf/2506.20803"
 ---

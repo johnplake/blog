@@ -3,7 +3,7 @@ title: "LLMs instead of Human Judges? A Large Scale Empirical Study across 20 NL
 author: "Anna Bavaresco; Raffaella Bernardi; Leonardo Bertolazzi et al."
 date: "2024-06-26"
 date-added: "2026-02-15"
-categories: [Papers, arXiv, Evaluation, NLP, AI, Cognitive-Science]
+categories: [Papers, arXiv, LLMs, Evaluation, NLP]
 status: to-read
 url: "https://arxiv.org/abs/2406.18403"
 ---

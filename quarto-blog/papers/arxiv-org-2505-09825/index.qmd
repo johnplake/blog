@@ -3,7 +3,7 @@ title: "KRISTEVA: Close Reading as a Novel Task for Benchmarking Interpretive Re
 author: "Peiqi Sui; Juan Diego Rodriguez; Philippe Laban et al."
 date: "2025-05-14"
 date-added: "2026-02-15"
-categories: [Papers, arXiv, Interpretability, Evaluation, Reasoning, AI, Cognitive-Science]
+categories: [Papers, arXiv, Interpretability, Evaluation, Reasoning]
 status: to-read
 url: "https://arxiv.org/abs/2505.09825"
 ---

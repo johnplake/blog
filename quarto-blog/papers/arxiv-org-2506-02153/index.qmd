@@ -3,7 +3,7 @@ title: "Small Language Models are the Future of Agentic AI"
 author: "Peter Belcak; Greg Heinrich; Shizhe Diao et al."
 date: "2025-06-02"
 date-added: "2026-02-15"
-categories: [Papers, arXiv, Agents, NLP, AI, ML]
+categories: [Papers, arXiv, LLMs, Agents, AI]
 status: to-read
 url: "https://arxiv.org/abs/2506.02153"
 ---

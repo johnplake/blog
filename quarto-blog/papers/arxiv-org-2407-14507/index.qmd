@@ -3,7 +3,7 @@ title: "Internal Consistency and Self-Feedback in Large Language Models: A Surve
 author: "Xun Liang; Shichao Song; Zifan Zheng et al."
 date: "2024-07-19"
 date-added: "2026-02-15"
-categories: [Papers, arXiv, NLP, AI, ML]
+categories: [Papers, arXiv, LLMs]
 status: to-read
 url: "https://arxiv.org/pdf/2407.14507?"
 ---

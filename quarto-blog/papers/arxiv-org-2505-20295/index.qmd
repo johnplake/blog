@@ -3,7 +3,7 @@ title: "SelfReflect: Can LLMs Communicate Their Internal Answer Distribution?"
 author: "Michael Kirchhof; Luca Füger; Adam Goliński et al."
 date: "2025-05-26"
 date-added: "2026-02-15"
-categories: [Papers, arXiv, AI]
+categories: [Papers, arXiv, LLMs]
 status: to-read
 url: "https://arxiv.org/pdf/2505.20295"
 ---

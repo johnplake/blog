@@ -3,7 +3,7 @@ title: "The Differential Meaning of Models: A Framework for Analyzing the Struct
 author: "Zachary K. Stine; James E. Deitrick"
 date: "2025-08-29"
 date-added: "2026-02-15"
-categories: [Papers, arXiv, AI, ML]
+categories: [Papers, arXiv]
 status: to-read
 url: "https://arxiv.org/pdf/2509.00248"
 ---

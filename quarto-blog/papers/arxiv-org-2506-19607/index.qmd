@@ -3,7 +3,7 @@ title: "Correcting Hallucinations in News Summaries: Exploration of Self-Correct
 author: "Juraj Vladika; Ihsan Soydemir; Florian Matthes"
 date: "2025-06-24"
 date-added: "2026-02-15"
-categories: [Papers, arXiv, Summarization, NLP, AI]
+categories: [Papers, arXiv, LLMs, Summarization]
 status: to-read
 url: "https://arxiv.org/abs/2506.19607"
 ---

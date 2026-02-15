@@ -3,7 +3,7 @@ title: "Does It Make Sense to Speak of Introspection in Large Language Models?"
 author: "Iulia M. Comsa; Murray Shanahan"
 date: "2025-06-05"
 date-added: "2026-02-15"
-categories: [Papers, arXiv, NLP, AI, ML]
+categories: [Papers, arXiv, LLMs]
 status: to-read
 url: "https://arxiv.org/pdf/2506.05068"
 ---

@@ -3,7 +3,7 @@ title: "Text Embeddings Reveal (Almost) As Much As Text"
 author: "OpenReview"
 date: "2026-02-15"
 date-added: "2026-02-15"
-categories: [Papers, ML, Representation, AI]
+categories: [Papers, OpenReview, Representation]
 status: to-read
 url: "https://openreview.net/pdf?id=wK7wUdiM5g0"
 ---
