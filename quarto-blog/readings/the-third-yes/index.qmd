@@ -1,0 +1,12 @@
+---
+title: "the third Yes"
+author: "Daniel Bashir"
+date: "2026-02-14"
+categories: [AI, Philosophy, Language]
+status: to-read
+url: "https://thejester.substack.com/p/the-third-yes"
+---
+
+Substack essay touching on representation geometry, ontology, and debates around “world models” in LLM discourse.
+
+[Read the full article →](https://thejester.substack.com/p/the-third-yes)
