@@ -5,7 +5,11 @@ listing:
   sort: "date desc"
   type: default
   categories: true
-  sort-ui: [title, author, date, date-added]
+  sort-ui:
+    - title
+    - author
+    - date:desc
+    - date-added:desc
   filter-ui: true
   fields: [title, author, date, date-added, categories, status]
   field-display-names:
