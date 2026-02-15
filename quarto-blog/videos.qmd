@@ -7,7 +7,7 @@ listing:
   categories: true
   sort-ui: [title, author, date, date-added]
   filter-ui: true
-  fields: [title, author, date, date-added, categories, status]
+  fields: [title, author, date, categories, status]
   field-types:
     date-added: date
   field-display-names:
