@@ -1,6 +1,6 @@
 ---
-title: "link.springer.com/s11229-011-0023-5"
-author: "link.springer.com"
+title: "Reversing 30 years of discussion: why causal decision theorists should one-box - Synthese"
+author: "Spohn, Wolfgang"
 date: "2026-02-15"
 date-added: "2026-02-15"
 categories: [Papers]

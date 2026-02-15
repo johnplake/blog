@@ -1,7 +1,7 @@
 ---
-title: "arxiv.org/2507.03726"
-author: "arxiv.org"
-date: "2026-02-15"
+title: "Agent-Based Detection and Resolution of Incompleteness and Ambiguity in Interactions with Large Language Models"
+author: "Riya Naik; Ashwin Srinivasan; Swati Agarwal et al."
+date: "2025-07-04"
 date-added: "2026-02-15"
 categories: [Papers, arXiv]
 status: to-read

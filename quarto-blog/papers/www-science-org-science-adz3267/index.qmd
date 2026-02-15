@@ -1,7 +1,10 @@
 ---
-title: "www.science.org/science.adz3267"
-author: "www.science.org"
-date: "2026-02-15"
+title: "Following in our footsteps
+            <b>Raising AI: An Essential Guide to Parenting Our Future</b>
+            <i>De Kai</i>
+            MIT Press, 2025. 280 pp."
+author: "Adrian Woolfson"
+date: "2025-07-10"
 date-added: "2026-02-15"
 categories: [Papers]
 status: to-read

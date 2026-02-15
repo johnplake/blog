@@ -1,7 +1,7 @@
 ---
-title: "arxiv.org/2507.16806"
-author: "arxiv.org"
-date: "2026-02-15"
+title: "Beyond Binary Rewards: Training LMs to Reason About Their Uncertainty"
+author: "Mehul Damani; Isha Puri; Stewart Slocum et al."
+date: "2025-07-22"
 date-added: "2026-02-15"
 categories: [Papers, arXiv]
 status: to-read

@@ -1,7 +1,7 @@
 ---
-title: "arxiv.org/2412.12276"
-author: "arxiv.org"
-date: "2026-02-15"
+title: "Emergence and Effectiveness of Task Vectors in In-Context Learning: An Encoder Decoder Perspective"
+author: "Seungwook Han; Jinyeop Song; Jeff Gore et al."
+date: "2024-12-16"
 date-added: "2026-02-15"
 categories: [Papers, arXiv]
 status: to-read

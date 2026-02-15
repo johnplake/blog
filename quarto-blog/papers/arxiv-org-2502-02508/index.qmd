@@ -1,7 +1,7 @@
 ---
-title: "arxiv.org/2502.02508"
-author: "arxiv.org"
-date: "2026-02-15"
+title: "Satori: Reinforcement Learning with Chain-of-Action-Thought Enhances LLM Reasoning via Autoregressive Search"
+author: "Maohao Shen; Guangtao Zeng; Zhenting Qi et al."
+date: "2025-02-04"
 date-added: "2026-02-15"
 categories: [Papers, arXiv]
 status: to-read

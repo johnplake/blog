@@ -1,7 +1,7 @@
 ---
-title: "arxiv.org/2502.11221"
-author: "arxiv.org"
-date: "2026-02-15"
+title: "PlanGenLLMs: A Modern Survey of LLM Planning Capabilities"
+author: "Hui Wei; Zihao Zhang; Shenghua He et al."
+date: "2025-02-16"
 date-added: "2026-02-15"
 categories: [Papers, arXiv]
 status: to-read

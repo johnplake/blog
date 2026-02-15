@@ -1,5 +1,5 @@
 ---
-title: "aclanthology.org/2021.emnlp-main.26"
+title: "Narrative Theory for Computational Narrative Understanding"
 author: "ACL Anthology"
 date: "2026-02-15"
 date-added: "2026-02-15"

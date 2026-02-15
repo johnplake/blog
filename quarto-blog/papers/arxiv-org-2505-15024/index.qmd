@@ -1,7 +1,7 @@
 ---
-title: "arxiv.org/2505.15024"
-author: "arxiv.org"
-date: "2026-02-15"
+title: "Diagnosing our datasets: How does my language model learn clinical information?"
+author: "Furong Jia; David Sontag; Monica Agrawal"
+date: "2025-05-21"
 date-added: "2026-02-15"
 categories: [Papers, arXiv]
 status: to-read

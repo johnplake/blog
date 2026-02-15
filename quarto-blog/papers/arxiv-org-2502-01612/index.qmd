@@ -1,7 +1,7 @@
 ---
-title: "arxiv.org/2502.01612"
-author: "arxiv.org"
-date: "2026-02-15"
+title: "Self-Improving Transformers Overcome Easy-to-Hard and Length Generalization Challenges"
+author: "Nayoung Lee; Ziyang Cai; Avi Schwarzschild et al."
+date: "2025-02-03"
 date-added: "2026-02-15"
 categories: [Papers, arXiv]
 status: to-read

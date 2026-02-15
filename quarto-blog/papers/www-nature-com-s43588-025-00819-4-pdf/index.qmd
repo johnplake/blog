@@ -1,6 +1,6 @@
 ---
-title: "www.nature.com/s43588-025-00819-4.pdf"
-author: "www.nature.com"
+title: "The impact of language models on the humanities and vice versa - Nature Computational Science"
+author: "Underwood, Ted"
 date: "2026-02-15"
 date-added: "2026-02-15"
 categories: [Papers]

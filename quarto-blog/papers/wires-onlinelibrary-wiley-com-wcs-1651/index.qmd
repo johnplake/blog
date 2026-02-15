@@ -1,7 +1,7 @@
 ---
-title: "wires.onlinelibrary.wiley.com/wcs.1651"
-author: "wires.onlinelibrary.wiley.com"
-date: "2026-02-15"
+title: "Three levels of framing"
+author: "Karen Sullivan"
+date: "2023-09-01"
 date-added: "2026-02-15"
 categories: [Papers]
 status: to-read

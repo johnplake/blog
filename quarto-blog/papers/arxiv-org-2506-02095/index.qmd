@@ -1,7 +1,7 @@
 ---
-title: "arxiv.org/2506.02095"
-author: "arxiv.org"
-date: "2026-02-15"
+title: "Cycle Consistency as Reward: Learning Image-Text Alignment without Human Preferences"
+author: "Hyojin Bahng; Caroline Chan; Fredo Durand et al."
+date: "2025-06-02"
 date-added: "2026-02-15"
 categories: [Papers, arXiv]
 status: to-read

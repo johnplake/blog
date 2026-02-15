@@ -1,5 +1,5 @@
 ---
-title: "aclanthology.org/P14-1132.pdf"
+title: "Is this a wampimuk? Cross-modal mapping between distributional semantics and the visual world"
 author: "ACL Anthology"
 date: "2026-02-15"
 date-added: "2026-02-15"

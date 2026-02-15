@@ -1,5 +1,5 @@
 ---
-title: "aclanthology.org/2025.wnu-1.12"
+title: "Tracking Evolving Relationship Between Characters in Books in the Era of Large Language Models"
 author: "ACL Anthology"
 date: "2026-02-15"
 date-added: "2026-02-15"

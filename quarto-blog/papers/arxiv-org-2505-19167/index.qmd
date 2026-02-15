@@ -1,7 +1,7 @@
 ---
-title: "arxiv.org/2505.19167"
-author: "arxiv.org"
-date: "2026-02-15"
+title: "Amplifying Human Creativity and Problem Solving with AI Through Generative Collective Intelligence"
+author: "Thomas P. Kehler; Scott E. Page; Alex Pentland et al."
+date: "2025-05-25"
 date-added: "2026-02-15"
 categories: [Papers, arXiv]
 status: to-read

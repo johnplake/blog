@@ -1,7 +1,7 @@
 ---
-title: "arxiv.org/2506.02210"
-author: "arxiv.org"
-date: "2026-02-15"
+title: "Exchangeability in Neural Network and its Application to Dynamic Pruning"
+author: " Pu;  Yi; Tianlang Chen et al."
+date: "2025-06-02"
 date-added: "2026-02-15"
 categories: [Papers, arXiv]
 status: to-read

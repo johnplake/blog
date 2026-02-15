@@ -1,7 +1,7 @@
 ---
-title: "arxiv.org/2504.11524"
-author: "arxiv.org"
-date: "2026-02-15"
+title: "HypoBench: Towards Systematic and Principled Benchmarking for Hypothesis Generation"
+author: "Haokun Liu; Sicong Huang; Jingyu Hu et al."
+date: "2025-04-15"
 date-added: "2026-02-15"
 categories: [Papers, arXiv]
 status: to-read

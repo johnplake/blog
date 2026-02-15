@@ -1,7 +1,7 @@
 ---
-title: "arxiv.org/2310.07923"
-author: "arxiv.org"
-date: "2026-02-15"
+title: "The Expressive Power of Transformers with Chain of Thought"
+author: "William Merrill; Ashish Sabharwal"
+date: "2023-10-11"
 date-added: "2026-02-15"
 categories: [Papers, arXiv]
 status: to-read

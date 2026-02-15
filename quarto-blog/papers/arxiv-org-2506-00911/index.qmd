@@ -1,7 +1,7 @@
 ---
-title: "arxiv.org/2506.00911"
-author: "arxiv.org"
-date: "2026-02-15"
+title: "Conformal Arbitrage: Risk-Controlled Balancing of Competing Objectives in Language Models"
+author: "William Overman; Mohsen Bayati"
+date: "2025-06-01"
 date-added: "2026-02-15"
 categories: [Papers, arXiv]
 status: to-read

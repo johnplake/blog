@@ -1,6 +1,6 @@
 ---
-title: "www.nature.com/s42256-025-01049-z"
-author: "www.nature.com"
+title: "Human-like object concept representations emerge naturally in multimodal large language models - Nature Machine Intelligence"
+author: "Du, Changde"
 date: "2026-02-15"
 date-added: "2026-02-15"
 categories: [Papers]

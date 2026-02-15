@@ -1,7 +1,7 @@
 ---
-title: "arxiv.org/2506.02147"
-author: "arxiv.org"
-date: "2026-02-15"
+title: "BabyLM's First Constructions: Causal probing provides a signal of learning"
+author: "Joshua Rozner; Leonie Weissweiler; Cory Shain"
+date: "2025-06-02"
 date-added: "2026-02-15"
 categories: [Papers, arXiv]
 status: to-read

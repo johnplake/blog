@@ -1,7 +1,7 @@
 ---
-title: "arxiv.org/2508.09848"
-author: "arxiv.org"
-date: "2026-02-15"
+title: "PRELUDE: A Benchmark Designed to Require Global Comprehension and Reasoning over Long Contexts"
+author: "Mo Yu; Tsz Ting Chung; Chulun Zhou et al."
+date: "2025-08-13"
 date-added: "2026-02-15"
 categories: [Papers, arXiv]
 status: to-read

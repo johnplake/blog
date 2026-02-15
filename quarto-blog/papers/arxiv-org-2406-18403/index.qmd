@@ -1,7 +1,7 @@
 ---
-title: "arxiv.org/2406.18403"
-author: "arxiv.org"
-date: "2026-02-15"
+title: "LLMs instead of Human Judges? A Large Scale Empirical Study across 20 NLP Evaluation Tasks"
+author: "Anna Bavaresco; Raffaella Bernardi; Leonardo Bertolazzi et al."
+date: "2024-06-26"
 date-added: "2026-02-15"
 categories: [Papers, arXiv]
 status: to-read
