@@ -2,16 +2,14 @@
 title: "Videos"
 listing:
   contents: videos
-  sort: "date desc"
+  sort: "date-added desc"
   type: default
   categories: true
-  sort-ui:
-    - title
-    - author
-    - date:desc
-    - date-added:desc
+  sort-ui: [title, author, date, date-added]
   filter-ui: true
   fields: [title, author, date, date-added, categories, status]
+  field-types:
+    date-added: date
   field-display-names:
     status: "Status"
     categories: "Topics"
