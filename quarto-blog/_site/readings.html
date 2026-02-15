@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Papers – John's Blog</title>
+<title>Readings – John’s Blog</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -199,7 +199,7 @@ window.Quarto = {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Papers</h1>
+<h1 class="title">Readings</h1>
 </div>
 
 
@@ -284,136 +284,6 @@ function filterByStatus(status) {
 
 
 
-<style>
-/* Hide date-added from display but keep it sortable */
-.listing-date-added {
-  display: none !important;
-}
-
-.status-filter {
-  display: flex;
-  gap: 0.75rem;
-  margin-bottom: 2rem;
-  justify-content: center;
-}
-
-.status-btn {
-  padding: 0.5rem 1.5rem;
-  border: 2px solid #dee2e6;
-  background: white;
-  color: #495057;
-  border-radius: 0.5rem;
-  cursor: pointer;
-  font-weight: 500;
-  transition: all 0.2s ease;
-  font-size: 0.95rem;
-}
-
-.status-btn:hover {
-  border-color: #0d6efd;
-  color: #0d6efd;
-  transform: translateY(-1px);
-  box-shadow: 0 2px 8px rgba(13, 110, 253, 0.15);
-}
-
-.status-btn.active {
-  background: #0d6efd;
-  border-color: #0d6efd;
-  color: white;
-  box-shadow: 0 2px 8px rgba(13, 110, 253, 0.3);
-}
-</style>
-<div class="status-filter">
-<p><button class="status-btn active" onclick="filterByStatus('all')">All</button> <button class="status-btn" onclick="filterByStatus('to-read')">To Read</button> <button class="status-btn" onclick="filterByStatus('finished')">Finished</button></p>
-</div>
-<script>
-function filterByStatus(status) {
-  // Update button states
-  document.querySelectorAll('.status-btn').forEach(btn => {
-    btn.classList.remove('active');
-  });
-  event.target.classList.add('active');
-
-  // Filter listings
-  const items = document.querySelectorAll('.quarto-post');
-
-  items.forEach(item => {
-    if (status === 'all') {
-      item.style.display = '';
-    } else {
-      const statusBadge = item.querySelector('.listing-status');
-      const itemStatus = statusBadge ? statusBadge.textContent.trim().toLowerCase() : '';
-      item.style.display = itemStatus === status ? '' : 'none';
-    }
-  });
-}
-</script>
-<p>A curated collection of books worth reading.</p>
-<style>
-/* Hide date-added from display but keep it sortable */
-.listing-date-added {
-  display: none !important;
-}
-
-.status-filter {
-  display: flex;
-  gap: 0.75rem;
-  margin-bottom: 2rem;
-  justify-content: center;
-}
-
-.status-btn {
-  padding: 0.5rem 1.5rem;
-  border: 2px solid #dee2e6;
-  background: white;
-  color: #495057;
-  border-radius: 0.5rem;
-  cursor: pointer;
-  font-weight: 500;
-  transition: all 0.2s ease;
-  font-size: 0.95rem;
-}
-
-.status-btn:hover {
-  border-color: #0d6efd;
-  color: #0d6efd;
-  transform: translateY(-1px);
-  box-shadow: 0 2px 8px rgba(13, 110, 253, 0.15);
-}
-
-.status-btn.active {
-  background: #0d6efd;
-  border-color: #0d6efd;
-  color: white;
-  box-shadow: 0 2px 8px rgba(13, 110, 253, 0.3);
-}
-</style>
-<div class="status-filter">
-<p><button class="status-btn active" onclick="filterByStatus('all')">All</button> <button class="status-btn" onclick="filterByStatus('to-read')">To Read</button> <button class="status-btn" onclick="filterByStatus('finished')">Finished</button></p>
-</div>
-<script>
-function filterByStatus(status) {
-  // Update button states
-  document.querySelectorAll('.status-btn').forEach(btn => {
-    btn.classList.remove('active');
-  });
-  event.target.classList.add('active');
-
-  // Filter listings
-  const items = document.querySelectorAll('.quarto-post');
-
-  items.forEach(item => {
-    if (status === 'all') {
-      item.style.display = '';
-    } else {
-      const statusBadge = item.querySelector('.listing-status');
-      const itemStatus = statusBadge ? statusBadge.textContent.trim().toLowerCase() : '';
-      item.style.display = itemStatus === status ? '' : 'none';
-    }
-  });
-}
-</script>
-<p>A curated collection of research papers.</p>
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="listing-actions-group">
