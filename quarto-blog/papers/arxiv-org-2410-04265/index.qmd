@@ -1,0 +1,11 @@
+---
+title: "AI as Humanity's Salieri: Quantifying Linguistic Creativity of Language Models via Systematic Attribution of Machine Text against Web Text"
+author: "Ximing Lu; Melanie Sclar; Skyler Hallinan et al."
+date: "2024-10-05"
+date-added: "2026-02-15"
+categories: [Papers, arXiv]
+status: to-read
+url: "https://arxiv.org/abs/2410.04265"
+---
+
+[Open paper →](https://arxiv.org/abs/2410.04265)
