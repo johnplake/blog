@@ -1,5 +1,9 @@
 [
   {
+    "listing": "/papers.html",
+    "items": []
+  },
+  {
     "listing": "/videos.html",
     "items": [
       "/videos/ai-and-the-digital-playlist/index.html",
@@ -60,10 +64,6 @@
   },
   {
     "listing": "/books.html",
-    "items": []
-  },
-  {
-    "listing": "/papers.html",
     "items": []
   }
 ]

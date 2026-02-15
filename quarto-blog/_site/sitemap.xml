@@ -89,6 +89,10 @@
     <lastmod>2026-02-12T19:05:51.862Z</lastmod>
   </url>
   <url>
+    <loc>https://johnplake.github.io/blog/papers.html</loc>
+    <lastmod>2026-02-15T07:19:22.969Z</lastmod>
+  </url>
+  <url>
     <loc>https://johnplake.github.io/blog/videos.html</loc>
     <lastmod>2026-02-15T00:57:17.135Z</lastmod>
   </url>
@@ -107,6 +111,10 @@
   <url>
     <loc>https://johnplake.github.io/blog/readings.html</loc>
     <lastmod>2026-02-15T00:57:24.170Z</lastmod>
+  </url>
+  <url>
+    <loc>https://johnplake.github.io/blog/books.html</loc>
+    <lastmod>2026-02-15T07:19:22.968Z</lastmod>
   </url>
   <url>
     <loc>https://johnplake.github.io/blog/posts/basel-problem/index.html</loc>
@@ -195,13 +203,5 @@
   <url>
     <loc>https://johnplake.github.io/blog/videos/richard-sutton-llms-dead-end/index.html</loc>
     <lastmod>2026-02-14T23:14:04.566Z</lastmod>
-  </url>
-  <url>
-    <loc>https://johnplake.github.io/blog/books.html</loc>
-    <lastmod>2026-02-15T07:19:22.968Z</lastmod>
-  </url>
-  <url>
-    <loc>https://johnplake.github.io/blog/papers.html</loc>
-    <lastmod>2026-02-15T07:19:22.969Z</lastmod>
   </url>
 </urlset>
