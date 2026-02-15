@@ -1,0 +1,11 @@
+---
+title: "Schedule"
+author: "interplay-workshop.github.io"
+date: "2026-02-15"
+date-added: "2026-02-15"
+categories: [Readings]
+status: to-read
+url: "https://interplay-workshop.github.io/schedule.html"
+---
+
+[Read →](https://interplay-workshop.github.io/schedule.html)

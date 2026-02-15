@@ -1,0 +1,11 @@
+---
+title: "talks.cam : Making connections- brains and other complex systems"
+author: "talks.cam.ac.uk"
+date: "2026-02-15"
+date-added: "2026-02-15"
+categories: [Readings]
+status: to-read
+url: "https://talks.cam.ac.uk/show/index/128590"
+---
+
+[Read →](https://talks.cam.ac.uk/show/index/128590)

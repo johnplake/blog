@@ -1,0 +1,11 @@
+---
+title: "Society for Computation in Linguistics"
+author: "openpublishing.library.umass.edu"
+date: "2026-02-15"
+date-added: "2026-02-15"
+categories: [Papers]
+status: to-read
+url: "https://openpublishing.library.umass.edu/scil/article/2226/"
+---
+
+[Open paper →](https://openpublishing.library.umass.edu/scil/article/2226/)

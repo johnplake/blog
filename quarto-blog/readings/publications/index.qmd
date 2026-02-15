@@ -1,0 +1,11 @@
+---
+title: "publications"
+author: "ahdavies6.github.io"
+date: "2026-02-15"
+date-added: "2026-02-15"
+categories: [Readings]
+status: to-read
+url: "https://ahdavies6.github.io/publications"
+---
+
+[Read →](https://ahdavies6.github.io/publications)

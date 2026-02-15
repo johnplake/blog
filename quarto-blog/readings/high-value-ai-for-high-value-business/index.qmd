@@ -1,0 +1,11 @@
+---
+title: "High-Value AI. For High-Value Business."
+author: "embraceable.ai"
+date: "2026-02-15"
+date-added: "2026-02-15"
+categories: [Readings]
+status: to-read
+url: "https://embraceable.ai/"
+---
+
+[Read →](https://embraceable.ai/)

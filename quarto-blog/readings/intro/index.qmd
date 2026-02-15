@@ -1,0 +1,11 @@
+---
+title: "Intro"
+author: "opencode.ai"
+date: "2026-02-15"
+date-added: "2026-02-15"
+categories: [Readings]
+status: to-read
+url: "https://opencode.ai/docs"
+---
+
+[Read →](https://opencode.ai/docs)

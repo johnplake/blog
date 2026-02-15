@@ -1,0 +1,11 @@
+---
+title: "Internalist vs. Externalist Conceptions of Epistemic Justification (Stanford Encyclopedia of Philosophy)"
+author: "plato.stanford.edu"
+date: "2026-02-15"
+date-added: "2026-02-15"
+categories: [Readings]
+status: to-read
+url: "https://plato.stanford.edu/entries/justep-intext/"
+---
+
+[Read →](https://plato.stanford.edu/entries/justep-intext/)

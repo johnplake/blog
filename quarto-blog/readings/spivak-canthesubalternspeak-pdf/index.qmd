@@ -1,0 +1,11 @@
+---
+title: "Spivak CanTheSubalternSpeak.pdf"
+author: "jan.ucc.nau.edu"
+date: "2026-02-15"
+date-added: "2026-02-15"
+categories: [Readings]
+status: to-read
+url: "https://jan.ucc.nau.edu/~sj6/Spivak%20CanTheSubalternSpeak.pdf"
+---
+
+[Read →](https://jan.ucc.nau.edu/~sj6/Spivak%20CanTheSubalternSpeak.pdf)

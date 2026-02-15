@@ -1,0 +1,11 @@
+---
+title: "LJMU Data Repository"
+author: "opendata.ljmu.ac.uk"
+date: "2026-02-15"
+date-added: "2026-02-15"
+categories: [Readings]
+status: to-read
+url: "https://opendata.ljmu.ac.uk/id/eprint/6/"
+---
+
+[Read →](https://opendata.ljmu.ac.uk/id/eprint/6/)

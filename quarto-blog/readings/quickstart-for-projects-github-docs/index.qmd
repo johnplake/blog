@@ -1,0 +1,11 @@
+---
+title: "Quickstart for Projects - GitHub Docs"
+author: "docs.github.com"
+date: "2026-02-15"
+date-added: "2026-02-15"
+categories: [Readings]
+status: to-read
+url: "https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/quickstart-for-projects"
+---
+
+[Read →](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/quickstart-for-projects)

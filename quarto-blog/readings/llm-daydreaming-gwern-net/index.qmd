@@ -1,0 +1,11 @@
+---
+title: "LLM Daydreaming · Gwern.net"
+author: "gwern.net"
+date: "2026-02-15"
+date-added: "2026-02-15"
+categories: [Readings]
+status: to-read
+url: "https://gwern.net/ai-daydreaming"
+---
+
+[Read →](https://gwern.net/ai-daydreaming)
