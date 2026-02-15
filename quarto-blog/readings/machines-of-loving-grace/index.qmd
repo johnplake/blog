@@ -1,0 +1,12 @@
+---
+title: "Machines of Loving Grace"
+author: "Dario Amodei"
+date: "2024-10-01"
+categories: [AI, AI-policy]
+status: to-read
+url: "https://darioamodei.com/essay/machines-of-loving-grace"
+---
+
+Essay by Dario Amodei (Anthropic) on a positive vision for how AI could transform the world.
+
+[Read the full essay →](https://darioamodei.com/essay/machines-of-loving-grace)
