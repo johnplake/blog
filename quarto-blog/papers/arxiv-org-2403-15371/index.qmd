@@ -3,7 +3,7 @@ title: "Can large language models explore in-context?"
 author: "Akshay Krishnamurthy; Keegan Harris; Dylan J. Foster et al."
 date: "2024-03-22"
 date-added: "2026-02-15"
-categories: [Papers, arXiv, NLP]
+categories: [Papers, arXiv, NLP, AI, ML]
 status: to-read
 url: "https://arxiv.org/pdf/2403.15371"
 ---

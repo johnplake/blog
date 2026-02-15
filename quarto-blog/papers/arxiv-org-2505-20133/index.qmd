@@ -3,7 +3,7 @@ title: "Token Distillation: Attention-aware Input Embeddings For New Tokens"
 author: "Konstantin Dobler; Desmond Elliott; Gerard de Melo"
 date: "2025-05-26"
 date-added: "2026-02-15"
-categories: [Papers, arXiv, Representation]
+categories: [Papers, arXiv, Representation, AI, NLP]
 status: to-read
 url: "https://arxiv.org/pdf/2505.20133"
 ---

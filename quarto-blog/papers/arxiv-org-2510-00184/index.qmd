@@ -3,7 +3,7 @@ title: "Why Can't Transformers Learn Multiplication? Reverse-Engineering Reveals
 author: "Xiaoyan Bai; Itamar Pres; Yuntian Deng et al."
 date: "2025-09-30"
 date-added: "2026-02-15"
-categories: [Papers, arXiv]
+categories: [Papers, arXiv, AI, ML]
 status: to-read
 url: "https://arxiv.org/pdf/2510.00184"
 ---

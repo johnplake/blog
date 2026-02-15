@@ -3,7 +3,7 @@ title: "Introducing the Anthology for Computers and the Humanities"
 author: "Arnold, Taylor"
 date: "2026-02-15"
 date-added: "2026-02-15"
-categories: [Papers, Digital-Humanities]
+categories: [Papers, Digital-Humanities, AI, Cognitive-Science]
 status: to-read
 url: "https://anthology.ach.org/volumes/vol0001/introducing-anthology-for-computers-humanities/"
 ---

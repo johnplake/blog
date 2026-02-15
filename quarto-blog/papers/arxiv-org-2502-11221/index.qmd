@@ -3,7 +3,7 @@ title: "PlanGenLLMs: A Modern Survey of LLM Planning Capabilities"
 author: "Hui Wei; Zihao Zhang; Shenghua He et al."
 date: "2025-02-16"
 date-added: "2026-02-15"
-categories: [Papers, arXiv, Planning]
+categories: [Papers, arXiv, Planning, AI]
 status: to-read
 url: "https://arxiv.org/abs/2502.11221"
 ---

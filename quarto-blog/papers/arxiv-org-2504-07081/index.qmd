@@ -3,7 +3,7 @@ title: "Self-Steering Language Models"
 author: "Gabriel Grand; Joshua B. Tenenbaum; Vikash K. Mansinghka et al."
 date: "2025-04-09"
 date-added: "2026-02-15"
-categories: [Papers, arXiv, NLP]
+categories: [Papers, arXiv, NLP, AI, ML]
 status: to-read
 url: "https://arxiv.org/pdf/2504.07081"
 ---

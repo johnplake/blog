@@ -3,7 +3,7 @@ title: "How are Prompts Different in Terms of Sensitivity?"
 author: "ACL Anthology"
 date: "2026-02-15"
 date-added: "2026-02-15"
-categories: [Papers, NLP]
+categories: [Papers, NLP, AI]
 status: to-read
 url: "https://aclanthology.org/2024.naacl-long.325.pdf"
 ---

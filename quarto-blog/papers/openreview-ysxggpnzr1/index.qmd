@@ -3,7 +3,7 @@ title: "OpenReview"
 author: "OpenReview"
 date: "2026-02-15"
 date-added: "2026-02-15"
-categories: [Papers, ML]
+categories: [Papers, ML, AI]
 status: to-read
 url: "https://openreview.net/pdf?id=ysXgGPNzR1"
 ---

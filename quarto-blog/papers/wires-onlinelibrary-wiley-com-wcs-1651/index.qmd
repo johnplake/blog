@@ -3,7 +3,7 @@ title: "Three levels of framing"
 author: "Karen Sullivan"
 date: "2023-09-01"
 date-added: "2026-02-15"
-categories: [Papers]
+categories: [Papers, AI]
 status: to-read
 url: "https://wires.onlinelibrary.wiley.com/doi/10.1002/wcs.1651"
 ---

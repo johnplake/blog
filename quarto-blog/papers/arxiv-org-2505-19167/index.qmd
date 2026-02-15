@@ -3,7 +3,7 @@ title: "Amplifying Human Creativity and Problem Solving with AI Through Generati
 author: "Thomas P. Kehler; Scott E. Page; Alex Pentland et al."
 date: "2025-05-25"
 date-added: "2026-02-15"
-categories: [Papers, arXiv]
+categories: [Papers, arXiv, AI, Cognitive-Science]
 status: to-read
 url: "https://arxiv.org/abs/2505.19167"
 ---

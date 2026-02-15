@@ -3,7 +3,7 @@ title: "Latent Reasoning via Sentence Embedding Prediction"
 author: "Hyeonbin Hwang; Byeongguk Jeon; Seungone Kim et al."
 date: "2025-05-28"
 date-added: "2026-02-15"
-categories: [Papers, arXiv, Reasoning, Representation]
+categories: [Papers, arXiv, Reasoning, Representation, AI, Cognitive-Science]
 status: to-read
 url: "https://arxiv.org/pdf/2505.22202"
 ---

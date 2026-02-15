@@ -3,7 +3,7 @@ title: "Privileged Self-Access Matters for Introspection in AI"
 author: "Siyuan Song; Harvey Lederman; Jennifer Hu et al."
 date: "2025-08-20"
 date-added: "2026-02-15"
-categories: [Papers, arXiv]
+categories: [Papers, arXiv, AI]
 status: to-read
 url: "https://arxiv.org/pdf/2508.14802"
 ---

@@ -3,7 +3,7 @@ title: "Evaluating the World Model Implicit in a Generative Model"
 author: "Keyon Vafa; Justin Y. Chen; Ashesh Rambachan et al."
 date: "2024-06-06"
 date-added: "2026-02-15"
-categories: [Papers, arXiv, Evaluation, World-Models]
+categories: [Papers, arXiv, Evaluation, World-Models, AI, ML]
 status: to-read
 url: "https://arxiv.org/pdf/2406.03689"
 ---

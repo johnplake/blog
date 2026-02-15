@@ -3,7 +3,7 @@ title: "Transformers represent belief state geometry in their residual stream"
 author: "Adam S. Shai; Sarah E. Marzen; Lucas Teixeira et al."
 date: "2024-05-24"
 date-added: "2026-02-15"
-categories: [Papers, arXiv, Representation, Math]
+categories: [Papers, arXiv, Representation, Math, AI, ML]
 status: to-read
 url: "https://arxiv.org/html/2405.15943v1"
 ---

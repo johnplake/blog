@@ -3,7 +3,7 @@ title: "Repetition Improves Language Model Embeddings"
 author: "Jacob Mitchell Springer; Suhas Kotha; Daniel Fried et al."
 date: "2024-02-23"
 date-added: "2026-02-15"
-categories: [Papers, arXiv, Representation, NLP]
+categories: [Papers, arXiv, Representation, NLP, AI, ML]
 status: to-read
 url: "https://arxiv.org/pdf/2402.15449"
 ---

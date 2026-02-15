@@ -3,7 +3,7 @@ title: "Generative Monoculture in Large Language Models"
 author: "Fan Wu; Emily Black; Varun Chandrasekaran"
 date: "2024-07-02"
 date-added: "2026-02-15"
-categories: [Papers, arXiv, NLP]
+categories: [Papers, arXiv, NLP, AI, ML]
 status: to-read
 url: "https://arxiv.org/pdf/2407.02209"
 ---

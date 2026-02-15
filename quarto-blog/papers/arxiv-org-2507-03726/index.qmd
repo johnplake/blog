@@ -3,7 +3,7 @@ title: "Agent-Based Detection and Resolution of Incompleteness and Ambiguity in 
 author: "Riya Naik; Ashwin Srinivasan; Swati Agarwal et al."
 date: "2025-07-04"
 date-added: "2026-02-15"
-categories: [Papers, arXiv, Agents, NLP]
+categories: [Papers, arXiv, Agents, NLP, AI, ML]
 status: to-read
 url: "https://arxiv.org/abs/2507.03726"
 ---

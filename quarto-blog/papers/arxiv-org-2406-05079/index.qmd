@@ -3,7 +3,7 @@ title: "SUMIE: A Synthetic Benchmark for Incremental Entity Summarization"
 author: "Eunjeong Hwang; Yichao Zhou; Beliz Gunel et al."
 date: "2024-06-07"
 date-added: "2026-02-15"
-categories: [Papers, arXiv, Evaluation, Summarization, NLP]
+categories: [Papers, arXiv, Evaluation, Summarization, NLP, AI]
 status: to-read
 url: "https://arxiv.org/pdf/2406.05079"
 ---

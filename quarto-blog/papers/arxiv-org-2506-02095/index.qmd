@@ -3,7 +3,7 @@ title: "Cycle Consistency as Reward: Learning Image-Text Alignment without Human
 author: "Hyojin Bahng; Caroline Chan; Fredo Durand et al."
 date: "2025-06-02"
 date-added: "2026-02-15"
-categories: [Papers, arXiv, Multimodal, Alignment]
+categories: [Papers, arXiv, Multimodal, Alignment, AI, Cognitive-Science]
 status: to-read
 url: "https://arxiv.org/abs/2506.02095"
 ---

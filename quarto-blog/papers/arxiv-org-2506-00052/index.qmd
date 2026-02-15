@@ -3,7 +3,7 @@ title: "Using LLMs to Advance the Cognitive Science of Collectives"
 author: "Ilia Sucholutsky; Katherine M. Collins; Nori Jacoby et al."
 date: "2025-05-28"
 date-added: "2026-02-15"
-categories: [Papers, arXiv, Neuroscience]
+categories: [Papers, arXiv, Neuroscience, AI, Cognitive-Science]
 status: to-read
 url: "https://arxiv.org/abs/2506.00052"
 ---

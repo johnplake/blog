@@ -3,7 +3,7 @@ title: "ICLR: In-Context Learning of Representations"
 author: "Core Francisco Park; Andrew Lee; Ekdeep Singh Lubana et al."
 date: "2024-12-29"
 date-added: "2026-02-15"
-categories: [Papers, arXiv, Representation]
+categories: [Papers, arXiv, Representation, AI]
 status: to-read
 url: "https://arxiv.org/abs/2501.00070"
 ---

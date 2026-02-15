@@ -3,7 +3,7 @@ title: "Metritocracy: Representative Metrics for Lite Benchmarks"
 author: "Ariel Procaccia; Benjamin Schiffer; Serena Wang et al."
 date: "2025-06-11"
 date-added: "2026-02-15"
-categories: [Papers, arXiv, Evaluation, Representation]
+categories: [Papers, arXiv, Evaluation, Representation, AI]
 status: to-read
 url: "https://arxiv.org/pdf/2506.09813"
 ---
