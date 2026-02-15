@@ -1,0 +1,13 @@
+---
+title: "The Lexicon–Encyclopedia Interface"
+author: "Book (ISBN: 9780080435916)"
+date: "2026-02-15"
+date-added: "2026-02-15"
+categories: [Books, Linguistics, Semantics]
+status: to-read
+url: "https://www.bookfinder.com/isbn/9780080435916/"
+---
+
+(BookFinder listing / ISBN lookup.)
+
+[Book link →](https://www.bookfinder.com/isbn/9780080435916/)

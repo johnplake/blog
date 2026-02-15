@@ -1,0 +1,11 @@
+---
+title: "The Open Dynamics of Braitenberg Vehicles"
+author: "MIT Press"
+date: "2026-02-15"
+date-added: "2026-02-15"
+categories: [Books, Cognitive-Science, AI]
+status: to-read
+url: "https://mitpress.mit.edu/9780262548199/the-open-dynamics-of-braitenberg-vehicles/"
+---
+
+[Book link →](https://mitpress.mit.edu/9780262548199/the-open-dynamics-of-braitenberg-vehicles/)
