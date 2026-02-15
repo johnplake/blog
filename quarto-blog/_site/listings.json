@@ -57,5 +57,13 @@
       "/readings/why-isnt-modern-ai-built-around-principles/index.html",
       "/readings/bitter-lesson/index.html"
     ]
+  },
+  {
+    "listing": "/books.html",
+    "items": []
+  },
+  {
+    "listing": "/papers.html",
+    "items": []
   }
 ]
