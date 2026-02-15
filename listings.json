@@ -1,33 +1,24 @@
 [
   {
-    "listing": "/papers.html",
-    "items": []
-  },
-  {
-    "listing": "/videos.html",
+    "listing": "/books.html",
     "items": [
-      "/videos/ai-and-the-digital-playlist/index.html",
-      "/videos/ai-scientific-discovery-seminar-channel/index.html",
-      "/videos/amy-zhang-rldm-2022/index.html",
-      "/videos/cameron-buckner-language-models-reasoning/index.html",
-      "/videos/centaurs-or-butlers-cogx/index.html",
-      "/videos/chao-huang-llms-to-agents/index.html",
-      "/videos/ilfc-seminar-monthly/index.html",
-      "/videos/kempner-frontiers-neuroai-talks/index.html",
-      "/videos/mitcbmm-language-models-world-models/index.html",
-      "/videos/osbert-tay-language-modeling-tutorial/index.html",
-      "/videos/philip-resnik-naacl-srw-2025-keynote/index.html",
-      "/videos/richard-sutton-llms-dead-end/index.html",
-      "/videos/simons-llm-transformers-videos/index.html",
-      "/videos/carlini-are-llms-worth-it/index.html"
-    ]
-  },
-  {
-    "listing": "/index.html",
-    "items": [
-      "/posts/basel-problem/index.html",
-      "/posts/post-with-code/index.html",
-      "/posts/welcome/index.html"
+      "/books/amazon-com-in-a-flight-of-starlings-the-wonders-of-complex-systems-ebook-parisi-/index.html",
+      "/books/amazon-sign-in/index.html",
+      "/books/dennetts-real-patterns-in-science-and-nature/index.html",
+      "/books/encyclopedia-of-semiotics/index.html",
+      "/books/how-progress-ends/index.html",
+      "/books/https-mitpress-mit-edu-9780262050944-the-hypocrisy-trap/index.html",
+      "/books/https-mitpress-mit-edu-9780262526524-the-shape-of-actions/index.html",
+      "/books/https-mitpress-mit-edu-9780262550284-the-closed-world/index.html",
+      "/books/introduction-to-ecological-psychology-a-lawful-approach-to-perceiving-acting-and/index.html",
+      "/books/liberalism-as-a-way-of-life/index.html",
+      "/books/mechanization-takes-command/index.html",
+      "/books/on-communicating-otherness-meaning-and-information/index.html",
+      "/books/the-best-narrative-nonfiction-books/index.html",
+      "/books/the-ethics-of-technology/index.html",
+      "/books/the-lexicon-encyclopedia-interface/index.html",
+      "/books/the-open-dynamics-of-braitenberg-vehicles/index.html",
+      "/books/the-story-of-capital/index.html"
     ]
   },
   {
@@ -63,24 +54,34 @@
     ]
   },
   {
-    "listing": "/books.html",
+    "listing": "/index.html",
     "items": [
-      "/books/amazon-com-in-a-flight-of-starlings-the-wonders-of-complex-systems-ebook-parisi-/index.html",
-      "/books/amazon-sign-in/index.html",
-      "/books/encyclopedia-of-semiotics/index.html",
-      "/books/how-progress-ends/index.html",
-      "/books/https-mitpress-mit-edu-9780262050944-the-hypocrisy-trap/index.html",
-      "/books/https-mitpress-mit-edu-9780262526524-the-shape-of-actions/index.html",
-      "/books/https-mitpress-mit-edu-9780262550284-the-closed-world/index.html",
-      "/books/introduction-to-ecological-psychology-a-lawful-approach-to-perceiving-acting-and/index.html",
-      "/books/liberalism-as-a-way-of-life/index.html",
-      "/books/mechanization-takes-command/index.html",
-      "/books/on-communicating-otherness-meaning-and-information/index.html",
-      "/books/the-best-narrative-nonfiction-books/index.html",
-      "/books/the-ethics-of-technology/index.html",
-      "/books/the-lexicon-encyclopedia-interface/index.html",
-      "/books/the-open-dynamics-of-braitenberg-vehicles/index.html",
-      "/books/the-story-of-capital/index.html"
+      "/posts/basel-problem/index.html",
+      "/posts/post-with-code/index.html",
+      "/posts/welcome/index.html"
     ]
+  },
+  {
+    "listing": "/videos.html",
+    "items": [
+      "/videos/ai-and-the-digital-playlist/index.html",
+      "/videos/ai-scientific-discovery-seminar-channel/index.html",
+      "/videos/amy-zhang-rldm-2022/index.html",
+      "/videos/cameron-buckner-language-models-reasoning/index.html",
+      "/videos/centaurs-or-butlers-cogx/index.html",
+      "/videos/chao-huang-llms-to-agents/index.html",
+      "/videos/ilfc-seminar-monthly/index.html",
+      "/videos/kempner-frontiers-neuroai-talks/index.html",
+      "/videos/mitcbmm-language-models-world-models/index.html",
+      "/videos/osbert-tay-language-modeling-tutorial/index.html",
+      "/videos/philip-resnik-naacl-srw-2025-keynote/index.html",
+      "/videos/richard-sutton-llms-dead-end/index.html",
+      "/videos/simons-llm-transformers-videos/index.html",
+      "/videos/carlini-are-llms-worth-it/index.html"
+    ]
+  },
+  {
+    "listing": "/papers.html",
+    "items": []
   }
 ]
