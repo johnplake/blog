@@ -1,0 +1,467 @@
+url,suggested_category,decision,note,triaged_at
+https://sites.google.com/view/avishekghosh/home,people,keep,personal academic homepage,2026-02-15T04:52:08Z
+https://arxiv.org/pdf/2510.05573,readings,keep,arXiv PDF,2026-02-15T04:52:08Z
+https://anthology.ach.org/volumes/vol0001/introducing-anthology-for-computers-humanities/,readings,keep,Computers & Humanities anthology intro,2026-02-15T04:52:08Z
+https://foreignaffairs.com/united-states/cost-delusion-artificial-general-intelligence,readings,keep,Foreign Affairs article on AGI,2026-02-15T04:52:08Z
+https://mis.mpg.de/events/series/workshop-on-geometry-topology-and-machine-learning-gtml-2025,readings,delete,event listing (you marked delete),2026-02-15T04:52:08Z
+https://sites.google.com/view/erlangen-ai-hub-conference2025/home,people,delete,conference hub (you marked delete),2026-02-15T04:52:08Z
+https://arxiv.org/pdf/2504.08954,readings,delete,arXiv PDF (you marked delete),2026-02-15T04:52:08Z
+https://arxiv.org/pdf/2310.11324,readings,delete,arXiv PDF (you marked delete),2026-02-15T04:52:08Z
+https://arxiv.org/pdf/2402.15449,readings,keep,arXiv PDF,2026-02-15T04:52:08Z
+https://arxiv.org/pdf/2407.14507,readings,keep,arXiv PDF,2026-02-15T04:52:08Z
+https://arxiv.org/pdf/2402.14992,readings,delete,arXiv PDF (you marked delete),2026-02-15T04:56:39Z
+https://arxiv.org/pdf/2403.15371,readings,keep,arXiv PDF,2026-02-15T04:56:39Z
+https://arxiv.org/abs/2502.11221,readings,keep,arXiv abstract,2026-02-15T04:56:39Z
+https://arxiv.org/abs/2406.17513,readings,keep,arXiv abstract,2026-02-15T04:56:39Z
+https://arxiv.org/pdf/2407.02209,readings,keep,arXiv PDF,2026-02-15T04:56:39Z
+https://aclanthology.org/2024.naacl-long.325.pdf,readings,keep,ACL Anthology PDF,2026-02-15T04:56:39Z
+https://arxiv.org/abs/2402.01761,readings,keep,arXiv abstract,2026-02-15T04:56:39Z
+https://arxiv.org/pdf/2410.22590,readings,delete,arXiv PDF (you marked delete),2026-02-15T04:56:39Z
+https://www.understandingai.org/p/i-got-fooled-by-ai-for-science-hypeheres,readings,delete,UnderstandingAI article (you marked delete),2026-02-15T04:56:39Z
+https://huggingface.co/papers/2505.10554,readings,keep,HF papers entry,2026-02-15T04:56:39Z
+https://www.technologyreview.com/2025/05/20/1116272/ai-natural-gas-data-centers-energy-power-plants/,readings,delete,MIT Tech Review: AI could keep us dependent on natural gas for decades to come,2026-02-15T05:10:04Z
+https://checkplease.neocities.org/,readings,keep,A Tool That Shows a Different Way to Use LLMs,2026-02-15T05:10:04Z
+https://m.youtube.com/watch?v=MURzTFRRuJQ&pp=0gcJCdgAo7VqN5tD,videos,keep,How to “See” the 4th Dimension with Topology — Quanta Magazine,2026-02-15T05:10:04Z
+http://www.mathinbio.com/,readings,keep,Mathematics in Biology (book/site),2026-02-15T05:10:04Z
+https://openpublishing.library.umass.edu/scil/article/2226/galley/2151/download/,readings,keep,SCiL PDF (need title via landing page),2026-02-15T05:10:04Z
+https://openpublishing.library.umass.edu/scil/article/2219/galley/2147/download/,readings,keep,SCiL PDF (need title via landing page),2026-02-15T05:10:04Z
+https://openpublishing.library.umass.edu/scil/article/2131/galley/2106/download/,readings,keep,SCiL PDF (need title via landing page),2026-02-15T05:10:04Z
+https://openpublishing.library.umass.edu/scil/article/2136/galley/2112/download/,readings,keep,SCiL PDF (need title via landing page),2026-02-15T05:10:04Z
+https://openpublishing.library.umass.edu/scil/article/2222/galley/2148/download/,readings,keep,SCiL PDF (need title via landing page),2026-02-15T05:10:04Z
+https://www.bloomberg.com/features/2025-trump-family-presidency-wealth/?embedded-checkout=true,readings,delete,Bloomberg blocked (robot check) / paywalled,2026-02-15T05:10:04Z
+https://www.google.com/search?q=inquisitive.belief+theiry&ie=UTF-8&oe=UTF-8&hl=en-us&client=safari&sei=ziVhaa_FPKK4qtsPh-H-8Ac,readings,keep,google search: inquisitive.belief theiry,2026-02-15T05:16:04Z
+https://www.google.com/search?q=mighty+bouche&ie=UTF-8&oe=UTF-8&hl=en-us&client=safari#ebo=0,probably not important,delete,google search (you deleted): mighty bouche,2026-02-15T05:16:04Z
+https://en.wikipedia.org/wiki/Snuff_Box_(TV_series),probably not important,delete,Wikipedia: Snuff Box (TV series),2026-02-15T05:16:04Z
+https://en.wikipedia.org/wiki/Benidorm_(British_TV_series),probably not important,delete,Wikipedia: Benidorm (British TV series),2026-02-15T05:16:04Z
+https://www.foreignaffairs.com/united-states/cost-delusion-artificial-general-intelligence?utm_campaign=bs&utm_content=&utm_medium=social&utm_source=bluesky,readings,keep,Foreign Affairs: The Cost of the AGI Delusion,2026-02-15T05:16:04Z
+https://www.mis.mpg.de/events/series/workshop-on-geometry-topology-and-machine-learning-gtml-2025,readings,delete,MPI MIS event series (you deleted),2026-02-15T05:16:04Z
+https://arxiv.org/pdf/2407.14507?,readings,keep,arXiv:2407.14507 — Internal Consistency and Self-Feedback in LLMs (survey),2026-02-15T05:16:04Z
+https://watermark.silverchair.com/coli_a_00530.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAzcwggMzBgkqhkiG9w0BBwagggMkMIIDIAIBADCCAxkGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMLZIUJ65rarxW8HKdAgEQgIIC6iG6kRukuDU0X0JEerEvpPHHhCKfoRXEeShbzYgtBUeQ-0M_emEG_USfwLpPZrlilZBFqT3go_e7_M9Ak0sNFpUSlrfhtbDCLb0kz_uaB-Yp7Ehgvwcz_bmrtayfA1Bbr9qJ10Sf_8r5lzB0ach0-1QCwQ_CWU_ebB0HvgXwlBbNufa5LUP3-bsTt8PRFO6dG7-yJhyTyqAdOulayvNj7r9b8Cut-F-AYeydhMFHMuCCpH_yxD1FWqwdEcOSpucyxjNWEPiEWe9LO1GbPI6aZ7RGn61scx2_ju2xQ-avMV4K1K_06s_ZNu6nXRkuVa-4Olj3ifwlr_9VN93BKK-RM_jha9NLzJOfF-nCKuKCpPHZzNhzFqhk09RldnOkoM81qkckyicKbnJWCv4BoGIj8pJH6IrXKiAdZqAoSapi7CuCYCnrphMcWAZivwQwiX-KJmQXbAMhEEZR09Utr_G8UV95qYSO1gyu3MO8kueGkumY53ERcwxKCqpEChHltXq__xlhiC2Yk40VnRxwvMXRDXBiDjNsS0fZoi1cEuTe-Oitjskx_3t2qQA4xljjo5VBQfIpx0JwkqKNMTqUhq4cpTUQsigG0vpl675zMX-Aw-sD5_QJwg0BlsrCWI0SmqIbixL3_8try5WfltvGeqK-U6w5l1biTqQD5B4b3dnPSSqFFe2-yReZIzFAzstWY_IxLlv4TrMjA4hvc_GZ9qspJYznBjJn8-Q1kWONmKp6AHB-Zj4brD50xaMkw6hTJogvWwsUPWLtj6Y-vNW5BhWRxbKKscnmVlYA6DEyVfNZrQHZ3PpADyBO_SIh9GdEuwVVjIOyIV_5t0dgJ01LhWJFf74dfH6Ic-GUqHZUIdnD1uzUU5fxxd0LiJ7t06s-eaP2G6eiX20Erefj8DdGbPHsAqNCNxKtBjrUAIPi6Rsl5em7WCmXHIzrGLMElFvGaypV7DMWj_dj7D-5cEGljDZYYYqDHOk14Jb3stbf,readings,keep,Computational Linguistics / COLI PDF (tokenized link; title TBD),2026-02-15T05:16:04Z
+https://plato.stanford.edu/entries/existentialism/#ContRele,readings,delete,SEP: Existentialism (you deleted),2026-02-15T05:16:04Z
+https://www.science.org/stoken/author-tokens/ST-2495/full,probably not important,delete,Science.org author token link (ephemeral),2026-02-15T05:16:04Z
+https://www.imperial.ac.uk/events/194267/i-x-seminar-logically-consistent-deep-learning-with-dr-antonio-vergari/,readings,keep,I-X Seminar: Logically-Consistent Deep Learning (Antonio Vergari),2026-02-15T05:22:36Z
+https://www.bookfinder.com/isbn/9780080435916/?qi=253aabf3457077d78afc0e30d203f2f5%3A1%3A1%3A1%3A0&ac=qr&author=&binding=*&currency=USD&destination=us&isbn=0080435912&keywords=&lang=en&max_year=&maxprice=&min_year=&minprice=&mode=basic&publisher=&st=sr&title=,probably not important,delete,BookFinder price lookup (you deleted),2026-02-15T05:22:36Z
+https://mitpress.mit.edu/9780262548199/the-open-dynamics-of-braitenberg-vehicles/,readings,delete,MIT Press book page (you deleted),2026-02-15T05:22:36Z
+https://aribenjamin.github.io/learning-pill/,readings,delete,Learning Pill site (you deleted),2026-02-15T05:22:36Z
+https://thepointmag.com/examined-life/a-matter-of-words/,readings,delete,The Point: A Matter of Words (you deleted),2026-02-15T05:22:36Z
+https://theconversation.com/im-a-neuroscientist-who-taught-rats-to-drive-their-joy-suggests-how-anticipating-fun-can-enrich-human-life-239029,readings,keep,The Conversation: neuroscientist taught rats to drive,2026-02-15T05:22:36Z
+https://www.thecrimson.com/article/2025/5/23/harvard-international-students-trump/,readings,delete,Harvard Crimson op-ed (you deleted),2026-02-15T05:22:36Z
+http://bactra.org/notebooks/cybernetics.html,readings,keep,bactra notebook: Cybernetics,2026-02-15T05:22:36Z
+https://www.ebay.com/itm/226901942720,probably not important,delete,eBay listing (you deleted),2026-02-15T05:22:36Z
+https://www.uwindsor.ca/law/sites/uwindsor.ca.law/files/resistingtechnofascism-web.pdf,readings,keep,PDF: Resisting Technofascism (U Windsor Law),2026-02-15T05:22:36Z
+https://store.steampowered.com/app/3145620/Without_a_Dawn/,readings,delete,,2026-02-15T05:56:45Z
+https://arxiv.org/pdf/2504.11381,readings,keep,,2026-02-15T05:56:45Z
+https://www.flymontserrat.com/beforeyoufly.php#3,readings,delete,,2026-02-15T05:56:45Z
+https://www.flymontserrat.com/check-in.php,readings,delete,,2026-02-15T05:56:45Z
+https://www.google.com/travel/flights?client=safari&sca_esv=5829b96342253121&hl=en&prmd=tniv&source=flun&uitype=cuAA&gl=us&curr=USD&tfs=CAEQAhopEgoyMDI1LTA1LTI4agwIAhIIL20vMGYydjByDQgCEgkvbS8wNjlwYnYaKRIKMjAyNS0wNi0wMWoNCAISCS9tLzA2OXBidnIMCAISCC9tLzBmMnYwemhDalJJUjI1eVkzcEZSbFoxTjJOQlFuZENUVkZDUnkwdExTMHRMUzB0TFhCcVltTjZOVUZCUVVGQlIyY3lPRFpyUW01aWMwdEJFZ0pqS2hvTENKaTBCUkFDR2dOVlUwUTRNSENZdEFVPQ%3D%3D,readings,delete,,2026-02-15T05:56:45Z
+https://www.flymontserrat.com/contactma.php,readings,delete,,2026-02-15T05:56:45Z
+https://www.booking.com/hotel/ag/poinciana-villas-st-john-antigua1.html?activeTab=htMap,readings,delete,,2026-02-15T05:56:45Z
+https://www.aa.com/reservation/view/find-your-trip,readings,delete,,2026-02-15T05:56:45Z
+https://m.youtube.com/watch?v=IwBS6QGsH_4&pp=0gcJCdgAo7VqN5tD,videos,delete,,2026-02-15T05:56:45Z
+https://www.intology.ai/blog/zochi-acl,readings,keep,,2026-02-15T05:56:45Z
+https://arxiv.org/pdf/2505.17080,readings,keep,,2026-02-15T05:56:45Z
+https://www.google.com/search?q=the+red+room+lynch&client=safari&sca_esv=449df59cb87f206b&hl=en-us&ei=N2s4aM6pPPbnwN4Pnuf3wAI,probably not important,delete,,2026-02-15T05:56:45Z
+https://pluralistic.net/2025/05/27/rancid-vibe-coding/#class-war,readings,keep,,2026-02-15T05:56:45Z
+https://brinkley.blog/2024/07/07/habermas-on-intersubjectivity/,readings,keep,,2026-02-15T05:56:45Z
+https://www.conspicuouscognition.com/p/why-do-people-believe-true-things,readings,keep,,2026-02-15T05:56:45Z
+https://www.bloodinthemachine.com/p/the-ai-jobs-apocalypse-is-for-the?utm_medium=android&triedRedirect=true,readings,keep,,2026-02-15T05:56:45Z
+https://www.etix.com/ticket/p/44304668/surfistas-del-sistema-austin-mohawk-indoor,readings,delete,,2026-02-15T05:56:45Z
+https://www.google.com/search?q=abaa+guest+antigua+password&ie=UTF-8&oe=UTF-8&hl=en-us&client=safari,probably not important,delete,,2026-02-15T05:56:45Z
+https://www.fedex.com/wtrk/track/?trknbr=289214282258&trkqual=2460825000~289214282258~FX,readings,delete,,2026-02-15T05:56:45Z
+https://bayescomp2025.sg/#programme,readings,keep,,2026-02-15T05:56:45Z
+https://www.fedex.com/fedextrack/?trknbr=289214282258&trkqual=2460825000~289214282258~FX,readings,delete,,2026-02-15T05:56:45Z
+https://www.google.com/search?q=mcinkley+park+austin&ie=UTF-8&oe=UTF-8&hl=en-us&client=safari#ebo=0,probably not important,delete,,2026-02-15T05:56:45Z
+https://mail.cyberneticforests.com/human-noise-ai-filters-mr-watson-come-here/?ref=cybernetic-forests-newsletter,readings,keep,,2026-02-15T05:56:45Z
+https://m.youtube.com/watch?v=tEiS9in87vA,videos,keep,,2026-02-15T05:56:45Z
+https://arxiv.org/abs/2506.00911,readings,keep,,2026-02-15T05:56:45Z
+https://arxiv.org/abs/2506.02210,readings,keep,,2026-02-15T05:56:45Z
+https://www.theatlantic.com/magazine/archive/2025/07/government-privatization-feudalism/682888/?gift=KKqpNXyIKUBM73pHg9O1wcI7hRX5ufHTJtyLFFFK9z4&utm_source=copy-link&utm_medium=social&utm_campaign=share,readings,keep,,2026-02-15T05:56:45Z
+https://www.thetransmitter.org/brain-inspired/what-do-neuroscientists-mean-when-they-use-the-term-representation/,readings,keep,,2026-02-15T05:56:45Z
+https://arxiv.org/pdf/2506.01876,readings,keep,,2026-02-15T05:56:45Z
+https://www.wired.com/story/google-deepminds-ceo-demis-hassabis-thinks-ai-will-make-humans-less-selfish/,readings,keep,,2026-02-15T05:56:45Z
+https://arxiv.org/abs/2506.02095,readings,keep,,2026-02-15T05:56:45Z
+https://arxiv.org/abs/2506.00052,readings,keep,,2026-02-15T05:56:45Z
+https://www.noemamag.com/ai-signals-the-death-of-the-author/,readings,keep,,2026-02-15T05:56:45Z
+https://arxiv.org/abs/2412.12276,readings,keep,,2026-02-15T05:56:45Z
+https://arxiv.org/abs/2506.02147,readings,keep,,2026-02-15T05:56:45Z
+https://arxiv.org/abs/2505.19167,readings,keep,,2026-02-15T05:56:45Z
+https://arxiv.org/abs/2502.02508,readings,keep,,2026-02-15T05:56:45Z
+https://arxiv.org/abs/2505.11855,readings,keep,,2026-02-15T05:56:45Z
+https://m.youtube.com/watch?v=o_YRTCDQMTo,videos,delete,,2026-02-15T05:56:45Z
+https://lean-lang.org/functional_programming_in_lean/,readings,delete,,2026-02-15T05:56:45Z
+https://arxiv.org/pdf/2505.22202,readings,keep,,2026-02-15T05:56:45Z
+https://mitpress.mit.edu/9780262550284/the-closed-world/,people,keep,,2026-02-15T05:56:45Z
+https://www.theatlantic.com/technology/archive/2025/06/everything-app-big-tech-ai-endgame/683024/,readings,keep,,2026-02-15T05:56:45Z
+https://openreview.net/pdf?id=wK7wUdiM5g0,readings,keep,,2026-02-15T05:56:45Z
+"https://huggingface.co/Falconsai/medical_summarization#:~:text=The%20T5%20Large%20for%20Medical,related%20text",readings,delete,,2026-02-15T05:56:45Z
+"https://arxiv.org/abs/2104.06486#:~:text=and%20aggregate%20contradictory%20evidence%20across,available%20at%20this%20https%20URL",readings,keep,,2026-02-15T05:56:45Z
+https://www.wired.com/story/youre-not-ready-for-phone-dead-zones/,readings,keep,,2026-02-15T05:56:45Z
+https://list.elra.info/mailman3/hyperkitty/list/sigul@list.elra.info/message/EPFL4JV2T3UV5CYFIQDXWA5DKQWMPRFY/,readings,delete,,2026-02-15T05:56:45Z
+https://www.oneusefulthing.org/p/the-lazy-tyranny-of-the-wait-calculation,readings,keep,,2026-02-15T05:56:45Z
+https://www.reddit.com/r/suggestmeabook/comments/1ayx7p0/6_year_old_recs_for_graphic_novels/,readings,keep,,2026-02-15T05:56:45Z
+https://www.google.com/search?q=tea+dragon+societ&ie=UTF-8&oe=UTF-8&hl=en-us&client=safari#ebo=0,probably not important,keep,,2026-02-15T05:56:45Z
+https://www.google.com/search?q=Big+Tree+(Brian+Selznick).&ie=UTF-8&oe=UTF-8&hl=en-us&client=safari#ebo=0,probably not important,keep,,2026-02-15T05:56:45Z
+https://simonwillison.net/2025/Jun/7/comma/,readings,keep,,2026-02-15T05:56:45Z
+https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf,readings,delete,,2026-02-15T05:56:45Z
+https://www-cdn.anthropic.com/58284b19e702b49db9302d5b6f135ad8871e7658.pdf,readings,keep,,2026-02-15T05:56:45Z
+https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/,readings,keep,,2026-02-15T05:56:45Z
+https://www.commoncrowbooks.com/checkout.php,readings,keep,,2026-02-15T05:56:45Z
+https://codepoetics.substack.com/p/ai-as-symbolic-prosthesis,readings,keep,,2026-02-15T05:56:45Z
+https://www.alphaxiv.org/pdf/2505.23836,readings,keep,,2026-02-15T05:56:45Z
+https://languagemechanics.neocities.org/no-gen-ai,readings,keep,,2026-02-15T05:56:45Z
+https://arxiv.org/pdf/2505.23381,readings,keep,,2026-02-15T05:56:45Z
+https://www.salon.com/2025/05/10/why-the-democrats-are-still-stuck-in-the-past/,readings,delete,,2026-02-15T05:56:45Z
+https://www.technologyreview.com/supertopic/ai-energy-package/,readings,keep,,2026-02-15T05:56:45Z
+https://wizardzines.com/cheat-sheet-one-page.png,readings,delete,,2026-02-15T05:56:45Z
+https://arxiv.org/pdf/2404.11124v2,readings,delete,,2026-02-15T05:56:45Z
+https://fortune.com/2025/05/25/ai-entry-level-jobs-gen-z-careers-young-workers-linkedin/,readings,keep,,2026-02-15T05:56:45Z
+https://www.simplypsychology.org/availability-heuristic.html?utm_source=chatgpt.com,readings,keep,,2026-02-15T05:56:45Z
+https://arxiv.org/pdf/2506.05068,readings,keep,,2026-02-15T05:56:45Z
+https://www.nature.com/articles/s42256-025-01049-z,readings,keep,,2026-02-15T05:56:45Z
+https://arxiv.org/pdf/2305.17529#page10,readings,keep,,2026-02-15T05:56:45Z
+https://arxiv.org/pdf/2310.00785,readings,keep,,2026-02-15T05:56:45Z
+https://cid.nada.kth.se/en/HeideggerianAI.pdf,readings,keep,,2026-02-15T05:56:45Z
+https://arstechnica.com/ai/2025/06/with-the-launch-of-o3-pro-lets-talk-about-what-ai-reasoning-actually-does/?utm_source=bsky&utm_medium=social,readings,keep,,2026-02-15T05:56:45Z
+https://github.com/zacharykstine/stine_deitrick_navigating_interpretive_spaces_across_models/blob/main/poster.pdf,readings,keep,,2026-02-15T05:56:45Z
+https://github.com/lilakk/BooookScore,readings,delete,,2026-02-15T05:56:45Z
+https://www.technologyreview.com/2025/06/11/1118233/amsterdam-fair-welfare-ai-discriminatory-algorithms-failure/,readings,keep,,2026-02-15T05:56:45Z
+https://2025.ccneuro.org/local-meetups/,readings,keep,,2026-02-15T05:56:45Z
+https://sergeylevine.substack.com/p/language-models-in-platos-cave?utm_campaign=post&utm_medium=web&triedRedirect=true,readings,keep,,2026-02-15T05:56:45Z
+https://arxiv.org/pdf/2506.09813,readings,keep,,2026-02-15T05:56:45Z
+https://www.routledge.com/Introduction-to-Ecological-Psychology-A-Lawful-Approach-to-Perceiving-Acting-and-Cognizing/Blau-Wagman/p/book/9780367703240?srsltid=AfmBOopHxPtHCua8aZaMOJqTMI6WdKkKFnICSBOeizku-firSYQUKEos,readings,keep,,2026-02-15T05:56:45Z
+https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/dead-rats-dopamine-performance-metrics-and-peacock-tails-proxy-failure-is-an-inherent-risk-in-goaloriented-systems/89408A43F6D14BFD368FE5225A573032,readings,keep,,2026-02-15T05:56:45Z
+https://xphi.net/2025/06/03/experimenting-with-guesses/,readings,keep,,2026-02-15T05:56:45Z
+https://www.google.com/search?q=icml&ie=UTF-8&oe=UTF-8&hl=en-us&client=safari,probably not important,keep,,2026-02-15T05:56:45Z
+https://www.scientificamerican.com/article/inside-the-secret-meeting-where-mathematicians-struggled-to-outsmart-ai/,readings,keep,,2026-02-15T05:56:45Z
+https://www.dwarkesh.com/p/ege-tamay,readings,keep,,2026-02-15T05:56:45Z
+https://nostalgebraist.tumblr.com/post/785766737747574784/the-void,readings,keep,,2026-02-15T05:56:45Z
+https://www.notesfromthecircus.com/p/the-emergency-we-cannot-feel-on-the,readings,keep,,2026-02-15T05:56:45Z
+https://m.youtube.com/watch?v=FWjR6_qYJAw,videos,keep,,2026-02-15T05:56:45Z
+https://data4democracy.substack.com/p/how-to-dismantle-a-democracy-one,readings,keep,,2026-02-15T05:56:45Z
+https://www.motherjones.com/politics/2025/04/clearview-ai-immigration-ice-fbi-surveillance-facial-recognition-hoan-ton-that-hal-lambert-trump/,readings,delete,,2026-02-15T05:56:45Z
+https://www.doomsdayscenario.co/p/with-coup-in-shambles-musk-signals-retreat-leaving-wreckage-in-wake-b78f06da3c59c3f0,readings,delete,,2026-02-15T05:56:45Z
+https://joshuasweitz.substack.com/p/the-white-house-vision-for-dismantling,readings,keep,,2026-02-15T05:56:45Z
+https://www.nytimes.com/2025/05/30/opinion/elon-musk-doge-usaid.html?unlocked_article_code=1.LE8.Rq2E.dwj0ZsnEUsTN&smid=nytcore-android-share,readings,delete,,2026-02-15T05:56:45Z
+https://www.nytimes.com/2025/05/09/nyregion/newark-ice-protest-arrest-ras-baraka.html?smtyp=cur&smid=bsky-nytimes,readings,delete,,2026-02-15T05:56:45Z
+https://mitpress.mit.edu/9780262526524/the-shape-of-actions/,people,keep,,2026-02-15T05:56:45Z
+https://www.amazon.com/Technics-Civilization-Lewis-Mumford/dp/0226550273,readings,keep,,2026-02-15T05:56:45Z
+https://www.upress.umn.edu/9780816690435/mechanization-takes-command/,people,keep,,2026-02-15T05:56:45Z
+https://globalventuring.com/corporate/europe/the-small-open-source-ai-startups-taking-on-the-big-developers/,readings,keep,,2026-02-15T05:56:45Z
+https://vaishnavh.github.io/blog/history-of-science/index.html,readings,keep,,2026-02-15T05:56:45Z
+https://www.phillipcarter.dev/posts/llms-computers,readings,keep,,2026-02-15T05:56:45Z
+https://www.bbc.com/future/article/20250611-ai-mode-is-google-about-to-change-the-internet-forever,readings,delete,,2026-02-15T06:15:50Z
+https://www.wsj.com/tech/ai/artificial-superintelligence-overestimation-3f954065?st=LbphF8&reflink=desktopwebshare_permalink,readings,delete,,2026-02-15T06:15:50Z
+https://landing.packtpub.com/mathematics-of-machine-learning/,readings,keep,,2026-02-15T06:15:50Z
+https://press.uchicago.edu/ucp/books/book/chicago/D/bo10509859.html,people,keep,,2026-02-15T06:15:50Z
+https://simonwillison.net/2025/Jun/14/multi-agent-research-system/,readings,keep,,2026-02-15T06:15:50Z
+https://opendata.ljmu.ac.uk/id/eprint/6/,people,keep,,2026-02-15T06:15:50Z
+https://www.techpolicy.press/the-moral-lighthouse-artificial-intelligence-and-the-world-we-want/,readings,keep,,2026-02-15T06:15:50Z
+https://www.google.com/search?q=scot+sunbury+dvm+pc&ie=UTF-8&oe=UTF-8&hl=en-us&client=safari#ebo=0,probably not important,delete,,2026-02-15T06:15:50Z
+https://realizable.substack.com/p/daniel-dennett-1942-2024,readings,keep,,2026-02-15T06:15:50Z
+https://alignment-science-blog.pages.dev/2025/unsupervised-elicitation/,readings,keep,,2026-02-15T06:15:50Z
+https://austin.eater.com/maps/best-coffee-austin-cafes-espressos-lattes,readings,delete,,2026-02-15T06:15:50Z
+https://www.google.com/search?q=scil+linguistics&ie=UTF-8&oe=UTF-8&hl=en-us&client=safari,probably not important,delete,,2026-02-15T06:15:50Z
+https://substack.com/@elvissaravia/note/c-123381656?utm_source=feed-email-digest,readings,keep,,2026-02-15T06:15:50Z
+https://calendly.com/resnik/30-minute-meeting?back=1&month=2025-07&date=2025-07-03,probably not important,delete,,2026-02-15T06:15:50Z
+https://www.lesswrong.com/posts/xg3hXCYQPJkwHyik2/the-best-textbooks-on-every-subject#logic,readings,delete,,2026-02-15T06:15:50Z
+https://www.lesswrong.com/posts/JQefBJDHG6Wgffw6T/a-straightforward-explanation-of-the-good-regulator-theorem,readings,delete,,2026-02-15T06:15:50Z
+https://arxiv.org/pdf/2505.13898,readings,keep,,2026-02-15T06:15:50Z
+https://arxiv.org/pdf/2309.07382,readings,keep,,2026-02-15T06:15:50Z
+https://arxiv.org/pdf/2303.03948,readings,keep,,2026-02-15T06:15:50Z
+https://arxiv.org/pdf/2501.09993,readings,keep,,2026-02-15T06:15:50Z
+https://en.m.wikipedia.org/wiki/Project_management#Project_complexity,readings,keep,,2026-02-15T06:15:50Z
+https://www.goodreads.com/book/show/1835789.On_Communicating,readings,keep,,2026-02-15T06:15:50Z
+https://www.amazon.com/dp/B0B9WM1JMW?ref_=dbs_ios_get_book,readings,keep,,2026-02-15T06:15:50Z
+https://docs.allenai.org/,readings,delete,,2026-02-15T06:15:50Z
+https://arxiv.org/pdf/2406.05079,readings,keep,,2026-02-15T06:15:50Z
+https://letterboxd.com/kmjones234/film/floating-clouds/,readings,keep,,2026-02-15T06:15:50Z
+https://docs.google.com/forms/d/e/1FAIpQLSc5IwTU43CWVjQYsWbvPkDFH7dFKglqRfPdWRJSvCbYuxlv-A/viewform,readings,delete,,2026-02-15T06:15:50Z
+https://arxiv.org/abs/2401.00210,readings,keep,,2026-02-15T06:15:50Z
+https://arxiv.org/abs/2505.09825,readings,keep,,2026-02-15T06:15:50Z
+https://www.therooseveltroomatx.com/qrmenu,readings,delete,,2026-02-15T06:15:50Z
+https://static1.squarespace.com/static/5821fc5ed1758ec12ed422ac/t/68103f334f90ec2b0739658f/1745895225938/RR_DownstairsMenu_SinglePages_2025_0422.pdf,readings,delete,,2026-02-15T06:15:50Z
+https://www.today.com/health/coronavirus/new-covid-variant-nb181-nimbus-symptoms-rcna212304,readings,delete,,2026-02-15T06:15:50Z
+https://www.bart.gov/guide/airport/sfo?utm_source=chatgpt.com,readings,delete,,2026-02-15T06:15:50Z
+https://news.google.com/home?hl=en-US&gl=US&ceid=US:en,readings,delete,,2026-02-15T06:15:50Z
+https://www.politico.eu/article/iran-foreign-minister-abbas-araghchi-russia-vladimir-putin-us-strikes-nuclear-sites/,readings,delete,,2026-02-15T06:15:50Z
+https://fortune.com/2025/06/22/scale-ai-millennial-billionaire-lucy-guo-warning-work-life-balance-gen-z-wrong-job-career/,readings,keep,,2026-02-15T06:15:50Z
+https://www.google.com/search?q=josh+johnson&ie=UTF-8&oe=UTF-8&hl=en-us&client=safari#ebo=0,probably not important,delete,,2026-02-15T06:15:50Z
+https://www.nybooks.com/articles/2025/06/12/electrome-dreams-we-are-electric-sally-adee/,readings,keep,,2026-02-15T06:15:50Z
+https://realizable.substack.com/p/how-to-do-things-with-words,readings,keep,,2026-02-15T06:15:50Z
+https://russpoldrack.substack.com/p/defensive-coding,readings,keep,,2026-02-15T06:15:50Z
+http://bactra.org/weblog/699.html,readings,keep,,2026-02-15T06:15:50Z
+https://github.com/HaoooWang/llm-knowledge-cutoff-dates,readings,delete,,2026-02-15T06:15:50Z
+https://everythingistb.com/,readings,delete,,2026-02-15T06:15:50Z
+https://rbnmckenna86.substack.com/p/2025-reading-part-1?r=2fji0r&utm_campaign=post&utm_medium=web&triedRedirect=true,readings,keep,,2026-02-15T06:15:50Z
+https://press.princeton.edu/books/ebook/9780691235073/how-progress-ends,people,keep,,2026-02-15T06:15:50Z
+https://shows.acast.com/the-ned-ludd-radio-hour/episodes/whos-afraid-of-artificial-intelligence,readings,keep,,2026-02-15T06:15:50Z
+https://www.nature.com/articles/s43588-025-00819-4.pdf,readings,keep,,2026-02-15T06:15:50Z
+https://www.science.org/doi/10.1126/science.adt9819,readings,keep,,2026-02-15T06:15:50Z
+https://www.google.com/search?client=safari&sca_esv=daa994d4f615f536&hl=en-us&q=llm+failure+case+%22pope%22+buy&sa=X&ved=2ahUKEwivg47o5pKOAxVGwckDHRW_JWAQ5t4CegQIOhAB&biw=390&bih=663&dpr=3#ip=1,probably not important,delete,,2026-02-15T06:15:50Z
+https://arxiv.org/pdf/2505.10573,readings,keep,,2026-02-15T06:15:50Z
+https://en.m.wikipedia.org/wiki/The_Order_of_Things,readings,keep,,2026-02-15T06:15:50Z
+https://www.theguardian.com/environment/ng-interactive/2025/jun/28/tipping-points-social-expert-on-fixing-climate-crisis,readings,delete,,2026-02-15T06:15:50Z
+https://medium.com/@tahaymerghani/the-dark-side-of-academia-mental-health-mentorship-and-the-unspoken-struggles-of-an-nlp-c25adbd9a2e6,readings,keep,,2026-02-15T06:15:50Z
+https://ea.rna.nl/2024/05/27/when-chatgpt-summarises-it-actually-does-nothing-of-the-kind/,readings,keep,,2026-02-15T06:15:50Z
+https://arxiv.org/abs/2506.02153,readings,keep,,2026-02-15T06:15:50Z
+https://letterboxd.com/kmjones234/list/dude-wheres-my-purpose/,readings,keep,,2026-02-15T06:15:50Z
+https://fivebooks.com/best-books/linguistics-david-adger/,readings,delete,,2026-02-15T06:15:50Z
+https://ksagar.bearblog.dev/vjepa/,readings,keep,,2026-02-15T06:15:50Z
+https://www.nytimes.com/interactive/2025/06/30/science/math-strogatz-calculus-bowling.html?unlocked_article_code=1.S08.U_R_.jlgZk056vHfc&smid=url-share,readings,delete,,2026-02-15T06:15:50Z
+https://henryfarrell.net/large-ai-models-are-cultural-and-social-technologies/,readings,delete,,2026-02-15T06:15:50Z
+https://www.google.com/search?q=alternatives+to+llm+as+judge&client=safari&sa=N&hl=en-us&sca_esv=8ff83a0cf2859f3b&cs=0&udm=2&ved=2ahUKEwio4P2q3ZqOAxUW_skDHaPoMOg4ChDsCXoECBsQAw&biw=390&bih=663&dpr=3#ip=1,probably not important,delete,,2026-02-15T06:15:50Z
+https://fivebooks.com/best-books/philosophy-for-teens-andrew-brower-latz/,readings,delete,,2026-02-15T06:15:50Z
+https://www.machinelearningforscience.de/en/scholar-inbox-personalized-research-recommendations/,readings,keep,,2026-02-15T06:15:50Z
+https://arxiv.org/abs/2506.18819,readings,keep,,2026-02-15T06:15:50Z
+https://arxiv.org/abs/2506.19607,readings,keep,,2026-02-15T06:15:50Z
+https://arxiv.org/abs/2505.15024,readings,keep,,2026-02-15T06:15:50Z
+https://tedunderwood.com/2025/07/02/a-more-interesting-upside-of-ai/,readings,keep,,2026-02-15T06:15:50Z
+https://aeon.co/essays/can-computers-think-no-they-cant-actually-do-anything,readings,keep,,2026-02-15T06:15:50Z
+https://indivisible.org/,readings,delete,,2026-02-15T06:15:50Z
+https://drownedchipmunk.com/2025/07/02/why-dont-students-like-school/,readings,keep,,2026-02-15T06:15:50Z
+https://allenai.org/blog/omega,readings,keep,,2026-02-15T06:15:50Z
+https://arxiv.org/abs/2403.13106,readings,keep,,2026-02-15T06:15:50Z
+https://www.math3ma.com/blog/what-is-a-good-quantum-encoding-part-1,readings,keep,,2026-02-15T06:15:50Z
+https://steamcommunity.com/app/271590/discussions/0/2800629075195915274/?l=italian,readings,delete,,2026-02-15T06:15:50Z
+https://www.nytimes.com/2025/03/29/opinion/ai-tech-innovation.html,readings,delete,,2026-02-15T06:15:50Z
+https://openreview.net/group?id=colmweb.org/COLM/2024/Conference#tab-accept,readings,delete,,2026-02-15T06:15:50Z
+https://taur.cs.utexas.edu/,people,delete,,2026-02-15T06:15:50Z
+https://arxiv.org/abs/2507.03726,readings,keep,,2026-02-15T06:15:50Z
+https://www.jesshamrick.com/,readings,keep,,2026-02-15T06:15:50Z
+https://arxiv.org/pdf/2507.02145,readings,keep,,2026-02-15T06:15:50Z
+https://fivebooks.com/best-books/narrative-nonfiction-samira-shackle/,readings,keep,,2026-02-15T06:15:50Z
+https://mapgenie.io/grand-theft-auto-san-andreas/maps/san-andreas,readings,keep,,2026-02-15T06:15:50Z
+https://jacobin.com/2025/07/grok-antisemitism-conspiracy-theories-musk,readings,keep,,2026-02-15T06:15:50Z
+https://www.cavesofqud.com/,readings,keep,,2026-02-15T06:15:50Z
+https://www.google.com/search?q=gta+sa+how+to+bet+horses&ie=UTF-8&oe=UTF-8&hl=en-us&client=safari,probably not important,delete,,2026-02-15T06:15:50Z
+https://reservations.alaskaair.com/checkin/AWCGSE/boardingpass?lastname=Rodriguez&int=AS_ViewPNR-Beta_BTN1%7C%7CEG_EXPRESS_CI%7C%7C-prodID:CheckIn,readings,delete,,2026-02-15T06:15:50Z
+https://icml.cc/virtual/2025/calendar,readings,delete,,2026-02-15T06:15:50Z
+https://sites.google.com/view/moss2025,readings,keep,,2026-02-15T06:15:50Z
+https://neurips.cc/Conferences/2025/Dates,readings,delete,,2026-02-15T06:15:50Z
+https://arxiv.org/pdf/2502.01612,readings,keep,,2026-02-15T06:15:50Z
+https://gwern.net/ai-daydreaming,readings,keep,,2026-02-15T06:15:50Z
+https://m.youtube.com/watch?v=yYdC9ieX3SE,videos,delete,,2026-02-15T06:15:50Z
+https://gracekind.net/writing/ideonomy/intro/,readings,keep,,2026-02-15T06:15:50Z
+https://gracekind.net/blog/verifiableinference/,readings,keep,,2026-02-15T06:15:50Z
+https://www.liberalcurrents.com/marc-andreessen-is-a-traitor/,readings,delete,,2026-02-15T06:15:50Z
+https://www.google.com/search?q=wiki+taiyaki&ie=UTF-8&oe=UTF-8&hl=en-us&client=safari,probably not important,delete,,2026-02-15T06:15:50Z
+https://calv.info/openai-reflections,readings,delete,,2026-02-15T06:15:50Z
+https://www.argmin.net/p/the-unpredictability-conundrum,readings,keep,,2026-02-15T06:15:50Z
+https://hotels.cloudbeds.com/en/reservation/6VUFI1/confirmation?currency=usd&utm_source=google&utm_medium=fbl&utm_campaign=cloudbeds&utm_term=3520402-gh3-92&checkin=2025-07-18&checkout=2025-07-19&adults=1&kids=0&rid=9459&data_res=eB28DMHns%2FNDyHEkoJuvW8TVmqOM2kgi%2BXCCkOuE5%2BwGfqc7G1bh1CFkabJLNOKn%2BAseh03TEBZiKdhgirpD3rm39AQ1p1qSosjD8X3ZXl5WigJzzYUg1Tr5zUFYItOE,probably not important,delete,,2026-02-15T06:15:50Z
+https://minutesuites.com/contact/#faq,probably not important,delete,,2026-02-15T06:15:50Z
+https://www.google.com/search?q=trimp.card.to.elstein&ie=UTF-8&oe=UTF-8&hl=en-us&client=safari,probably not important,delete,,2026-02-15T06:36:08Z
+https://www.science.org/doi/10.1126/science.adz3267,readings,keep,,2026-02-15T06:36:08Z
+https://www.delta.com/PCCOciWeb/app/index.html#/landing,probably not important,delete,,2026-02-15T06:36:08Z
+https://arxiv.org/abs/2406.05079,readings,delete,,2026-02-15T06:36:08Z
+https://www.delta.com/my-trips/trip-details?firstName=wfxX654PdTCKJP0BqOa0ltfQ5DlV0DwzkTmmR7fi5M8%3D&lastName=d5A8%20k4HRnMCC0%2Fosk6Rv76EmsMkhpSft%20JUkFM66i4%3D&recordLocator=iYqu7z5K9EPyiX3UsOvGkA99Xf28BMM8%2Fy3sVD96uL8%3D&postValidationId=e5376389-a5ee-4693-80bd-4641975ba488&iropFlag=false&scCleanPNR=false&scUncleanPNR=false,probably not important,delete,,2026-02-15T06:36:08Z
+https://www.canada.ca/en/border-services-agency/services/arrivecan/account.html,readings,delete,,2026-02-15T06:36:08Z
+https://apply.joinsherpa.com/visa/canada/american-citizens?affiliateId=delta&language=en-US,probably not important,delete,,2026-02-15T06:36:08Z
+https://detective-dashboard-production.up.railway.app/story/ADP02,readings,delete,,2026-02-15T06:36:08Z
+https://icml.cc/virtual/2025/workshop/39962,readings,delete,,2026-02-15T06:36:08Z
+https://actionable-interpretability.github.io/,readings,delete,,2026-02-15T06:36:08Z
+https://m.youtube.com/watch?si=icYZ8kMA3sX6_15o&v=tCsl6ZcY9ag&feature=youtu.be,videos,keep,,2026-02-15T06:36:08Z
+https://ius-dashboard.up.railway.app/,readings,delete,,2026-02-15T06:36:08Z
+https://m.youtube.com/watch?v=U9TK65sVI_4&pp=0gcJCcwJAYcqIYzv,videos,keep,,2026-02-15T06:36:08Z
+https://m.youtube.com/watch?v=kEB11PQ9Eo8,videos,keep,,2026-02-15T06:36:08Z
+https://www.united.com/en/us/checkin/boarding-pass/guid/4441414141505730503138775A53505668314F476142414141414257593275376D6C4D33753050496D59542F684742794934567477494D454F5975423362726D4D785467793151775257614C6C787A4646366869566F36306F306854562B54706C3372554C2B714565787745,probably not important,delete,,2026-02-15T06:36:08Z
+https://www.united.com/en/us/checkin,probably not important,delete,,2026-02-15T06:36:08Z
+https://beenkim.github.io/,readings,keep,,2026-02-15T06:36:08Z
+https://www.academia.edu/,people,keep,,2026-02-15T06:36:08Z
+https://www.academia.edu/2093053/_%C5%8Ctsuka_Eiji_and_Narrative_Consumption_An_Introduction_to_World_and_Variation_in_Mechademia_5_2010_,people,keep,,2026-02-15T06:36:08Z
+https://thoughtforms.life/halleys-method-fractal-art/,readings,keep,,2026-02-15T06:36:08Z
+https://en.m.wikipedia.org/wiki/A_Different_Man,readings,keep,,2026-02-15T06:36:08Z
+https://donmoynihan.substack.com/p/revisiting-the-origins-of-civic-tech,readings,keep,,2026-02-15T06:36:08Z
+https://job-boards.greenhouse.io/deepmind/jobs/7081281,readings,keep,,2026-02-15T06:36:08Z
+https://link.springer.com/article/10.1007/s11229-011-0023-5,readings,keep,,2026-02-15T06:36:08Z
+https://m.youtube.com/watch?v=LFIqvV1u35A,videos,keep,,2026-02-15T06:36:08Z
+https://qntm.org/mmacevedo,readings,keep,,2026-02-15T06:36:08Z
+https://publish.iupress.indiana.edu/read/a-sign-is-just-a-sign/section/fcae8ea2-5d14-4115-861a-0cc720c096fc,people,delete,,2026-02-15T06:36:08Z
+https://www.theguardian.com/commentisfree/2025/jul/20/learning-disabled-people-book-winterbourne-view?utm_term=Autofeed&CMP=bsky_gu&utm_source=Bluesky&utm_medium#Echobox=1753095307,readings,keep,,2026-02-15T06:36:08Z
+https://nbhansen.dk/2025-07-22-A-Wild-Raspberry-Pi5-selfhosting-solution-appears/,readings,keep,,2026-02-15T06:36:08Z
+https://shirleymsiluk.wordpress.com/2025/07/21/why-we-fear-ai-book-review/,readings,delete,,2026-02-15T06:36:08Z
+https://arxiv.org/pdf/2403.05720v5,readings,delete,,2026-02-15T06:36:08Z
+https://crimereads.com/fair-play-puzzle-mysteries/,readings,keep,,2026-02-15T06:36:08Z
+https://aclanthology.org/2025.wnu-1.12/,readings,keep,,2026-02-15T06:36:08Z
+https://www.google.com/search?client=safari&sca_esv=ea95677d27d0a3ef&hl=en-us&q=%22poetry%22+mech+interp+llm&sa=X&ved=2ahUKEwiGx6aW59iOAxWcnGoFHc4SLBMQ5t4CegQINxAB&biw=390&bih=745&dpr=3,probably not important,keep,,2026-02-15T06:36:08Z
+https://www.anthropic.com/research/tracing-thoughts-language-model,readings,keep,,2026-02-15T06:36:08Z
+https://arxiv.org/pdf/2407.06501,readings,keep,,2026-02-15T06:36:08Z
+https://blogs.sydneysbuzz.com/30-essential-iranian-films-to-watch-in-honor-of-nowruz-persian-new-year-8d0edfe82bf0,readings,keep,,2026-02-15T06:36:08Z
+https://arxiv.org/pdf/2406.03689,readings,keep,,2026-02-15T06:36:08Z
+https://www.google.com/search?q=murder+mystery+conference+2028&ie=UTF-8&oe=UTF-8&hl=en-us&client=safari#ip=1,probably not important,delete,,2026-02-15T06:36:08Z
+https://github.com/sapientinc/HRM,readings,delete,,2026-02-15T06:36:08Z
+https://physionet.org/news/post/gpt-responsible-use,readings,delete,,2026-02-15T06:36:08Z
+https://arxiv.org/pdf/1805.04770,readings,keep,,2026-02-15T06:36:08Z
+https://opengameart.org/content/paper-crumple-sfx-sound-effect,readings,delete,,2026-02-15T06:36:08Z
+https://www.aimodels.fyi/papers/arxiv/detectiveqa-evaluating-long-context-reasoning-detective-novels,readings,delete,,2026-02-15T06:36:08Z
+https://arxiv.org/pdf/2409.02465,readings,keep,,2026-02-15T06:36:08Z
+https://m.youtube.com/watch?v=G8AT01tuyrk&pp=0gcJCfwAo7VqN5tD,videos,delete,,2026-02-15T06:36:08Z
+https://austinurologyinstitute.com/contact/,readings,delete,,2026-02-15T06:36:08Z
+https://www.google.com/search?client=safari&sca_esv=41771b6d1dd3ed98&hl=en-us&q=libro%20tecnologia%20a%20marte%20%2B%20critica&udm=36&source=lnms&fbs=AIIjpHzrxpZbmXOWvJwBW7Vzcy2E2dT2mCEdiJHzoyFYjSl436i9OpR3OUoxmV6ioT-NLh3SJaFnoUcDQFQ8zopcL_AN-2mDs0Zc-GwDT0vwKDKskENGoh2UHXIGWSsx6AWTiMcC4dsdHF3Bruxj3eomHciLu95j8g_o7Yj2OwOiaKLVV44RNG0Bw6ArE5V5dj5KUpzKtdDpv7yWYWmUGgSJma1iHGkZqNmrz6N9fK4KCjtj8H0mmo8&sa=X&ved=2ahUKEwjPr8DXoO-OAxVAmSYFHd9MBmUQ0pQJegUIkAEQAQ,probably not important,delete,,2026-02-15T06:36:08Z
+https://arxiv.org/abs/2501.00070,readings,keep,,2026-02-15T06:36:08Z
+https://www.theguardian.com/environment/2025/aug/02/self-termination-history-and-future-of-societal-collapse,readings,keep,,2026-02-15T06:36:08Z
+https://ius-dashboard-production.up.railway.app/bmds/bmds_fixed_size2_8000,readings,delete,,2026-02-15T06:36:08Z
+https://www.google.com/search?q=un+amie+de+la+calle+kutx.&ie=UTF-8&oe=UTF-8&hl=en-us&client=safari,probably not important,delete,,2026-02-15T06:36:08Z
+https://openreview.net/pdf?id=ysXgGPNzR1,readings,keep,,2026-02-15T06:36:08Z
+https://arxiv.org/pdf/2508.06950,readings,keep,,2026-02-15T06:36:08Z
+https://ideocene.net/2025/02/07/creep-mapping-on-the-complexity-of-visualizing-fictional-spaces-from-horror-films/,readings,keep,,2026-02-15T06:36:08Z
+https://arxiv.org/abs/2508.09848,readings,keep,,2026-02-15T06:36:08Z
+https://m.youtube.com/watch?v=5H4uHjHC7cc,videos,delete,,2026-02-15T06:36:08Z
+https://www.fastcompany.com/91384078/nothing-about-ai-is-inevitable-historian-mar-hicks-on-rejecting-the-future-were-being-sold,readings,keep,,2026-02-15T06:36:08Z
+https://ma-lab-berkeley.github.io/deep-representation-learning-book/,readings,keep,,2026-02-15T06:36:08Z
+https://www.google.com/search?q=alien+earth&ie=UTF-8&oe=UTF-8&hl=en-us&client=safari#ebo=0,probably not important,delete,,2026-02-15T06:36:08Z
+https://m.youtube.com/playlist?list=PLEA9Mnr-L18k1CHlnsjkVR5jlkG24p5cD,videos,delete,,2026-02-15T06:36:08Z
+https://aeon.co/essays/how-to-be-yourself-when-you-have-no-self-lessons-from-zhuangzi?fbclid=IwY2xjawMjhsRleHRuA2FlbQIxMABicmlkETE0eHN0QnZvY1IwY3ZzcnJpAR6gpkdKDdHv13O9IOAq2rkSfESJJZ_RFMDPbDJ9vuN3cyyAi8OCbW3rezn2TQ_aem_SmX50Rzj5H39rQbJozpAPg,readings,keep,,2026-02-15T06:36:08Z
+https://www.google.com/search?q=savage+book+decision+theory&ie=UTF-8&oe=UTF-8&hl=en-us&client=safari,probably not important,delete,,2026-02-15T06:36:08Z
+https://www.google.com/search?q=ramsey+collected+papers&ie=UTF-8&oe=UTF-8&hl=en-us&client=safari,probably not important,delete,,2026-02-15T06:36:08Z
+https://philarchive.org/rec/HOEMRA-2,readings,keep,,2026-02-15T06:36:08Z
+https://matthewjacksonwrites.com/two-by-valkyrie-loughcrewe-decrepit-ritual-and-puppets-banquet/,readings,keep,,2026-02-15T06:36:08Z
+https://candidate.hr-manager.net/ApplicationInit.aspx/?cid=1307&departmentId=18970&ProjectId=164789&MediaId=5&SkipAdvertisement=false,readings,keep,,2026-02-15T06:36:08Z
+https://arxiv.org/pdf/2406.03442,readings,keep,,2026-02-15T06:36:08Z
+https://arxiv.org/pdf/2508.14802,readings,keep,,2026-02-15T06:36:08Z
+https://jeffreymorgenthaler.com/andalusian-buck/,readings,delete,,2026-02-15T06:36:08Z
+https://arxiv.org/html/2405.15943v1,readings,keep,,2026-02-15T06:36:08Z
+https://www.topoi.net/wp-content/uploads/2012/12/How_Do_We_Recognize_Structuralism.pdf,readings,keep,,2026-02-15T06:36:08Z
+https://x.com/AnthropicAI/status/1950245012253659432?t=jpAFqocbh5CRo51C7-qXzQ&s=19&ct=rw-null,readings,delete,,2026-02-15T06:36:08Z
+https://groups.google.com/g/ut-nll,readings,delete,,2026-02-15T06:36:08Z
+https://arxiv.org/abs/2507.16806,readings,keep,,2026-02-15T06:36:08Z
+https://www.google.com/search?q=LLM+Explainability+for+Reasoning+%26+Planning+%40+COLM&ie=UTF-8&oe=UTF-8&hl=en-us&client=safari,probably not important,delete,,2026-02-15T06:36:08Z
+https://www.economist.com/business/2025/09/08/faith-in-god-like-large-language-models-is-waning?fbclid=IwY2xjawMsbNZleHRuA2FlbQIxMQABHmir8O1iTEeH6PIpGY91JnQIs-eBTVEFnfWPQpDhorLO3mD6UbJSzWNmIH9c_aem_zA-dT5peKmmRGYoXzV7M6Q,readings,keep,,2026-02-15T06:36:08Z
+https://quire.io/pricing,readings,keep,,2026-02-15T06:36:08Z
+https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/quickstart-for-projects,readings,keep,,2026-02-15T06:36:08Z
+https://www.cs.utexas.edu/forum-for-ai,people,delete,,2026-02-15T06:36:08Z
+https://www.nytimes.com/2024/02/07/books/review/literary-theory-for-robots-dennis-yi-tenen.html?unlocked_article_code=1.ZU8.FS3F.tPs5pVLprhxR&smid=nytcore-ios-share&referringSource=articleShare,readings,keep,,2026-02-15T06:36:08Z
+https://en.m.wikipedia.org/wiki/Bush_Doctrine,readings,delete,,2026-02-15T06:36:08Z
+https://www.google.com/search?q=the+age+id+chiice&ie=UTF-8&oe=UTF-8&hl=en-us&client=safari#ebo=0,probably not important,delete,,2026-02-15T06:36:08Z
+https://www.google.com/search?q=euskara+symbol&ie=UTF-8&oe=UTF-8&hl=en-us&client=safari,probably not important,delete,,2026-02-15T06:36:08Z
+https://joincolossus.com/article/ai-will-not-make-you-rich/,readings,keep,,2026-02-15T06:36:08Z
+https://marinekimono.net/music.html,readings,delete,,2026-02-15T06:36:08Z
+https://www.google.com/search?q=texas+state+fovernment&ie=UTF-8&oe=UTF-8&hl=en-us&client=safari#vuanr=4,probably not important,delete,,2026-02-15T06:36:08Z
+https://www.learningscientists.org/blog/2025/9/18,readings,keep,,2026-02-15T06:36:08Z
+https://halperta.com/pdf/TakingActionHE_2025.pdf,readings,delete,,2026-02-15T06:36:08Z
+https://www.versobooks.com/products/3372-the-story-of-capital,readings,keep,,2026-02-15T06:36:08Z
+https://proceedings.neurips.cc/paper_files/paper/2024/hash/820c61a0cd419163ccbd2c33b268816e-Abstract-Conference.html,readings,keep,,2026-02-15T06:36:08Z
+https://vladchituc.substack.com/p/and-what-do-you-think-we-do,readings,keep,,2026-02-15T06:36:08Z
+https://arxiv.org/pdf/2509.00248,readings,keep,,2026-02-15T06:36:08Z
+https://ishapuri.github.io/,readings,keep,,2026-02-15T06:36:08Z
+https://rl-calibration.github.io/,readings,keep,,2026-02-15T06:36:08Z
+https://m.youtube.com/watch?v=ntI54nYJaNs&pp=0gcJCesJAYcqIYzv,videos,delete,,2026-02-15T06:36:08Z
+https://coexistence.global/,readings,delete,,2026-02-15T06:36:08Z
+https://www.marxists.org/reference/subject/ethics/kant/enlightenment.htm,readings,delete,,2026-02-15T06:36:08Z
+https://www.amazon.com/Fruit-Tree-Pruning-Science-Cultivating-ebook/dp/B0DY56VPV9?dib=eyJ2IjoiMSJ9.CSMhDGJM999YLaYTRq5YiVMDtq0_Lw_qkpxJY0CKrVMXBDt6QaIXdH1i3JrRwV6bCaLXmaCxqC5nw8ijC22ocQN6vCpQS6TinZsf8-gkm_Xan8qzICJeeMuWyhzamZ40uCAdusE_4VtkdysoIaWWSwv4cVQ1dKWtuJPjk1Rg7gFzgQhP_Z8OgZfb3wg9l_Aswbjoxfm3xNAdPUvBxk-kta4qYKRlA_xIi3ldVN3z7gw.le0Q1xdK5R1qmMLnnmfZ-oLPbCj08FR9PsUEOTF5SRo&dib_tag=se&keywords=fruit+tree+pruning+book&qid=1740863719&sr=8-3&linkCode=sl1&tag=orchardpeop07-20&linkId=2fd8fc41e49f2467020f816eac13cce7&language=en_US&ref_=as_li_ss_tl&dplnkId=8f65f615-8a41-413b-b1ef-3ce14b71570f&nodl=1,readings,delete,,2026-02-15T06:36:08Z
+https://mailchi.mp/mysteriousbookshop/otto-penzlers-mysterious-obsession-4th-13360949,readings,delete,,2026-02-15T06:36:08Z
+https://www.pbs.org/wgbh/nova/video/human-origins/,readings,delete,,2026-02-15T06:55:20Z
+https://arxiv.org/abs/2310.07923,readings,keep,,2026-02-15T06:55:20Z
+https://arxiv.org/pdf/2509.15560,readings,keep,,2026-02-15T06:55:20Z
+https://arxiv.org/pdf/2509.21547,readings,keep,,2026-02-15T06:55:20Z
+https://arxiv.org/pdf/2505.20295,readings,keep,,2026-02-15T06:55:20Z
+https://abuseofnotation.github.io/category-theory-illustrated/11_natural_transformations/,readings,keep,,2026-02-15T06:55:20Z
+https://allenai.org/blog/asta-datavoyager,readings,keep,,2026-02-15T06:55:20Z
+https://arxiv.org/pdf/2509.23108,readings,keep,,2026-02-15T06:55:20Z
+https://centralflows.github.io/,readings,keep,,2026-02-15T06:55:20Z
+https://www.reddit.com/r/AskMenOver30/comments/15qu7hm/men_over_40_help_me_with_skincare_antiaging_and/,readings,delete,,2026-02-15T06:55:20Z
+https://www.menshealth.com/grooming/a33919189/skin-care-routine-for-men-over-40/,readings,delete,,2026-02-15T06:55:20Z
+https://geologie.com/blogs/skin-concerns/how-to-look-younger-at-40?srsltid=AfmBOor8c_y_EMtVQZVZRVA-05P8HjILT4Ek9cne1_qtzo4lO0xexFV0,readings,delete,,2026-02-15T06:55:20Z
+https://www.google.com/search?q=cruciferous.vegetables&ie=UTF-8&oe=UTF-8&hl=en-us&client=safari,probably not important,delete,,2026-02-15T06:55:20Z
+https://www.criterionchannel.com/prisioneros-de-la-tierra,readings,keep,,2026-02-15T06:55:20Z
+https://vincentcarchidi.substack.com/p/modularity-of-language-a-partial,readings,delete,,2026-02-15T06:55:20Z
+https://www.bloodinthemachine.com/p/ai-is-an-attack-from-above-on-wages/comments,readings,keep,,2026-02-15T06:55:20Z
+https://ic2.utexas.edu/about-ic%c2%b2-institute/,people,delete,,2026-02-15T06:55:20Z
+https://m.youtube.com/watch?v=vyXccqTlhoI,videos,delete,,2026-02-15T06:55:20Z
+https://m.youtube.com/watch?v=21EYKqUsPfg,videos,delete,,2026-02-15T06:55:20Z
+https://www.tripadvisor.com/HotelHighlight-s3-g60763-d12934485-Reviews-Freehand_New_York-New_York_City_New_York.html,readings,delete,,2026-02-15T06:55:20Z
+https://freehandhotels.com/new-york/,readings,delete,,2026-02-15T06:55:20Z
+https://www.google.com/search?q=633*1%2F3&client=safari&sca_esv=c646f4d5b1a32c30&hl=en-us&ei=giDfaLi1MqKmmtkP1MKA6Qw&oq=633*1%2F3&gs_lp=EhNtb2JpbGUtZ3dzLXdpei1zZXJwIgc2MzMqMS8zMgIQE0iDL1D1C1iaKXACeAGQAQCYAVmgAcgDqgEBNrgBA8gBAPgBAZgCCKACggTCAgoQABiwAxjWBBhHwgICECnCAgsQABiABBiRAhiKBcICBRAAGIAEwgIIEAAYgAQYsQPCAgsQLhiABBjHARivAcICBRAuGIAEwgIEEAAYHsICBhAAGAoYHpgDAIgGAZIHATigB5sTsgcBNrgH8gPCBwMyLTjIByw&sclient=mobile-gws-wiz-serp&zx=1759453323774&no_sw_cr=1,probably not important,delete,,2026-02-15T06:55:20Z
+https://arxiv.org/pdf/2510.00184,readings,keep,,2026-02-15T06:55:20Z
+https://www.persuasion.community/p/david-bau,readings,keep,,2026-02-15T06:55:20Z
+https://www.bloodinthemachine.com/p/ai-is-an-attack-from-above-on-wages,readings,keep,,2026-02-15T06:55:20Z
+https://www.aircanada.com/ca/en/aco/home/book/travel-news-and-updates/2025/restricted-entry-foreign-nationals-to-usa.html,probably not important,delete,,2026-02-15T06:55:20Z
+https://hrsimulator.communicationgames.ai/about,readings,keep,,2026-02-15T06:55:20Z
+https://thinkingmachines.ai/blog/modular-manifolds/,readings,keep,,2026-02-15T06:55:20Z
+https://en.m.wikipedia.org/wiki/Jeanne_Mance,readings,keep,,2026-02-15T06:55:20Z
+https://www.google.com/search?q=kafka+visited&ie=UTF-8&oe=UTF-8&hl=en-us&client=safari,probably not important,delete,,2026-02-15T06:55:20Z
+https://www.google.com/search?q=dreyfuss+course.of+dostiyevsky&ie=UTF-8&oe=UTF-8&hl=en-us&client=safari,probably not important,delete,,2026-02-15T06:55:20Z
+https://www.instagram.com/p/DPj5hB3k0Iw/?igsh=M2F6NmRuMjIzamw0,readings,delete,,2026-02-15T06:55:20Z
+https://aclanthology.org/2021.emnlp-main.26/,readings,keep,,2026-02-15T06:55:20Z
+https://www.google.com/search?q=cognitive+narratolou&ie=UTF-8&oe=UTF-8&hl=en-us&client=safari,probably not important,keep,,2026-02-15T06:55:20Z
+https://jan.ucc.nau.edu/~sj6/Spivak%20CanTheSubalternSpeak.pdf,people,keep,,2026-02-15T06:55:20Z
+https://wires.onlinelibrary.wiley.com/doi/10.1002/wcs.1651,readings,keep,,2026-02-15T06:55:20Z
+https://interplay-workshop.github.io/schedule.html,readings,keep,,2026-02-15T06:55:20Z
+https://sites.google.com/andrew.cmu.edu/nlp4democracy/schedule,readings,keep,,2026-02-15T06:55:20Z
+https://ahdavies6.github.io/publications,readings,keep,,2026-02-15T06:55:20Z
+https://www.google.com/search?q=span+probing&ie=UTF-8&oe=UTF-8&hl=en-us&client=safari,probably not important,keep,,2026-02-15T06:55:20Z
+https://books.google.ca/books?id=wF-1EAAAQBAJ&pg=PA166&dq=ryan+nefdt&hl=en&newbks=1&newbks_redir=0&source=gb_mobile_search&sa=X&ved=2ahUKEwiypr_4wZqQAxUbMVkFHRcBBtwQ6AF6BAgJEAM#v=onepage&q=ryan%20nefdt&f=false,readings,keep,,2026-02-15T06:55:20Z
+https://arxiv.org/pdf/1905.06316,readings,keep,,2026-02-15T06:55:20Z
+https://efi.ed.ac.uk/event/ctmf-flagship-lecture-wisdom-for-an-artificial-age/,people,keep,,2026-02-15T06:55:20Z
+https://www.the74million.org/article/the-post-pandemic-promise-of-high-impact-tutoring/,readings,keep,,2026-02-15T06:55:20Z
+https://arxiv.org/pdf/2503.22362,readings,keep,,2026-02-15T06:55:20Z
+https://azrieli.smapply.io/tsk/34073622/flup/305181536/e/,readings,delete,,2026-02-15T06:55:20Z
+https://www.wsj.com/tech/ai/ai-race-tech-workers-schedule-1ea9a116?mod=hp_lead_pos3,readings,delete,,2026-02-15T06:55:20Z
+https://arstechnica.com/ai/2025/10/are-you-the-asshole-of-course-not-quantifying-llms-sycophancy-problem/,readings,keep,,2026-02-15T06:55:20Z
+https://letterboxd.com/film/the-mastermind-2025/,readings,delete,,2026-02-15T06:55:20Z
+https://mitpress.mit.edu/9780262050944/the-hypocrisy-trap/,people,keep,,2026-02-15T06:55:20Z
+https://www.google.com/search?q=eat+poop+you+cat+but+just+text&client=safari&sca_esv=a9b651f2ccff5662&hl=en-us&udm=50&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIemkjk18Cn72Gp24fGkjjh6wQFVCbKXb4P6swJy4x5wjm4mgMaWlC2HnHNC1p1FQq7zney4_j6LPapPHj1KXNf8HwmofoamoaRlUTWkU72Zm8RYjRM3Wpsza2XSf8G9Pk8exE_W-Dvzgja0Y6WzLiV_Q77gJBXwpfnJoBjzRnKjliPTHotw&aep=1&ntc=1&sa=X&ved=2ahUKEwixzI3q_8WQAxU6lYkEHSEPOZUQ2J8OegQIDhAE&biw=390&bih=663&dpr=3&mstk=AUtExfDoobWE1AWcxhSK26xyGbKihfOwYZZS2Hy9_p9CbuK5gAHrEyp_UqqcU8NF6zLCzgnFpCk2eM5GofZm7aV4F9PP5mv2w9vh_bK4JiFRNZ3Ai3zSr7Oc3sMv5sj10_iCSwDM_qk1_ZtodRaWJo4V5erZ0_aBtGUhZM8&csuir=1,probably not important,delete,,2026-02-15T06:55:20Z
+https://en.wikipedia.org/wiki/Consequences_(game),readings,delete,,2026-02-15T06:55:20Z
+https://en.wikipedia.org/wiki/Schizoanalysis,readings,delete,,2026-02-15T06:55:20Z
+https://www.psychologytoday.com/us/blog/an-interpersonal-lens/202510/how-chronic-disappointment-rewires-the-brain,readings,keep,,2026-02-15T06:55:20Z
+https://build.nvidia.com/spark/tailscale,readings,delete,,2026-02-15T06:55:20Z
+https://press.princeton.edu/books/paperback/9780691255545/liberalism-as-a-way-of-life,people,keep,,2026-02-15T06:55:20Z
+https://aclanthology.org/P14-1132.pdf,readings,keep,,2026-02-15T06:55:20Z
+https://philosophy.stackexchange.com/questions/57244/is-there-anything-on-early-to-mid-foucault-and-structuralism,readings,delete,,2026-02-15T06:55:20Z
+https://www.people.iup.edu/sherwood/Archived-Courses/ENGL752SuII-05/Docs/Structural_Study_of_Myth.pdf,people,delete,,2026-02-15T06:55:20Z
+https://www.wired.com/v2/offers/wira01035?source=Site_0_JNY_WIR_MOBILE_NAV_CTA_0_US_ACQ_NLI_4WEEK_ZZ_PANELB,readings,delete,,2026-02-15T06:55:20Z
+https://aeon.co/essays/john-rawls-liberalism-and-what-it-means-to-live-a-good-life,readings,keep,,2026-02-15T06:55:20Z
+https://www.wired.com/magazine/,readings,keep,,2026-02-15T06:55:20Z
+https://fivebooks.com/best-books/absurdism-joanna-walsh/,readings,delete,,2026-02-15T06:55:20Z
+https://idrottsforum.org/carbo_stenros-montola251105/,readings,keep,,2026-02-15T06:55:20Z
+https://thereader.mitpress.mit.edu/what-socialism-got-right/,people,keep,,2026-02-15T06:55:20Z
+https://fivebooks.com/best-books/tech-ethics-tom-chatfield-technology/,readings,keep,,2026-02-15T06:55:20Z
+https://www.kellogg.ox.ac.uk/events/christmas-guest-night-dinner-5/,people,delete,,2026-02-15T06:55:20Z
+https://datascience.stanford.edu/programs/rising-stars-data-science,people,delete,,2026-02-15T06:55:20Z
+https://www.reddit.com/r/badphilosophy/comments/d87iot/my_33f_husbands_35m_career_in_academic_philosophy/,readings,delete,,2026-02-15T06:55:20Z
+https://lasala.ai/program/,readings,keep,,2026-02-15T06:55:20Z
+https://m.youtube.com/watch?v=hVTDoZLssg8,videos,delete,,2026-02-15T06:55:20Z
+https://bsky.app/profile/agarina.bsky.social,readings,delete,,2026-02-15T06:55:20Z
+https://m.youtube.com/watch?v=eZDnHFatNVk&pp=0gcJCR4Bo7VqN5tD,videos,delete,,2026-02-15T06:55:20Z
+https://www.openculture.com/2025/11/skiing-down-mount-everest-with-no-oxygen-its-a-wild-ride.html,readings,delete,,2026-02-15T06:55:20Z
+https://cameronrwolfe.substack.com/p/reward-models,readings,keep,,2026-02-15T06:55:20Z
+https://openreview.net/pdf?id=Ycred6ETQR,readings,keep,,2026-02-15T06:55:20Z
+https://www.bloomberg.com/company/values/tech-at-bloomberg/data-science/academic-engagement-programs/data-science-ph-d-fellowship/?linkId=874852004,readings,delete,,2026-02-15T06:55:20Z
+https://www.janestreet.com/join-jane-street/programs-and-events/grf-profiles-2025/,readings,delete,,2026-02-15T06:55:20Z
+https://carlhendrick.substack.com/p/the-algorithmic-turn-the-emerging,readings,keep,,2026-02-15T06:55:20Z
+https://arstechnica.com/culture/2025/11/sam-rockwells-a-time-traveler-in-good-luck-have-fun-dont-die-trailer/?utm_source=bsky&utm_medium=social,readings,delete,,2026-02-15T06:55:20Z
+https://cds.nyu.edu/nlp-and-text-as-data-speaker-series/,people,delete,,2026-02-15T06:55:20Z
+https://books.google.com/books?id=AjFXDgAAQBAJ&pg=PT266&dq=alone+together+why+we+expect&hl=en&newbks=1&newbks_redir=0&source=gb_mobile_search&sa=X&ved=2ahUKEwjGscbFlu6QAxXaj4kEHezyFUAQ6AF6BAgPEAM#v=onepage&q=alone%20together%20why%20we%20expect&f=false,readings,keep,,2026-02-15T06:55:20Z
+https://www.nytimes.com/2025/11/11/opinion/ai-democracy-government-authoritarianism.html,readings,keep,,2026-02-15T06:55:20Z
+https://teaching.gureckislab.org/compcogsci/,readings,keep,,2026-02-15T06:55:20Z
+https://criticalinquiry.uchicago.edu/matthew_kirschenbaum_reviews_why_we_fear_ai/,people,delete,,2026-02-15T06:55:20Z
+https://www.gojiberries.io/playing-with-numbers-coming-up-with-objective-ratings-of-a-subjective-real/,readings,keep,,2026-02-15T06:55:20Z
+https://www.google.com/search?q=zathara+bagel&ie=UTF-8&oe=UTF-8&hl=en-us&client=safari,probably not important,delete,,2026-02-15T06:55:20Z
+https://www.goodreads.com/quotes/314315-let-everything-that-s-been-planned-come-true-let-them-believe,readings,delete,,2026-02-15T06:55:20Z
+https://arxiv.org/pdf/2504.07081,readings,keep,,2026-02-15T06:55:20Z
+https://arxiv.org/abs/2411.02429,readings,keep,,2026-02-15T06:55:20Z
+https://arxiv.org/abs/2504.11524,readings,keep,,2026-02-15T06:55:20Z
+https://arxiv.org/pdf/2506.20803,readings,keep,,2026-02-15T06:55:20Z
+https://www.google.com/search?q=creativity+index+ai2&ie=UTF-8&oe=UTF-8&hl=en-us&client=safari&channel=31,probably not important,keep,,2026-02-15T06:55:20Z
+https://opencode.ai/docs,readings,keep,,2026-02-15T06:55:20Z
+https://myedit.online/en/video-editor/animate-photo?utm_source=blog_enu&utm_medium=referral&utm_campaign=4066-grok-ani&affid=2581_-1_1005_4066_grok-ani,readings,delete,,2026-02-15T06:55:20Z
+https://www.reddit.com/r/ChatGPT/comments/1owtx9o/black_mirror_becomes_reality_new_app_lets_users/,readings,delete,,2026-02-15T06:55:20Z
+https://www.theguardian.com/books/2025/nov/15/dont-argue-with-strangers-and-11-more-rules-to-survive-the-information-crisis,readings,keep,,2026-02-15T06:55:20Z
+https://resobscura.substack.com/p/how-well-can-gemini-3-make-a-henry?r=i5f7&utm_medium=ios&triedRedirect=true,readings,keep,,2026-02-15T06:55:20Z
+https://www.google.com/search?q=how+to+make+bsky+bot&ie=UTF-8&oe=UTF-8&hl=en-us&client=safari&channel=31,probably not important,delete,,2026-02-15T06:55:20Z
+https://allenai.org/blog/olmo3,readings,delete,,2026-02-15T06:55:20Z
+https://m.youtube.com/watch?v=oxqK52I691c&pp=0gcJCQwKAYcqIYzv,videos,keep,,2026-02-15T07:03:41Z
+https://yoojungchoi.github.io/files/ProbCirc20.pdf,readings,keep,,2026-02-15T07:03:41Z
+https://dl.acm.org/doi/pdf/10.1145/3759429.3762631,readings,keep,,2026-02-15T07:03:41Z
+https://www.google.com/search?q=budapest+emnlp&ie=UTF-8&oe=UTF-8&hl=en-us&client=safari&channel=31,probably not important,delete,,2026-02-15T07:03:41Z
+https://embraceable.ai/,readings,keep,,2026-02-15T07:03:41Z
+https://eurips.cc/conference/talks/,readings,delete,,2026-02-15T07:03:41Z
+https://www.carl-zeiss-stiftung.de/en/project-overview/detail/interpretable-surrogates-for-efficient-analog-timeseries-forecasting,readings,keep,,2026-02-15T07:03:41Z
+https://linktr.ee/xlstm?utm_source=qr_code,readings,delete,,2026-02-15T07:03:41Z
+https://arxiv.org/pdf/2505.20133,readings,keep,,2026-02-15T07:03:41Z
+https://arxiv.org/abs/2410.14387,readings,keep,,2026-02-15T07:03:41Z
+https://arxiv.org/abs/2406.18403,readings,keep,,2026-02-15T07:03:41Z
+https://plato.stanford.edu/entries/justep-intext/,people,keep,,2026-02-15T07:03:41Z
+https://www.google.com/search?q=credit+card+charge+Business+Insider+I+dont+recognize+it+what+could+it+be&client=safari&hs=29r9&sca_esv=20541e4f21a9d7f7&hl=en-us&channel=41&ei=lepwaZfBFuH0kPIP4rHWuAo&oq=credit+card+charge+Business+Insider+I+dont+recognize+it+what+could+it+be&gs_lp=EhNtb2JpbGUtZ3dzLXdpei1zZXJwIkhjcmVkaXQgY2FyZCBjaGFyZ2UgQnVzaW5lc3MgSW5zaWRlciBJIGRvbnQgcmVjb2duaXplIGl0IHdoYXQgY291bGQgaXQgYmUyBBAeGApIs3lQtRJY6XZwBHgBkAEAmAG1AaAB0TiqAQUzNi4zNrgBA8gBAPgBAZgCS6ACwjmoAhTCAgoQABiwAxjWBBhHwgINEAAYsAMY1gQYRxjJA8ICDRAAGLADGJIDGNYEGEfCAgIQKcICEBAAGAMYtAIY6gIYjwHYAQHCAhAQLhgDGLQCGOoCGI8B2AEBwgIUEC4YgAQYkQIYxwEYigUYjgUYrwHCAhEQLhiABBiRAhjHARiKBRivAcICEBAuGIAEGNEDGEMYxwEYigXCAg0QABiABBixAxhDGIoFwgIKEC4YgAQYQxiKBcICDhAuGIAEGLEDGIMBGIoFwgIOEC4YgAQYsQMY0QMYxwHCAgsQLhiABBixAxiDAcICEBAAGIAEGLEDGEMYgwEYigXCAhAQLhiABBhDGMcBGIoFGK8BwgITEC4YgAQYQxjHARiKBRiOBRivAcICChAAGIAEGEMYigXCAgsQABiABBiRAhiKBcICERAuGIAEGLEDGNEDGIMBGMcBwgILEAAYgAQYsQMYgwHCAhYQLhiABBixAxjRAxhDGIMBGMcBGIoFwgIOEAAYgAQYsQMYgwEYigXCAgsQABiABBiSAxiKBcICCBAAGIAEGMkDwgILEC4YgAQYxwEYrwHCAggQABiABBixA8ICBBAAGAPCAgUQABiABMICBxAAGIAEGArCAgYQABgWGB7CAggQABgWGAoYHsICCxAAGIAEGIYDGIoFwgIFECEYoAHCAggQABiABBiiBMICBRAhGKsCwgIFECEYnwXCAgcQIRigARgKwgIFEAAY7wXCAgcQIRgKGKsCmAMH8QXt1D_etu7frogGAZAGB7oGBAgBGAqSBwUzNy4zOKAHu_0DsgcFMzMuMzi4B6k5wgcJMi4zMi4zOS4yyAfxAYAIAA&sclient=mobile-gws-wiz-serp,probably not important,delete,,2026-02-15T07:03:41Z
+https://talks.cam.ac.uk/show/index/128590,people,keep,,2026-02-15T07:03:41Z
+https://dl.acm.org/doi/full/10.1145/3768292.3770371,readings,delete,,2026-02-15T07:03:41Z
+https://johnplake.github.io/blog/readings.html,readings,delete,,2026-02-15T07:03:41Z
