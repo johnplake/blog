@@ -1,0 +1,11 @@
+---
+title: "Dennett’s Real Patterns in Science and Nature"
+author: "MIT Press"
+date: "2026-02-15"
+date-added: "2026-02-15"
+categories: [Books, Philosophy, Science]
+status: to-read
+url: "https://mitpress.mit.edu/9780262052030/dennetts-real-patterns-in-science-and-nature/"
+---
+
+[Book link →](https://mitpress.mit.edu/9780262052030/dennetts-real-patterns-in-science-and-nature/)
