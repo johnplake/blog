@@ -1,5 +1,9 @@
 [
   {
+    "listing": "/papers.html",
+    "items": []
+  },
+  {
     "listing": "/videos.html",
     "items": [
       "/videos/ai-and-the-digital-playlist/index.html",
@@ -57,5 +61,9 @@
       "/readings/why-isnt-modern-ai-built-around-principles/index.html",
       "/readings/bitter-lesson/index.html"
     ]
+  },
+  {
+    "listing": "/books.html",
+    "items": []
   }
 ]
