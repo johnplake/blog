@@ -8,6 +8,8 @@ listing:
   sort-ui: [title, author, date, date-added]
   filter-ui: true
   fields: [title, author, date, date-added, categories, status]
+  field-types:
+    date-added: date
   field-display-names:
     status: "Status"
     categories: "Topics"
