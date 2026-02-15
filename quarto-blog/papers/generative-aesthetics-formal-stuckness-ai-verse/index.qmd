@@ -1,0 +1,11 @@
+---
+title: "Generative Aesthetics: On formal stuckness in AI verse"
+author: "Ryan Heuser"
+date: "2025-10-10"
+date-added: "2026-02-15"
+categories: [Papers]
+status: to-read
+url: "https://culturalanalytics.org/article/id/1036/"
+---
+
+[Open paper →](https://culturalanalytics.org/article/id/1036/)
