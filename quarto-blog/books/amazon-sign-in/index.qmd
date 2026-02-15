@@ -1,0 +1,11 @@
+---
+title: "Technics and Civilization"
+author: "Lewis Mumford"
+date: "2026-02-15"
+date-added: "2026-02-15"
+categories: [Books, Technology]
+status: to-read
+url: "https://www.amazon.com/Technics-Civilization-Lewis-Mumford/dp/0226550273"
+---
+
+[Book link →](https://www.amazon.com/Technics-Civilization-Lewis-Mumford/dp/0226550273)

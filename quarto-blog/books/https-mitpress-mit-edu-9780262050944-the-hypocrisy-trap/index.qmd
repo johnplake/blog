@@ -1,0 +1,11 @@
+---
+title: "The Hypocrisy Trap"
+author: "MIT Press"
+date: "2026-02-15"
+date-added: "2026-02-15"
+categories: [Books]
+status: to-read
+url: "https://mitpress.mit.edu/9780262050944/the-hypocrisy-trap/"
+---
+
+[Book link →](https://mitpress.mit.edu/9780262050944/the-hypocrisy-trap/)

@@ -1,0 +1,11 @@
+---
+title: "How Progress Ends"
+author: "Princeton University Press"
+date: "2026-02-15"
+date-added: "2026-02-15"
+categories: [Books]
+status: to-read
+url: "https://press.princeton.edu/books/ebook/9780691235073/how-progress-ends"
+---
+
+[Book link →](https://press.princeton.edu/books/ebook/9780691235073/how-progress-ends)

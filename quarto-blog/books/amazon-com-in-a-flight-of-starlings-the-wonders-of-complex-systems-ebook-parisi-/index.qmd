@@ -1,0 +1,11 @@
+---
+title: "In a Flight of Starlings: The Wonders of Complex Systems"
+author: "Giorgio Parisi"
+date: "2026-02-15"
+date-added: "2026-02-15"
+categories: [Books, Complexity]
+status: to-read
+url: "https://www.amazon.com/dp/B0B9WM1JMW?ref_=dbs_ios_get_book"
+---
+
+[Book link →](https://www.amazon.com/dp/B0B9WM1JMW?ref_=dbs_ios_get_book)

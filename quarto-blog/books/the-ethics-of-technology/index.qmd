@@ -1,0 +1,11 @@
+---
+title: "The Ethics of Technology"
+author: "Five Books"
+date: "2026-02-15"
+date-added: "2026-02-15"
+categories: [Books]
+status: to-read
+url: "https://fivebooks.com/best-books/tech-ethics-tom-chatfield-technology/"
+---
+
+[Book link →](https://fivebooks.com/best-books/tech-ethics-tom-chatfield-technology/)

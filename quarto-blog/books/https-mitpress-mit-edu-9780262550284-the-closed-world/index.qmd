@@ -1,0 +1,11 @@
+---
+title: "The Closed World"
+author: "MIT Press"
+date: "2026-02-15"
+date-added: "2026-02-15"
+categories: [Books]
+status: to-read
+url: "https://mitpress.mit.edu/9780262550284/the-closed-world/"
+---
+
+[Book link →](https://mitpress.mit.edu/9780262550284/the-closed-world/)

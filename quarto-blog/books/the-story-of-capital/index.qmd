@@ -1,0 +1,11 @@
+---
+title: "The Story of Capital"
+author: "Verso Books"
+date: "2026-02-15"
+date-added: "2026-02-15"
+categories: [Books]
+status: to-read
+url: "https://www.versobooks.com/products/3372-the-story-of-capital"
+---
+
+[Book link →](https://www.versobooks.com/products/3372-the-story-of-capital)

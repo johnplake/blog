@@ -1,0 +1,11 @@
+---
+title: "Mechanization Takes Command"
+author: "University of Minnesota Press"
+date: "2026-02-15"
+date-added: "2026-02-15"
+categories: [Books]
+status: to-read
+url: "https://www.upress.umn.edu/9780816690435/mechanization-takes-command/"
+---
+
+[Book link →](https://www.upress.umn.edu/9780816690435/mechanization-takes-command/)
