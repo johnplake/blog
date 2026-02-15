@@ -1,0 +1,11 @@
+---
+title: "arxiv.org/2509.21547"
+author: "arxiv.org"
+date: "2026-02-15"
+date-added: "2026-02-15"
+categories: [Papers, arXiv]
+status: to-read
+url: "https://arxiv.org/pdf/2509.21547"
+---
+
+[Paper link →](https://arxiv.org/pdf/2509.21547)

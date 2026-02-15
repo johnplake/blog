@@ -1,0 +1,11 @@
+---
+title: "dl.acm.org/3759429.3762631"
+author: "dl.acm.org"
+date: "2026-02-15"
+date-added: "2026-02-15"
+categories: [Papers]
+status: to-read
+url: "https://dl.acm.org/doi/pdf/10.1145/3759429.3762631"
+---
+
+[Paper link →](https://dl.acm.org/doi/pdf/10.1145/3759429.3762631)

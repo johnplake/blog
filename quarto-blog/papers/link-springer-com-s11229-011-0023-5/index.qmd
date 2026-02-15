@@ -1,0 +1,11 @@
+---
+title: "link.springer.com/s11229-011-0023-5"
+author: "link.springer.com"
+date: "2026-02-15"
+date-added: "2026-02-15"
+categories: [Papers]
+status: to-read
+url: "https://link.springer.com/article/10.1007/s11229-011-0023-5"
+---
+
+[Paper link →](https://link.springer.com/article/10.1007/s11229-011-0023-5)

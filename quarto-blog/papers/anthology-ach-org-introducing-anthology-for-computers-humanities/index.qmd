@@ -1,0 +1,11 @@
+---
+title: "anthology.ach.org/introducing-anthology-for-computers-humanities"
+author: "ACH Anthology"
+date: "2026-02-15"
+date-added: "2026-02-15"
+categories: [Papers, Digital-Humanities]
+status: to-read
+url: "https://anthology.ach.org/volumes/vol0001/introducing-anthology-for-computers-humanities/"
+---
+
+[Paper link →](https://anthology.ach.org/volumes/vol0001/introducing-anthology-for-computers-humanities/)

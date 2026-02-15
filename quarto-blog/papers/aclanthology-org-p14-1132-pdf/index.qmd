@@ -1,0 +1,11 @@
+---
+title: "aclanthology.org/P14-1132.pdf"
+author: "ACL Anthology"
+date: "2026-02-15"
+date-added: "2026-02-15"
+categories: [Papers, NLP]
+status: to-read
+url: "https://aclanthology.org/P14-1132.pdf"
+---
+
+[Paper link →](https://aclanthology.org/P14-1132.pdf)
