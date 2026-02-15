@@ -1,0 +1,13 @@
+---
+title: "Centaurs or Butlers? Designing for Human Relationships with Non-Human Intelligences"
+author: "CogX"
+date: "2026-02-14"
+date-added: "2026-02-14"
+categories: [AI, Human-AI-Interaction]
+status: to-watch
+url: "https://www.youtube.com/watch?v=gMPbEvtRaEw"
+---
+
+Talk on designing for human relationships with non-human intelligences.
+
+[Watch →](https://www.youtube.com/watch?v=gMPbEvtRaEw)
