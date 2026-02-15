@@ -2,7 +2,7 @@
 title: "Are LLMs worth it?"
 author: "Nicholas Carlini"
 date: "2024-10-01"
-date-added: "2026-02-14"
+date-added: "2026-02-13"
 categories: [AI, LLMs, COLM]
 status: to-watch
 url: "https://www.youtube.com/watch?v=PngHcmMmwWI"
