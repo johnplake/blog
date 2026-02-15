@@ -1,7 +1,7 @@
 ---
-title: "arxiv.org/2402.15449"
-author: "arxiv.org"
-date: "2026-02-15"
+title: "Repetition Improves Language Model Embeddings"
+author: "Jacob Mitchell Springer; Suhas Kotha; Daniel Fried et al."
+date: "2024-02-23"
 date-added: "2026-02-15"
 categories: [Papers, arXiv]
 status: to-read

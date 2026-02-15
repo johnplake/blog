@@ -1,7 +1,7 @@
 ---
-title: "arxiv.org/2303.03948"
-author: "arxiv.org"
-date: "2026-02-15"
+title: "A Meta-Evaluation of Faithfulness Metrics for Long-Form Hospital-Course Summarization"
+author: "Griffin Adams; Jason Zucker; Noémie Elhadad"
+date: "2023-03-07"
 date-added: "2026-02-15"
 categories: [Papers, arXiv]
 status: to-read

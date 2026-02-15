@@ -1,7 +1,7 @@
 ---
-title: "arxiv.org/2506.05068"
-author: "arxiv.org"
-date: "2026-02-15"
+title: "Does It Make Sense to Speak of Introspection in Large Language Models?"
+author: "Iulia M. Comsa; Murray Shanahan"
+date: "2025-06-05"
 date-added: "2026-02-15"
 categories: [Papers, arXiv]
 status: to-read

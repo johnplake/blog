@@ -1,7 +1,7 @@
 ---
-title: "arxiv.org/2505.22202"
-author: "arxiv.org"
-date: "2026-02-15"
+title: "Latent Reasoning via Sentence Embedding Prediction"
+author: "Hyeonbin Hwang; Byeongguk Jeon; Seungone Kim et al."
+date: "2025-05-28"
 date-added: "2026-02-15"
 categories: [Papers, arXiv]
 status: to-read

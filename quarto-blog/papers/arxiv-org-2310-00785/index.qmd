@@ -1,7 +1,7 @@
 ---
-title: "arxiv.org/2310.00785"
-author: "arxiv.org"
-date: "2026-02-15"
+title: "BooookScore: A systematic exploration of book-length summarization in the era of LLMs"
+author: "Yapei Chang; Kyle Lo; Tanya Goyal et al."
+date: "2023-10-01"
 date-added: "2026-02-15"
 categories: [Papers, arXiv]
 status: to-read

@@ -1,7 +1,7 @@
 ---
-title: "arxiv.org/2409.02465"
-author: "arxiv.org"
-date: "2026-02-15"
+title: "DetectiveQA: Evaluating Long-Context Reasoning on Detective Novels"
+author: "Zhe Xu; Jiasheng Ye; Xiaoran Liu et al."
+date: "2024-09-04"
 date-added: "2026-02-15"
 categories: [Papers, arXiv]
 status: to-read

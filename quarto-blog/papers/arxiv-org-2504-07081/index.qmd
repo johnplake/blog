@@ -1,7 +1,7 @@
 ---
-title: "arxiv.org/2504.07081"
-author: "arxiv.org"
-date: "2026-02-15"
+title: "Self-Steering Language Models"
+author: "Gabriel Grand; Joshua B. Tenenbaum; Vikash K. Mansinghka et al."
+date: "2025-04-09"
 date-added: "2026-02-15"
 categories: [Papers, arXiv]
 status: to-read

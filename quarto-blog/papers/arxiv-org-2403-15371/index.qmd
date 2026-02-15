@@ -1,7 +1,7 @@
 ---
-title: "arxiv.org/2403.15371"
-author: "arxiv.org"
-date: "2026-02-15"
+title: "Can large language models explore in-context?"
+author: "Akshay Krishnamurthy; Keegan Harris; Dylan J. Foster et al."
+date: "2024-03-22"
 date-added: "2026-02-15"
 categories: [Papers, arXiv]
 status: to-read

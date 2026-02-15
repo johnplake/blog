@@ -1,7 +1,7 @@
 ---
-title: "arxiv.org/2505.10573"
-author: "arxiv.org"
-date: "2026-02-15"
+title: "Measurement to Meaning: A Validity-Centered Framework for AI Evaluation"
+author: "Olawale Salaudeen; Anka Reuel; Ahmed Ahmed et al."
+date: "2025-05-13"
 date-added: "2026-02-15"
 categories: [Papers, arXiv]
 status: to-read

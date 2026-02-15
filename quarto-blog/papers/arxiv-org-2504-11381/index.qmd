@@ -1,7 +1,7 @@
 ---
-title: "arxiv.org/2504.11381"
-author: "arxiv.org"
-date: "2026-02-15"
+title: "RankAlign: A Ranking View of the Generator-Validator Gap in Large Language Models"
+author: "Juan Diego Rodriguez; Wenxuan Ding; Katrin Erk et al."
+date: "2025-04-15"
 date-added: "2026-02-15"
 categories: [Papers, arXiv]
 status: to-read

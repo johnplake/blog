@@ -1,7 +1,7 @@
 ---
-title: "arxiv.org/2505.23381"
-author: "arxiv.org"
-date: "2026-02-15"
+title: "AutoGPS: Automated Geometry Problem Solving via Multimodal Formalization and Deductive Reasoning"
+author: "Bowen Ping; Minnan Luo; Zhuohang Dang et al."
+date: "2025-05-29"
 date-added: "2026-02-15"
 categories: [Papers, arXiv]
 status: to-read

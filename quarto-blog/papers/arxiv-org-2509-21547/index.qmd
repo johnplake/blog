@@ -1,7 +1,7 @@
 ---
-title: "arxiv.org/2509.21547"
-author: "arxiv.org"
-date: "2026-02-15"
+title: "Machine Learning. The Science of Selection under Uncertainty"
+author: "Yevgeny Seldin"
+date: "2025-09-25"
 date-added: "2026-02-15"
 categories: [Papers, arXiv]
 status: to-read

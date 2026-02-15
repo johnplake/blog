@@ -1,7 +1,7 @@
 ---
-title: "arxiv.org/2509.23108"
-author: "arxiv.org"
-date: "2026-02-15"
+title: "Artificial Phantasia: Evidence for Propositional Reasoning-Based Mental Imagery in Large Language Models"
+author: "Morgan McCarty; Jorge Morales"
+date: "2025-09-27"
 date-added: "2026-02-15"
 categories: [Papers, arXiv]
 status: to-read

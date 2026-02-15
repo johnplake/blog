@@ -1,7 +1,7 @@
 ---
-title: "arxiv.org/1805.04770"
-author: "arxiv.org"
-date: "2026-02-15"
+title: "Born Again Neural Networks"
+author: "Tommaso Furlanello; Zachary C. Lipton; Michael Tschannen et al."
+date: "2018-05-12"
 date-added: "2026-02-15"
 categories: [Papers, arXiv]
 status: to-read

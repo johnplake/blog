@@ -1,7 +1,7 @@
 ---
-title: "arxiv.org/2505.17080"
-author: "arxiv.org"
-date: "2026-02-15"
+title: "Not Minds, but Signs: Reframing LLMs through Semiotics"
+author: "Davide Picca"
+date: "2025-05-20"
 date-added: "2026-02-15"
 categories: [Papers, arXiv]
 status: to-read

@@ -1,7 +1,7 @@
 ---
-title: "arxiv.org/2501.09993"
-author: "arxiv.org"
-date: "2026-02-15"
+title: "Agent-as-Judge for Factual Summarization of Long Narratives"
+author: "Yeonseok Jeong; Minsoo Kim; Seung-won Hwang et al."
+date: "2025-01-17"
 date-added: "2026-02-15"
 categories: [Papers, arXiv]
 status: to-read

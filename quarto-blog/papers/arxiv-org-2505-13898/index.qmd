@@ -1,7 +1,7 @@
 ---
-title: "arxiv.org/2505.13898"
-author: "arxiv.org"
-date: "2026-02-15"
+title: "Do Language Models Use Their Depth Efficiently?"
+author: "Róbert Csordás; Christopher D. Manning; Christopher Potts"
+date: "2025-05-20"
 date-added: "2026-02-15"
 categories: [Papers, arXiv]
 status: to-read
