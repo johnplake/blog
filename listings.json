@@ -2,6 +2,10 @@
   {
     "listing": "/books.html",
     "items": [
+      "/books/arnheim-entropy-and-art/index.html",
+      "/books/birkhoff-aesthetic-measure/index.html",
+      "/books/eco-the-open-work/index.html",
+      "/books/moles-information-theory-esthetic-perception/index.html",
       "/books/amazon-com-in-a-flight-of-starlings-the-wonders-of-complex-systems-ebook-parisi-/index.html",
       "/books/amazon-sign-in/index.html",
       "/books/dennetts-real-patterns-in-science-and-nature/index.html",
@@ -27,10 +31,6 @@
     "items": [
       "/readings/machines-of-loving-grace/index.html",
       "/readings/the-third-yes/index.html",
-      "/readings/arnheim-entropy-and-art/index.html",
-      "/readings/birkhoff-aesthetic-measure/index.html",
-      "/readings/eco-the-open-work/index.html",
-      "/readings/moles-information-theory-esthetic-perception/index.html",
       "/readings/access-denied/index.html",
       "/readings/been-kim/index.html",
       "/readings/beyond-binary-rewards-rl-for-calibrated-lms/index.html",

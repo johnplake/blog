@@ -350,32 +350,39 @@
     "text": "Book link →"
   },
   {
-    "objectID": "books/mechanization-takes-command/index.html",
-    "href": "books/mechanization-takes-command/index.html",
-    "title": "Mechanization Takes Command",
+    "objectID": "books/moles-information-theory-esthetic-perception/index.html",
+    "href": "books/moles-information-theory-esthetic-perception/index.html",
+    "title": "Information Theory and Esthetic Perception",
+    "section": "",
+    "text": "A foundational work applying Claude Shannon’s information theory to aesthetics and perception. Moles argues that aesthetic experience can be understood through the lens of information—the interplay between redundancy and originality, expectation and surprise. The book formalizes how artistic messages transmit meaning through channels of varying bandwidth, treating the perceiver as an information-processing system.\nOriginally published in French as Théorie de l’information et perception esthétique (1958), this translation brought cybernetic approaches to aesthetics to an English-speaking audience. Moles was a key figure in the “information aesthetics” movement that sought to quantify and formalize artistic experience.\nFind on Internet Archive →"
+  },
+  {
+    "objectID": "books/liberalism-as-a-way-of-life/index.html",
+    "href": "books/liberalism-as-a-way-of-life/index.html",
+    "title": "Liberalism as a Way of Life",
     "section": "",
     "text": "Book link →"
   },
   {
-    "objectID": "books/introduction-to-ecological-psychology-a-lawful-approach-to-perceiving-acting-and/index.html",
-    "href": "books/introduction-to-ecological-psychology-a-lawful-approach-to-perceiving-acting-and/index.html",
-    "title": "Introduction to Ecological Psychology: A Lawful Approach to Perceiving, Acting, and Cognizing",
+    "objectID": "books/https-mitpress-mit-edu-9780262550284-the-closed-world/index.html",
+    "href": "books/https-mitpress-mit-edu-9780262550284-the-closed-world/index.html",
+    "title": "The Closed World",
     "section": "",
     "text": "Book link →"
   },
   {
-    "objectID": "books/https-mitpress-mit-edu-9780262526524-the-shape-of-actions/index.html",
-    "href": "books/https-mitpress-mit-edu-9780262526524-the-shape-of-actions/index.html",
-    "title": "The Shape of Actions",
+    "objectID": "books/https-mitpress-mit-edu-9780262050944-the-hypocrisy-trap/index.html",
+    "href": "books/https-mitpress-mit-edu-9780262050944-the-hypocrisy-trap/index.html",
+    "title": "The Hypocrisy Trap",
     "section": "",
     "text": "Book link →"
   },
   {
-    "objectID": "books/how-progress-ends/index.html",
-    "href": "books/how-progress-ends/index.html",
-    "title": "How Progress Ends",
+    "objectID": "books/encyclopedia-of-semiotics/index.html",
+    "href": "books/encyclopedia-of-semiotics/index.html",
+    "title": "Encyclopedia of Semiotics",
     "section": "",
-    "text": "Book link →"
+    "text": "eBay listing for the 1998 hardcover edition.\nBook link →"
   },
   {
     "objectID": "books/dennetts-real-patterns-in-science-and-nature/index.html",
@@ -383,6 +390,13 @@
     "title": "Dennett’s Real Patterns in Science and Nature",
     "section": "",
     "text": "Book link →"
+  },
+  {
+    "objectID": "books/arnheim-entropy-and-art/index.html",
+    "href": "books/arnheim-entropy-and-art/index.html",
+    "title": "Entropy and Art: An Essay on Disorder and Order",
+    "section": "",
+    "text": "A critical examination of information-theoretic approaches to aesthetics by the renowned Gestalt psychologist Rudolf Arnheim. While engaging seriously with the work of Moles, Birkhoff, and others who sought to formalize aesthetic experience through entropy and information, Arnheim argues that these approaches miss something essential about how humans actually perceive and create art.\nArnheim distinguishes between physical entropy (thermodynamic disorder) and perceptual order, arguing that what looks “random” mathematically may appear highly structured to human perception—and vice versa. The essay is a thoughtful corrective to overly reductive formalizations, insisting that aesthetic experience cannot be captured by information metrics alone.\nEssential reading for anyone interested in the limits of computational approaches to creativity and beauty.\nFind on Internet Archive →"
   },
   {
     "objectID": "books/amazon-com-in-a-flight-of-starlings-the-wonders-of-complex-systems-ebook-parisi-/index.html",
@@ -539,67 +553,60 @@
     "text": "Vitalik’s response/critique of the AI 2027 scenario, focusing on how the scenario treats capabilities as highly asymmetric (offense races ahead while defense lags), and exploring what changes when “both sides get AI superpowers.”\nLink: https://vitalik.eth.limo/general/2025/07/10/2027.html"
   },
   {
-    "objectID": "readings/moles-information-theory-esthetic-perception/index.html",
-    "href": "readings/moles-information-theory-esthetic-perception/index.html",
-    "title": "Information Theory and Esthetic Perception",
+    "objectID": "readings/modular-manifolds/index.html",
+    "href": "readings/modular-manifolds/index.html",
+    "title": "Modular Manifolds",
     "section": "",
-    "text": "A foundational work applying Claude Shannon’s information theory to aesthetics and perception. Moles argues that aesthetic experience can be understood through the lens of information—the interplay between redundancy and originality, expectation and surprise. The book formalizes how artistic messages transmit meaning through channels of varying bandwidth, treating the perceiver as an information-processing system.\nOriginally published in French as Théorie de l’information et perception esthétique (1958), this translation brought cybernetic approaches to aesthetics to an English-speaking audience. Moles was a key figure in the “information aesthetics” movement that sought to quantify and formalize artistic experience.\nFind on Internet Archive →"
+    "text": "A Thinking Machines post on constraining neural network weight matrices to live on manifolds (e.g., Stiefel manifold) and designing manifold-aware optimizers. Frames normalization/constraints as a way to keep tensors “healthy” and proposes the idea of modular manifolds for composing constraints in larger systems.\nRead the post →"
   },
   {
-    "objectID": "readings/mechanistic-interpretability-needs-philosophy/index.html",
-    "href": "readings/mechanistic-interpretability-needs-philosophy/index.html",
-    "title": "Mechanistic Interpretability Needs Philosophy",
+    "objectID": "readings/machines-of-loving-grace/index.html",
+    "href": "readings/machines-of-loving-grace/index.html",
+    "title": "Machines of Loving Grace",
     "section": "",
-    "text": "Position paper arguing that mechanistic interpretability should treat philosophy as an ongoing partner for clarifying concepts, methods, and the epistemic/ethical stakes of interpreting AI systems.\nRead on arXiv →"
+    "text": "Essay by Dario Amodei (Anthropic) on a positive vision for how AI could transform the world.\nRead the full essay →"
   },
   {
-    "objectID": "readings/llm-daydreaming-gwern-net/index.html",
-    "href": "readings/llm-daydreaming-gwern-net/index.html",
-    "title": "LLM Daydreaming · Gwern.net",
+    "objectID": "readings/ljmu-data-repository/index.html",
+    "href": "readings/ljmu-data-repository/index.html",
+    "title": "LJMU Data Repository",
     "section": "",
     "text": "Read →"
   },
   {
-    "objectID": "readings/large-ai-models-cultural-social-technologies/index.html",
-    "href": "readings/large-ai-models-cultural-social-technologies/index.html",
-    "title": "Large AI models are cultural and social technologies",
+    "objectID": "readings/language-modeling-by-language-models/index.html",
+    "href": "readings/language-modeling-by-language-models/index.html",
+    "title": "Language Modeling by Language Models",
     "section": "",
-    "text": "Henry Farrell’s author-posted version of the Science piece (published March 13, 2025; DOI: 10.1126/science.adt9819).\nCoauthors listed on the page: Alison Gopnik, Cosma Shalizi, and James Evans.\n\nWeb version: https://henryfarrell.net/large-ai-models-are-cultural-and-social-technologies/\nAccepted-version PDF (linked from the page): http://henryfarrell.net/wp-content/uploads/2025/03/Science-Accepted-Version.pdf"
+    "text": "Introduces Genesys, a multi-agent LLM system that simulates stages of research (ideation → review → implementation → training → evaluation) to discover new LM architectures using a genetic-programming backbone and a “Ladder of Scales” verification strategy.\nRead on arXiv →"
   },
   {
-    "objectID": "readings/lacy-small-language-models/index.html",
-    "href": "readings/lacy-small-language-models/index.html",
-    "title": "LaCy: What Small Language Models Can and Should Learn is Not Just a Question of Loss",
-    "section": "",
-    "text": "Small Language Models have limited capacity to store world knowledge, leading to factual errors. This paper asks: which tokens should an SLM learn during pretraining, and which should it delegate to an external source (larger model, database, etc.)?\nKey insight: High loss alone isn’t enough to decide when to delegate. Some high-loss tokens have acceptable alternative continuations that aren’t factually wrong—they shouldn’t trigger a &lt;CALL&gt;. The key is identifying tokens that are both high-loss and factual.\nLaCy uses a spaCy grammar parser to cheaply identify factual tokens, training SLMs to delegate these when loss is high. At inference, a &lt;CALL&gt; token triggers extraction from a cascade partner (larger model).\nResults: LaCy outperforms loss thresholding, Rho-1 learnability scores, and LLM-as-judge methods on FactScore while being simpler and cheaper.\nInteresting finding: Validation loss is not correlated with downstream factual accuracy across methods and scales.\nRead the paper →\nAuthor’s thread on Bluesky →"
-  },
-  {
-    "objectID": "readings/internalist-vs-externalist-conceptions-of-epistemic-justification-stanford-encyc/index.html",
-    "href": "readings/internalist-vs-externalist-conceptions-of-epistemic-justification-stanford-encyc/index.html",
-    "title": "Internalist vs. Externalist Conceptions of Epistemic Justification (Stanford Encyclopedia of Philosophy)",
+    "objectID": "readings/intro/index.html",
+    "href": "readings/intro/index.html",
+    "title": "Intro",
     "section": "",
     "text": "Read →"
   },
   {
-    "objectID": "readings/home/index.html",
-    "href": "readings/home/index.html",
-    "title": "Home",
+    "objectID": "readings/hr-simulator-be-the-person-you-hate/index.html",
+    "href": "readings/hr-simulator-be-the-person-you-hate/index.html",
+    "title": "HR Simulator™: Be the Person You Hate",
     "section": "",
     "text": "Read →"
   },
   {
-    "objectID": "readings/hidden-gems-simons/index.html",
-    "href": "readings/hidden-gems-simons/index.html",
-    "title": "Hidden Gems",
+    "objectID": "readings/high-value-ai-for-high-value-business/index.html",
+    "href": "readings/high-value-ai-for-high-value-business/index.html",
+    "title": "High-Value AI. For High-Value Business.",
     "section": "",
-    "text": "PDF from the Simons Institute site (title: “Hidden Gems”).\nRead the PDF →"
+    "text": "Read →"
   },
   {
-    "objectID": "readings/elusive-nature-of-consciousness/index.html",
-    "href": "readings/elusive-nature-of-consciousness/index.html",
-    "title": "The elusive nature of consciousness",
+    "objectID": "readings/error-the-request-could-not-be-satisfied/index.html",
+    "href": "readings/error-the-request-could-not-be-satisfied/index.html",
+    "title": "ERROR: The request could not be satisfied",
     "section": "",
-    "text": "Science piece (book-related, per Crossref metadata) touching on the difficulty of explaining consciousness.\nRead on Science →"
+    "text": "Read →"
   },
   {
     "objectID": "readings/deflating-hype-wont-save-us/index.html",
@@ -623,16 +630,9 @@
     "text": "Short Bluesky thread pushing back on “continual learning = weight updates” and arguing that practical continual learning for agents can happen in token/context space (memories, skills, prompts, capabilities) because it’s more portable, inspectable, and transferable across model generations.\nIncludes links to Letta posts: - Continual Learning in Token Space | Letta - Skill Learning | Letta\nRead the thread →"
   },
   {
-    "objectID": "readings/birkhoff-aesthetic-measure/index.html",
-    "href": "readings/birkhoff-aesthetic-measure/index.html",
-    "title": "Aesthetic Measure",
-    "section": "",
-    "text": "A pioneering attempt by the Harvard mathematician George David Birkhoff to create a mathematical theory of aesthetic value. Birkhoff proposed a simple formula: M = O/C, where aesthetic measure (M) equals order (O) divided by complexity (C). The more order achieved with less complexity, the higher the aesthetic value.\nThough predating Shannon’s information theory by over a decade, Birkhoff’s work anticipates information-theoretic aesthetics by framing beauty as a relationship between pattern and variety. The book applies this framework to polygons, ornaments, vases, music, and poetry—an ambitious attempt to unify aesthetic judgment across domains through mathematical formalization.\nWhile the specific formula has been criticized and refined, the book remains influential as an early example of computational/formal approaches to aesthetics.\nFind on Internet Archive →"
-  },
-  {
-    "objectID": "readings/been-kim/index.html",
-    "href": "readings/been-kim/index.html",
-    "title": "Been Kim",
+    "objectID": "readings/beyond-binary-rewards-rl-for-calibrated-lms/index.html",
+    "href": "readings/beyond-binary-rewards-rl-for-calibrated-lms/index.html",
+    "title": "Beyond Binary Rewards: RL for Calibrated LMs",
     "section": "",
     "text": "Read →"
   },
@@ -718,14 +718,14 @@
     "href": "books.html",
     "title": "Books",
     "section": "",
-    "text": "All To Read Finished\n\n\nA curated collection of books worth reading.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Author\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Added - Oldest\n      \n      \n        Added - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nIn a Flight of Starlings: The Wonders of Complex Systems\n\n\n\nBooks\n\nComplexity\n\n\n\n\n\n\nFeb 15, 2026\n\n\nGiorgio Parisi\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nTechnics and Civilization\n\n\n\nBooks\n\nTechnology\n\n\n\n\n\n\nFeb 15, 2026\n\n\nLewis Mumford\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nDennett’s Real Patterns in Science and Nature\n\n\n\nBooks\n\nPhilosophy\n\nScience\n\n\n\n\n\n\nFeb 15, 2026\n\n\nMIT Press\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nEncyclopedia of Semiotics\n\n\n\nBooks\n\nSemiotics\n\n\n\n\n\n\nJan 1, 1998\n\n\nPaul Bouissac (ed.)\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nHow Progress Ends\n\n\n\nBooks\n\n\n\n\n\n\nFeb 15, 2026\n\n\nPrinceton University Press\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Hypocrisy Trap\n\n\n\nBooks\n\n\n\n\n\n\nFeb 15, 2026\n\n\nMIT Press\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Shape of Actions\n\n\n\nBooks\n\n\n\n\n\n\nFeb 15, 2026\n\n\nMIT Press\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Closed World\n\n\n\nBooks\n\n\n\n\n\n\nFeb 15, 2026\n\n\nMIT Press\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nIntroduction to Ecological Psychology: A Lawful Approach to Perceiving, Acting, and Cognizing\n\n\n\nBooks\n\n\n\n\n\n\nFeb 15, 2026\n\n\nRoutledge\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nLiberalism as a Way of Life\n\n\n\nBooks\n\n\n\n\n\n\nFeb 15, 2026\n\n\nPrinceton University Press\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nMechanization Takes Command\n\n\n\nBooks\n\n\n\n\n\n\nFeb 15, 2026\n\n\nUniversity of Minnesota Press\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nOn Communicating: Otherness, Meaning, and Information\n\n\n\nBooks\n\n\n\n\n\n\nFeb 15, 2026\n\n\nGoodreads\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Best Narrative Nonfiction Books\n\n\n\nBooks\n\n\n\n\n\n\nFeb 15, 2026\n\n\nFive Books\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Democratic Surround: Multimedia and American Liberalism from World War II to the Psychedelic Sixties, Turner\n\n\n\nBooks\n\n\n\n\n\n\nFeb 15, 2026\n\n\nUniversity of Chicago Press\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Ethics of Technology\n\n\n\nBooks\n\n\n\n\n\n\nFeb 15, 2026\n\n\nFive Books\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Lexicon–Encyclopedia Interface\n\n\n\nBooks\n\nLinguistics\n\nSemantics\n\n\n\n\n\n\nFeb 15, 2026\n\n\nBook (ISBN: 9780080435916)\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Open Dynamics of Braitenberg Vehicles\n\n\n\nBooks\n\nCognitive-Science\n\nAI\n\n\n\n\n\n\nFeb 15, 2026\n\n\nMIT Press\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Story of Capital\n\n\n\nBooks\n\n\n\n\n\n\nFeb 15, 2026\n\n\nVerso Books\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\nNo matching items"
+    "text": "All To Read Finished\n\n\nA curated collection of books worth reading.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Author\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Added - Oldest\n      \n      \n        Added - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nEntropy and Art: An Essay on Disorder and Order\n\n\n\ninformation theory\n\naesthetics\n\nart\n\ninterpretation\n\nentropy\n\ngestalt psychology\n\ncriticism\n\n\n\n\n\n\nJan 1, 1971\n\n\nRudolf Arnheim\n\n\nFeb 16, 2026\n\n\nto-read\n\n\n\n\n\n\n\nAesthetic Measure\n\n\n\ninformation theory\n\naesthetics\n\nart\n\ninterpretation\n\nmathematics\n\nformalism\n\n\n\n\n\n\nJan 1, 1933\n\n\nGeorge David Birkhoff\n\n\nFeb 16, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Open Work\n\n\n\ninformation theory\n\naesthetics\n\nart\n\ninterpretation\n\nsemiotics\n\nliterary theory\n\n\n\n\n\n\nJan 1, 1962\n\n\nUmberto Eco\n\n\nFeb 16, 2026\n\n\nto-read\n\n\n\n\n\n\n\nInformation Theory and Esthetic Perception\n\n\n\ninformation theory\n\naesthetics\n\nart\n\ninterpretation\n\nperception\n\ncybernetics\n\n\n\n\n\n\nJan 1, 1966\n\n\nAbraham Moles\n\n\nFeb 16, 2026\n\n\nto-read\n\n\n\n\n\n\n\nIn a Flight of Starlings: The Wonders of Complex Systems\n\n\n\nBooks\n\nComplexity\n\n\n\n\n\n\nFeb 15, 2026\n\n\nGiorgio Parisi\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nTechnics and Civilization\n\n\n\nBooks\n\nTechnology\n\n\n\n\n\n\nFeb 15, 2026\n\n\nLewis Mumford\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nDennett’s Real Patterns in Science and Nature\n\n\n\nBooks\n\nPhilosophy\n\nScience\n\n\n\n\n\n\nFeb 15, 2026\n\n\nMIT Press\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nEncyclopedia of Semiotics\n\n\n\nBooks\n\nSemiotics\n\n\n\n\n\n\nJan 1, 1998\n\n\nPaul Bouissac (ed.)\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nHow Progress Ends\n\n\n\nBooks\n\n\n\n\n\n\nFeb 15, 2026\n\n\nPrinceton University Press\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Hypocrisy Trap\n\n\n\nBooks\n\n\n\n\n\n\nFeb 15, 2026\n\n\nMIT Press\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Shape of Actions\n\n\n\nBooks\n\n\n\n\n\n\nFeb 15, 2026\n\n\nMIT Press\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Closed World\n\n\n\nBooks\n\n\n\n\n\n\nFeb 15, 2026\n\n\nMIT Press\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nIntroduction to Ecological Psychology: A Lawful Approach to Perceiving, Acting, and Cognizing\n\n\n\nBooks\n\n\n\n\n\n\nFeb 15, 2026\n\n\nRoutledge\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nLiberalism as a Way of Life\n\n\n\nBooks\n\n\n\n\n\n\nFeb 15, 2026\n\n\nPrinceton University Press\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nMechanization Takes Command\n\n\n\nBooks\n\n\n\n\n\n\nFeb 15, 2026\n\n\nUniversity of Minnesota Press\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nOn Communicating: Otherness, Meaning, and Information\n\n\n\nBooks\n\n\n\n\n\n\nFeb 15, 2026\n\n\nGoodreads\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Best Narrative Nonfiction Books\n\n\n\nBooks\n\n\n\n\n\n\nFeb 15, 2026\n\n\nFive Books\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Democratic Surround: Multimedia and American Liberalism from World War II to the Psychedelic Sixties, Turner\n\n\n\nBooks\n\n\n\n\n\n\nFeb 15, 2026\n\n\nUniversity of Chicago Press\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Ethics of Technology\n\n\n\nBooks\n\n\n\n\n\n\nFeb 15, 2026\n\n\nFive Books\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Lexicon–Encyclopedia Interface\n\n\n\nBooks\n\nLinguistics\n\nSemantics\n\n\n\n\n\n\nFeb 15, 2026\n\n\nBook (ISBN: 9780080435916)\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Open Dynamics of Braitenberg Vehicles\n\n\n\nBooks\n\nCognitive-Science\n\nAI\n\n\n\n\n\n\nFeb 15, 2026\n\n\nMIT Press\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Story of Capital\n\n\n\nBooks\n\n\n\n\n\n\nFeb 15, 2026\n\n\nVerso Books\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "readings.html",
     "href": "readings.html",
     "title": "Readings",
     "section": "",
-    "text": "All To Read Finished\n\n\nA curated collection of interesting articles, essays, and papers.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Author\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Added - Oldest\n      \n      \n        Added - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nMachines of Loving Grace\n\n\n\nAI\n\nAI-policy\n\n\n\n\n\n\nOct 1, 2024\n\n\nDario Amodei\n\n\nto-read\n\n\n\n\n\n\n\nthe third Yes\n\n\n\nAI\n\nPhilosophy\n\nLanguage\n\n\n\n\n\n\nFeb 14, 2026\n\n\nDaniel Bashir\n\n\nto-read\n\n\n\n\n\n\n\nEntropy and Art: An Essay on Disorder and Order\n\n\n\ninformation theory\n\naesthetics\n\nart\n\ninterpretation\n\nentropy\n\ngestalt psychology\n\ncriticism\n\n\n\n\n\n\nJan 1, 1971\n\n\nRudolf Arnheim\n\n\nFeb 16, 2026\n\n\nto-read\n\n\n\n\n\n\n\nAesthetic Measure\n\n\n\ninformation theory\n\naesthetics\n\nart\n\ninterpretation\n\nmathematics\n\nformalism\n\n\n\n\n\n\nJan 1, 1933\n\n\nGeorge David Birkhoff\n\n\nFeb 16, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Open Work\n\n\n\ninformation theory\n\naesthetics\n\nart\n\ninterpretation\n\nsemiotics\n\nliterary theory\n\n\n\n\n\n\nJan 1, 1962\n\n\nUmberto Eco\n\n\nFeb 16, 2026\n\n\nto-read\n\n\n\n\n\n\n\nInformation Theory and Esthetic Perception\n\n\n\ninformation theory\n\naesthetics\n\nart\n\ninterpretation\n\nperception\n\ncybernetics\n\n\n\n\n\n\nJan 1, 1966\n\n\nAbraham Moles\n\n\nFeb 16, 2026\n\n\nto-read\n\n\n\n\n\n\n\nAccess Denied\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\nthereader.mitpress.mit.edu\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nBeen Kim\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\nbeenkim.github.io\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nBeyond Binary Rewards: RL for Calibrated LMs\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\nrl-calibration.github.io\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Cost of the AGI Delusion: By Chasing Superintelligence, America Is Falling Behind in the Real AI Race\n\n\n\nReadings\n\n\n\n\n\n\nSep 26, 2025\n\n\nMichael C. Horowitz\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nERROR: The request could not be satisfied\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\nwww.imperial.ac.uk\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nHigh-Value AI. For High-Value Business.\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\nembraceable.ai\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nHome\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\nsites.google.com\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nHR Simulator™: Be the Person You Hate\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\nhrsimulator.communicationgames.ai\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nInternalist vs. Externalist Conceptions of Epistemic Justification (Stanford Encyclopedia of Philosophy)\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\nplato.stanford.edu\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nIntro\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\nopencode.ai\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nLJMU Data Repository\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\nopendata.ljmu.ac.uk\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nLLM Daydreaming · Gwern.net\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\ngwern.net\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nMOSS@ICML2025\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\nsites.google.com\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nNLP 4 Democracy - COLM 2025 - Schedule\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\nsites.google.com\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\npublications\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\nahdavies6.github.io\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nQuickstart for Projects - GitHub Docs\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\ndocs.github.com\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nQuire Pricing\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\nquire.io\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nSchedule\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\ninterplay-workshop.github.io\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nSpivak CanTheSubalternSpeak.pdf\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\njan.ucc.nau.edu\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nNavigating Interpretive Spaces Across Models (Poster, ACH 2025)\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\ngithub.com\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\ntalks.cam : Making connections- brains and other complex systems\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\ntalks.cam.ac.uk\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nUnderstanding Optimization in Deep Learning with Central Flows\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\ncentralflows.github.io\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Adolescence of Technology\n\n\n\nai\n\nsafety\n\nsociety\n\n\n\n\n\n\nJan 1, 2026\n\n\nDario Amodei\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\n“AI is an attack from above on wages”: An interview with cognitive scientist Hagen Blix\n\n\n\nAI\n\nlabor\n\neconomics\n\npolitics\n\n\n\n\n\n\nOct 1, 2025\n\n\nBrian Merchant\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nAI-Driven Storytelling with Multi-Agent LLMs — Part I\n\n\n\nAI\n\nagents\n\nstorytelling\n\n\n\n\n\n\nJun 16, 2025\n\n\nFranco Hernández Piloto; Alejandro Piad Morffis\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nContinual learning in token + capability space (Bluesky thread)\n\n\n\nAI\n\nagents\n\ncontinual-learning\n\nmemory\n\n\n\n\n\n\nFeb 14, 2026\n\n\nCameron (@cameron.stream)\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nToy models for (pseudo) historical preference learning (Bluesky thread)\n\n\n\nai\n\nllms\n\n\n\n\n\n\nFeb 14, 2026\n\n\nMax Klyga\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nContext Widows\n\n\n\nAI\n\nscience\n\ninstitutions\n\nincentives\n\nmetrics\n\n\n\n\n\n\nDec 12, 2025\n\n\nKevin Baker\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nDeflating “Hype” Won’t Save Us\n\n\n\nAI\n\npolitics\n\nlabor\n\nmedia\n\n\n\n\n\n\nSep 16, 2025\n\n\nHagen Blix; Ingeborg Glimmer\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe elusive nature of consciousness\n\n\n\nconsciousness\n\nphilosophy\n\nneuroscience\n\n\n\n\n\n\nFeb 12, 2026\n\n\nNed Block\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nHidden Gems\n\n\n\nresearch\n\ntalks\n\n\n\n\n\n\nJun 1, 2025\n\n\nSimons Institute for the Theory of Computing\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nLaCy: What Small Language Models Can and Should Learn is Not Just a Question of Loss\n\n\n\nAI\n\nlanguage-models\n\nSLM\n\nfactuality\n\npretraining\n\n\n\n\n\n\nFeb 12, 2026\n\n\nSzilvia Ujváry et al.\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nLanguage Modeling by Language Models\n\n\n\nAI\n\nagents\n\nauto-ml\n\narchitecture-search\n\n\n\n\n\n\nJun 25, 2025\n\n\nJunyan Cheng et al.\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nLarge AI models are cultural and social technologies\n\n\n\nai\n\nllms\n\nsociety\n\n\n\n\n\n\nMar 13, 2025\n\n\nHenry Farrell\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nMechanistic Interpretability Needs Philosophy\n\n\n\nAI\n\ninterpretability\n\nphilosophy\n\n\n\n\n\n\nJun 23, 2025\n\n\nIwan Williams\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nModular Manifolds\n\n\n\ndeep-learning\n\noptimization\n\ngeometry\n\n\n\n\n\n\nSep 26, 2025\n\n\nJeremy Bernstein\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nMy response to AI 2027\n\n\n\nai\n\nforecasting\n\nsociety\n\n\n\n\n\n\nJul 10, 2025\n\n\nVitalik Buterin\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nBook Review: The Ordinal Society\n\n\n\nsociology\n\nrankings\n\nalgorithms\n\n\n\n\n\n\nJun 23, 2025\n\n\nLaura K. Nelson\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nPi: The Minimal Agent Within OpenClaw\n\n\n\nAI\n\nagents\n\ntooling\n\nprogramming\n\n\n\n\n\n\nJan 31, 2026\n\n\nArmin Ronacher\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nAre the Mysteries of Quantum Mechanics Beginning To Dissolve?\n\n\n\nphysics\n\nquantum-mechanics\n\n\n\n\n\n\nFeb 13, 2026\n\n\nPhilip Ball\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Resonant Computing Manifesto\n\n\n\ntechnology\n\nsociety\n\n\n\n\n\n\nFeb 14, 2026\n\n\nResonant Computing\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nTapeAgents: a Holistic Framework for Agent Development and Optimization\n\n\n\nAI\n\nagents\n\nengineering\n\n\n\n\n\n\nMay 1, 2025\n\n\nEleventhHourEnthusiast\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Texting Network for the End of the World\n\n\n\nnetworks\n\nresilience\n\nradio\n\nLoRa\n\nmeshtastic\n\n\n\n\n\n\nJun 4, 2025\n\n\nAndrew Couts; Dhruv Mehrotra\n\n\nFeb 14, 2026\n\n\nfinished\n\n\n\n\n\n\n\nWe Can Choose Not to Let AI Destroy Us\n\n\n\nAI\n\npolicy\n\neconomics\n\nsystems\n\n\n\n\n\n\nFeb 13, 2026\n\n\nJonathan V. Last\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nWhy AGI Will Not Happen\n\n\n\nai\n\nagi\n\nhardware\n\n\n\n\n\n\nDec 10, 2025\n\n\nTim Dettmers\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nWhy isn’t modern AI built around principles from cognitive science?\n\n\n\nai\n\ncognitive-science\n\nneuroscience\n\n\n\n\n\n\nDec 16, 2025\n\n\nAndrew Lampinen\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Bitter Lesson\n\n\n\nAI\n\nmachine-learning\n\nscaling\n\n\n\n\n\n\nMar 13, 2019\n\n\nRich Sutton\n\n\nFeb 13, 2026\n\n\nfinished\n\n\n\n\n\nNo matching items"
+    "text": "All To Read Finished\n\n\nA curated collection of interesting articles, essays, and papers.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Author\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Added - Oldest\n      \n      \n        Added - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nMachines of Loving Grace\n\n\n\nAI\n\nAI-policy\n\n\n\n\n\n\nOct 1, 2024\n\n\nDario Amodei\n\n\nto-read\n\n\n\n\n\n\n\nthe third Yes\n\n\n\nAI\n\nPhilosophy\n\nLanguage\n\n\n\n\n\n\nFeb 14, 2026\n\n\nDaniel Bashir\n\n\nto-read\n\n\n\n\n\n\n\nAccess Denied\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\nthereader.mitpress.mit.edu\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nBeen Kim\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\nbeenkim.github.io\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nBeyond Binary Rewards: RL for Calibrated LMs\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\nrl-calibration.github.io\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Cost of the AGI Delusion: By Chasing Superintelligence, America Is Falling Behind in the Real AI Race\n\n\n\nReadings\n\n\n\n\n\n\nSep 26, 2025\n\n\nMichael C. Horowitz\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nERROR: The request could not be satisfied\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\nwww.imperial.ac.uk\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nHigh-Value AI. For High-Value Business.\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\nembraceable.ai\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nHome\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\nsites.google.com\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nHR Simulator™: Be the Person You Hate\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\nhrsimulator.communicationgames.ai\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nInternalist vs. Externalist Conceptions of Epistemic Justification (Stanford Encyclopedia of Philosophy)\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\nplato.stanford.edu\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nIntro\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\nopencode.ai\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nLJMU Data Repository\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\nopendata.ljmu.ac.uk\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nLLM Daydreaming · Gwern.net\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\ngwern.net\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nMOSS@ICML2025\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\nsites.google.com\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nNLP 4 Democracy - COLM 2025 - Schedule\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\nsites.google.com\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\npublications\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\nahdavies6.github.io\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nQuickstart for Projects - GitHub Docs\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\ndocs.github.com\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nQuire Pricing\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\nquire.io\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nSchedule\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\ninterplay-workshop.github.io\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nSpivak CanTheSubalternSpeak.pdf\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\njan.ucc.nau.edu\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nNavigating Interpretive Spaces Across Models (Poster, ACH 2025)\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\ngithub.com\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\ntalks.cam : Making connections- brains and other complex systems\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\ntalks.cam.ac.uk\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nUnderstanding Optimization in Deep Learning with Central Flows\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\ncentralflows.github.io\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Adolescence of Technology\n\n\n\nai\n\nsafety\n\nsociety\n\n\n\n\n\n\nJan 1, 2026\n\n\nDario Amodei\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\n“AI is an attack from above on wages”: An interview with cognitive scientist Hagen Blix\n\n\n\nAI\n\nlabor\n\neconomics\n\npolitics\n\n\n\n\n\n\nOct 1, 2025\n\n\nBrian Merchant\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nAI-Driven Storytelling with Multi-Agent LLMs — Part I\n\n\n\nAI\n\nagents\n\nstorytelling\n\n\n\n\n\n\nJun 16, 2025\n\n\nFranco Hernández Piloto; Alejandro Piad Morffis\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nContinual learning in token + capability space (Bluesky thread)\n\n\n\nAI\n\nagents\n\ncontinual-learning\n\nmemory\n\n\n\n\n\n\nFeb 14, 2026\n\n\nCameron (@cameron.stream)\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nToy models for (pseudo) historical preference learning (Bluesky thread)\n\n\n\nai\n\nllms\n\n\n\n\n\n\nFeb 14, 2026\n\n\nMax Klyga\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nContext Widows\n\n\n\nAI\n\nscience\n\ninstitutions\n\nincentives\n\nmetrics\n\n\n\n\n\n\nDec 12, 2025\n\n\nKevin Baker\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nDeflating “Hype” Won’t Save Us\n\n\n\nAI\n\npolitics\n\nlabor\n\nmedia\n\n\n\n\n\n\nSep 16, 2025\n\n\nHagen Blix; Ingeborg Glimmer\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe elusive nature of consciousness\n\n\n\nconsciousness\n\nphilosophy\n\nneuroscience\n\n\n\n\n\n\nFeb 12, 2026\n\n\nNed Block\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nHidden Gems\n\n\n\nresearch\n\ntalks\n\n\n\n\n\n\nJun 1, 2025\n\n\nSimons Institute for the Theory of Computing\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nLaCy: What Small Language Models Can and Should Learn is Not Just a Question of Loss\n\n\n\nAI\n\nlanguage-models\n\nSLM\n\nfactuality\n\npretraining\n\n\n\n\n\n\nFeb 12, 2026\n\n\nSzilvia Ujváry et al.\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nLanguage Modeling by Language Models\n\n\n\nAI\n\nagents\n\nauto-ml\n\narchitecture-search\n\n\n\n\n\n\nJun 25, 2025\n\n\nJunyan Cheng et al.\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nLarge AI models are cultural and social technologies\n\n\n\nai\n\nllms\n\nsociety\n\n\n\n\n\n\nMar 13, 2025\n\n\nHenry Farrell\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nMechanistic Interpretability Needs Philosophy\n\n\n\nAI\n\ninterpretability\n\nphilosophy\n\n\n\n\n\n\nJun 23, 2025\n\n\nIwan Williams\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nModular Manifolds\n\n\n\ndeep-learning\n\noptimization\n\ngeometry\n\n\n\n\n\n\nSep 26, 2025\n\n\nJeremy Bernstein\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nMy response to AI 2027\n\n\n\nai\n\nforecasting\n\nsociety\n\n\n\n\n\n\nJul 10, 2025\n\n\nVitalik Buterin\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nBook Review: The Ordinal Society\n\n\n\nsociology\n\nrankings\n\nalgorithms\n\n\n\n\n\n\nJun 23, 2025\n\n\nLaura K. Nelson\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nPi: The Minimal Agent Within OpenClaw\n\n\n\nAI\n\nagents\n\ntooling\n\nprogramming\n\n\n\n\n\n\nJan 31, 2026\n\n\nArmin Ronacher\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nAre the Mysteries of Quantum Mechanics Beginning To Dissolve?\n\n\n\nphysics\n\nquantum-mechanics\n\n\n\n\n\n\nFeb 13, 2026\n\n\nPhilip Ball\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Resonant Computing Manifesto\n\n\n\ntechnology\n\nsociety\n\n\n\n\n\n\nFeb 14, 2026\n\n\nResonant Computing\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nTapeAgents: a Holistic Framework for Agent Development and Optimization\n\n\n\nAI\n\nagents\n\nengineering\n\n\n\n\n\n\nMay 1, 2025\n\n\nEleventhHourEnthusiast\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Texting Network for the End of the World\n\n\n\nnetworks\n\nresilience\n\nradio\n\nLoRa\n\nmeshtastic\n\n\n\n\n\n\nJun 4, 2025\n\n\nAndrew Couts; Dhruv Mehrotra\n\n\nFeb 14, 2026\n\n\nfinished\n\n\n\n\n\n\n\nWe Can Choose Not to Let AI Destroy Us\n\n\n\nAI\n\npolicy\n\neconomics\n\nsystems\n\n\n\n\n\n\nFeb 13, 2026\n\n\nJonathan V. Last\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nWhy AGI Will Not Happen\n\n\n\nai\n\nagi\n\nhardware\n\n\n\n\n\n\nDec 10, 2025\n\n\nTim Dettmers\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nWhy isn’t modern AI built around principles from cognitive science?\n\n\n\nai\n\ncognitive-science\n\nneuroscience\n\n\n\n\n\n\nDec 16, 2025\n\n\nAndrew Lampinen\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Bitter Lesson\n\n\n\nAI\n\nmachine-learning\n\nscaling\n\n\n\n\n\n\nMar 13, 2019\n\n\nRich Sutton\n\n\nFeb 13, 2026\n\n\nfinished\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -805,16 +805,9 @@
     "text": "Interview/Q&A framing AI less as a neutral productivity tool and more as a technology likely to be deployed for deskilling and wage suppression, with discussion of how “AI” narratives resonate with lived experience of algorithmic management.\nRead the post →"
   },
   {
-    "objectID": "readings/arnheim-entropy-and-art/index.html",
-    "href": "readings/arnheim-entropy-and-art/index.html",
-    "title": "Entropy and Art: An Essay on Disorder and Order",
-    "section": "",
-    "text": "A critical examination of information-theoretic approaches to aesthetics by the renowned Gestalt psychologist Rudolf Arnheim. While engaging seriously with the work of Moles, Birkhoff, and others who sought to formalize aesthetic experience through entropy and information, Arnheim argues that these approaches miss something essential about how humans actually perceive and create art.\nArnheim distinguishes between physical entropy (thermodynamic disorder) and perceptual order, arguing that what looks “random” mathematically may appear highly structured to human perception—and vice versa. The essay is a thoughtful corrective to overly reductive formalizations, insisting that aesthetic experience cannot be captured by information metrics alone.\nEssential reading for anyone interested in the limits of computational approaches to creativity and beauty.\nFind on Internet Archive →"
-  },
-  {
-    "objectID": "readings/beyond-binary-rewards-rl-for-calibrated-lms/index.html",
-    "href": "readings/beyond-binary-rewards-rl-for-calibrated-lms/index.html",
-    "title": "Beyond Binary Rewards: RL for Calibrated LMs",
+    "objectID": "readings/been-kim/index.html",
+    "href": "readings/been-kim/index.html",
+    "title": "Been Kim",
     "section": "",
     "text": "Read →"
   },
@@ -847,67 +840,60 @@
     "text": "Read the full article →"
   },
   {
-    "objectID": "readings/eco-the-open-work/index.html",
-    "href": "readings/eco-the-open-work/index.html",
-    "title": "The Open Work",
+    "objectID": "readings/elusive-nature-of-consciousness/index.html",
+    "href": "readings/elusive-nature-of-consciousness/index.html",
+    "title": "The elusive nature of consciousness",
     "section": "",
-    "text": "A landmark work in aesthetics and semiotics, The Open Work (originally Opera Aperta, 1962) argues that modern artworks are characterized by their “openness”—their capacity to be interpreted in multiple, equally valid ways. Eco draws on information theory (Shannon, Wiener) to formalize this idea: an “open work” maximizes information content and entropy by refusing closure, inviting the reader/viewer to become a co-creator of meaning.\nThe book analyzes works across media—Joyce’s prose, Stockhausen’s music, Calder’s mobiles—to show how contemporary art deliberately builds in ambiguity and indeterminacy. Rather than delivering a fixed message, open works create a “field of possibilities” that engage the audience’s active participation.\nEco’s framework has proven remarkably prescient for thinking about creativity, interpretation, and—more recently—the limitations of AI systems trained to minimize uncertainty. His insight that aesthetic value arises from productive ambiguity, not despite it, remains essential reading.\nHarvard University Press →"
+    "text": "Science piece (book-related, per Crossref metadata) touching on the difficulty of explaining consciousness.\nRead on Science →"
   },
   {
-    "objectID": "readings/error-the-request-could-not-be-satisfied/index.html",
-    "href": "readings/error-the-request-could-not-be-satisfied/index.html",
-    "title": "ERROR: The request could not be satisfied",
+    "objectID": "readings/hidden-gems-simons/index.html",
+    "href": "readings/hidden-gems-simons/index.html",
+    "title": "Hidden Gems",
+    "section": "",
+    "text": "PDF from the Simons Institute site (title: “Hidden Gems”).\nRead the PDF →"
+  },
+  {
+    "objectID": "readings/home/index.html",
+    "href": "readings/home/index.html",
+    "title": "Home",
     "section": "",
     "text": "Read →"
   },
   {
-    "objectID": "readings/high-value-ai-for-high-value-business/index.html",
-    "href": "readings/high-value-ai-for-high-value-business/index.html",
-    "title": "High-Value AI. For High-Value Business.",
+    "objectID": "readings/internalist-vs-externalist-conceptions-of-epistemic-justification-stanford-encyc/index.html",
+    "href": "readings/internalist-vs-externalist-conceptions-of-epistemic-justification-stanford-encyc/index.html",
+    "title": "Internalist vs. Externalist Conceptions of Epistemic Justification (Stanford Encyclopedia of Philosophy)",
     "section": "",
     "text": "Read →"
   },
   {
-    "objectID": "readings/hr-simulator-be-the-person-you-hate/index.html",
-    "href": "readings/hr-simulator-be-the-person-you-hate/index.html",
-    "title": "HR Simulator™: Be the Person You Hate",
+    "objectID": "readings/lacy-small-language-models/index.html",
+    "href": "readings/lacy-small-language-models/index.html",
+    "title": "LaCy: What Small Language Models Can and Should Learn is Not Just a Question of Loss",
+    "section": "",
+    "text": "Small Language Models have limited capacity to store world knowledge, leading to factual errors. This paper asks: which tokens should an SLM learn during pretraining, and which should it delegate to an external source (larger model, database, etc.)?\nKey insight: High loss alone isn’t enough to decide when to delegate. Some high-loss tokens have acceptable alternative continuations that aren’t factually wrong—they shouldn’t trigger a &lt;CALL&gt;. The key is identifying tokens that are both high-loss and factual.\nLaCy uses a spaCy grammar parser to cheaply identify factual tokens, training SLMs to delegate these when loss is high. At inference, a &lt;CALL&gt; token triggers extraction from a cascade partner (larger model).\nResults: LaCy outperforms loss thresholding, Rho-1 learnability scores, and LLM-as-judge methods on FactScore while being simpler and cheaper.\nInteresting finding: Validation loss is not correlated with downstream factual accuracy across methods and scales.\nRead the paper →\nAuthor’s thread on Bluesky →"
+  },
+  {
+    "objectID": "readings/large-ai-models-cultural-social-technologies/index.html",
+    "href": "readings/large-ai-models-cultural-social-technologies/index.html",
+    "title": "Large AI models are cultural and social technologies",
+    "section": "",
+    "text": "Henry Farrell’s author-posted version of the Science piece (published March 13, 2025; DOI: 10.1126/science.adt9819).\nCoauthors listed on the page: Alison Gopnik, Cosma Shalizi, and James Evans.\n\nWeb version: https://henryfarrell.net/large-ai-models-are-cultural-and-social-technologies/\nAccepted-version PDF (linked from the page): http://henryfarrell.net/wp-content/uploads/2025/03/Science-Accepted-Version.pdf"
+  },
+  {
+    "objectID": "readings/llm-daydreaming-gwern-net/index.html",
+    "href": "readings/llm-daydreaming-gwern-net/index.html",
+    "title": "LLM Daydreaming · Gwern.net",
     "section": "",
     "text": "Read →"
   },
   {
-    "objectID": "readings/intro/index.html",
-    "href": "readings/intro/index.html",
-    "title": "Intro",
+    "objectID": "readings/mechanistic-interpretability-needs-philosophy/index.html",
+    "href": "readings/mechanistic-interpretability-needs-philosophy/index.html",
+    "title": "Mechanistic Interpretability Needs Philosophy",
     "section": "",
-    "text": "Read →"
-  },
-  {
-    "objectID": "readings/language-modeling-by-language-models/index.html",
-    "href": "readings/language-modeling-by-language-models/index.html",
-    "title": "Language Modeling by Language Models",
-    "section": "",
-    "text": "Introduces Genesys, a multi-agent LLM system that simulates stages of research (ideation → review → implementation → training → evaluation) to discover new LM architectures using a genetic-programming backbone and a “Ladder of Scales” verification strategy.\nRead on arXiv →"
-  },
-  {
-    "objectID": "readings/ljmu-data-repository/index.html",
-    "href": "readings/ljmu-data-repository/index.html",
-    "title": "LJMU Data Repository",
-    "section": "",
-    "text": "Read →"
-  },
-  {
-    "objectID": "readings/machines-of-loving-grace/index.html",
-    "href": "readings/machines-of-loving-grace/index.html",
-    "title": "Machines of Loving Grace",
-    "section": "",
-    "text": "Essay by Dario Amodei (Anthropic) on a positive vision for how AI could transform the world.\nRead the full essay →"
-  },
-  {
-    "objectID": "readings/modular-manifolds/index.html",
-    "href": "readings/modular-manifolds/index.html",
-    "title": "Modular Manifolds",
-    "section": "",
-    "text": "A Thinking Machines post on constraining neural network weight matrices to live on manifolds (e.g., Stiefel manifold) and designing manifold-aware optimizers. Frames normalization/constraints as a way to keep tensors “healthy” and proposes the idea of modular manifolds for composing constraints in larger systems.\nRead the post →"
+    "text": "Position paper arguing that mechanistic interpretability should treat philosophy as an ongoing partner for clarifying concepts, methods, and the epistemic/ethical stakes of interpreting AI systems.\nRead on arXiv →"
   },
   {
     "objectID": "readings/moss-icml2025/index.html",
@@ -1071,30 +1057,44 @@
     "text": "Book link →"
   },
   {
-    "objectID": "books/encyclopedia-of-semiotics/index.html",
-    "href": "books/encyclopedia-of-semiotics/index.html",
-    "title": "Encyclopedia of Semiotics",
+    "objectID": "books/birkhoff-aesthetic-measure/index.html",
+    "href": "books/birkhoff-aesthetic-measure/index.html",
+    "title": "Aesthetic Measure",
     "section": "",
-    "text": "eBay listing for the 1998 hardcover edition.\nBook link →"
+    "text": "A pioneering attempt by the Harvard mathematician George David Birkhoff to create a mathematical theory of aesthetic value. Birkhoff proposed a simple formula: M = O/C, where aesthetic measure (M) equals order (O) divided by complexity (C). The more order achieved with less complexity, the higher the aesthetic value.\nThough predating Shannon’s information theory by over a decade, Birkhoff’s work anticipates information-theoretic aesthetics by framing beauty as a relationship between pattern and variety. The book applies this framework to polygons, ornaments, vases, music, and poetry—an ambitious attempt to unify aesthetic judgment across domains through mathematical formalization.\nWhile the specific formula has been criticized and refined, the book remains influential as an early example of computational/formal approaches to aesthetics.\nFind on Internet Archive →"
   },
   {
-    "objectID": "books/https-mitpress-mit-edu-9780262050944-the-hypocrisy-trap/index.html",
-    "href": "books/https-mitpress-mit-edu-9780262050944-the-hypocrisy-trap/index.html",
-    "title": "The Hypocrisy Trap",
+    "objectID": "books/eco-the-open-work/index.html",
+    "href": "books/eco-the-open-work/index.html",
+    "title": "The Open Work",
+    "section": "",
+    "text": "A landmark work in aesthetics and semiotics, The Open Work (originally Opera Aperta, 1962) argues that modern artworks are characterized by their “openness”—their capacity to be interpreted in multiple, equally valid ways. Eco draws on information theory (Shannon, Wiener) to formalize this idea: an “open work” maximizes information content and entropy by refusing closure, inviting the reader/viewer to become a co-creator of meaning.\nThe book analyzes works across media—Joyce’s prose, Stockhausen’s music, Calder’s mobiles—to show how contemporary art deliberately builds in ambiguity and indeterminacy. Rather than delivering a fixed message, open works create a “field of possibilities” that engage the audience’s active participation.\nEco’s framework has proven remarkably prescient for thinking about creativity, interpretation, and—more recently—the limitations of AI systems trained to minimize uncertainty. His insight that aesthetic value arises from productive ambiguity, not despite it, remains essential reading.\nHarvard University Press →"
+  },
+  {
+    "objectID": "books/how-progress-ends/index.html",
+    "href": "books/how-progress-ends/index.html",
+    "title": "How Progress Ends",
     "section": "",
     "text": "Book link →"
   },
   {
-    "objectID": "books/https-mitpress-mit-edu-9780262550284-the-closed-world/index.html",
-    "href": "books/https-mitpress-mit-edu-9780262550284-the-closed-world/index.html",
-    "title": "The Closed World",
+    "objectID": "books/https-mitpress-mit-edu-9780262526524-the-shape-of-actions/index.html",
+    "href": "books/https-mitpress-mit-edu-9780262526524-the-shape-of-actions/index.html",
+    "title": "The Shape of Actions",
     "section": "",
     "text": "Book link →"
   },
   {
-    "objectID": "books/liberalism-as-a-way-of-life/index.html",
-    "href": "books/liberalism-as-a-way-of-life/index.html",
-    "title": "Liberalism as a Way of Life",
+    "objectID": "books/introduction-to-ecological-psychology-a-lawful-approach-to-perceiving-acting-and/index.html",
+    "href": "books/introduction-to-ecological-psychology-a-lawful-approach-to-perceiving-acting-and/index.html",
+    "title": "Introduction to Ecological Psychology: A Lawful Approach to Perceiving, Acting, and Cognizing",
+    "section": "",
+    "text": "Book link →"
+  },
+  {
+    "objectID": "books/mechanization-takes-command/index.html",
+    "href": "books/mechanization-takes-command/index.html",
+    "title": "Mechanization Takes Command",
     "section": "",
     "text": "Book link →"
   },
