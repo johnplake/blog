@@ -1,0 +1,17 @@
+---
+title: "Aesthetic Measure"
+author: "George David Birkhoff"
+date: "1933"
+date-added: "2026-02-16"
+categories: [information theory, aesthetics, art, interpretation, mathematics, formalism]
+status: to-read
+url: "https://archive.org/details/aestheticmeasure0000birk"
+---
+
+A pioneering attempt by the Harvard mathematician George David Birkhoff to create a mathematical theory of aesthetic value. Birkhoff proposed a simple formula: **M = O/C**, where aesthetic measure (M) equals order (O) divided by complexity (C). The more order achieved with less complexity, the higher the aesthetic value.
+
+Though predating Shannon's information theory by over a decade, Birkhoff's work anticipates information-theoretic aesthetics by framing beauty as a relationship between pattern and variety. The book applies this framework to polygons, ornaments, vases, music, and poetry—an ambitious attempt to unify aesthetic judgment across domains through mathematical formalization.
+
+While the specific formula has been criticized and refined, the book remains influential as an early example of computational/formal approaches to aesthetics.
+
+[Find on Internet Archive →](https://archive.org/details/aestheticmeasure0000birk)

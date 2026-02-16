@@ -1,0 +1,17 @@
+---
+title: "Entropy and Art: An Essay on Disorder and Order"
+author: "Rudolf Arnheim"
+date: "1971"
+date-added: "2026-02-16"
+categories: [information theory, aesthetics, art, interpretation, entropy, gestalt psychology, criticism]
+status: to-read
+url: "https://archive.org/details/entropyartessayo0000arnh"
+---
+
+A critical examination of information-theoretic approaches to aesthetics by the renowned Gestalt psychologist Rudolf Arnheim. While engaging seriously with the work of Moles, Birkhoff, and others who sought to formalize aesthetic experience through entropy and information, Arnheim argues that these approaches miss something essential about how humans actually perceive and create art.
+
+Arnheim distinguishes between physical entropy (thermodynamic disorder) and perceptual order, arguing that what looks "random" mathematically may appear highly structured to human perception—and vice versa. The essay is a thoughtful corrective to overly reductive formalizations, insisting that aesthetic experience cannot be captured by information metrics alone.
+
+Essential reading for anyone interested in the limits of computational approaches to creativity and beauty.
+
+[Find on Internet Archive →](https://archive.org/details/entropyartessayo0000arnh)

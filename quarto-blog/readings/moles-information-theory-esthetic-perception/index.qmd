@@ -1,0 +1,15 @@
+---
+title: "Information Theory and Esthetic Perception"
+author: "Abraham Moles"
+date: "1966"
+date-added: "2026-02-16"
+categories: [information theory, aesthetics, art, interpretation, perception, cybernetics]
+status: to-read
+url: "https://archive.org/details/informationtheor0000mole"
+---
+
+A foundational work applying Claude Shannon's information theory to aesthetics and perception. Moles argues that aesthetic experience can be understood through the lens of information—the interplay between redundancy and originality, expectation and surprise. The book formalizes how artistic messages transmit meaning through channels of varying bandwidth, treating the perceiver as an information-processing system.
+
+Originally published in French as *Théorie de l'information et perception esthétique* (1958), this translation brought cybernetic approaches to aesthetics to an English-speaking audience. Moles was a key figure in the "information aesthetics" movement that sought to quantify and formalize artistic experience.
+
+[Find on Internet Archive →](https://archive.org/details/informationtheor0000mole)
