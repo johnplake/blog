@@ -1,0 +1,17 @@
+---
+title: "The Open Work"
+author: "Umberto Eco"
+date: "1962"
+date-added: "2026-02-16"
+categories: [information theory, aesthetics, art, interpretation, semiotics, literary theory]
+status: to-read
+url: "https://www.hup.harvard.edu/books/9780674639768"
+---
+
+A landmark work in aesthetics and semiotics, *The Open Work* (originally *Opera Aperta*, 1962) argues that modern artworks are characterized by their "openness"—their capacity to be interpreted in multiple, equally valid ways. Eco draws on information theory (Shannon, Wiener) to formalize this idea: an "open work" maximizes information content and entropy by refusing closure, inviting the reader/viewer to become a co-creator of meaning.
+
+The book analyzes works across media—Joyce's prose, Stockhausen's music, Calder's mobiles—to show how contemporary art deliberately builds in ambiguity and indeterminacy. Rather than delivering a fixed message, open works create a "field of possibilities" that engage the audience's active participation.
+
+Eco's framework has proven remarkably prescient for thinking about creativity, interpretation, and—more recently—the limitations of AI systems trained to minimize uncertainty. His insight that aesthetic value arises from productive ambiguity, not despite it, remains essential reading.
+
+[Harvard University Press →](https://www.hup.harvard.edu/books/9780674639768)
