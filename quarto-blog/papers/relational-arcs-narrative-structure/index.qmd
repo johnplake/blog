@@ -1,0 +1,23 @@
+---
+title: "Relational arcs as narrative structure: Dynamics, distribution and diachronic change in fiction"
+author: "Christou & Tsoumakas et al."
+date: "2025"
+date-added: "2026-02-16"
+categories: [computational humanities, narrative structure, digital humanities, social networks, fiction analysis, character relationships, literary theory]
+status: to-read
+url: "https://www.cambridge.org/core/journals/computational-humanities-research/article/relational-arcs-as-narrative-structure-dynamics-distribution-and-diachronic-change-in-fiction/37947D31A93A7FA276BC3E6BA67C5DFD"
+---
+
+Stories are not just chains of events—they are built from changing relationships between characters. This paper introduces the concept of **relational arcs**: the trajectories of interpersonal ties (friendships, rivalries, romances, kinship) as they rise and fall across novels' timelines.
+
+Using the Artificial Relationships in Fiction (ARF) dataset with over 120,000 annotated relationships from 96 novels (1850–1950), the authors identify recurring patterns in how ties evolve. Key findings:
+- Genres and historical periods favor different relational patterns
+- Relationships function as measurable structures of plot
+- Four principal arc shapes emerge: Rise, U-shape, Decline, and Oscillating
+- Alliance and kinship scaffold exposition; conflict peaks near climax; romance concentrates at closure
+
+The work bridges classical narratology (Aristotle, Propp, Greimas) with computational methods, showing that relationship transformations are not merely thematic features but dynamic scaffolding for narrative structure.
+
+Published in *Computational Humanities Research*, Cambridge Core, 2025.
+
+[Read at Cambridge →](https://www.cambridge.org/core/journals/computational-humanities-research/article/relational-arcs-as-narrative-structure-dynamics-distribution-and-diachronic-change-in-fiction/37947D31A93A7FA276BC3E6BA67C5DFD)
