@@ -1,0 +1,15 @@
+---
+title: "Olmix: Smart Data Mixing for Evolving Language Models"
+author: "Emergent Mind"
+date: "2026-02-17"
+categories: [ai, machine-learning, llms, data]
+status: to-read
+url: "https://www.emergentmind.com/videos/olmix-data-mixing-for-lm-development-ae6d5a8a"
+---
+
+Emergent Mind video + written script on **Olmix**, a framework for:
+
+- choosing data-mixing configurations (proxy size, swarm design, surrogate modeling), and
+- **reusing** previously-computed mixtures when domains/data evolve, reducing recomputation cost.
+
+[Read / watch on Emergent Mind →](https://www.emergentmind.com/videos/olmix-data-mixing-for-lm-development-ae6d5a8a)
