@@ -25,12 +25,10 @@
   {
     "listing": "/readings.html",
     "items": [
+      "/readings/from-atoms-to-ai-futile-search-for-a-perfect-language/index.html",
       "/readings/machines-of-loving-grace/index.html",
+      "/readings/olmix-smart-data-mixing-for-evolving-language-models/index.html",
       "/readings/the-third-yes/index.html",
-      "/readings/arnheim-entropy-and-art/index.html",
-      "/readings/birkhoff-aesthetic-measure/index.html",
-      "/readings/eco-the-open-work/index.html",
-      "/readings/moles-information-theory-esthetic-perception/index.html",
       "/readings/access-denied/index.html",
       "/readings/been-kim/index.html",
       "/readings/beyond-binary-rewards-rl-for-calibrated-lms/index.html",
