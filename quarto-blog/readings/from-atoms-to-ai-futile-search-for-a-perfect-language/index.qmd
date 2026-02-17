@@ -1,0 +1,12 @@
+---
+title: "From Atoms to AI: The Futile Search for a “Perfect” Language"
+author: "Andrea Moro"
+date: "2026-02-17"
+categories: [ai, language, linguistics, philosophy]
+status: to-read
+url: "https://thereader.mitpress.mit.edu/from-atoms-to-ai-the-futile-search-for-a-perfect-language/"
+---
+
+MIT Press Reader piece on the long-running (and likely doomed) quest for a *perfect* formal language — from early logical/atomic dreams to modern AI-era versions of the same impulse.
+
+[Read the full article →](https://thereader.mitpress.mit.edu/from-atoms-to-ai-the-futile-search-for-a-perfect-language/)
