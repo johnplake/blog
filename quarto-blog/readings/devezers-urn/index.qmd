@@ -1,0 +1,13 @@
+---
+title: "Devezer's Urn"
+author: "Ben Recht"
+date: "2026-02-18"
+date-added: "2026-02-18"
+categories: [metascience, statistics, social-science, ai]
+status: to-read
+url: "https://www.argmin.net/p/devezers-urn"
+---
+
+A critique of quantitative meta-science and the latest wave of papers using LLMs to data-mine existing publications. Responds to a political science paper claiming 98% of papers suffer from publication bias. Questions what statistical model should actually govern the generation of scientific abstracts.
+
+[Read the full article →](https://www.argmin.net/p/devezers-urn)
