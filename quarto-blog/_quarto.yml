@@ -14,6 +14,7 @@ project:
     - videos/**/index.qmd
     - books/**/index.qmd
     - papers/**/index.qmd
+    - experiments/*.qmd
 
 website:
   description: "A blog built with Quarto"
