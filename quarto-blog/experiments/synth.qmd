@@ -1,22 +1,29 @@
+---
+title: "John's Synth Lab"
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+```{=html}
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>John's Synth Lab</title>
   <style>
     * { box-sizing: border-box; margin: 0; padding: 0; }
-    body {
+    .synth-container {
       font-family: 'Courier New', monospace;
       background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
       color: #eee;
       min-height: 100vh;
       padding: 20px;
     }
-    h1 { text-align: center; margin-bottom: 20px; color: #00d4ff; }
+    .synth-container h1 { text-align: center; margin-bottom: 20px; color: #00d4ff; }
     .container { max-width: 800px; margin: 0 auto; }
     
-    /* Synth Controls */
     .panel {
       background: rgba(255,255,255,0.05);
       border-radius: 10px;
@@ -26,8 +33,7 @@
     }
     .panel h2 { margin-bottom: 15px; font-size: 14px; color: #00d4ff; }
     
-    /* Waveform selector */
-    .wave-buttons { display: flex; gap: 10px; margin-bottom: 15px; }
+    .wave-buttons { display: flex; gap: 10px; margin-bottom: 15px; flex-wrap: wrap; }
     .wave-btn {
       padding: 10px 20px;
       background: rgba(0,212,255,0.1);
@@ -42,16 +48,11 @@
       color: #1a1a2e;
     }
     
-    /* Sliders */
     .slider-group { margin-bottom: 15px; }
     .slider-group label { display: block; margin-bottom: 5px; font-size: 12px; }
-    .slider-group input[type="range"] {
-      width: 100%;
-      accent-color: #00d4ff;
-    }
+    .slider-group input[type="range"] { width: 100%; accent-color: #00d4ff; }
     .slider-value { font-size: 11px; color: #888; }
     
-    /* Sequencer Grid */
     .sequencer {
       display: grid;
       grid-template-columns: repeat(16, 1fr);
@@ -65,18 +66,18 @@
       cursor: pointer;
       transition: all 0.1s;
       border: 1px solid transparent;
+      min-width: 20px;
+      min-height: 20px;
     }
     .step:hover { background: rgba(0,212,255,0.3); }
     .step.active { background: #00d4ff; }
     .step.playing { border-color: #ff6b6b; box-shadow: 0 0 10px #ff6b6b; }
     
-    /* Note labels */
     .note-row { display: flex; align-items: center; gap: 10px; margin-bottom: 4px; }
     .note-label { width: 30px; font-size: 11px; color: #888; }
     .note-row .sequencer { flex: 1; margin-bottom: 0; }
     
-    /* Transport */
-    .transport { display: flex; gap: 10px; align-items: center; }
+    .transport { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
     .transport button {
       padding: 12px 24px;
       font-size: 16px;
@@ -91,7 +92,6 @@
     .transport button.stop { background: #ff6b6b; }
     .tempo-display { margin-left: auto; font-size: 24px; color: #00d4ff; }
     
-    /* Keyboard */
     .keyboard { display: flex; justify-content: center; gap: 2px; margin-top: 15px; }
     .key {
       width: 40px;
@@ -115,7 +115,6 @@
     .key.black:hover { background: #555; }
     .key.black:active, .key.black.pressed { background: #00d4ff; }
     
-    /* Status */
     .status {
       text-align: center;
       padding: 10px;
@@ -125,73 +124,69 @@
   </style>
 </head>
 <body>
-  <div class="container">
-    <h1>🎹 John's Synth Lab</h1>
-    
-    <!-- Synth Controls -->
-    <div class="panel">
-      <h2>OSCILLATOR</h2>
-      <div class="wave-buttons">
-        <button class="wave-btn active" data-wave="sine">Sine</button>
-        <button class="wave-btn" data-wave="square">Square</button>
-        <button class="wave-btn" data-wave="sawtooth">Saw</button>
-        <button class="wave-btn" data-wave="triangle">Triangle</button>
-      </div>
+  <div class="synth-container">
+    <div class="container">
+      <h1>🎹 John's Synth Lab</h1>
       
-      <div class="slider-group">
-        <label>Attack: <span class="slider-value" id="attackVal">0.1s</span></label>
-        <input type="range" id="attack" min="0.01" max="1" step="0.01" value="0.1">
-      </div>
-      
-      <div class="slider-group">
-        <label>Release: <span class="slider-value" id="releaseVal">0.3s</span></label>
-        <input type="range" id="release" min="0.01" max="2" step="0.01" value="0.3">
-      </div>
-      
-      <div class="slider-group">
-        <label>Filter Cutoff: <span class="slider-value" id="filterVal">2000 Hz</span></label>
-        <input type="range" id="filter" min="100" max="8000" step="100" value="2000">
-      </div>
-    </div>
-    
-    <!-- Sequencer -->
-    <div class="panel">
-      <h2>SEQUENCER (16 steps)</h2>
-      <div id="sequencerGrid"></div>
-      
-      <div class="transport">
-        <button id="playBtn">▶ Play</button>
-        <button id="stopBtn" class="stop">■ Stop</button>
-        <button id="clearBtn">Clear</button>
-        <div class="slider-group" style="width: 200px; margin: 0 20px;">
-          <label>Tempo: <span id="tempoVal">120</span> BPM</label>
-          <input type="range" id="tempo" min="60" max="200" value="120">
+      <div class="panel">
+        <h2>OSCILLATOR</h2>
+        <div class="wave-buttons">
+          <button class="wave-btn active" data-wave="sine">Sine</button>
+          <button class="wave-btn" data-wave="square">Square</button>
+          <button class="wave-btn" data-wave="sawtooth">Saw</button>
+          <button class="wave-btn" data-wave="triangle">Triangle</button>
+        </div>
+        
+        <div class="slider-group">
+          <label>Attack: <span class="slider-value" id="attackVal">0.1s</span></label>
+          <input type="range" id="attack" min="0.01" max="1" step="0.01" value="0.1">
+        </div>
+        
+        <div class="slider-group">
+          <label>Release: <span class="slider-value" id="releaseVal">0.3s</span></label>
+          <input type="range" id="release" min="0.01" max="2" step="0.01" value="0.3">
+        </div>
+        
+        <div class="slider-group">
+          <label>Filter Cutoff: <span class="slider-value" id="filterVal">2000 Hz</span></label>
+          <input type="range" id="filter" min="100" max="8000" step="100" value="2000">
         </div>
       </div>
+      
+      <div class="panel">
+        <h2>SEQUENCER (16 steps)</h2>
+        <div id="sequencerGrid"></div>
+        
+        <div class="transport">
+          <button id="playBtn">▶ Play</button>
+          <button id="stopBtn" class="stop">■ Stop</button>
+          <button id="clearBtn">Clear</button>
+          <div class="slider-group" style="width: 200px; margin: 0 20px;">
+            <label>Tempo: <span id="tempoVal">120</span> BPM</label>
+            <input type="range" id="tempo" min="60" max="200" value="120">
+          </div>
+        </div>
+      </div>
+      
+      <div class="panel">
+        <h2>KEYBOARD (click or use keys A-K)</h2>
+        <div class="keyboard" id="keyboard"></div>
+      </div>
+      
+      <div class="status" id="status">Click anywhere to enable audio</div>
     </div>
-    
-    <!-- Keyboard -->
-    <div class="panel">
-      <h2>KEYBOARD (click or use keys A-K)</h2>
-      <div class="keyboard" id="keyboard"></div>
-    </div>
-    
-    <div class="status" id="status">Click anywhere to enable audio</div>
   </div>
 
   <script>
-    // Audio Context
     let audioCtx = null;
     let masterGain = null;
     let filter = null;
     
-    // Synth settings
     let waveform = 'sine';
     let attack = 0.1;
     let release = 0.3;
     let filterFreq = 2000;
     
-    // Sequencer state
     const NOTES = ['C5', 'B4', 'A4', 'G4', 'F4', 'E4', 'D4', 'C4'];
     const NOTE_FREQS = {
       'C4': 261.63, 'D4': 293.66, 'E4': 329.63, 'F4': 349.23,
@@ -211,7 +206,6 @@
     let intervalId = null;
     let tempo = 120;
     
-    // Initialize audio
     function initAudio() {
       if (audioCtx) return;
       audioCtx = new (window.AudioContext || window.webkitAudioContext)();
@@ -225,69 +219,53 @@
       document.getElementById('status').textContent = '🎵 Audio enabled!';
     }
     
-    // Play a note
     function playNote(freq) {
       if (!audioCtx) initAudio();
-      
       const osc = audioCtx.createOscillator();
       const noteGain = audioCtx.createGain();
-      
       osc.type = waveform;
       osc.frequency.value = freq;
-      
       noteGain.gain.setValueAtTime(0, audioCtx.currentTime);
       noteGain.gain.linearRampToValueAtTime(0.5, audioCtx.currentTime + attack);
       noteGain.gain.linearRampToValueAtTime(0, audioCtx.currentTime + attack + release);
-      
       osc.connect(noteGain);
       noteGain.connect(filter);
-      
       osc.start();
       osc.stop(audioCtx.currentTime + attack + release + 0.1);
     }
     
-    // Build sequencer grid
     function buildSequencer() {
       const grid = document.getElementById('sequencerGrid');
       grid.innerHTML = '';
-      
       NOTES.forEach((note, rowIdx) => {
         const row = document.createElement('div');
         row.className = 'note-row';
-        
         const label = document.createElement('div');
         label.className = 'note-label';
         label.textContent = note;
         row.appendChild(label);
-        
         const seq = document.createElement('div');
         seq.className = 'sequencer';
-        
         for (let step = 0; step < 16; step++) {
           const cell = document.createElement('div');
           cell.className = 'step';
           cell.dataset.row = rowIdx;
           cell.dataset.step = step;
           if (sequence[rowIdx][step]) cell.classList.add('active');
-          
           cell.addEventListener('click', () => {
             sequence[rowIdx][step] = !sequence[rowIdx][step];
             cell.classList.toggle('active');
           });
-          
           seq.appendChild(cell);
         }
-        
         row.appendChild(seq);
         grid.appendChild(row);
       });
     }
     
-    // Build keyboard
     function buildKeyboard() {
       const kb = document.getElementById('keyboard');
       kb.innerHTML = '';
-      
       KEYBOARD_NOTES.forEach(note => {
         const key = document.createElement('div');
         key.className = 'key' + (note.includes('#') ? ' black' : '');
@@ -302,21 +280,12 @@
       });
     }
     
-    // Sequencer playback
     function tick() {
-      // Clear previous step highlight
       document.querySelectorAll('.step.playing').forEach(el => el.classList.remove('playing'));
-      
-      // Highlight current step
-      document.querySelectorAll(`.step[data-step="${currentStep}"]`).forEach(el => el.classList.add('playing'));
-      
-      // Play notes for this step
+      document.querySelectorAll('.step[data-step="' + currentStep + '"]').forEach(el => el.classList.add('playing'));
       NOTES.forEach((note, rowIdx) => {
-        if (sequence[rowIdx][currentStep]) {
-          playNote(NOTE_FREQS[note]);
-        }
+        if (sequence[rowIdx][currentStep]) playNote(NOTE_FREQS[note]);
       });
-      
       currentStep = (currentStep + 1) % 16;
     }
     
@@ -324,7 +293,7 @@
       if (isPlaying) return;
       if (!audioCtx) initAudio();
       isPlaying = true;
-      const msPerStep = (60 / tempo) * 1000 / 4; // 16th notes
+      const msPerStep = (60 / tempo) * 1000 / 4;
       intervalId = setInterval(tick, msPerStep);
       document.getElementById('playBtn').textContent = '▶ Playing...';
     }
@@ -342,7 +311,6 @@
       document.querySelectorAll('.step.active').forEach(el => el.classList.remove('active'));
     }
     
-    // Event listeners
     document.querySelectorAll('.wave-btn').forEach(btn => {
       btn.addEventListener('click', () => {
         document.querySelectorAll('.wave-btn').forEach(b => b.classList.remove('active'));
@@ -370,38 +338,32 @@
     document.getElementById('tempo').addEventListener('input', e => {
       tempo = parseInt(e.target.value);
       document.getElementById('tempoVal').textContent = tempo;
-      if (isPlaying) {
-        stopSequencer();
-        startSequencer();
-      }
+      if (isPlaying) { stopSequencer(); startSequencer(); }
     });
     
     document.getElementById('playBtn').addEventListener('click', startSequencer);
     document.getElementById('stopBtn').addEventListener('click', stopSequencer);
     document.getElementById('clearBtn').addEventListener('click', clearSequencer);
     
-    // Keyboard input
     document.addEventListener('keydown', e => {
       if (KEY_MAP[e.key] && !e.repeat) {
         const note = KEY_MAP[e.key];
         playNote(KEYBOARD_FREQS[note]);
-        document.querySelector(`.key[data-note="${note}"]`)?.classList.add('pressed');
+        document.querySelector('.key[data-note="' + note + '"]')?.classList.add('pressed');
       }
     });
     
     document.addEventListener('keyup', e => {
       if (KEY_MAP[e.key]) {
         const note = KEY_MAP[e.key];
-        document.querySelector(`.key[data-note="${note}"]`)?.classList.remove('pressed');
+        document.querySelector('.key[data-note="' + note + '"]')?.classList.remove('pressed');
       }
     });
     
-    // Click to enable audio
     document.addEventListener('click', initAudio, { once: true });
-    
-    // Initialize
     buildSequencer();
     buildKeyboard();
   </script>
 </body>
 </html>
+```
