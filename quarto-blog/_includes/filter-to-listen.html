@@ -1,0 +1,28 @@
+<div class="status-filter">
+  <button class="status-btn active" onclick="filterByStatus('all')">All</button>
+  <button class="status-btn" onclick="filterByStatus('to-listen')">To Listen</button>
+  <button class="status-btn" onclick="filterByStatus('finished')">Finished</button>
+</div>
+
+<script>
+function filterByStatus(status) {
+  // Update button states
+  document.querySelectorAll('.status-btn').forEach(btn => {
+    btn.classList.remove('active');
+  });
+  event.target.classList.add('active');
+  
+  // Filter listings
+  const items = document.querySelectorAll('.quarto-post');
+  
+  items.forEach(item => {
+    if (status === 'all') {
+      item.style.display = '';
+    } else {
+      const statusBadge = item.querySelector('.listing-status');
+      const itemStatus = statusBadge ? statusBadge.textContent.trim().toLowerCase() : '';
+      item.style.display = itemStatus === status ? '' : 'none';
+    }
+  });
+}
+</script>

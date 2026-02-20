@@ -1,0 +1,26 @@
+---
+title: "How to change a memory"
+author: "Steve Ramirez"
+host: "Amory Sivertson"
+show: "On Point (WBUR/NPR)"
+date: "2026-02-19"
+date-added: "2026-02-20"
+categories: [neuroscience, memory, psychology, brain-science]
+status: finished
+url: "https://www.wbur.org/onpoint/2026/02/19/how-to-change-a-memory-neuroscientist"
+---
+
+Neuroscientist Steve Ramirez discusses his groundbreaking research on memory manipulation and his book "How to Change a Memory: One Neuroscientist's Quest to Alter the Past."
+
+**Key topics:**
+- Artificially activating memories in mice using optogenetics (lasers + genetically engineered neurons)
+- Successfully reversing depression symptoms by activating positive memories
+- How memories are malleable ("like lava that melts and hardens into new shapes")
+- Restoring memories thought lost to Alzheimer's, traumatic brain injury, sleep deprivation
+- Ethical implications of memory manipulation (MK Ultra comparison)
+- His late lab partner Xu Liu and how grief shaped his understanding of memory
+- Personal struggles with addiction after Xu's death
+
+**Quote:** "Memory is the thing that threads and unifies our overall sense of being and our sense of identity."
+
+[Listen →](https://www.wbur.org/onpoint/2026/02/19/how-to-change-a-memory-neuroscientist)

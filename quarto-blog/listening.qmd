@@ -1,7 +1,7 @@
 ---
-title: "Books"
+title: "Listening"
 listing:
-  contents: books
+  contents: listening
   sort: "date-added desc"
   type: default
   categories: true
@@ -21,6 +21,6 @@ page-layout: full
 {{< include _includes/listing-styles.css >}}
 </style>
 
-{{< include _includes/filter-to-read.html >}}
+{{< include _includes/filter-to-listen.html >}}
 
-A curated collection of books worth reading.
+A curated collection of podcasts, radio interviews, and audio worth listening to.
