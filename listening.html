@@ -263,6 +263,24 @@ window.Quarto = {
 <p><button class="status-btn active" onclick="filterByStatus('all')">All</button> <button class="status-btn" onclick="filterByStatus('to-listen')">To Listen</button> <button class="status-btn" onclick="filterByStatus('finished')">Finished</button></p>
 </div>
 <script>
+// Load status mappings for listening
+document.addEventListener('DOMContentLoaded', function() {
+  fetch('listening-status.json')
+    .then(response => response.json())
+    .then(statusMap => {
+      document.querySelectorAll('.quarto-post').forEach(item => {
+        const link = item.querySelector('.listing-title a');
+        if (link) {
+          const href = link.getAttribute('href');
+          const status = statusMap[href];
+          if (status) {
+            item.dataset.status = status;
+          }
+        }
+      });
+    });
+});
+
 function filterByStatus(status) {
   // Update button states
   document.querySelectorAll('.status-btn').forEach(btn => {
@@ -277,8 +295,7 @@ function filterByStatus(status) {
     if (status === 'all') {
       item.style.display = '';
     } else {
-      const statusBadge = item.querySelector('.listing-status');
-      const itemStatus = statusBadge ? statusBadge.textContent.trim().toLowerCase() : '';
+      const itemStatus = item.dataset.status || '';
       item.style.display = itemStatus === status ? '' : 'none';
     }
   });
@@ -322,7 +339,7 @@ function filterByStatus(status) {
     </div>
 </div>
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="bmV1cm9zY2llbmNlJTJDbWVtb3J5JTJDcHN5Y2hvbG9neSUyQ2JyYWluLXNjaWVuY2U=" data-listing-date-sort="1771459200000" data-listing-file-modified-sort="1771559109746" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="118" data-listing-date-added-sort="2026-02-20">
+<div class="quarto-post image-right" data-index="0" data-categories="bmV1cm9zY2llbmNlJTJDbWVtb3J5JTJDcHN5Y2hvbG9neSUyQ2JyYWluLXNjaWVuY2U=" data-listing-date-sort="1771459200000" data-listing-file-modified-sort="1771559756815" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="118" data-listing-date-added-sort="2026-02-20">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./listening/how-to-change-a-memory/index.html" class="no-external">How to change a memory</a>
