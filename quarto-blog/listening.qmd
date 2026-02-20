@@ -18,43 +18,7 @@ page-layout: full
 ---
 
 <style>
-/* Hide date-added from display but keep it sortable */
-.listing-date-added {
-  display: none !important;
-}
-
-.status-filter {
-  display: flex;
-  gap: 0.75rem;
-  margin-bottom: 2rem;
-  justify-content: center;
-}
-
-.status-btn {
-  padding: 0.5rem 1.5rem;
-  border: 2px solid #dee2e6;
-  background: white;
-  color: #495057;
-  border-radius: 0.5rem;
-  cursor: pointer;
-  font-weight: 500;
-  transition: all 0.2s ease;
-  font-size: 0.95rem;
-}
-
-.status-btn:hover {
-  border-color: #0d6efd;
-  color: #0d6efd;
-  transform: translateY(-1px);
-  box-shadow: 0 2px 8px rgba(13, 110, 253, 0.15);
-}
-
-.status-btn.active {
-  background: #0d6efd;
-  border-color: #0d6efd;
-  color: white;
-  box-shadow: 0 2px 8px rgba(13, 110, 253, 0.3);
-}
+{{< include _includes/listing-styles.css >}}
 </style>
 
 <div class="status-filter">
@@ -64,30 +28,7 @@ page-layout: full
 </div>
 
 <script>
-function filterByStatus(status) {
-  // Update button states
-  document.querySelectorAll('.status-btn').forEach(btn => {
-    btn.classList.remove('active');
-  });
-  event.target.classList.add('active');
-  
-  // Find the Quarto list.js instance
-  const listingEl = document.querySelector('.quarto-listing');
-  if (!listingEl) return;
-  const listingId = listingEl.id;
-  const list = window['quarto-listings'] && window['quarto-listings'][listingId];
-  
-  if (list) {
-    if (status === 'all') {
-      list.filter(); // Clear filter
-    } else {
-      list.filter(function(item) {
-        const statusVal = item.values()['listing-status'];
-        return statusVal && statusVal.trim().toLowerCase() === status;
-      });
-    }
-  }
-}
+{{< include _includes/status-filter.js >}}
 </script>
 
 A curated collection of podcasts, audiobooks, and audio content worth listening to.
