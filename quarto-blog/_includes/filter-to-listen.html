@@ -5,6 +5,24 @@
 </div>
 
 <script>
+// Load status mappings for listening
+document.addEventListener('DOMContentLoaded', function() {
+  fetch('listening-status.json')
+    .then(response => response.json())
+    .then(statusMap => {
+      document.querySelectorAll('.quarto-post').forEach(item => {
+        const link = item.querySelector('.listing-title a');
+        if (link) {
+          const href = link.getAttribute('href');
+          const status = statusMap[href];
+          if (status) {
+            item.dataset.status = status;
+          }
+        }
+      });
+    });
+});
+
 function filterByStatus(status) {
   // Update button states
   document.querySelectorAll('.status-btn').forEach(btn => {
@@ -19,8 +37,7 @@ function filterByStatus(status) {
     if (status === 'all') {
       item.style.display = '';
     } else {
-      const statusBadge = item.querySelector('.listing-status');
-      const itemStatus = statusBadge ? statusBadge.textContent.trim().toLowerCase() : '';
+      const itemStatus = item.dataset.status || '';
       item.style.display = itemStatus === status ? '' : 'none';
     }
   });

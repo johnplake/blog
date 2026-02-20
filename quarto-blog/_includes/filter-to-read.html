@@ -5,6 +5,36 @@
 </div>
 
 <script>
+// Determine which status file to load based on page
+const statusFiles = {
+  'readings.html': 'reading-status.json',
+  'books.html': 'book-status.json',
+  'papers.html': 'paper-status.json'
+};
+
+const pageName = window.location.pathname.split('/').pop();
+const statusFile = statusFiles[pageName];
+
+// Load status mappings and populate badges
+if (statusFile) {
+  document.addEventListener('DOMContentLoaded', function() {
+    fetch(statusFile)
+      .then(response => response.json())
+      .then(statusMap => {
+        document.querySelectorAll('.quarto-post').forEach(item => {
+          const link = item.querySelector('.listing-title a');
+          if (link) {
+            const href = link.getAttribute('href');
+            const status = statusMap[href];
+            if (status) {
+              item.dataset.status = status;
+            }
+          }
+        });
+      });
+  });
+}
+
 function filterByStatus(status) {
   // Update button states
   document.querySelectorAll('.status-btn').forEach(btn => {
@@ -19,8 +49,7 @@ function filterByStatus(status) {
     if (status === 'all') {
       item.style.display = '';
     } else {
-      const statusBadge = item.querySelector('.listing-status');
-      const itemStatus = statusBadge ? statusBadge.textContent.trim().toLowerCase() : '';
+      const itemStatus = item.dataset.status || '';
       item.style.display = itemStatus === status ? '' : 'none';
     }
   });
