@@ -7,11 +7,13 @@ project:
     - links.qmd
     - readings.qmd
     - videos.qmd
+    - listening.qmd
     - books.qmd
     - papers.qmd
     - posts/**/index.qmd
     - readings/**/index.qmd
     - videos/**/index.qmd
+    - listening/**/index.qmd
     - books/**/index.qmd
     - papers/**/index.qmd
     - experiments/*.qmd
@@ -25,6 +27,7 @@ website:
       - about.qmd
       - readings.qmd
       - videos.qmd
+      - listening.qmd
       - books.qmd
       - papers.qmd
       - links.qmd
