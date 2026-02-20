@@ -266,18 +266,22 @@ function filterByStatus(status) {
   });
   event.target.classList.add('active');
   
-  // Filter listings
-  const items = document.querySelectorAll('.quarto-post');
+  // Find the Quarto list.js instance
+  const listingEl = document.querySelector('.quarto-listing');
+  if (!listingEl) return;
+  const listingId = listingEl.id;
+  const list = window['quarto-listing-' + listingId];
   
-  items.forEach(item => {
+  if (list) {
     if (status === 'all') {
-      item.style.display = '';
+      list.filter(); // Clear filter
     } else {
-      const statusBadge = item.querySelector('.listing-status');
-      const itemStatus = statusBadge ? statusBadge.textContent.trim().toLowerCase() : '';
-      item.style.display = itemStatus === status ? '' : 'none';
+      list.filter(function(item) {
+        const statusVal = item.values()['listing-status'];
+        return statusVal && statusVal.trim().toLowerCase() === status;
+      });
     }
-  });
+  }
 }
 </script>
 <p>A curated collection of interesting articles, essays, and papers.</p>

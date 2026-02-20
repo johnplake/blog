@@ -75,7 +75,7 @@ function filterByStatus(status) {
   const listingEl = document.querySelector('.quarto-listing');
   if (!listingEl) return;
   const listingId = listingEl.id;
-  const list = window['quarto-listing-' + listingId];
+  const list = window['quarto-listings'] && window['quarto-listings'][listingId];
   
   if (list) {
     if (status === 'all') {
