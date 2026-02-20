@@ -164,10 +164,6 @@ window.Quarto = {
 <span class="menu-text">Videos</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./listening.html"> 
-<span class="menu-text">Listening</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="./books.html"> 
 <span class="menu-text">Books</span></a>
   </li>  
@@ -258,42 +254,11 @@ window.Quarto = {
   color: white;
   box-shadow: 0 2px 8px rgba(13, 110, 253, 0.3);
 }
-
 </style>
 <div class="status-filter">
 <p><button class="status-btn active" onclick="filterByStatus('all')">All</button> <button class="status-btn" onclick="filterByStatus('to-read')">To Read</button> <button class="status-btn" onclick="filterByStatus('finished')">Finished</button></p>
 </div>
 <script>
-// Determine which status file to load based on page
-const statusFiles = {
-  'readings.html': 'reading-status.json',
-  'books.html': 'book-status.json',
-  'papers.html': 'paper-status.json'
-};
-
-const pageName = window.location.pathname.split('/').pop();
-const statusFile = statusFiles[pageName];
-
-// Load status mappings and populate badges
-if (statusFile) {
-  document.addEventListener('DOMContentLoaded', function() {
-    fetch(statusFile)
-      .then(response => response.json())
-      .then(statusMap => {
-        document.querySelectorAll('.quarto-post').forEach(item => {
-          const link = item.querySelector('.listing-title a');
-          if (link) {
-            const href = link.getAttribute('href');
-            const status = statusMap[href];
-            if (status) {
-              item.dataset.status = status;
-            }
-          }
-        });
-      });
-  });
-}
-
 function filterByStatus(status) {
   // Update button states
   document.querySelectorAll('.status-btn').forEach(btn => {
@@ -308,7 +273,8 @@ function filterByStatus(status) {
     if (status === 'all') {
       item.style.display = '';
     } else {
-      const itemStatus = item.dataset.status || '';
+      const statusBadge = item.querySelector('.listing-status');
+      const itemStatus = statusBadge ? statusBadge.textContent.trim().toLowerCase() : '';
       item.style.display = itemStatus === status ? '' : 'none';
     }
   });
