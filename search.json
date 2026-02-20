@@ -420,361 +420,270 @@
     "text": "Book link →"
   },
   {
-    "objectID": "videos/the-physics-of-dissonance/index.html",
-    "href": "videos/the-physics-of-dissonance/index.html",
-    "title": "The Physics Of Dissonance",
+    "objectID": "videos/the-dynamic-mind-an-architectural-blueprint/index.html",
+    "href": "videos/the-dynamic-mind-an-architectural-blueprint/index.html",
+    "title": "The Dynamic Mind - An Architectural Blueprint",
     "section": "",
     "text": "Watch \u00136"
   },
   {
-    "objectID": "videos/simons-llm-transformers-videos/index.html",
-    "href": "videos/simons-llm-transformers-videos/index.html",
-    "title": "Large Language Models and Transformers (Simons Institute)",
+    "objectID": "videos/richard-sutton-llms-dead-end/index.html",
+    "href": "videos/richard-sutton-llms-dead-end/index.html",
+    "title": "Richard Sutton – Father of RL thinks LLMs are a dead end",
     "section": "",
-    "text": "Talk videos from the Simons Institute workshop “Large Language Models and Transformers” (Aug 14–18, 2023).\nWatch →"
+    "text": "Interview/conversation with Richard Sutton (“The Bitter Lesson”) on reinforcement learning, agents, and why he thinks LLMs are a dead end.\nWatch →"
   },
   {
-    "objectID": "videos/philip-resnik-naacl-srw-2025-keynote/index.html",
-    "href": "videos/philip-resnik-naacl-srw-2025-keynote/index.html",
-    "title": "Keynote: Philip Resnik (NAACL SRW 2025)",
+    "objectID": "videos/osbert-tay-language-modeling-tutorial/index.html",
+    "href": "videos/osbert-tay-language-modeling-tutorial/index.html",
+    "title": "Language Modeling: A Tutorial on Data Preparation, Model Training, and Adaptation",
     "section": "",
-    "text": "Zoom recording of Philip Resnik’s keynote at SRW @ NAACL 2025.\nWatch →"
+    "text": "A tutorial-style talk covering language modeling workflow end-to-end.\nWatch →"
   },
   {
-    "objectID": "videos/non-euclidean-worlds-engine/index.html",
-    "href": "videos/non-euclidean-worlds-engine/index.html",
-    "title": "Non-Euclidean Worlds Engine",
+    "objectID": "videos/mitcbmm-language-models-world-models/index.html",
+    "href": "videos/mitcbmm-language-models-world-models/index.html",
+    "title": "Language Models as World Models",
     "section": "",
-    "text": "Watch \u00136"
+    "text": "MIT CBMM talk exploring the “language models as world models” framing.\nWatch →"
   },
   {
-    "objectID": "videos/kempner-frontiers-neuroai-talks/index.html",
-    "href": "videos/kempner-frontiers-neuroai-talks/index.html",
-    "title": "Frontiers in NeuroAI — Talk Recordings",
+    "objectID": "videos/ilfc-seminar-monthly/index.html",
+    "href": "videos/ilfc-seminar-monthly/index.html",
+    "title": "Monthly Online ILFC Seminar",
     "section": "",
-    "text": "Recordings of full talks from Frontiers in NeuroAI (June 5–6, 2025).\nWatch →"
+    "text": "Monthly online seminar on interactions between formal and computational linguistics (includes recorded talks/links).\nWatch →"
   },
   {
-    "objectID": "videos/how-to-see-the-4th-dimension-with-topology/index.html",
-    "href": "videos/how-to-see-the-4th-dimension-with-topology/index.html",
-    "title": "How to ‘See’ the 4th Dimension with Topology",
-    "section": "",
-    "text": "Watch \u00136"
-  },
-  {
-    "objectID": "videos/chao-huang-llms-to-agents/index.html",
-    "href": "videos/chao-huang-llms-to-agents/index.html",
-    "title": "From LLMs to Agents: Challenges and Opportunities",
-    "section": "",
-    "text": "Talk by Chao Huang on the transition from LLMs to agentic systems.\nWatch →"
-  },
-  {
-    "objectID": "videos/carlini-are-llms-worth-it/index.html",
-    "href": "videos/carlini-are-llms-worth-it/index.html",
-    "title": "Are LLMs worth it?",
-    "section": "",
-    "text": "Nicholas Carlini’s talk at the Conference on Language Modeling (COLM) examining whether large language models are worth the investment and resources they require.\nWatch →"
-  },
-  {
-    "objectID": "videos/amy-zhang-rldm-2022/index.html",
-    "href": "videos/amy-zhang-rldm-2022/index.html",
-    "title": "RLDM 2022 Talk",
-    "section": "",
-    "text": "Amy Zhang’s talk at RLDM 2022 (Panopto recording).\nWatch →"
-  },
-  {
-    "objectID": "videos/ai-scientific-discovery-seminar-channel/index.html",
-    "href": "videos/ai-scientific-discovery-seminar-channel/index.html",
-    "title": "AI & Scientific Discovery Seminar (YouTube channel)",
-    "section": "",
-    "text": "YouTube channel for the AI & Scientific Discovery Seminar series.\nWatch →"
-  },
-  {
-    "objectID": "videos/4d-toys-update-rotating-the-3d-slice-face-projections-marble-scenes-every-new-fe/index.html",
-    "href": "videos/4d-toys-update-rotating-the-3d-slice-face-projections-marble-scenes-every-new-fe/index.html",
-    "title": "4D Toys Update: Rotating the 3D Slice, Face Projections, Marble scenes + Every new feature",
+    "objectID": "videos/featured-former-fellow-samuel-schindler-11-21-25/index.html",
+    "href": "videos/featured-former-fellow-samuel-schindler-11-21-25/index.html",
+    "title": "Featured Former Fellow - Samuel Schindler 11/21/25",
     "section": "",
     "text": "Watch \u00136"
   },
   {
-    "objectID": "readings/why-isnt-modern-ai-built-around-principles/index.html",
-    "href": "readings/why-isnt-modern-ai-built-around-principles/index.html",
-    "title": "Why isn’t modern AI built around principles from cognitive science?",
+    "objectID": "videos/centaurs-or-butlers-cogx/index.html",
+    "href": "videos/centaurs-or-butlers-cogx/index.html",
+    "title": "Centaurs or Butlers? Designing for Human Relationships with Non-Human Intelligences",
     "section": "",
-    "text": "Post kicking off a series on AI ↔︎ cognitive science, with a historical perspective on why recent AI progress has been driven more by compute/data/engineering and ML-centric architectural innovation than by cognitive/neuroscience principles.\nLink: https://infinitefaculty.substack.com/p/why-isnt-modern-ai-built-around-principles"
+    "text": "Talk on designing for human relationships with non-human intelligences.\nWatch →"
   },
   {
-    "objectID": "readings/we-can-choose-not-to-let-ai-destroy-us/index.html",
-    "href": "readings/we-can-choose-not-to-let-ai-destroy-us/index.html",
-    "title": "We Can Choose Not to Let AI Destroy Us",
+    "objectID": "videos/cameron-buckner-language-models-reasoning/index.html",
+    "href": "videos/cameron-buckner-language-models-reasoning/index.html",
+    "title": "Language Models as Models of Human Reasoning",
     "section": "",
-    "text": "A Bulwark/Triad essay arguing that the central risk from AI may be speed: rapid adoption could create a macroeconomic shock (job displacement → reduced consumption → cascading demand collapse) that complex social/economic systems may not adapt to quickly.\nIt also emphasizes that society can choose regulatory constraints on where/when machine labor is permitted—i.e., “we have agency,” and don’t have to accept a dystopian default.\nRead the full article →"
+    "text": "CogIST webinar talk by Cameron Buckner on language models and human reasoning.\nWatch →"
   },
   {
-    "objectID": "readings/the-third-yes/index.html",
-    "href": "readings/the-third-yes/index.html",
-    "title": "the third Yes",
+    "objectID": "videos/american-conversations-technology-reporter-gil-duran/index.html",
+    "href": "videos/american-conversations-technology-reporter-gil-duran/index.html",
+    "title": "American Conversations: Technology Reporter Gil Duran",
     "section": "",
-    "text": "Substack essay touching on representation geometry, ontology, and debates around “world models” in LLM discourse.\nRead the full article →"
+    "text": "Watch \u00136"
   },
   {
-    "objectID": "readings/tapeagents-framework-review/index.html",
-    "href": "readings/tapeagents-framework-review/index.html",
-    "title": "TapeAgents: a Holistic Framework for Agent Development and Optimization",
+    "objectID": "videos/ai-and-the-digital-playlist/index.html",
+    "href": "videos/ai-and-the-digital-playlist/index.html",
+    "title": "AI & the Digital (YouTube playlist)",
     "section": "",
-    "text": "Medium post reviewing TapeAgents (Bahdanau et al.): a framework for agent development built around a structured “tape” (session log/state) to support persistence, auditing, debugging, and hierarchical delegation.\nRead the post →"
+    "text": "YouTube playlist: “AI & the Digital.” (Publish dates vary by video.)\nWatch →"
   },
   {
-    "objectID": "readings/stine-deitrick-navigating-interpretive-spaces-across-models-poster-pdf-at-main-z/index.html",
-    "href": "readings/stine-deitrick-navigating-interpretive-spaces-across-models-poster-pdf-at-main-z/index.html",
-    "title": "Navigating Interpretive Spaces Across Models (Poster, ACH 2025)",
+    "objectID": "videos/20-minutes-of-useless-information-about-gta-san-andreas/index.html",
+    "href": "videos/20-minutes-of-useless-information-about-gta-san-andreas/index.html",
+    "title": "20 Minutes of Useless Information about GTA San Andreas",
     "section": "",
-    "text": "Read →"
+    "text": "Watch \u00136"
   },
   {
-    "objectID": "readings/schedule/index.html",
-    "href": "readings/schedule/index.html",
-    "title": "Schedule",
+    "objectID": "readings/why-agi-will-not-happen/index.html",
+    "href": "readings/why-agi-will-not-happen/index.html",
+    "title": "Why AGI Will Not Happen",
     "section": "",
-    "text": "Read →"
+    "text": "A critique of AGI/superintelligence discourse grounded in the “computation is physical” perspective—arguing hardware/memory movement constraints and architecture-level realities are underweighted in common narratives.\nLink: https://timdettmers.com/2025/12/10/why-agi-will-not-happen/"
   },
   {
-    "objectID": "readings/quire-pricing/index.html",
-    "href": "readings/quire-pricing/index.html",
-    "title": "Quire Pricing",
-    "section": "",
-    "text": "Read →"
-  },
-  {
-    "objectID": "readings/quantum-mysteries/index.html",
-    "href": "readings/quantum-mysteries/index.html",
-    "title": "Are the Mysteries of Quantum Mechanics Beginning To Dissolve?",
-    "section": "",
-    "text": "Philip Ball explores Wojciech Zurek’s work on decoherence and quantum Darwinism as a potential resolution to long-standing interpretational puzzles in quantum mechanics. Could these ideas finally explain the quantum-classical transition without resorting to many worlds, wavefunction collapse, or other contentious interpretations?\nRead the full article →"
-  },
-  {
-    "objectID": "readings/pi-minimal-agent-openclaw/index.html",
-    "href": "readings/pi-minimal-agent-openclaw/index.html",
-    "title": "Pi: The Minimal Agent Within OpenClaw",
-    "section": "",
-    "text": "Armin Ronacher on Pi (by Mario Zechner): a minimal coding agent (tiny prompt, few tools) with an extension system, and how it relates to OpenClaw.\nRead the post →"
-  },
-  {
-    "objectID": "readings/olmix-smart-data-mixing-for-evolving-language-models/index.html",
-    "href": "readings/olmix-smart-data-mixing-for-evolving-language-models/index.html",
-    "title": "Olmix: Smart Data Mixing for Evolving Language Models",
-    "section": "",
-    "text": "Emergent Mind video + written script on Olmix, a framework for:\n\nchoosing data-mixing configurations (proxy size, swarm design, surrogate modeling), and\nreusing previously-computed mixtures when domains/data evolve, reducing recomputation cost.\n\nRead / watch on Emergent Mind →"
-  },
-  {
-    "objectID": "readings/my-response-to-ai-2027/index.html",
-    "href": "readings/my-response-to-ai-2027/index.html",
-    "title": "My response to AI 2027",
-    "section": "",
-    "text": "Vitalik’s response/critique of the AI 2027 scenario, focusing on how the scenario treats capabilities as highly asymmetric (offense races ahead while defense lags), and exploring what changes when “both sides get AI superpowers.”\nLink: https://vitalik.eth.limo/general/2025/07/10/2027.html"
-  },
-  {
-    "objectID": "readings/modular-manifolds/index.html",
-    "href": "readings/modular-manifolds/index.html",
-    "title": "Modular Manifolds",
-    "section": "",
-    "text": "A Thinking Machines post on constraining neural network weight matrices to live on manifolds (e.g., Stiefel manifold) and designing manifold-aware optimizers. Frames normalization/constraints as a way to keep tensors “healthy” and proposes the idea of modular manifolds for composing constraints in larger systems.\nRead the post →"
-  },
-  {
-    "objectID": "readings/machines-of-loving-grace/index.html",
-    "href": "readings/machines-of-loving-grace/index.html",
-    "title": "Machines of Loving Grace",
-    "section": "",
-    "text": "Essay by Dario Amodei (Anthropic) on a positive vision for how AI could transform the world.\nRead the full essay →"
-  },
-  {
-    "objectID": "readings/ljmu-data-repository/index.html",
-    "href": "readings/ljmu-data-repository/index.html",
-    "title": "LJMU Data Repository",
+    "objectID": "readings/understanding-optimization-in-deep-learning-with-central-flows/index.html",
+    "href": "readings/understanding-optimization-in-deep-learning-with-central-flows/index.html",
+    "title": "Understanding Optimization in Deep Learning with Central Flows",
     "section": "",
     "text": "Read →"
   },
   {
-    "objectID": "readings/language-modeling-by-language-models/index.html",
-    "href": "readings/language-modeling-by-language-models/index.html",
-    "title": "Language Modeling by Language Models",
+    "objectID": "readings/texting-network-end-of-world/index.html",
+    "href": "readings/texting-network-end-of-world/index.html",
+    "title": "The Texting Network for the End of the World",
     "section": "",
-    "text": "Introduces Genesys, a multi-agent LLM system that simulates stages of research (ideation → review → implementation → training → evaluation) to discover new LM architectures using a genetic-programming backbone and a “Ladder of Scales” verification strategy.\nRead on arXiv →"
+    "text": "WIRED piece on Meshtastic: an open-source system for sending text messages over LoRa radios in an ad-hoc mesh, useful for dead zones and disaster scenarios where cell service/internet are unavailable.\nRead the article →"
   },
   {
-    "objectID": "readings/intro/index.html",
-    "href": "readings/intro/index.html",
-    "title": "Intro",
-    "section": "",
-    "text": "Read →"
-  },
-  {
-    "objectID": "readings/hr-simulator-be-the-person-you-hate/index.html",
-    "href": "readings/hr-simulator-be-the-person-you-hate/index.html",
-    "title": "HR Simulator™: Be the Person You Hate",
+    "objectID": "readings/talks-cam-making-connections-brains-and-other-complex-systems/index.html",
+    "href": "readings/talks-cam-making-connections-brains-and-other-complex-systems/index.html",
+    "title": "talks.cam : Making connections- brains and other complex systems",
     "section": "",
     "text": "Read →"
   },
   {
-    "objectID": "readings/high-value-ai-for-high-value-business/index.html",
-    "href": "readings/high-value-ai-for-high-value-business/index.html",
-    "title": "High-Value AI. For High-Value Business.",
+    "objectID": "readings/spivak-canthesubalternspeak-pdf/index.html",
+    "href": "readings/spivak-canthesubalternspeak-pdf/index.html",
+    "title": "Spivak CanTheSubalternSpeak.pdf",
     "section": "",
     "text": "Read →"
   },
   {
-    "objectID": "readings/guns-money-and-opium/index.html",
-    "href": "readings/guns-money-and-opium/index.html",
-    "title": "Guns, Money and Opium",
+    "objectID": "readings/resonant-computing-manifesto/index.html",
+    "href": "readings/resonant-computing-manifesto/index.html",
+    "title": "The Resonant Computing Manifesto",
     "section": "",
-    "text": "London Review of Books essay on US special forces, counterinsurgency, and covert operations from Kennedy-era Fort Bragg through the Cold War’s hot zones.\nRead the full article →"
+    "text": "A short manifesto arguing that technology should be designed to shape environments that in turn shape us well—as a reaction against hyper-scale, attention-hijacking platforms and the incentive structures that produce them.\nLink: https://resonantcomputing.org"
   },
   {
-    "objectID": "readings/error-the-request-could-not-be-satisfied/index.html",
-    "href": "readings/error-the-request-could-not-be-satisfied/index.html",
-    "title": "ERROR: The request could not be satisfied",
-    "section": "",
-    "text": "Read →"
-  },
-  {
-    "objectID": "readings/devezers-urn/index.html",
-    "href": "readings/devezers-urn/index.html",
-    "title": "Devezer’s Urn",
-    "section": "",
-    "text": "A critique of quantitative meta-science and the latest wave of papers using LLMs to data-mine existing publications. Responds to a political science paper claiming 98% of papers suffer from publication bias. Questions what statistical model should actually govern the generation of scientific abstracts.\nRead the full article →"
-  },
-  {
-    "objectID": "readings/cost-of-the-agi-delusion/index.html",
-    "href": "readings/cost-of-the-agi-delusion/index.html",
-    "title": "The Cost of the AGI Delusion: By Chasing Superintelligence, America Is Falling Behind in the Real AI Race",
-    "section": "",
-    "text": "Read the full article →"
-  },
-  {
-    "objectID": "readings/bsky-victorian-rlhf-toy-models/index.html",
-    "href": "readings/bsky-victorian-rlhf-toy-models/index.html",
-    "title": "Toy models for (pseudo) historical preference learning (Bluesky thread)",
-    "section": "",
-    "text": "Bluesky thread pointing to a couple of “toy models” attempting something like historically-grounded preferences (explicitly noting it’s not RLHF from Victorian-era people).\nBluesky thread: https://bsky.app/profile/neku42.bsky.social/post/3meta5wrttc2x\nSource links mentioned: - https://huggingface.co/haykgrigorian/TimeCapsuleLLM-v2-llama-1.2B - https://huggingface.co/bahree/london-historical-slm"
-  },
-  {
-    "objectID": "readings/bsky-victorian-rlhf-toy-models/index.html#related-reading",
-    "href": "readings/bsky-victorian-rlhf-toy-models/index.html#related-reading",
-    "title": "Toy models for (pseudo) historical preference learning (Bluesky thread)",
-    "section": "Related Reading",
-    "text": "Related Reading\n\nMonadGPT — “What would have happened if ChatGPT was invented in the 17th century?” A Mistral-Hermes finetune on 11,000 early modern texts (English, French, Latin) from EEBO and Gallica. Answers in historical language/style with period-appropriate (i.e., dated) references."
-  },
-  {
-    "objectID": "readings/bitter-lesson/index.html",
-    "href": "readings/bitter-lesson/index.html",
-    "title": "The Bitter Lesson",
-    "section": "",
-    "text": "Rich Sutton’s influential essay arguing that the biggest lesson from AI research is that general methods leveraging computation scale better than methods that rely on human knowledge. Historical examples from chess, Go, speech recognition, and computer vision show that approaches based on search and learning ultimately win over hand-crafted features and domain knowledge.\nRead the full essay →"
-  },
-  {
-    "objectID": "readings/been-kim/index.html",
-    "href": "readings/been-kim/index.html",
-    "title": "Been Kim",
+    "objectID": "readings/quickstart-for-projects-github-docs/index.html",
+    "href": "readings/quickstart-for-projects-github-docs/index.html",
+    "title": "Quickstart for Projects - GitHub Docs",
     "section": "",
     "text": "Read →"
   },
   {
-    "objectID": "readings/ai-attack-from-above-on-wages/index.html",
-    "href": "readings/ai-attack-from-above-on-wages/index.html",
-    "title": "“AI is an attack from above on wages”: An interview with cognitive scientist Hagen Blix",
-    "section": "",
-    "text": "Interview/Q&A framing AI less as a neutral productivity tool and more as a technology likely to be deployed for deskilling and wage suppression, with discussion of how “AI” narratives resonate with lived experience of algorithmic management.\nRead the post →"
-  },
-  {
-    "objectID": "readings/access-denied/index.html",
-    "href": "readings/access-denied/index.html",
-    "title": "Access Denied",
+    "objectID": "readings/publications/index.html",
+    "href": "readings/publications/index.html",
+    "title": "publications",
     "section": "",
     "text": "Read →"
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "readings/ordinal-society-review/index.html",
+    "href": "readings/ordinal-society-review/index.html",
+    "title": "Book Review: The Ordinal Society",
     "section": "",
-    "text": "This is a post with executable code."
+    "text": "Review of The Ordinal Society (Marion Fourcade & Kieran Healy) on what it means for computers/metrics/rankings to intervene in how society is seen and organized.\nRead the PDF →"
   },
   {
-    "objectID": "papers.html",
-    "href": "papers.html",
-    "title": "Papers",
+    "objectID": "readings/nlp-4-democracy-colm-2025-schedule/index.html",
+    "href": "readings/nlp-4-democracy-colm-2025-schedule/index.html",
+    "title": "NLP 4 Democracy - COLM 2025 - Schedule",
     "section": "",
-    "text": "All To Read Finished\n\n\nA curated collection of research papers.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Author\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Added - Oldest\n      \n      \n        Added - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nWhat Instagram and Community Colleges Tell Us about the Future of Digital Humanities\n\n\n\ndigital humanities\n\npedagogy\n\ncommunity colleges\n\nsocial media\n\nInstagram\n\naccess\n\nequity\n\n\n\n\n\n\nJan 1, 2025\n\n\nUnknown\n\n\nFeb 16, 2026\n\n\nto-read\n\n\n\n\n\n\n\nRelational arcs as narrative structure: Dynamics, distribution and diachronic change in fiction\n\n\n\ncomputational humanities\n\nnarrative structure\n\ndigital humanities\n\nsocial networks\n\nfiction analysis\n\ncharacter relationships\n\nliterary theory\n\n\n\n\n\n\nJan 1, 2025\n\n\nChristou & Tsoumakas et al.\n\n\nFeb 16, 2026\n\n\nto-read\n\n\n\n\n\n\n\nNarrative Theory for Computational Narrative Understanding\n\n\n\nPapers\n\nACL\n\n\n\n\n\n\nFeb 15, 2026\n\n\nACL Anthology\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nHow are Prompts Different in Terms of Sensitivity?\n\n\n\nPapers\n\nACL\n\n\n\n\n\n\nFeb 15, 2026\n\n\nACL Anthology\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nTracking Evolving Relationship Between Characters in Books in the Era of Large Language Models\n\n\n\nPapers\n\nACL\n\nLLMs\n\n\n\n\n\n\nFeb 15, 2026\n\n\nACL Anthology\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nIs this a wampimuk? Cross-modal mapping between distributional semantics and the visual world\n\n\n\nPapers\n\nACL\n\nNLP\n\n\n\n\n\n\nFeb 15, 2026\n\n\nACL Anthology\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nIntroducing the Anthology for Computers and the Humanities\n\n\n\nPapers\n\nACH\n\n\n\n\n\n\nFeb 15, 2026\n\n\nArnold, Taylor\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nBorn Again Neural Networks\n\n\n\nPapers\n\narXiv\n\nML\n\n\n\n\n\n\nMay 12, 2018\n\n\nTommaso Furlanello; Zachary C. Lipton; Michael Tschannen et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nWhat do you learn from context? Probing for sentence structure in contextualized word representations\n\n\n\nPapers\n\narXiv\n\nInterpretability\n\nRepresentation\n\n\n\n\n\n\nMay 15, 2019\n\n\nIan Tenney; Patrick Xia; Berlin Chen et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nMS2: Multi-Document Summarization of Medical Studies\n\n\n\nPapers\n\narXiv\n\nSummarization\n\n\n\n\n\n\nApr 13, 2021\n\n\nJay DeYoung; Iz Beltagy; Madeleine van Zuylen et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nA Meta-Evaluation of Faithfulness Metrics for Long-Form Hospital-Course Summarization\n\n\n\nPapers\n\narXiv\n\nEvaluation\n\nSummarization\n\n\n\n\n\n\nMar 7, 2023\n\n\nGriffin Adams; Jason Zucker; Noémie Elhadad\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nMeetingBank: A Benchmark Dataset for Meeting Summarization\n\n\n\nPapers\n\narXiv\n\nEvaluation\n\nSummarization\n\nData\n\n\n\n\n\n\nMay 27, 2023\n\n\nYebowen Hu; Tim Ganter; Hanieh Deilamsalehy et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nLess is More for Long Document Summary Evaluation by LLMs\n\n\n\nPapers\n\narXiv\n\nLLMs\n\nEvaluation\n\n\n\n\n\n\nSep 14, 2023\n\n\nYunshu Wu; Hayate Iso; Pouya Pezeshkpour et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nBooookScore: A systematic exploration of book-length summarization in the era of LLMs\n\n\n\nPapers\n\narXiv\n\nLLMs\n\nEvaluation\n\nSummarization\n\n\n\n\n\n\nOct 1, 2023\n\n\nYapei Chang; Kyle Lo; Tanya Goyal et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Expressive Power of Transformers with Chain of Thought\n\n\n\nPapers\n\narXiv\n\nReasoning\n\nML\n\n\n\n\n\n\nOct 11, 2023\n\n\nWilliam Merrill; Ashish Sabharwal\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Problem of Alignment\n\n\n\nPapers\n\narXiv\n\nAlignment\n\n\n\n\n\n\nDec 30, 2023\n\n\nTsvetelina Hristova; Liam Magee; Karen Soldatic\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nRethinking Interpretability in the Era of Large Language Models\n\n\n\nPapers\n\narXiv\n\nLLMs\n\nInterpretability\n\n\n\n\n\n\nJan 30, 2024\n\n\nChandan Singh; Jeevana Priya Inala; Michel Galley et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nRepetition Improves Language Model Embeddings\n\n\n\nPapers\n\narXiv\n\nLLMs\n\nRepresentation\n\n\n\n\n\n\nFeb 23, 2024\n\n\nJacob Mitchell Springer; Suhas Kotha; Daniel Fried et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nUsing Shapley interactions to understand how models use structure\n\n\n\nPapers\n\narXiv\n\n\n\n\n\n\nMar 19, 2024\n\n\nDivyansh Singhvi; Diganta Misra; Andrej Erkelens et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nCan large language models explore in-context?\n\n\n\nPapers\n\narXiv\n\nLLMs\n\n\n\n\n\n\nMar 22, 2024\n\n\nAkshay Krishnamurthy; Keegan Harris; Dylan J. Foster et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nTransformers represent belief state geometry in their residual stream\n\n\n\nPapers\n\narXiv\n\nRepresentation\n\nMath\n\nML\n\n\n\n\n\n\nMay 24, 2024\n\n\nAdam S. Shai; Sarah E. Marzen; Lucas Teixeira et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nAre language models rational? The case of coherence norms and belief revision\n\n\n\nPapers\n\narXiv\n\nLLMs\n\nMultimodal\n\n\n\n\n\n\nJun 5, 2024\n\n\nThomas Hofweber; Peter Hase; Elias Stengel-Eskin et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nEvaluating the World Model Implicit in a Generative Model\n\n\n\nPapers\n\narXiv\n\nEvaluation\n\nWorld-Models\n\n\n\n\n\n\nJun 6, 2024\n\n\nKeyon Vafa; Justin Y. Chen; Ashesh Rambachan et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nSUMIE: A Synthetic Benchmark for Incremental Entity Summarization\n\n\n\nPapers\n\narXiv\n\nEvaluation\n\nSummarization\n\n\n\n\n\n\nJun 7, 2024\n\n\nEunjeong Hwang; Yichao Zhou; Beliz Gunel et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nBrittle Minds, Fixable Activations: Understanding Belief Representations in Language Models\n\n\n\nPapers\n\narXiv\n\nLLMs\n\nRepresentation\n\n\n\n\n\n\nJun 25, 2024\n\n\nMatteo Bortoletto; Constantin Ruhdorfer; Lei Shi et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nLLMs instead of Human Judges? A Large Scale Empirical Study across 20 NLP Evaluation Tasks\n\n\n\nPapers\n\narXiv\n\nLLMs\n\nEvaluation\n\nNLP\n\n\n\n\n\n\nJun 26, 2024\n\n\nAnna Bavaresco; Raffaella Bernardi; Leonardo Bertolazzi et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nGenerative Monoculture in Large Language Models\n\n\n\nPapers\n\narXiv\n\nLLMs\n\n\n\n\n\n\nJul 2, 2024\n\n\nFan Wu; Emily Black; Varun Chandrasekaran\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nSTORYSUMM: Evaluating Faithfulness in Story Summarization\n\n\n\nPapers\n\narXiv\n\nEvaluation\n\nSummarization\n\n\n\n\n\n\nJul 9, 2024\n\n\nMelanie Subbiah; Faisal Ladhak; Akankshya Mishra et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nInternal Consistency and Self-Feedback in Large Language Models: A Survey\n\n\n\nPapers\n\narXiv\n\nLLMs\n\n\n\n\n\n\nJul 19, 2024\n\n\nXun Liang; Shichao Song; Zifan Zheng et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nDetectiveQA: Evaluating Long-Context Reasoning on Detective Novels\n\n\n\nPapers\n\narXiv\n\nEvaluation\n\nReasoning\n\n\n\n\n\n\nSep 4, 2024\n\n\nZhe Xu; Jiasheng Ye; Xiaoran Liu et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nAI as Humanity’s Salieri: Quantifying Linguistic Creativity of Language Models via Systematic Attribution of Machine Text against Web Text\n\n\n\nPapers\n\narXiv\n\n\n\n\n\n\nOct 5, 2024\n\n\nXiming Lu; Melanie Sclar; Skyler Hallinan et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nHow Do Multilingual Language Models Remember Facts?\n\n\n\nPapers\n\narXiv\n\nLLMs\n\n\n\n\n\n\nOct 18, 2024\n\n\nConstanza Fierro; Negar Foroutan; Desmond Elliott et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nIdeaBench: Benchmarking Large Language Models for Research Idea Generation\n\n\n\nPapers\n\narXiv\n\nLLMs\n\nEvaluation\n\n\n\n\n\n\nOct 31, 2024\n\n\nSikun Guo; Amir Hassan Shariatmadari; Guangzhi Xiong et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nEmergence and Effectiveness of Task Vectors in In-Context Learning: An Encoder Decoder Perspective\n\n\n\nPapers\n\narXiv\n\nScaling\n\n\n\n\n\n\nDec 16, 2024\n\n\nSeungwook Han; Jinyeop Song; Jeff Gore et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nICLR: In-Context Learning of Representations\n\n\n\nPapers\n\narXiv\n\nRepresentation\n\n\n\n\n\n\nDec 29, 2024\n\n\nCore Francisco Park; Andrew Lee; Ekdeep Singh Lubana et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nAgent-as-Judge for Factual Summarization of Long Narratives\n\n\n\nPapers\n\narXiv\n\nAgents\n\nSummarization\n\n\n\n\n\n\nJan 17, 2025\n\n\nYeonseok Jeong; Minsoo Kim; Seung-won Hwang et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nSelf-Improving Transformers Overcome Easy-to-Hard and Length Generalization Challenges\n\n\n\nPapers\n\narXiv\n\nML\n\n\n\n\n\n\nFeb 3, 2025\n\n\nNayoung Lee; Ziyang Cai; Avi Schwarzschild et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nSatori: Reinforcement Learning with Chain-of-Action-Thought Enhances LLM Reasoning via Autoregressive Search\n\n\n\nPapers\n\narXiv\n\nLLMs\n\nReasoning\n\nRL\n\n\n\n\n\n\nFeb 4, 2025\n\n\nMaohao Shen; Guangtao Zeng; Zhenting Qi et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nPlanGenLLMs: A Modern Survey of LLM Planning Capabilities\n\n\n\nPapers\n\narXiv\n\nLLMs\n\nPlanning\n\n\n\n\n\n\nFeb 16, 2025\n\n\nHui Wei; Zihao Zhang; Shenghua He et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nSupposedly Equivalent Facts That Aren’t? Entity Frequency in Pre-training Induces Asymmetry in LLMs\n\n\n\nPapers\n\narXiv\n\nLLMs\n\n\n\n\n\n\nMar 28, 2025\n\n\nYuan He; Bailan He; Zifeng Ding et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nSelf-Steering Language Models\n\n\n\nPapers\n\narXiv\n\nLLMs\n\n\n\n\n\n\nApr 9, 2025\n\n\nGabriel Grand; Joshua B. Tenenbaum; Vikash K. Mansinghka et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nRankAlign: A Ranking View of the Generator-Validator Gap in Large Language Models\n\n\n\nPapers\n\narXiv\n\nLLMs\n\n\n\n\n\n\nApr 15, 2025\n\n\nJuan Diego Rodriguez; Wenxuan Ding; Katrin Erk et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nHypoBench: Towards Systematic and Principled Benchmarking for Hypothesis Generation\n\n\n\nPapers\n\narXiv\n\nEvaluation\n\n\n\n\n\n\nApr 15, 2025\n\n\nHaokun Liu; Sicong Huang; Jingyu Hu et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nKRISTEVA: Close Reading as a Novel Task for Benchmarking Interpretive Reasoning\n\n\n\nPapers\n\narXiv\n\nInterpretability\n\nEvaluation\n\nReasoning\n\n\n\n\n\n\nMay 14, 2025\n\n\nPeiqi Sui; Juan Diego Rodriguez; Philippe Laban et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nMeasurement to Meaning: A Validity-Centered Framework for AI Evaluation\n\n\n\nPapers\n\narXiv\n\nEvaluation\n\nAI\n\n\n\n\n\n\nMay 13, 2025\n\n\nOlawale Salaudeen; Anka Reuel; Ahmed Ahmed et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nWhen AI Co-Scientists Fail: SPOT-a Benchmark for Automated Verification of Scientific Research\n\n\n\nPapers\n\narXiv\n\nEvaluation\n\nAI\n\n\n\n\n\n\nMay 17, 2025\n\n\nGuijin Son; Jiwoo Hong; Honglu Fan et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nDo Language Models Use Their Depth Efficiently?\n\n\n\nPapers\n\narXiv\n\nLLMs\n\n\n\n\n\n\nMay 20, 2025\n\n\nRóbert Csordás; Christopher D. Manning; Christopher Potts\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nDiagnosing our datasets: How does my language model learn clinical information?\n\n\n\nPapers\n\narXiv\n\nLLMs\n\nData\n\n\n\n\n\n\nMay 21, 2025\n\n\nFurong Jia; David Sontag; Monica Agrawal\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nNot Minds, but Signs: Reframing LLMs through Semiotics\n\n\n\nPapers\n\narXiv\n\nLLMs\n\n\n\n\n\n\nMay 20, 2025\n\n\nDavide Picca\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nAmplifying Human Creativity and Problem Solving with AI Through Generative Collective Intelligence\n\n\n\nPapers\n\narXiv\n\nAI\n\n\n\n\n\n\nMay 25, 2025\n\n\nThomas P. Kehler; Scott E. Page; Alex Pentland et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nToken Distillation: Attention-aware Input Embeddings For New Tokens\n\n\n\nPapers\n\narXiv\n\nRepresentation\n\n\n\n\n\n\nMay 26, 2025\n\n\nKonstantin Dobler; Desmond Elliott; Gerard de Melo\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nSelfReflect: Can LLMs Communicate Their Internal Answer Distribution?\n\n\n\nPapers\n\narXiv\n\nLLMs\n\n\n\n\n\n\nMay 26, 2025\n\n\nMichael Kirchhof; Luca Füger; Adam Goliński et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nLatent Reasoning via Sentence Embedding Prediction\n\n\n\nPapers\n\narXiv\n\nReasoning\n\nRepresentation\n\n\n\n\n\n\nMay 28, 2025\n\n\nHyeonbin Hwang; Byeongguk Jeon; Seungone Kim et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nAutoGPS: Automated Geometry Problem Solving via Multimodal Formalization and Deductive Reasoning\n\n\n\nPapers\n\narXiv\n\nReasoning\n\nMultimodal\n\nMath\n\n\n\n\n\n\nMay 29, 2025\n\n\nBowen Ping; Minnan Luo; Zhuohang Dang et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nUsing LLMs to Advance the Cognitive Science of Collectives\n\n\n\nPapers\n\narXiv\n\nLLMs\n\nCognitive-Science\n\n\n\n\n\n\nMay 28, 2025\n\n\nIlia Sucholutsky; Katherine M. Collins; Nori Jacoby et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nConformal Arbitrage: Risk-Controlled Balancing of Competing Objectives in Language Models\n\n\n\nPapers\n\narXiv\n\nLLMs\n\nCalibration\n\nMath\n\n\n\n\n\n\nJun 1, 2025\n\n\nWilliam Overman; Mohsen Bayati\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nIn-Context Learning for Pure Exploration\n\n\n\nPapers\n\narXiv\n\n\n\n\n\n\nJun 2, 2025\n\n\nAlessio Russo; Ryan Welch; Aldo Pacchiano\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nCycle Consistency as Reward: Learning Image-Text Alignment without Human Preferences\n\n\n\nPapers\n\narXiv\n\nMultimodal\n\nAlignment\n\n\n\n\n\n\nJun 2, 2025\n\n\nHyojin Bahng; Caroline Chan; Fredo Durand et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nBabyLM’s First Constructions: Causal probing provides a signal of learning\n\n\n\nPapers\n\narXiv\n\nInterpretability\n\n\n\n\n\n\nJun 2, 2025\n\n\nJoshua Rozner; Leonie Weissweiler; Cory Shain\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nSmall Language Models are the Future of Agentic AI\n\n\n\nPapers\n\narXiv\n\nLLMs\n\nAgents\n\nAI\n\n\n\n\n\n\nJun 2, 2025\n\n\nPeter Belcak; Greg Heinrich; Shizhe Diao et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nExchangeability in Neural Network and its Application to Dynamic Pruning\n\n\n\nPapers\n\narXiv\n\nML\n\n\n\n\n\n\nJun 2, 2025\n\n\nPu; Yi; Tianlang Chen et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nDoes It Make Sense to Speak of Introspection in Large Language Models?\n\n\n\nPapers\n\narXiv\n\nLLMs\n\n\n\n\n\n\nJun 5, 2025\n\n\nIulia M. Comsa; Murray Shanahan\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nMetritocracy: Representative Metrics for Lite Benchmarks\n\n\n\nPapers\n\narXiv\n\nEvaluation\n\nRepresentation\n\n\n\n\n\n\nJun 11, 2025\n\n\nAriel Procaccia; Benjamin Schiffer; Serena Wang et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nRWESummary: A Framework and Test for Choosing Large Language Models to Summarize Real-World Evidence (RWE) Studies\n\n\n\nPapers\n\narXiv\n\nLLMs\n\nSummarization\n\n\n\n\n\n\nJun 23, 2025\n\n\nArjun Mukerji; Michael L. Jackson; Jason Jones et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nCorrecting Hallucinations in News Summaries: Exploration of Self-Correcting LLM Methods with External Knowledge\n\n\n\nPapers\n\narXiv\n\nLLMs\n\nSummarization\n\n\n\n\n\n\nJun 24, 2025\n\n\nJuraj Vladika; Ihsan Soydemir; Florian Matthes\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Ideation-Execution Gap: Execution Outcomes of LLM-Generated versus Human Research Ideas\n\n\n\nPapers\n\narXiv\n\nLLMs\n\n\n\n\n\n\nJun 25, 2025\n\n\nChenglei Si; Tatsunori Hashimoto; Diyi Yang\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nReasoning or Not? A Comprehensive Evaluation of Reasoning LLMs for Dialogue Summarization\n\n\n\nPapers\n\narXiv\n\nLLMs\n\nEvaluation\n\nReasoning\n\nSummarization\n\n\n\n\n\n\nJul 2, 2025\n\n\nKeyan Jin; Yapeng Wang; Leonel Santos et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nAgent-Based Detection and Resolution of Incompleteness and Ambiguity in Interactions with Large Language Models\n\n\n\nPapers\n\narXiv\n\nLLMs\n\nAgents\n\n\n\n\n\n\nJul 4, 2025\n\n\nRiya Naik; Ashwin Srinivasan; Swati Agarwal et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nBeyond Binary Rewards: Training LMs to Reason About Their Uncertainty\n\n\n\nPapers\n\narXiv\n\nReasoning\n\nCalibration\n\n\n\n\n\n\nJul 22, 2025\n\n\nMehul Damani; Isha Puri; Stewart Slocum et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nLarge Language Models Do Not Simulate Human Psychology\n\n\n\nPapers\n\narXiv\n\nLLMs\n\nCognitive-Science\n\n\n\n\n\n\nAug 9, 2025\n\n\nSarah Schröder; Thekla Morgenroth; Ulrike Kuhl et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nPRELUDE: A Benchmark Designed to Require Global Comprehension and Reasoning over Long Contexts\n\n\n\nPapers\n\narXiv\n\nEvaluation\n\nReasoning\n\n\n\n\n\n\nAug 13, 2025\n\n\nMo Yu; Tsz Ting Chung; Chulun Zhou et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nPrivileged Self-Access Matters for Introspection in AI\n\n\n\nPapers\n\narXiv\n\nAI\n\n\n\n\n\n\nAug 20, 2025\n\n\nSiyuan Song; Harvey Lederman; Jennifer Hu et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Differential Meaning of Models: A Framework for Analyzing the Structural Consequences of Semantic Modeling Decisions\n\n\n\nPapers\n\narXiv\n\n\n\n\n\n\nAug 29, 2025\n\n\nZachary K. Stine; James E. Deitrick\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nHow important is language for human-like intelligence?\n\n\n\nPapers\n\narXiv\n\n\n\n\n\n\nSep 19, 2025\n\n\nGary Lupyan; Hunter Gentry; Martin Zettersten\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nMachine Learning. The Science of Selection under Uncertainty\n\n\n\nPapers\n\narXiv\n\nCalibration\n\nML\n\n\n\n\n\n\nSep 25, 2025\n\n\nYevgeny Seldin\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nArtificial Phantasia: Evidence for Propositional Reasoning-Based Mental Imagery in Large Language Models\n\n\n\nPapers\n\narXiv\n\nLLMs\n\nReasoning\n\nMultimodal\n\n\n\n\n\n\nSep 27, 2025\n\n\nMorgan McCarty; Jorge Morales\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nWhy Can’t Transformers Learn Multiplication? Reverse-Engineering Reveals Long-Range Dependency Pitfalls\n\n\n\nPapers\n\narXiv\n\nML\n\n\n\n\n\n\nSep 30, 2025\n\n\nXiaoyan Bai; Itamar Pres; Yuntian Deng et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nOn the Theory of Continual Learning with Gradient Descent for Neural Networks\n\n\n\nPapers\n\narXiv\n\nML\n\n\n\n\n\n\nOct 7, 2025\n\n\nHossein Taheri; Avishek Ghosh; Arya Mazumdar\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nGauguin, Descartes, Bayes: A Diurnal Golem’s Brain\n\n\n\nPapers\n\nACM\n\nMath\n\nNeuroscience\n\n\n\n\n\n\nOct 9, 2025\n\n\nKartik Chandra; Amanda Liu; Jonathan Ragan-Kelley et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nGenerative Aesthetics: On formal stuckness in AI verse\n\n\n\nPapers\n\n\n\n\n\n\nOct 10, 2025\n\n\nRyan Heuser\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nReversing 30 years of discussion: why causal decision theorists should one-box - Synthese\n\n\n\nPapers\n\nSpringer\n\n\n\n\n\n\nFeb 15, 2026\n\n\nSpohn, Wolfgang\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nText Embeddings Reveal (Almost) As Much As Text\n\n\n\nPapers\n\nOpenReview\n\nRepresentation\n\n\n\n\n\n\nFeb 15, 2026\n\n\nOpenReview\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nRefineBench: Evaluating Refinement Capability in Language Models\n\n\n\nPapers\n\nOpenReview\n\nLLMs\n\nEvaluation\n\n\n\n\n\n\nFeb 15, 2026\n\n\nOpenReview\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nOpenReview\n\n\n\nPapers\n\nOpenReview\n\n\n\n\n\n\nFeb 15, 2026\n\n\nOpenReview\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nSociety for Computation in Linguistics\n\n\n\nPapers\n\n\n\n\n\n\nFeb 15, 2026\n\n\nopenpublishing.library.umass.edu\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nUMass SCiL article 2131\n\n\n\nPapers\n\n\n\n\n\n\nFeb 15, 2026\n\n\nopenpublishing.library.umass.edu\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nUMass SCiL article 2136\n\n\n\nPapers\n\n\n\n\n\n\nFeb 15, 2026\n\n\nopenpublishing.library.umass.edu\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nUMass SCiL article 2219\n\n\n\nPapers\n\n\n\n\n\n\nFeb 15, 2026\n\n\nopenpublishing.library.umass.edu\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nUMass SCiL article 2222\n\n\n\nPapers\n\n\n\n\n\n\nFeb 15, 2026\n\n\nopenpublishing.library.umass.edu\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nUMass SCiL article 2226\n\n\n\nPapers\n\n\n\n\n\n\nFeb 15, 2026\n\n\nopenpublishing.library.umass.edu\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThree levels of framing\n\n\n\nPapers\n\nWiley\n\n\n\n\n\n\nSep 1, 2023\n\n\nKaren Sullivan\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nHuman-like object concept representations emerge naturally in multimodal large language models - Nature Machine Intelligence\n\n\n\nPapers\n\nNature\n\nLLMs\n\nRepresentation\n\nMultimodal\n\nScaling\n\n\n\n\n\n\nFeb 15, 2026\n\n\nDu, Changde\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe impact of language models on the humanities and vice versa - Nature Computational Science\n\n\n\nPapers\n\nNature\n\nLLMs\n\n\n\n\n\n\nFeb 15, 2026\n\n\nUnderwood, Ted\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nLarge AI models are cultural and social technologies\n\n\n\nPapers\n\nScience\n\nSociety\n\nAI\n\n\n\n\n\n\nMar 14, 2025\n\n\nHenry Farrell; Alison Gopnik; Cosma Shalizi et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nFollowing in our footsteps Raising AI: An Essential Guide to Parenting Our Future De Kai MIT Press, 2025. 280 pp.\n\n\n\nPapers\n\nScience\n\n\n\n\n\n\nJul 10, 2025\n\n\nAdrian Woolfson\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\nNo matching items"
+    "text": "Read →"
   },
   {
-    "objectID": "listening.html",
-    "href": "listening.html",
-    "title": "Listening",
+    "objectID": "readings/moss-icml2025/index.html",
+    "href": "readings/moss-icml2025/index.html",
+    "title": "MOSS@ICML2025",
     "section": "",
-    "text": "All To Listen Finished\n\n\nA curated collection of podcasts, radio interviews, and audio worth listening to.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Author\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Added - Oldest\n      \n      \n        Added - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nHow to change a memory\n\n\n\nneuroscience\n\nmemory\n\npsychology\n\nbrain-science\n\n\n\n\n\n\nFeb 19, 2026\n\n\nSteve Ramirez\n\n\nFeb 20, 2026\n\n\nfinished\n\n\n\n\n\nNo matching items"
+    "text": "Read →"
   },
   {
-    "objectID": "readings.html",
-    "href": "readings.html",
-    "title": "Readings",
+    "objectID": "readings/mechanistic-interpretability-needs-philosophy/index.html",
+    "href": "readings/mechanistic-interpretability-needs-philosophy/index.html",
+    "title": "Mechanistic Interpretability Needs Philosophy",
     "section": "",
-    "text": "All To Read Finished\n\n\nA curated collection of interesting articles, essays, and papers.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Author\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Added - Oldest\n      \n      \n        Added - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nFrom Atoms to AI: The Futile Search for a “Perfect” Language\n\n\n\nai\n\nlanguage\n\nlinguistics\n\nphilosophy\n\n\n\n\n\n\nFeb 17, 2026\n\n\nAndrea Moro\n\n\nto-read\n\n\n\n\n\n\n\nMachines of Loving Grace\n\n\n\nAI\n\nAI-policy\n\n\n\n\n\n\nOct 1, 2024\n\n\nDario Amodei\n\n\nto-read\n\n\n\n\n\n\n\nOlmix: Smart Data Mixing for Evolving Language Models\n\n\n\nai\n\nmachine-learning\n\nllms\n\ndata\n\n\n\n\n\n\nFeb 17, 2026\n\n\nEmergent Mind\n\n\nto-read\n\n\n\n\n\n\n\nthe third Yes\n\n\n\nAI\n\nPhilosophy\n\nLanguage\n\n\n\n\n\n\nFeb 14, 2026\n\n\nDaniel Bashir\n\n\nto-read\n\n\n\n\n\n\n\nDevezer’s Urn\n\n\n\nmetascience\n\nstatistics\n\nsocial-science\n\nai\n\n\n\n\n\n\nFeb 18, 2026\n\n\nBen Recht\n\n\nFeb 18, 2026\n\n\nto-read\n\n\n\n\n\n\n\nGuns, Money and Opium\n\n\n\nhistory\n\nmilitary\n\ncounterinsurgency\n\ncold-war\n\n\n\n\n\n\nFeb 6, 2026\n\n\nLaleh Khalili\n\n\nFeb 18, 2026\n\n\nto-read\n\n\n\n\n\n\n\nAccess Denied\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\nthereader.mitpress.mit.edu\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nBeen Kim\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\nbeenkim.github.io\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nBeyond Binary Rewards: RL for Calibrated LMs\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\nrl-calibration.github.io\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Cost of the AGI Delusion: By Chasing Superintelligence, America Is Falling Behind in the Real AI Race\n\n\n\nReadings\n\n\n\n\n\n\nSep 26, 2025\n\n\nMichael C. Horowitz\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nERROR: The request could not be satisfied\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\nwww.imperial.ac.uk\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nHigh-Value AI. For High-Value Business.\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\nembraceable.ai\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nHome\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\nsites.google.com\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nHR Simulator™: Be the Person You Hate\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\nhrsimulator.communicationgames.ai\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nInternalist vs. Externalist Conceptions of Epistemic Justification (Stanford Encyclopedia of Philosophy)\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\nplato.stanford.edu\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nIntro\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\nopencode.ai\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nLJMU Data Repository\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\nopendata.ljmu.ac.uk\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nLLM Daydreaming · Gwern.net\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\ngwern.net\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nMOSS@ICML2025\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\nsites.google.com\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nNLP 4 Democracy - COLM 2025 - Schedule\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\nsites.google.com\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\npublications\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\nahdavies6.github.io\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nQuickstart for Projects - GitHub Docs\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\ndocs.github.com\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nQuire Pricing\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\nquire.io\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nSchedule\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\ninterplay-workshop.github.io\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nSpivak CanTheSubalternSpeak.pdf\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\njan.ucc.nau.edu\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nNavigating Interpretive Spaces Across Models (Poster, ACH 2025)\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\ngithub.com\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\ntalks.cam : Making connections- brains and other complex systems\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\ntalks.cam.ac.uk\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nUnderstanding Optimization in Deep Learning with Central Flows\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\ncentralflows.github.io\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Adolescence of Technology\n\n\n\nai\n\nsafety\n\nsociety\n\n\n\n\n\n\nJan 1, 2026\n\n\nDario Amodei\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\n“AI is an attack from above on wages”: An interview with cognitive scientist Hagen Blix\n\n\n\nAI\n\nlabor\n\neconomics\n\npolitics\n\n\n\n\n\n\nOct 1, 2025\n\n\nBrian Merchant\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nAI-Driven Storytelling with Multi-Agent LLMs — Part I\n\n\n\nAI\n\nagents\n\nstorytelling\n\n\n\n\n\n\nJun 16, 2025\n\n\nFranco Hernández Piloto; Alejandro Piad Morffis\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nContinual learning in token + capability space (Bluesky thread)\n\n\n\nAI\n\nagents\n\ncontinual-learning\n\nmemory\n\n\n\n\n\n\nFeb 14, 2026\n\n\nCameron (@cameron.stream)\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nToy models for (pseudo) historical preference learning (Bluesky thread)\n\n\n\nai\n\nllms\n\n\n\n\n\n\nFeb 14, 2026\n\n\nMax Klyga\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nContext Widows\n\n\n\nAI\n\nscience\n\ninstitutions\n\nincentives\n\nmetrics\n\n\n\n\n\n\nDec 12, 2025\n\n\nKevin Baker\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nDeflating “Hype” Won’t Save Us\n\n\n\nAI\n\npolitics\n\nlabor\n\nmedia\n\n\n\n\n\n\nSep 16, 2025\n\n\nHagen Blix; Ingeborg Glimmer\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe elusive nature of consciousness\n\n\n\nconsciousness\n\nphilosophy\n\nneuroscience\n\n\n\n\n\n\nFeb 12, 2026\n\n\nNed Block\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nHidden Gems\n\n\n\nresearch\n\ntalks\n\n\n\n\n\n\nJun 1, 2025\n\n\nSimons Institute for the Theory of Computing\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nLaCy: What Small Language Models Can and Should Learn is Not Just a Question of Loss\n\n\n\nAI\n\nlanguage-models\n\nSLM\n\nfactuality\n\npretraining\n\n\n\n\n\n\nFeb 12, 2026\n\n\nSzilvia Ujváry et al.\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nLanguage Modeling by Language Models\n\n\n\nAI\n\nagents\n\nauto-ml\n\narchitecture-search\n\n\n\n\n\n\nJun 25, 2025\n\n\nJunyan Cheng et al.\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nLarge AI models are cultural and social technologies\n\n\n\nai\n\nllms\n\nsociety\n\n\n\n\n\n\nMar 13, 2025\n\n\nHenry Farrell\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nMechanistic Interpretability Needs Philosophy\n\n\n\nAI\n\ninterpretability\n\nphilosophy\n\n\n\n\n\n\nJun 23, 2025\n\n\nIwan Williams\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nModular Manifolds\n\n\n\ndeep-learning\n\noptimization\n\ngeometry\n\n\n\n\n\n\nSep 26, 2025\n\n\nJeremy Bernstein\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nMy response to AI 2027\n\n\n\nai\n\nforecasting\n\nsociety\n\n\n\n\n\n\nJul 10, 2025\n\n\nVitalik Buterin\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nBook Review: The Ordinal Society\n\n\n\nsociology\n\nrankings\n\nalgorithms\n\n\n\n\n\n\nJun 23, 2025\n\n\nLaura K. Nelson\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nPi: The Minimal Agent Within OpenClaw\n\n\n\nAI\n\nagents\n\ntooling\n\nprogramming\n\n\n\n\n\n\nJan 31, 2026\n\n\nArmin Ronacher\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nAre the Mysteries of Quantum Mechanics Beginning To Dissolve?\n\n\n\nphysics\n\nquantum-mechanics\n\n\n\n\n\n\nFeb 13, 2026\n\n\nPhilip Ball\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Resonant Computing Manifesto\n\n\n\ntechnology\n\nsociety\n\n\n\n\n\n\nFeb 14, 2026\n\n\nResonant Computing\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nTapeAgents: a Holistic Framework for Agent Development and Optimization\n\n\n\nAI\n\nagents\n\nengineering\n\n\n\n\n\n\nMay 1, 2025\n\n\nEleventhHourEnthusiast\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Texting Network for the End of the World\n\n\n\nnetworks\n\nresilience\n\nradio\n\nLoRa\n\nmeshtastic\n\n\n\n\n\n\nJun 4, 2025\n\n\nAndrew Couts; Dhruv Mehrotra\n\n\nFeb 14, 2026\n\n\nfinished\n\n\n\n\n\n\n\nWe Can Choose Not to Let AI Destroy Us\n\n\n\nAI\n\npolicy\n\neconomics\n\nsystems\n\n\n\n\n\n\nFeb 13, 2026\n\n\nJonathan V. Last\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nWhy AGI Will Not Happen\n\n\n\nai\n\nagi\n\nhardware\n\n\n\n\n\n\nDec 10, 2025\n\n\nTim Dettmers\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nWhy isn’t modern AI built around principles from cognitive science?\n\n\n\nai\n\ncognitive-science\n\nneuroscience\n\n\n\n\n\n\nDec 16, 2025\n\n\nAndrew Lampinen\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Bitter Lesson\n\n\n\nAI\n\nmachine-learning\n\nscaling\n\n\n\n\n\n\nMar 13, 2019\n\n\nRich Sutton\n\n\nFeb 13, 2026\n\n\nfinished\n\n\n\n\n\nNo matching items"
+    "text": "Position paper arguing that mechanistic interpretability should treat philosophy as an ongoing partner for clarifying concepts, methods, and the epistemic/ethical stakes of interpreting AI systems.\nRead on arXiv →"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "readings/llm-daydreaming-gwern-net/index.html",
+    "href": "readings/llm-daydreaming-gwern-net/index.html",
+    "title": "LLM Daydreaming · Gwern.net",
     "section": "",
-    "text": "About this blog"
+    "text": "Read →"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "John’s Blog",
+    "objectID": "readings/large-ai-models-cultural-social-technologies/index.html",
+    "href": "readings/large-ai-models-cultural-social-technologies/index.html",
+    "title": "Large AI models are cultural and social technologies",
     "section": "",
-    "text": "A home for notes on research, tools, and whatever I’m learning week to week.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Basel Problem: A Fourier Series Proof\n\n\n\nmathematics\n\nanalysis\n\nfourier-series\n\n\n\n\n\n\n\n\n\nFeb 13, 2026\n\n\nJohn P. Lake\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nFeb 12, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nFeb 9, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+    "text": "Henry Farrell’s author-posted version of the Science piece (published March 13, 2025; DOI: 10.1126/science.adt9819).\nCoauthors listed on the page: Alison Gopnik, Cosma Shalizi, and James Evans.\n\nWeb version: https://henryfarrell.net/large-ai-models-are-cultural-and-social-technologies/\nAccepted-version PDF (linked from the page): http://henryfarrell.net/wp-content/uploads/2025/03/Science-Accepted-Version.pdf"
   },
   {
-    "objectID": "links.html",
-    "href": "links.html",
-    "title": "Links",
+    "objectID": "readings/lacy-small-language-models/index.html",
+    "href": "readings/lacy-small-language-models/index.html",
+    "title": "LaCy: What Small Language Models Can and Should Learn is Not Just a Question of Loss",
     "section": "",
-    "text": "A curated collection of interesting reads, tools, and resources."
+    "text": "Small Language Models have limited capacity to store world knowledge, leading to factual errors. This paper asks: which tokens should an SLM learn during pretraining, and which should it delegate to an external source (larger model, database, etc.)?\nKey insight: High loss alone isn’t enough to decide when to delegate. Some high-loss tokens have acceptable alternative continuations that aren’t factually wrong—they shouldn’t trigger a &lt;CALL&gt;. The key is identifying tokens that are both high-loss and factual.\nLaCy uses a spaCy grammar parser to cheaply identify factual tokens, training SLMs to delegate these when loss is high. At inference, a &lt;CALL&gt; token triggers extraction from a cascade partner (larger model).\nResults: LaCy outperforms loss thresholding, Rho-1 learnability scores, and LLM-as-judge methods on FactScore while being simpler and cheaper.\nInteresting finding: Validation loss is not correlated with downstream factual accuracy across methods and scales.\nRead the paper →\nAuthor’s thread on Bluesky →"
   },
   {
-    "objectID": "links.html#interesting-reads",
-    "href": "links.html#interesting-reads",
-    "title": "Links",
-    "section": "Interesting Reads",
-    "text": "Interesting Reads\n\nThe n-Category Café\nTerence Tao’s Blog\nQuanta Magazine\nDistill\nThe Gradient \nLanguage Log\nAeon Essays"
-  },
-  {
-    "objectID": "links.html#tools-tech",
-    "href": "links.html#tools-tech",
-    "title": "Links",
-    "section": "Tools & Tech",
-    "text": "Tools & Tech\n\nQuarto\nObservable"
-  },
-  {
-    "objectID": "links.html#people-blogs",
-    "href": "links.html#people-blogs",
-    "title": "Links",
-    "section": "People & Blogs",
-    "text": "People & Blogs\n\nCosma Shalizi\nMelanie Mitchell\nMaxim Raginsky\nHenry Farrell\nErik J. Larson\nCrooked Timber\nBrad DeLong\nMarginal Revolution\nTed Underwood\nSimon Willison\nTim Dettmers\nBen Recht\nAndrew Lampinen\nScott Aaronson\nEthan Mollick\nPlatformer\nBrian Merchant\nCory Doctorow \n\n\nThis page is updated periodically. Suggestions welcome!"
-  },
-  {
-    "objectID": "videos.html",
-    "href": "videos.html",
-    "title": "Videos",
+    "objectID": "readings/internalist-vs-externalist-conceptions-of-epistemic-justification-stanford-encyc/index.html",
+    "href": "readings/internalist-vs-externalist-conceptions-of-epistemic-justification-stanford-encyc/index.html",
+    "title": "Internalist vs. Externalist Conceptions of Epistemic Justification (Stanford Encyclopedia of Philosophy)",
     "section": "",
-    "text": "All To Watch Finished\n\n\nA curated collection of talks, lectures, and videos worth watching.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Author\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Added - Oldest\n      \n      \n        Added - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n20 Minutes of Useless Information about GTA San Andreas\n\n\n\nVideos\n\n\n\n\n\n\nFeb 15, 2026\n\n\nDr Mod\n\n\nFeb 15, 2026\n\n\nto-watch\n\n\n\n\n\n\n\n4D Toys Update: Rotating the 3D Slice, Face Projections, Marble scenes + Every new feature\n\n\n\nVideos\n\n\n\n\n\n\nFeb 15, 2026\n\n\n[mtbdesignworks {Miegakure, 4D Toys}]\n\n\nFeb 15, 2026\n\n\nto-watch\n\n\n\n\n\n\n\nAmerican Conversations: Technology Reporter Gil Duran\n\n\n\nVideos\n\n\n\n\n\n\nFeb 15, 2026\n\n\nHeather Cox Richardson\n\n\nFeb 15, 2026\n\n\nto-watch\n\n\n\n\n\n\n\nFeatured Former Fellow - Samuel Schindler 11/21/25\n\n\n\nVideos\n\n\n\n\n\n\nFeb 15, 2026\n\n\nCenter for Philosophy of Science\n\n\nFeb 15, 2026\n\n\nto-watch\n\n\n\n\n\n\n\nHow to ‘See’ the 4th Dimension with Topology\n\n\n\nVideos\n\n\n\n\n\n\nFeb 15, 2026\n\n\nQuanta Magazine\n\n\nFeb 15, 2026\n\n\nto-watch\n\n\n\n\n\n\n\nNon-Euclidean Worlds Engine\n\n\n\nVideos\n\n\n\n\n\n\nFeb 15, 2026\n\n\nCodeParade\n\n\nFeb 15, 2026\n\n\nto-watch\n\n\n\n\n\n\n\nThe Dynamic Mind - An Architectural Blueprint\n\n\n\nVideos\n\n\n\n\n\n\nFeb 15, 2026\n\n\nKnut Jägersberg\n\n\nFeb 15, 2026\n\n\nto-watch\n\n\n\n\n\n\n\nThe Physics Of Dissonance\n\n\n\nVideos\n\n\n\n\n\n\nFeb 15, 2026\n\n\nminutephysics\n\n\nFeb 15, 2026\n\n\nto-watch\n\n\n\n\n\n\n\nAI & the Digital (YouTube playlist)\n\n\n\nAI\n\nSociety\n\n\n\n\n\n\nFeb 14, 2026\n\n\nYouTube\n\n\nFeb 14, 2026\n\n\nto-watch\n\n\n\n\n\n\n\nAI & Scientific Discovery Seminar (YouTube channel)\n\n\n\nAI\n\nScientific-Discovery\n\n\n\n\n\n\nFeb 14, 2026\n\n\nAI & Scientific Discovery Seminar\n\n\nFeb 14, 2026\n\n\nto-watch\n\n\n\n\n\n\n\nRLDM 2022 Talk\n\n\n\nReinforcement-Learning\n\nTalks\n\n\n\n\n\n\nJun 8, 2022\n\n\nAmy Zhang\n\n\nFeb 14, 2026\n\n\nto-watch\n\n\n\n\n\n\n\nLanguage Models as Models of Human Reasoning\n\n\n\nAI\n\nCognitive-Science\n\nReasoning\n\n\n\n\n\n\nFeb 14, 2026\n\n\nCameron Buckner (CogIST webinar)\n\n\nFeb 14, 2026\n\n\nto-watch\n\n\n\n\n\n\n\nCentaurs or Butlers? Designing for Human Relationships with Non-Human Intelligences\n\n\n\nAI\n\nHuman-AI-Interaction\n\n\n\n\n\n\nFeb 14, 2026\n\n\nCogX\n\n\nFeb 14, 2026\n\n\nto-watch\n\n\n\n\n\n\n\nFrom LLMs to Agents: Challenges and Opportunities\n\n\n\nAI\n\nAgents\n\nLLMs\n\n\n\n\n\n\nFeb 14, 2026\n\n\nChao Huang (AI & Scientific Discovery Seminar)\n\n\nFeb 14, 2026\n\n\nto-watch\n\n\n\n\n\n\n\nMonthly Online ILFC Seminar\n\n\n\nComputational-Linguistics\n\nSeminars\n\nLLMs\n\n\n\n\n\n\nFeb 12, 2026\n\n\nRéseau thématique LIFT (ILFC)\n\n\nFeb 14, 2026\n\n\nto-watch\n\n\n\n\n\n\n\nFrontiers in NeuroAI — Talk Recordings\n\n\n\nAI\n\nNeuroscience\n\nNeuroAI\n\n\n\n\n\n\nJun 5, 2025\n\n\nKempner Institute (Harvard)\n\n\nFeb 14, 2026\n\n\nto-watch\n\n\n\n\n\n\n\nLanguage Models as World Models\n\n\n\nAI\n\nWorld-Models\n\nLLMs\n\n\n\n\n\n\nFeb 14, 2026\n\n\nMITCBMM\n\n\nFeb 14, 2026\n\n\nto-watch\n\n\n\n\n\n\n\nLanguage Modeling: A Tutorial on Data Preparation, Model Training, and Adaptation\n\n\n\nAI\n\nLLMs\n\nTutorials\n\n\n\n\n\n\nFeb 14, 2026\n\n\nDSAI by Dr. Osbert Tay\n\n\nFeb 14, 2026\n\n\nto-watch\n\n\n\n\n\n\n\nKeynote: Philip Resnik (NAACL SRW 2025)\n\n\n\nNLP\n\nKeynotes\n\nNAACL\n\n\n\n\n\n\nFeb 14, 2026\n\n\nPhilip Resnik\n\n\nFeb 14, 2026\n\n\nto-watch\n\n\n\n\n\n\n\nRichard Sutton – Father of RL thinks LLMs are a dead end\n\n\n\nAI\n\nreinforcement-learning\n\nLLMs\n\n\n\n\n\n\nSep 26, 2025\n\n\nDwarkesh Patel\n\n\nFeb 14, 2026\n\n\nto-watch\n\n\n\n\n\n\n\nLarge Language Models and Transformers (Simons Institute)\n\n\n\nAI\n\nLLMs\n\nTransformers\n\nWorkshops\n\n\n\n\n\n\nAug 14, 2023\n\n\nSimons Institute for the Theory of Computing\n\n\nFeb 14, 2026\n\n\nto-watch\n\n\n\n\n\n\n\nAre LLMs worth it?\n\n\n\nAI\n\nLLMs\n\nCOLM\n\n\n\n\n\n\nOct 1, 2024\n\n\nNicholas Carlini\n\n\nFeb 13, 2026\n\n\nto-watch\n\n\n\n\n\nNo matching items"
+    "text": "Read →"
   },
   {
-    "objectID": "books.html",
-    "href": "books.html",
-    "title": "Books",
+    "objectID": "readings/home/index.html",
+    "href": "readings/home/index.html",
+    "title": "Home",
     "section": "",
-    "text": "All To Read Finished\n\n\nA curated collection of books worth reading.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Author\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Added - Oldest\n      \n      \n        Added - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nDesigning Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems\n\n\n\ndistributed systems\n\ndatabases\n\nsoftware engineering\n\nscalability\n\narchitecture\n\ndata\n\n\n\n\n\n\nMar 1, 2017\n\n\nMartin Kleppmann\n\n\nFeb 18, 2026\n\n\nto-read\n\n\n\n\n\n\n\nEntropy and Art: An Essay on Disorder and Order\n\n\n\ninformation theory\n\naesthetics\n\nart\n\ninterpretation\n\nentropy\n\ngestalt psychology\n\ncriticism\n\n\n\n\n\n\nJan 1, 1971\n\n\nRudolf Arnheim\n\n\nFeb 16, 2026\n\n\nto-read\n\n\n\n\n\n\n\nAesthetic Measure\n\n\n\ninformation theory\n\naesthetics\n\nart\n\ninterpretation\n\nmathematics\n\nformalism\n\n\n\n\n\n\nJan 1, 1933\n\n\nGeorge David Birkhoff\n\n\nFeb 16, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Open Work\n\n\n\ninformation theory\n\naesthetics\n\nart\n\ninterpretation\n\nsemiotics\n\nliterary theory\n\n\n\n\n\n\nJan 1, 1962\n\n\nUmberto Eco\n\n\nFeb 16, 2026\n\n\nto-read\n\n\n\n\n\n\n\nInformation Theory and Esthetic Perception\n\n\n\ninformation theory\n\naesthetics\n\nart\n\ninterpretation\n\nperception\n\ncybernetics\n\n\n\n\n\n\nJan 1, 1966\n\n\nAbraham Moles\n\n\nFeb 16, 2026\n\n\nto-read\n\n\n\n\n\n\n\nIn a Flight of Starlings: The Wonders of Complex Systems\n\n\n\nBooks\n\nComplexity\n\n\n\n\n\n\nFeb 15, 2026\n\n\nGiorgio Parisi\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nTechnics and Civilization\n\n\n\nBooks\n\nTechnology\n\n\n\n\n\n\nFeb 15, 2026\n\n\nLewis Mumford\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nDennett’s Real Patterns in Science and Nature\n\n\n\nBooks\n\nPhilosophy\n\nScience\n\n\n\n\n\n\nFeb 15, 2026\n\n\nMIT Press\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nEncyclopedia of Semiotics\n\n\n\nBooks\n\nSemiotics\n\n\n\n\n\n\nJan 1, 1998\n\n\nPaul Bouissac (ed.)\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nHow Progress Ends\n\n\n\nBooks\n\n\n\n\n\n\nFeb 15, 2026\n\n\nPrinceton University Press\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Hypocrisy Trap\n\n\n\nBooks\n\n\n\n\n\n\nFeb 15, 2026\n\n\nMIT Press\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Shape of Actions\n\n\n\nBooks\n\n\n\n\n\n\nFeb 15, 2026\n\n\nMIT Press\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Closed World\n\n\n\nBooks\n\n\n\n\n\n\nFeb 15, 2026\n\n\nMIT Press\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nIntroduction to Ecological Psychology: A Lawful Approach to Perceiving, Acting, and Cognizing\n\n\n\nBooks\n\n\n\n\n\n\nFeb 15, 2026\n\n\nRoutledge\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nLiberalism as a Way of Life\n\n\n\nBooks\n\n\n\n\n\n\nFeb 15, 2026\n\n\nPrinceton University Press\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nMechanization Takes Command\n\n\n\nBooks\n\n\n\n\n\n\nFeb 15, 2026\n\n\nUniversity of Minnesota Press\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nOn Communicating: Otherness, Meaning, and Information\n\n\n\nBooks\n\n\n\n\n\n\nFeb 15, 2026\n\n\nGoodreads\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Best Narrative Nonfiction Books\n\n\n\nBooks\n\n\n\n\n\n\nFeb 15, 2026\n\n\nFive Books\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Democratic Surround: Multimedia and American Liberalism from World War II to the Psychedelic Sixties, Turner\n\n\n\nBooks\n\n\n\n\n\n\nFeb 15, 2026\n\n\nUniversity of Chicago Press\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Ethics of Technology\n\n\n\nBooks\n\n\n\n\n\n\nFeb 15, 2026\n\n\nFive Books\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Lexicon–Encyclopedia Interface\n\n\n\nBooks\n\nLinguistics\n\nSemantics\n\n\n\n\n\n\nFeb 15, 2026\n\n\nBook (ISBN: 9780080435916)\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Open Dynamics of Braitenberg Vehicles\n\n\n\nBooks\n\nCognitive-Science\n\nAI\n\n\n\n\n\n\nFeb 15, 2026\n\n\nMIT Press\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Story of Capital\n\n\n\nBooks\n\n\n\n\n\n\nFeb 15, 2026\n\n\nVerso Books\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\nNo matching items"
+    "text": "Read →"
+  },
+  {
+    "objectID": "readings/hidden-gems-simons/index.html",
+    "href": "readings/hidden-gems-simons/index.html",
+    "title": "Hidden Gems",
+    "section": "",
+    "text": "PDF from the Simons Institute site (title: “Hidden Gems”).\nRead the PDF →"
+  },
+  {
+    "objectID": "readings/from-atoms-to-ai-futile-search-for-a-perfect-language/index.html",
+    "href": "readings/from-atoms-to-ai-futile-search-for-a-perfect-language/index.html",
+    "title": "From Atoms to AI: The Futile Search for a “Perfect” Language",
+    "section": "",
+    "text": "MIT Press Reader piece on the long-running (and likely doomed) quest for a perfect formal language — from early logical/atomic dreams to modern AI-era versions of the same impulse.\nRead the full article →"
+  },
+  {
+    "objectID": "readings/elusive-nature-of-consciousness/index.html",
+    "href": "readings/elusive-nature-of-consciousness/index.html",
+    "title": "The elusive nature of consciousness",
+    "section": "",
+    "text": "Science piece (book-related, per Crossref metadata) touching on the difficulty of explaining consciousness.\nRead on Science →"
+  },
+  {
+    "objectID": "readings/deflating-hype-wont-save-us/index.html",
+    "href": "readings/deflating-hype-wont-save-us/index.html",
+    "title": "Deflating “Hype” Won’t Save Us",
+    "section": "",
+    "text": "Argument that the core problem with AI isn’t just marketing hype or exaggerated capability claims—it’s the political economy of who benefits from the tech and how it gets deployed (propaganda, surveillance, labor discipline, etc.).\nRead the article →"
+  },
+  {
+    "objectID": "readings/context-widows/index.html",
+    "href": "readings/context-widows/index.html",
+    "title": "Context Widows",
+    "section": "",
+    "text": "An institutional / science-studies flavored argument that the “can LLMs do science?” debate is a trap: the interesting question is how LLMs get enrolled into existing incentive structures and measurement regimes—often intensifying goal displacement rather than reforming it.\nRead the post →"
+  },
+  {
+    "objectID": "readings/bsky-continual-learning-token-space/index.html",
+    "href": "readings/bsky-continual-learning-token-space/index.html",
+    "title": "Continual learning in token + capability space (Bluesky thread)",
+    "section": "",
+    "text": "Short Bluesky thread pushing back on “continual learning = weight updates” and arguing that practical continual learning for agents can happen in token/context space (memories, skills, prompts, capabilities) because it’s more portable, inspectable, and transferable across model generations.\nIncludes links to Letta posts: - Continual Learning in Token Space | Letta - Skill Learning | Letta\nRead the thread →"
+  },
+  {
+    "objectID": "readings/beyond-binary-rewards-rl-for-calibrated-lms/index.html",
+    "href": "readings/beyond-binary-rewards-rl-for-calibrated-lms/index.html",
+    "title": "Beyond Binary Rewards: RL for Calibrated LMs",
+    "section": "",
+    "text": "Read →"
+  },
+  {
+    "objectID": "readings/ai-storytelling-multi-agent-1/index.html",
+    "href": "readings/ai-storytelling-multi-agent-1/index.html",
+    "title": "AI-Driven Storytelling with Multi-Agent LLMs — Part I",
+    "section": "",
+    "text": "Discussion of using multi-agent workflows + symbolic AI ideas to improve long-form story generation (coherence, character consistency, emergent plot), without fine-tuning model weights.\nRead the post →"
+  },
+  {
+    "objectID": "readings/adolescence-of-technology/index.html",
+    "href": "readings/adolescence-of-technology/index.html",
+    "title": "The Adolescence of Technology",
+    "section": "",
+    "text": "Essay on navigating powerful-AI risks (with an explicit emphasis on avoiding doomerism, acknowledging uncertainty, and aiming for “surgical” interventions).\nLink: https://www.darioamodei.com/essay/the-adolescence-of-technology"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
     "objectID": "posts/basel-problem/index.html",
@@ -833,277 +742,354 @@
     "text": "Why This Matters\nThis proof showcases the power of Fourier series not just for solving differential equations or signal processing, but for evaluating seemingly unrelated infinite series. The connection between the geometry of periodic functions and number-theoretic sums remains one of the most beautiful bridges in mathematics."
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "books.html",
+    "href": "books.html",
+    "title": "Books",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "All To Read Finished\n\n\nA curated collection of books worth reading.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Author\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Added - Oldest\n      \n      \n        Added - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nDesigning Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems\n\n\n\ndistributed systems\n\ndatabases\n\nsoftware engineering\n\nscalability\n\narchitecture\n\ndata\n\n\n\n\n\n\nMar 1, 2017\n\n\nMartin Kleppmann\n\n\nFeb 18, 2026\n\n\nto-read\n\n\n\n\n\n\n\nEntropy and Art: An Essay on Disorder and Order\n\n\n\ninformation theory\n\naesthetics\n\nart\n\ninterpretation\n\nentropy\n\ngestalt psychology\n\ncriticism\n\n\n\n\n\n\nJan 1, 1971\n\n\nRudolf Arnheim\n\n\nFeb 16, 2026\n\n\nto-read\n\n\n\n\n\n\n\nAesthetic Measure\n\n\n\ninformation theory\n\naesthetics\n\nart\n\ninterpretation\n\nmathematics\n\nformalism\n\n\n\n\n\n\nJan 1, 1933\n\n\nGeorge David Birkhoff\n\n\nFeb 16, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Open Work\n\n\n\ninformation theory\n\naesthetics\n\nart\n\ninterpretation\n\nsemiotics\n\nliterary theory\n\n\n\n\n\n\nJan 1, 1962\n\n\nUmberto Eco\n\n\nFeb 16, 2026\n\n\nto-read\n\n\n\n\n\n\n\nInformation Theory and Esthetic Perception\n\n\n\ninformation theory\n\naesthetics\n\nart\n\ninterpretation\n\nperception\n\ncybernetics\n\n\n\n\n\n\nJan 1, 1966\n\n\nAbraham Moles\n\n\nFeb 16, 2026\n\n\nto-read\n\n\n\n\n\n\n\nIn a Flight of Starlings: The Wonders of Complex Systems\n\n\n\nBooks\n\nComplexity\n\n\n\n\n\n\nFeb 15, 2026\n\n\nGiorgio Parisi\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nTechnics and Civilization\n\n\n\nBooks\n\nTechnology\n\n\n\n\n\n\nFeb 15, 2026\n\n\nLewis Mumford\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nDennett’s Real Patterns in Science and Nature\n\n\n\nBooks\n\nPhilosophy\n\nScience\n\n\n\n\n\n\nFeb 15, 2026\n\n\nMIT Press\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nEncyclopedia of Semiotics\n\n\n\nBooks\n\nSemiotics\n\n\n\n\n\n\nJan 1, 1998\n\n\nPaul Bouissac (ed.)\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nHow Progress Ends\n\n\n\nBooks\n\n\n\n\n\n\nFeb 15, 2026\n\n\nPrinceton University Press\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Hypocrisy Trap\n\n\n\nBooks\n\n\n\n\n\n\nFeb 15, 2026\n\n\nMIT Press\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Shape of Actions\n\n\n\nBooks\n\n\n\n\n\n\nFeb 15, 2026\n\n\nMIT Press\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Closed World\n\n\n\nBooks\n\n\n\n\n\n\nFeb 15, 2026\n\n\nMIT Press\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nIntroduction to Ecological Psychology: A Lawful Approach to Perceiving, Acting, and Cognizing\n\n\n\nBooks\n\n\n\n\n\n\nFeb 15, 2026\n\n\nRoutledge\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nLiberalism as a Way of Life\n\n\n\nBooks\n\n\n\n\n\n\nFeb 15, 2026\n\n\nPrinceton University Press\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nMechanization Takes Command\n\n\n\nBooks\n\n\n\n\n\n\nFeb 15, 2026\n\n\nUniversity of Minnesota Press\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nOn Communicating: Otherness, Meaning, and Information\n\n\n\nBooks\n\n\n\n\n\n\nFeb 15, 2026\n\n\nGoodreads\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Best Narrative Nonfiction Books\n\n\n\nBooks\n\n\n\n\n\n\nFeb 15, 2026\n\n\nFive Books\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Democratic Surround: Multimedia and American Liberalism from World War II to the Psychedelic Sixties, Turner\n\n\n\nBooks\n\n\n\n\n\n\nFeb 15, 2026\n\n\nUniversity of Chicago Press\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Ethics of Technology\n\n\n\nBooks\n\n\n\n\n\n\nFeb 15, 2026\n\n\nFive Books\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Lexicon–Encyclopedia Interface\n\n\n\nBooks\n\nLinguistics\n\nSemantics\n\n\n\n\n\n\nFeb 15, 2026\n\n\nBook (ISBN: 9780080435916)\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Open Dynamics of Braitenberg Vehicles\n\n\n\nBooks\n\nCognitive-Science\n\nAI\n\n\n\n\n\n\nFeb 15, 2026\n\n\nMIT Press\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Story of Capital\n\n\n\nBooks\n\n\n\n\n\n\nFeb 15, 2026\n\n\nVerso Books\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "readings/adolescence-of-technology/index.html",
-    "href": "readings/adolescence-of-technology/index.html",
-    "title": "The Adolescence of Technology",
+    "objectID": "readings.html",
+    "href": "readings.html",
+    "title": "Readings",
     "section": "",
-    "text": "Essay on navigating powerful-AI risks (with an explicit emphasis on avoiding doomerism, acknowledging uncertainty, and aiming for “surgical” interventions).\nLink: https://www.darioamodei.com/essay/the-adolescence-of-technology"
+    "text": "All To Read Finished\n\n\nA curated collection of interesting articles, essays, and papers.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Author\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Added - Oldest\n      \n      \n        Added - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nFrom Atoms to AI: The Futile Search for a “Perfect” Language\n\n\n\nai\n\nlanguage\n\nlinguistics\n\nphilosophy\n\n\n\n\n\n\nFeb 17, 2026\n\n\nAndrea Moro\n\n\nto-read\n\n\n\n\n\n\n\nMachines of Loving Grace\n\n\n\nAI\n\nAI-policy\n\n\n\n\n\n\nOct 1, 2024\n\n\nDario Amodei\n\n\nto-read\n\n\n\n\n\n\n\nOlmix: Smart Data Mixing for Evolving Language Models\n\n\n\nai\n\nmachine-learning\n\nllms\n\ndata\n\n\n\n\n\n\nFeb 17, 2026\n\n\nEmergent Mind\n\n\nto-read\n\n\n\n\n\n\n\nthe third Yes\n\n\n\nAI\n\nPhilosophy\n\nLanguage\n\n\n\n\n\n\nFeb 14, 2026\n\n\nDaniel Bashir\n\n\nto-read\n\n\n\n\n\n\n\nDevezer’s Urn\n\n\n\nmetascience\n\nstatistics\n\nsocial-science\n\nai\n\n\n\n\n\n\nFeb 18, 2026\n\n\nBen Recht\n\n\nFeb 18, 2026\n\n\nto-read\n\n\n\n\n\n\n\nGuns, Money and Opium\n\n\n\nhistory\n\nmilitary\n\ncounterinsurgency\n\ncold-war\n\n\n\n\n\n\nFeb 6, 2026\n\n\nLaleh Khalili\n\n\nFeb 18, 2026\n\n\nto-read\n\n\n\n\n\n\n\nAccess Denied\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\nthereader.mitpress.mit.edu\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nBeen Kim\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\nbeenkim.github.io\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nBeyond Binary Rewards: RL for Calibrated LMs\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\nrl-calibration.github.io\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Cost of the AGI Delusion: By Chasing Superintelligence, America Is Falling Behind in the Real AI Race\n\n\n\nReadings\n\n\n\n\n\n\nSep 26, 2025\n\n\nMichael C. Horowitz\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nERROR: The request could not be satisfied\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\nwww.imperial.ac.uk\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nHigh-Value AI. For High-Value Business.\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\nembraceable.ai\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nHome\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\nsites.google.com\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nHR Simulator™: Be the Person You Hate\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\nhrsimulator.communicationgames.ai\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nInternalist vs. Externalist Conceptions of Epistemic Justification (Stanford Encyclopedia of Philosophy)\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\nplato.stanford.edu\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nIntro\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\nopencode.ai\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nLJMU Data Repository\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\nopendata.ljmu.ac.uk\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nLLM Daydreaming · Gwern.net\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\ngwern.net\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nMOSS@ICML2025\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\nsites.google.com\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nNLP 4 Democracy - COLM 2025 - Schedule\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\nsites.google.com\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\npublications\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\nahdavies6.github.io\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nQuickstart for Projects - GitHub Docs\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\ndocs.github.com\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nQuire Pricing\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\nquire.io\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nSchedule\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\ninterplay-workshop.github.io\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nSpivak CanTheSubalternSpeak.pdf\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\njan.ucc.nau.edu\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nNavigating Interpretive Spaces Across Models (Poster, ACH 2025)\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\ngithub.com\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\ntalks.cam : Making connections- brains and other complex systems\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\ntalks.cam.ac.uk\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nUnderstanding Optimization in Deep Learning with Central Flows\n\n\n\nReadings\n\n\n\n\n\n\nFeb 15, 2026\n\n\ncentralflows.github.io\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Adolescence of Technology\n\n\n\nai\n\nsafety\n\nsociety\n\n\n\n\n\n\nJan 1, 2026\n\n\nDario Amodei\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\n“AI is an attack from above on wages”: An interview with cognitive scientist Hagen Blix\n\n\n\nAI\n\nlabor\n\neconomics\n\npolitics\n\n\n\n\n\n\nOct 1, 2025\n\n\nBrian Merchant\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nAI-Driven Storytelling with Multi-Agent LLMs — Part I\n\n\n\nAI\n\nagents\n\nstorytelling\n\n\n\n\n\n\nJun 16, 2025\n\n\nFranco Hernández Piloto; Alejandro Piad Morffis\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nContinual learning in token + capability space (Bluesky thread)\n\n\n\nAI\n\nagents\n\ncontinual-learning\n\nmemory\n\n\n\n\n\n\nFeb 14, 2026\n\n\nCameron (@cameron.stream)\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nToy models for (pseudo) historical preference learning (Bluesky thread)\n\n\n\nai\n\nllms\n\n\n\n\n\n\nFeb 14, 2026\n\n\nMax Klyga\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nContext Widows\n\n\n\nAI\n\nscience\n\ninstitutions\n\nincentives\n\nmetrics\n\n\n\n\n\n\nDec 12, 2025\n\n\nKevin Baker\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nDeflating “Hype” Won’t Save Us\n\n\n\nAI\n\npolitics\n\nlabor\n\nmedia\n\n\n\n\n\n\nSep 16, 2025\n\n\nHagen Blix; Ingeborg Glimmer\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe elusive nature of consciousness\n\n\n\nconsciousness\n\nphilosophy\n\nneuroscience\n\n\n\n\n\n\nFeb 12, 2026\n\n\nNed Block\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nHidden Gems\n\n\n\nresearch\n\ntalks\n\n\n\n\n\n\nJun 1, 2025\n\n\nSimons Institute for the Theory of Computing\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nLaCy: What Small Language Models Can and Should Learn is Not Just a Question of Loss\n\n\n\nAI\n\nlanguage-models\n\nSLM\n\nfactuality\n\npretraining\n\n\n\n\n\n\nFeb 12, 2026\n\n\nSzilvia Ujváry et al.\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nLanguage Modeling by Language Models\n\n\n\nAI\n\nagents\n\nauto-ml\n\narchitecture-search\n\n\n\n\n\n\nJun 25, 2025\n\n\nJunyan Cheng et al.\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nLarge AI models are cultural and social technologies\n\n\n\nai\n\nllms\n\nsociety\n\n\n\n\n\n\nMar 13, 2025\n\n\nHenry Farrell\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nMechanistic Interpretability Needs Philosophy\n\n\n\nAI\n\ninterpretability\n\nphilosophy\n\n\n\n\n\n\nJun 23, 2025\n\n\nIwan Williams\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nModular Manifolds\n\n\n\ndeep-learning\n\noptimization\n\ngeometry\n\n\n\n\n\n\nSep 26, 2025\n\n\nJeremy Bernstein\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nMy response to AI 2027\n\n\n\nai\n\nforecasting\n\nsociety\n\n\n\n\n\n\nJul 10, 2025\n\n\nVitalik Buterin\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nBook Review: The Ordinal Society\n\n\n\nsociology\n\nrankings\n\nalgorithms\n\n\n\n\n\n\nJun 23, 2025\n\n\nLaura K. Nelson\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nPi: The Minimal Agent Within OpenClaw\n\n\n\nAI\n\nagents\n\ntooling\n\nprogramming\n\n\n\n\n\n\nJan 31, 2026\n\n\nArmin Ronacher\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nAre the Mysteries of Quantum Mechanics Beginning To Dissolve?\n\n\n\nphysics\n\nquantum-mechanics\n\n\n\n\n\n\nFeb 13, 2026\n\n\nPhilip Ball\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Resonant Computing Manifesto\n\n\n\ntechnology\n\nsociety\n\n\n\n\n\n\nFeb 14, 2026\n\n\nResonant Computing\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nTapeAgents: a Holistic Framework for Agent Development and Optimization\n\n\n\nAI\n\nagents\n\nengineering\n\n\n\n\n\n\nMay 1, 2025\n\n\nEleventhHourEnthusiast\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Texting Network for the End of the World\n\n\n\nnetworks\n\nresilience\n\nradio\n\nLoRa\n\nmeshtastic\n\n\n\n\n\n\nJun 4, 2025\n\n\nAndrew Couts; Dhruv Mehrotra\n\n\nFeb 14, 2026\n\n\nfinished\n\n\n\n\n\n\n\nWe Can Choose Not to Let AI Destroy Us\n\n\n\nAI\n\npolicy\n\neconomics\n\nsystems\n\n\n\n\n\n\nFeb 13, 2026\n\n\nJonathan V. Last\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nWhy AGI Will Not Happen\n\n\n\nai\n\nagi\n\nhardware\n\n\n\n\n\n\nDec 10, 2025\n\n\nTim Dettmers\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nWhy isn’t modern AI built around principles from cognitive science?\n\n\n\nai\n\ncognitive-science\n\nneuroscience\n\n\n\n\n\n\nDec 16, 2025\n\n\nAndrew Lampinen\n\n\nFeb 14, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Bitter Lesson\n\n\n\nAI\n\nmachine-learning\n\nscaling\n\n\n\n\n\n\nMar 13, 2019\n\n\nRich Sutton\n\n\nFeb 13, 2026\n\n\nfinished\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "readings/ai-storytelling-multi-agent-1/index.html",
-    "href": "readings/ai-storytelling-multi-agent-1/index.html",
-    "title": "AI-Driven Storytelling with Multi-Agent LLMs — Part I",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "Discussion of using multi-agent workflows + symbolic AI ideas to improve long-form story generation (coherence, character consistency, emergent plot), without fine-tuning model weights.\nRead the post →"
+    "text": "About this blog"
   },
   {
-    "objectID": "readings/beyond-binary-rewards-rl-for-calibrated-lms/index.html",
-    "href": "readings/beyond-binary-rewards-rl-for-calibrated-lms/index.html",
-    "title": "Beyond Binary Rewards: RL for Calibrated LMs",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "John’s Blog",
     "section": "",
-    "text": "Read →"
+    "text": "A home for notes on research, tools, and whatever I’m learning week to week.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Basel Problem: A Fourier Series Proof\n\n\n\nmathematics\n\nanalysis\n\nfourier-series\n\n\n\n\n\n\n\n\n\nFeb 13, 2026\n\n\nJohn P. Lake\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nFeb 12, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nFeb 9, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "readings/bsky-continual-learning-token-space/index.html",
-    "href": "readings/bsky-continual-learning-token-space/index.html",
-    "title": "Continual learning in token + capability space (Bluesky thread)",
+    "objectID": "links.html",
+    "href": "links.html",
+    "title": "Links",
     "section": "",
-    "text": "Short Bluesky thread pushing back on “continual learning = weight updates” and arguing that practical continual learning for agents can happen in token/context space (memories, skills, prompts, capabilities) because it’s more portable, inspectable, and transferable across model generations.\nIncludes links to Letta posts: - Continual Learning in Token Space | Letta - Skill Learning | Letta\nRead the thread →"
+    "text": "A curated collection of interesting reads, tools, and resources."
   },
   {
-    "objectID": "readings/context-widows/index.html",
-    "href": "readings/context-widows/index.html",
-    "title": "Context Widows",
-    "section": "",
-    "text": "An institutional / science-studies flavored argument that the “can LLMs do science?” debate is a trap: the interesting question is how LLMs get enrolled into existing incentive structures and measurement regimes—often intensifying goal displacement rather than reforming it.\nRead the post →"
+    "objectID": "links.html#interesting-reads",
+    "href": "links.html#interesting-reads",
+    "title": "Links",
+    "section": "Interesting Reads",
+    "text": "Interesting Reads\n\nThe n-Category Café\nTerence Tao’s Blog\nQuanta Magazine\nDistill\nThe Gradient \nLanguage Log\nAeon Essays"
   },
   {
-    "objectID": "readings/deflating-hype-wont-save-us/index.html",
-    "href": "readings/deflating-hype-wont-save-us/index.html",
-    "title": "Deflating “Hype” Won’t Save Us",
-    "section": "",
-    "text": "Argument that the core problem with AI isn’t just marketing hype or exaggerated capability claims—it’s the political economy of who benefits from the tech and how it gets deployed (propaganda, surveillance, labor discipline, etc.).\nRead the article →"
+    "objectID": "links.html#tools-tech",
+    "href": "links.html#tools-tech",
+    "title": "Links",
+    "section": "Tools & Tech",
+    "text": "Tools & Tech\n\nQuarto\nObservable"
   },
   {
-    "objectID": "readings/elusive-nature-of-consciousness/index.html",
-    "href": "readings/elusive-nature-of-consciousness/index.html",
-    "title": "The elusive nature of consciousness",
-    "section": "",
-    "text": "Science piece (book-related, per Crossref metadata) touching on the difficulty of explaining consciousness.\nRead on Science →"
+    "objectID": "links.html#people-blogs",
+    "href": "links.html#people-blogs",
+    "title": "Links",
+    "section": "People & Blogs",
+    "text": "People & Blogs\n\nCosma Shalizi\nMelanie Mitchell\nMaxim Raginsky\nHenry Farrell\nErik J. Larson\nCrooked Timber\nBrad DeLong\nMarginal Revolution\nTed Underwood\nSimon Willison\nTim Dettmers\nBen Recht\nAndrew Lampinen\nScott Aaronson\nEthan Mollick\nPlatformer\nBrian Merchant\nCory Doctorow \n\n\nThis page is updated periodically. Suggestions welcome!"
   },
   {
-    "objectID": "readings/from-atoms-to-ai-futile-search-for-a-perfect-language/index.html",
-    "href": "readings/from-atoms-to-ai-futile-search-for-a-perfect-language/index.html",
-    "title": "From Atoms to AI: The Futile Search for a “Perfect” Language",
+    "objectID": "videos.html",
+    "href": "videos.html",
+    "title": "Videos",
     "section": "",
-    "text": "MIT Press Reader piece on the long-running (and likely doomed) quest for a perfect formal language — from early logical/atomic dreams to modern AI-era versions of the same impulse.\nRead the full article →"
+    "text": "All To Watch Finished\n\n\nA curated collection of talks, lectures, and videos worth watching.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Author\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Added - Oldest\n      \n      \n        Added - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n20 Minutes of Useless Information about GTA San Andreas\n\n\n\nVideos\n\n\n\n\n\n\nFeb 15, 2026\n\n\nDr Mod\n\n\nFeb 15, 2026\n\n\nto-watch\n\n\n\n\n\n\n\n4D Toys Update: Rotating the 3D Slice, Face Projections, Marble scenes + Every new feature\n\n\n\nVideos\n\n\n\n\n\n\nFeb 15, 2026\n\n\n[mtbdesignworks {Miegakure, 4D Toys}]\n\n\nFeb 15, 2026\n\n\nto-watch\n\n\n\n\n\n\n\nAmerican Conversations: Technology Reporter Gil Duran\n\n\n\nVideos\n\n\n\n\n\n\nFeb 15, 2026\n\n\nHeather Cox Richardson\n\n\nFeb 15, 2026\n\n\nto-watch\n\n\n\n\n\n\n\nFeatured Former Fellow - Samuel Schindler 11/21/25\n\n\n\nVideos\n\n\n\n\n\n\nFeb 15, 2026\n\n\nCenter for Philosophy of Science\n\n\nFeb 15, 2026\n\n\nto-watch\n\n\n\n\n\n\n\nHow to ‘See’ the 4th Dimension with Topology\n\n\n\nVideos\n\n\n\n\n\n\nFeb 15, 2026\n\n\nQuanta Magazine\n\n\nFeb 15, 2026\n\n\nto-watch\n\n\n\n\n\n\n\nNon-Euclidean Worlds Engine\n\n\n\nVideos\n\n\n\n\n\n\nFeb 15, 2026\n\n\nCodeParade\n\n\nFeb 15, 2026\n\n\nto-watch\n\n\n\n\n\n\n\nThe Dynamic Mind - An Architectural Blueprint\n\n\n\nVideos\n\n\n\n\n\n\nFeb 15, 2026\n\n\nKnut Jägersberg\n\n\nFeb 15, 2026\n\n\nto-watch\n\n\n\n\n\n\n\nThe Physics Of Dissonance\n\n\n\nVideos\n\n\n\n\n\n\nFeb 15, 2026\n\n\nminutephysics\n\n\nFeb 15, 2026\n\n\nto-watch\n\n\n\n\n\n\n\nAI & the Digital (YouTube playlist)\n\n\n\nAI\n\nSociety\n\n\n\n\n\n\nFeb 14, 2026\n\n\nYouTube\n\n\nFeb 14, 2026\n\n\nto-watch\n\n\n\n\n\n\n\nAI & Scientific Discovery Seminar (YouTube channel)\n\n\n\nAI\n\nScientific-Discovery\n\n\n\n\n\n\nFeb 14, 2026\n\n\nAI & Scientific Discovery Seminar\n\n\nFeb 14, 2026\n\n\nto-watch\n\n\n\n\n\n\n\nRLDM 2022 Talk\n\n\n\nReinforcement-Learning\n\nTalks\n\n\n\n\n\n\nJun 8, 2022\n\n\nAmy Zhang\n\n\nFeb 14, 2026\n\n\nto-watch\n\n\n\n\n\n\n\nLanguage Models as Models of Human Reasoning\n\n\n\nAI\n\nCognitive-Science\n\nReasoning\n\n\n\n\n\n\nFeb 14, 2026\n\n\nCameron Buckner (CogIST webinar)\n\n\nFeb 14, 2026\n\n\nto-watch\n\n\n\n\n\n\n\nCentaurs or Butlers? Designing for Human Relationships with Non-Human Intelligences\n\n\n\nAI\n\nHuman-AI-Interaction\n\n\n\n\n\n\nFeb 14, 2026\n\n\nCogX\n\n\nFeb 14, 2026\n\n\nto-watch\n\n\n\n\n\n\n\nFrom LLMs to Agents: Challenges and Opportunities\n\n\n\nAI\n\nAgents\n\nLLMs\n\n\n\n\n\n\nFeb 14, 2026\n\n\nChao Huang (AI & Scientific Discovery Seminar)\n\n\nFeb 14, 2026\n\n\nto-watch\n\n\n\n\n\n\n\nMonthly Online ILFC Seminar\n\n\n\nComputational-Linguistics\n\nSeminars\n\nLLMs\n\n\n\n\n\n\nFeb 12, 2026\n\n\nRéseau thématique LIFT (ILFC)\n\n\nFeb 14, 2026\n\n\nto-watch\n\n\n\n\n\n\n\nFrontiers in NeuroAI — Talk Recordings\n\n\n\nAI\n\nNeuroscience\n\nNeuroAI\n\n\n\n\n\n\nJun 5, 2025\n\n\nKempner Institute (Harvard)\n\n\nFeb 14, 2026\n\n\nto-watch\n\n\n\n\n\n\n\nLanguage Models as World Models\n\n\n\nAI\n\nWorld-Models\n\nLLMs\n\n\n\n\n\n\nFeb 14, 2026\n\n\nMITCBMM\n\n\nFeb 14, 2026\n\n\nto-watch\n\n\n\n\n\n\n\nLanguage Modeling: A Tutorial on Data Preparation, Model Training, and Adaptation\n\n\n\nAI\n\nLLMs\n\nTutorials\n\n\n\n\n\n\nFeb 14, 2026\n\n\nDSAI by Dr. Osbert Tay\n\n\nFeb 14, 2026\n\n\nto-watch\n\n\n\n\n\n\n\nKeynote: Philip Resnik (NAACL SRW 2025)\n\n\n\nNLP\n\nKeynotes\n\nNAACL\n\n\n\n\n\n\nFeb 14, 2026\n\n\nPhilip Resnik\n\n\nFeb 14, 2026\n\n\nto-watch\n\n\n\n\n\n\n\nRichard Sutton – Father of RL thinks LLMs are a dead end\n\n\n\nAI\n\nreinforcement-learning\n\nLLMs\n\n\n\n\n\n\nSep 26, 2025\n\n\nDwarkesh Patel\n\n\nFeb 14, 2026\n\n\nto-watch\n\n\n\n\n\n\n\nLarge Language Models and Transformers (Simons Institute)\n\n\n\nAI\n\nLLMs\n\nTransformers\n\nWorkshops\n\n\n\n\n\n\nAug 14, 2023\n\n\nSimons Institute for the Theory of Computing\n\n\nFeb 14, 2026\n\n\nto-watch\n\n\n\n\n\n\n\nAre LLMs worth it?\n\n\n\nAI\n\nLLMs\n\nCOLM\n\n\n\n\n\n\nOct 1, 2024\n\n\nNicholas Carlini\n\n\nFeb 13, 2026\n\n\nto-watch\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "readings/hidden-gems-simons/index.html",
-    "href": "readings/hidden-gems-simons/index.html",
-    "title": "Hidden Gems",
+    "objectID": "papers.html",
+    "href": "papers.html",
+    "title": "Papers",
     "section": "",
-    "text": "PDF from the Simons Institute site (title: “Hidden Gems”).\nRead the PDF →"
+    "text": "All To Read Finished\n\n\nA curated collection of research papers.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Author\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Added - Oldest\n      \n      \n        Added - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nWhat Instagram and Community Colleges Tell Us about the Future of Digital Humanities\n\n\n\ndigital humanities\n\npedagogy\n\ncommunity colleges\n\nsocial media\n\nInstagram\n\naccess\n\nequity\n\n\n\n\n\n\nJan 1, 2025\n\n\nUnknown\n\n\nFeb 16, 2026\n\n\nto-read\n\n\n\n\n\n\n\nRelational arcs as narrative structure: Dynamics, distribution and diachronic change in fiction\n\n\n\ncomputational humanities\n\nnarrative structure\n\ndigital humanities\n\nsocial networks\n\nfiction analysis\n\ncharacter relationships\n\nliterary theory\n\n\n\n\n\n\nJan 1, 2025\n\n\nChristou & Tsoumakas et al.\n\n\nFeb 16, 2026\n\n\nto-read\n\n\n\n\n\n\n\nNarrative Theory for Computational Narrative Understanding\n\n\n\nPapers\n\nACL\n\n\n\n\n\n\nFeb 15, 2026\n\n\nACL Anthology\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nHow are Prompts Different in Terms of Sensitivity?\n\n\n\nPapers\n\nACL\n\n\n\n\n\n\nFeb 15, 2026\n\n\nACL Anthology\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nTracking Evolving Relationship Between Characters in Books in the Era of Large Language Models\n\n\n\nPapers\n\nACL\n\nLLMs\n\n\n\n\n\n\nFeb 15, 2026\n\n\nACL Anthology\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nIs this a wampimuk? Cross-modal mapping between distributional semantics and the visual world\n\n\n\nPapers\n\nACL\n\nNLP\n\n\n\n\n\n\nFeb 15, 2026\n\n\nACL Anthology\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nIntroducing the Anthology for Computers and the Humanities\n\n\n\nPapers\n\nACH\n\n\n\n\n\n\nFeb 15, 2026\n\n\nArnold, Taylor\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nBorn Again Neural Networks\n\n\n\nPapers\n\narXiv\n\nML\n\n\n\n\n\n\nMay 12, 2018\n\n\nTommaso Furlanello; Zachary C. Lipton; Michael Tschannen et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nWhat do you learn from context? Probing for sentence structure in contextualized word representations\n\n\n\nPapers\n\narXiv\n\nInterpretability\n\nRepresentation\n\n\n\n\n\n\nMay 15, 2019\n\n\nIan Tenney; Patrick Xia; Berlin Chen et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nMS2: Multi-Document Summarization of Medical Studies\n\n\n\nPapers\n\narXiv\n\nSummarization\n\n\n\n\n\n\nApr 13, 2021\n\n\nJay DeYoung; Iz Beltagy; Madeleine van Zuylen et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nA Meta-Evaluation of Faithfulness Metrics for Long-Form Hospital-Course Summarization\n\n\n\nPapers\n\narXiv\n\nEvaluation\n\nSummarization\n\n\n\n\n\n\nMar 7, 2023\n\n\nGriffin Adams; Jason Zucker; Noémie Elhadad\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nMeetingBank: A Benchmark Dataset for Meeting Summarization\n\n\n\nPapers\n\narXiv\n\nEvaluation\n\nSummarization\n\nData\n\n\n\n\n\n\nMay 27, 2023\n\n\nYebowen Hu; Tim Ganter; Hanieh Deilamsalehy et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nLess is More for Long Document Summary Evaluation by LLMs\n\n\n\nPapers\n\narXiv\n\nLLMs\n\nEvaluation\n\n\n\n\n\n\nSep 14, 2023\n\n\nYunshu Wu; Hayate Iso; Pouya Pezeshkpour et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nBooookScore: A systematic exploration of book-length summarization in the era of LLMs\n\n\n\nPapers\n\narXiv\n\nLLMs\n\nEvaluation\n\nSummarization\n\n\n\n\n\n\nOct 1, 2023\n\n\nYapei Chang; Kyle Lo; Tanya Goyal et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Expressive Power of Transformers with Chain of Thought\n\n\n\nPapers\n\narXiv\n\nReasoning\n\nML\n\n\n\n\n\n\nOct 11, 2023\n\n\nWilliam Merrill; Ashish Sabharwal\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Problem of Alignment\n\n\n\nPapers\n\narXiv\n\nAlignment\n\n\n\n\n\n\nDec 30, 2023\n\n\nTsvetelina Hristova; Liam Magee; Karen Soldatic\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nRethinking Interpretability in the Era of Large Language Models\n\n\n\nPapers\n\narXiv\n\nLLMs\n\nInterpretability\n\n\n\n\n\n\nJan 30, 2024\n\n\nChandan Singh; Jeevana Priya Inala; Michel Galley et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nRepetition Improves Language Model Embeddings\n\n\n\nPapers\n\narXiv\n\nLLMs\n\nRepresentation\n\n\n\n\n\n\nFeb 23, 2024\n\n\nJacob Mitchell Springer; Suhas Kotha; Daniel Fried et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nUsing Shapley interactions to understand how models use structure\n\n\n\nPapers\n\narXiv\n\n\n\n\n\n\nMar 19, 2024\n\n\nDivyansh Singhvi; Diganta Misra; Andrej Erkelens et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nCan large language models explore in-context?\n\n\n\nPapers\n\narXiv\n\nLLMs\n\n\n\n\n\n\nMar 22, 2024\n\n\nAkshay Krishnamurthy; Keegan Harris; Dylan J. Foster et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nTransformers represent belief state geometry in their residual stream\n\n\n\nPapers\n\narXiv\n\nRepresentation\n\nMath\n\nML\n\n\n\n\n\n\nMay 24, 2024\n\n\nAdam S. Shai; Sarah E. Marzen; Lucas Teixeira et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nAre language models rational? The case of coherence norms and belief revision\n\n\n\nPapers\n\narXiv\n\nLLMs\n\nMultimodal\n\n\n\n\n\n\nJun 5, 2024\n\n\nThomas Hofweber; Peter Hase; Elias Stengel-Eskin et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nEvaluating the World Model Implicit in a Generative Model\n\n\n\nPapers\n\narXiv\n\nEvaluation\n\nWorld-Models\n\n\n\n\n\n\nJun 6, 2024\n\n\nKeyon Vafa; Justin Y. Chen; Ashesh Rambachan et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nSUMIE: A Synthetic Benchmark for Incremental Entity Summarization\n\n\n\nPapers\n\narXiv\n\nEvaluation\n\nSummarization\n\n\n\n\n\n\nJun 7, 2024\n\n\nEunjeong Hwang; Yichao Zhou; Beliz Gunel et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nBrittle Minds, Fixable Activations: Understanding Belief Representations in Language Models\n\n\n\nPapers\n\narXiv\n\nLLMs\n\nRepresentation\n\n\n\n\n\n\nJun 25, 2024\n\n\nMatteo Bortoletto; Constantin Ruhdorfer; Lei Shi et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nLLMs instead of Human Judges? A Large Scale Empirical Study across 20 NLP Evaluation Tasks\n\n\n\nPapers\n\narXiv\n\nLLMs\n\nEvaluation\n\nNLP\n\n\n\n\n\n\nJun 26, 2024\n\n\nAnna Bavaresco; Raffaella Bernardi; Leonardo Bertolazzi et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nGenerative Monoculture in Large Language Models\n\n\n\nPapers\n\narXiv\n\nLLMs\n\n\n\n\n\n\nJul 2, 2024\n\n\nFan Wu; Emily Black; Varun Chandrasekaran\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nSTORYSUMM: Evaluating Faithfulness in Story Summarization\n\n\n\nPapers\n\narXiv\n\nEvaluation\n\nSummarization\n\n\n\n\n\n\nJul 9, 2024\n\n\nMelanie Subbiah; Faisal Ladhak; Akankshya Mishra et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nInternal Consistency and Self-Feedback in Large Language Models: A Survey\n\n\n\nPapers\n\narXiv\n\nLLMs\n\n\n\n\n\n\nJul 19, 2024\n\n\nXun Liang; Shichao Song; Zifan Zheng et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nDetectiveQA: Evaluating Long-Context Reasoning on Detective Novels\n\n\n\nPapers\n\narXiv\n\nEvaluation\n\nReasoning\n\n\n\n\n\n\nSep 4, 2024\n\n\nZhe Xu; Jiasheng Ye; Xiaoran Liu et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nAI as Humanity’s Salieri: Quantifying Linguistic Creativity of Language Models via Systematic Attribution of Machine Text against Web Text\n\n\n\nPapers\n\narXiv\n\n\n\n\n\n\nOct 5, 2024\n\n\nXiming Lu; Melanie Sclar; Skyler Hallinan et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nHow Do Multilingual Language Models Remember Facts?\n\n\n\nPapers\n\narXiv\n\nLLMs\n\n\n\n\n\n\nOct 18, 2024\n\n\nConstanza Fierro; Negar Foroutan; Desmond Elliott et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nIdeaBench: Benchmarking Large Language Models for Research Idea Generation\n\n\n\nPapers\n\narXiv\n\nLLMs\n\nEvaluation\n\n\n\n\n\n\nOct 31, 2024\n\n\nSikun Guo; Amir Hassan Shariatmadari; Guangzhi Xiong et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nEmergence and Effectiveness of Task Vectors in In-Context Learning: An Encoder Decoder Perspective\n\n\n\nPapers\n\narXiv\n\nScaling\n\n\n\n\n\n\nDec 16, 2024\n\n\nSeungwook Han; Jinyeop Song; Jeff Gore et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nICLR: In-Context Learning of Representations\n\n\n\nPapers\n\narXiv\n\nRepresentation\n\n\n\n\n\n\nDec 29, 2024\n\n\nCore Francisco Park; Andrew Lee; Ekdeep Singh Lubana et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nAgent-as-Judge for Factual Summarization of Long Narratives\n\n\n\nPapers\n\narXiv\n\nAgents\n\nSummarization\n\n\n\n\n\n\nJan 17, 2025\n\n\nYeonseok Jeong; Minsoo Kim; Seung-won Hwang et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nSelf-Improving Transformers Overcome Easy-to-Hard and Length Generalization Challenges\n\n\n\nPapers\n\narXiv\n\nML\n\n\n\n\n\n\nFeb 3, 2025\n\n\nNayoung Lee; Ziyang Cai; Avi Schwarzschild et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nSatori: Reinforcement Learning with Chain-of-Action-Thought Enhances LLM Reasoning via Autoregressive Search\n\n\n\nPapers\n\narXiv\n\nLLMs\n\nReasoning\n\nRL\n\n\n\n\n\n\nFeb 4, 2025\n\n\nMaohao Shen; Guangtao Zeng; Zhenting Qi et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nPlanGenLLMs: A Modern Survey of LLM Planning Capabilities\n\n\n\nPapers\n\narXiv\n\nLLMs\n\nPlanning\n\n\n\n\n\n\nFeb 16, 2025\n\n\nHui Wei; Zihao Zhang; Shenghua He et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nSupposedly Equivalent Facts That Aren’t? Entity Frequency in Pre-training Induces Asymmetry in LLMs\n\n\n\nPapers\n\narXiv\n\nLLMs\n\n\n\n\n\n\nMar 28, 2025\n\n\nYuan He; Bailan He; Zifeng Ding et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nSelf-Steering Language Models\n\n\n\nPapers\n\narXiv\n\nLLMs\n\n\n\n\n\n\nApr 9, 2025\n\n\nGabriel Grand; Joshua B. Tenenbaum; Vikash K. Mansinghka et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nRankAlign: A Ranking View of the Generator-Validator Gap in Large Language Models\n\n\n\nPapers\n\narXiv\n\nLLMs\n\n\n\n\n\n\nApr 15, 2025\n\n\nJuan Diego Rodriguez; Wenxuan Ding; Katrin Erk et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nHypoBench: Towards Systematic and Principled Benchmarking for Hypothesis Generation\n\n\n\nPapers\n\narXiv\n\nEvaluation\n\n\n\n\n\n\nApr 15, 2025\n\n\nHaokun Liu; Sicong Huang; Jingyu Hu et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nKRISTEVA: Close Reading as a Novel Task for Benchmarking Interpretive Reasoning\n\n\n\nPapers\n\narXiv\n\nInterpretability\n\nEvaluation\n\nReasoning\n\n\n\n\n\n\nMay 14, 2025\n\n\nPeiqi Sui; Juan Diego Rodriguez; Philippe Laban et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nMeasurement to Meaning: A Validity-Centered Framework for AI Evaluation\n\n\n\nPapers\n\narXiv\n\nEvaluation\n\nAI\n\n\n\n\n\n\nMay 13, 2025\n\n\nOlawale Salaudeen; Anka Reuel; Ahmed Ahmed et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nWhen AI Co-Scientists Fail: SPOT-a Benchmark for Automated Verification of Scientific Research\n\n\n\nPapers\n\narXiv\n\nEvaluation\n\nAI\n\n\n\n\n\n\nMay 17, 2025\n\n\nGuijin Son; Jiwoo Hong; Honglu Fan et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nDo Language Models Use Their Depth Efficiently?\n\n\n\nPapers\n\narXiv\n\nLLMs\n\n\n\n\n\n\nMay 20, 2025\n\n\nRóbert Csordás; Christopher D. Manning; Christopher Potts\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nDiagnosing our datasets: How does my language model learn clinical information?\n\n\n\nPapers\n\narXiv\n\nLLMs\n\nData\n\n\n\n\n\n\nMay 21, 2025\n\n\nFurong Jia; David Sontag; Monica Agrawal\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nNot Minds, but Signs: Reframing LLMs through Semiotics\n\n\n\nPapers\n\narXiv\n\nLLMs\n\n\n\n\n\n\nMay 20, 2025\n\n\nDavide Picca\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nAmplifying Human Creativity and Problem Solving with AI Through Generative Collective Intelligence\n\n\n\nPapers\n\narXiv\n\nAI\n\n\n\n\n\n\nMay 25, 2025\n\n\nThomas P. Kehler; Scott E. Page; Alex Pentland et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nToken Distillation: Attention-aware Input Embeddings For New Tokens\n\n\n\nPapers\n\narXiv\n\nRepresentation\n\n\n\n\n\n\nMay 26, 2025\n\n\nKonstantin Dobler; Desmond Elliott; Gerard de Melo\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nSelfReflect: Can LLMs Communicate Their Internal Answer Distribution?\n\n\n\nPapers\n\narXiv\n\nLLMs\n\n\n\n\n\n\nMay 26, 2025\n\n\nMichael Kirchhof; Luca Füger; Adam Goliński et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nLatent Reasoning via Sentence Embedding Prediction\n\n\n\nPapers\n\narXiv\n\nReasoning\n\nRepresentation\n\n\n\n\n\n\nMay 28, 2025\n\n\nHyeonbin Hwang; Byeongguk Jeon; Seungone Kim et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nAutoGPS: Automated Geometry Problem Solving via Multimodal Formalization and Deductive Reasoning\n\n\n\nPapers\n\narXiv\n\nReasoning\n\nMultimodal\n\nMath\n\n\n\n\n\n\nMay 29, 2025\n\n\nBowen Ping; Minnan Luo; Zhuohang Dang et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nUsing LLMs to Advance the Cognitive Science of Collectives\n\n\n\nPapers\n\narXiv\n\nLLMs\n\nCognitive-Science\n\n\n\n\n\n\nMay 28, 2025\n\n\nIlia Sucholutsky; Katherine M. Collins; Nori Jacoby et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nConformal Arbitrage: Risk-Controlled Balancing of Competing Objectives in Language Models\n\n\n\nPapers\n\narXiv\n\nLLMs\n\nCalibration\n\nMath\n\n\n\n\n\n\nJun 1, 2025\n\n\nWilliam Overman; Mohsen Bayati\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nIn-Context Learning for Pure Exploration\n\n\n\nPapers\n\narXiv\n\n\n\n\n\n\nJun 2, 2025\n\n\nAlessio Russo; Ryan Welch; Aldo Pacchiano\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nCycle Consistency as Reward: Learning Image-Text Alignment without Human Preferences\n\n\n\nPapers\n\narXiv\n\nMultimodal\n\nAlignment\n\n\n\n\n\n\nJun 2, 2025\n\n\nHyojin Bahng; Caroline Chan; Fredo Durand et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nBabyLM’s First Constructions: Causal probing provides a signal of learning\n\n\n\nPapers\n\narXiv\n\nInterpretability\n\n\n\n\n\n\nJun 2, 2025\n\n\nJoshua Rozner; Leonie Weissweiler; Cory Shain\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nSmall Language Models are the Future of Agentic AI\n\n\n\nPapers\n\narXiv\n\nLLMs\n\nAgents\n\nAI\n\n\n\n\n\n\nJun 2, 2025\n\n\nPeter Belcak; Greg Heinrich; Shizhe Diao et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nExchangeability in Neural Network and its Application to Dynamic Pruning\n\n\n\nPapers\n\narXiv\n\nML\n\n\n\n\n\n\nJun 2, 2025\n\n\nPu; Yi; Tianlang Chen et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nDoes It Make Sense to Speak of Introspection in Large Language Models?\n\n\n\nPapers\n\narXiv\n\nLLMs\n\n\n\n\n\n\nJun 5, 2025\n\n\nIulia M. Comsa; Murray Shanahan\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nMetritocracy: Representative Metrics for Lite Benchmarks\n\n\n\nPapers\n\narXiv\n\nEvaluation\n\nRepresentation\n\n\n\n\n\n\nJun 11, 2025\n\n\nAriel Procaccia; Benjamin Schiffer; Serena Wang et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nRWESummary: A Framework and Test for Choosing Large Language Models to Summarize Real-World Evidence (RWE) Studies\n\n\n\nPapers\n\narXiv\n\nLLMs\n\nSummarization\n\n\n\n\n\n\nJun 23, 2025\n\n\nArjun Mukerji; Michael L. Jackson; Jason Jones et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nCorrecting Hallucinations in News Summaries: Exploration of Self-Correcting LLM Methods with External Knowledge\n\n\n\nPapers\n\narXiv\n\nLLMs\n\nSummarization\n\n\n\n\n\n\nJun 24, 2025\n\n\nJuraj Vladika; Ihsan Soydemir; Florian Matthes\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Ideation-Execution Gap: Execution Outcomes of LLM-Generated versus Human Research Ideas\n\n\n\nPapers\n\narXiv\n\nLLMs\n\n\n\n\n\n\nJun 25, 2025\n\n\nChenglei Si; Tatsunori Hashimoto; Diyi Yang\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nReasoning or Not? A Comprehensive Evaluation of Reasoning LLMs for Dialogue Summarization\n\n\n\nPapers\n\narXiv\n\nLLMs\n\nEvaluation\n\nReasoning\n\nSummarization\n\n\n\n\n\n\nJul 2, 2025\n\n\nKeyan Jin; Yapeng Wang; Leonel Santos et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nAgent-Based Detection and Resolution of Incompleteness and Ambiguity in Interactions with Large Language Models\n\n\n\nPapers\n\narXiv\n\nLLMs\n\nAgents\n\n\n\n\n\n\nJul 4, 2025\n\n\nRiya Naik; Ashwin Srinivasan; Swati Agarwal et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nBeyond Binary Rewards: Training LMs to Reason About Their Uncertainty\n\n\n\nPapers\n\narXiv\n\nReasoning\n\nCalibration\n\n\n\n\n\n\nJul 22, 2025\n\n\nMehul Damani; Isha Puri; Stewart Slocum et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nLarge Language Models Do Not Simulate Human Psychology\n\n\n\nPapers\n\narXiv\n\nLLMs\n\nCognitive-Science\n\n\n\n\n\n\nAug 9, 2025\n\n\nSarah Schröder; Thekla Morgenroth; Ulrike Kuhl et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nPRELUDE: A Benchmark Designed to Require Global Comprehension and Reasoning over Long Contexts\n\n\n\nPapers\n\narXiv\n\nEvaluation\n\nReasoning\n\n\n\n\n\n\nAug 13, 2025\n\n\nMo Yu; Tsz Ting Chung; Chulun Zhou et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nPrivileged Self-Access Matters for Introspection in AI\n\n\n\nPapers\n\narXiv\n\nAI\n\n\n\n\n\n\nAug 20, 2025\n\n\nSiyuan Song; Harvey Lederman; Jennifer Hu et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe Differential Meaning of Models: A Framework for Analyzing the Structural Consequences of Semantic Modeling Decisions\n\n\n\nPapers\n\narXiv\n\n\n\n\n\n\nAug 29, 2025\n\n\nZachary K. Stine; James E. Deitrick\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nHow important is language for human-like intelligence?\n\n\n\nPapers\n\narXiv\n\n\n\n\n\n\nSep 19, 2025\n\n\nGary Lupyan; Hunter Gentry; Martin Zettersten\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nMachine Learning. The Science of Selection under Uncertainty\n\n\n\nPapers\n\narXiv\n\nCalibration\n\nML\n\n\n\n\n\n\nSep 25, 2025\n\n\nYevgeny Seldin\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nArtificial Phantasia: Evidence for Propositional Reasoning-Based Mental Imagery in Large Language Models\n\n\n\nPapers\n\narXiv\n\nLLMs\n\nReasoning\n\nMultimodal\n\n\n\n\n\n\nSep 27, 2025\n\n\nMorgan McCarty; Jorge Morales\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nWhy Can’t Transformers Learn Multiplication? Reverse-Engineering Reveals Long-Range Dependency Pitfalls\n\n\n\nPapers\n\narXiv\n\nML\n\n\n\n\n\n\nSep 30, 2025\n\n\nXiaoyan Bai; Itamar Pres; Yuntian Deng et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nOn the Theory of Continual Learning with Gradient Descent for Neural Networks\n\n\n\nPapers\n\narXiv\n\nML\n\n\n\n\n\n\nOct 7, 2025\n\n\nHossein Taheri; Avishek Ghosh; Arya Mazumdar\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nGauguin, Descartes, Bayes: A Diurnal Golem’s Brain\n\n\n\nPapers\n\nACM\n\nMath\n\nNeuroscience\n\n\n\n\n\n\nOct 9, 2025\n\n\nKartik Chandra; Amanda Liu; Jonathan Ragan-Kelley et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nGenerative Aesthetics: On formal stuckness in AI verse\n\n\n\nPapers\n\n\n\n\n\n\nOct 10, 2025\n\n\nRyan Heuser\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nReversing 30 years of discussion: why causal decision theorists should one-box - Synthese\n\n\n\nPapers\n\nSpringer\n\n\n\n\n\n\nFeb 15, 2026\n\n\nSpohn, Wolfgang\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nText Embeddings Reveal (Almost) As Much As Text\n\n\n\nPapers\n\nOpenReview\n\nRepresentation\n\n\n\n\n\n\nFeb 15, 2026\n\n\nOpenReview\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nRefineBench: Evaluating Refinement Capability in Language Models\n\n\n\nPapers\n\nOpenReview\n\nLLMs\n\nEvaluation\n\n\n\n\n\n\nFeb 15, 2026\n\n\nOpenReview\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nOpenReview\n\n\n\nPapers\n\nOpenReview\n\n\n\n\n\n\nFeb 15, 2026\n\n\nOpenReview\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nSociety for Computation in Linguistics\n\n\n\nPapers\n\n\n\n\n\n\nFeb 15, 2026\n\n\nopenpublishing.library.umass.edu\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nUMass SCiL article 2131\n\n\n\nPapers\n\n\n\n\n\n\nFeb 15, 2026\n\n\nopenpublishing.library.umass.edu\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nUMass SCiL article 2136\n\n\n\nPapers\n\n\n\n\n\n\nFeb 15, 2026\n\n\nopenpublishing.library.umass.edu\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nUMass SCiL article 2219\n\n\n\nPapers\n\n\n\n\n\n\nFeb 15, 2026\n\n\nopenpublishing.library.umass.edu\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nUMass SCiL article 2222\n\n\n\nPapers\n\n\n\n\n\n\nFeb 15, 2026\n\n\nopenpublishing.library.umass.edu\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nUMass SCiL article 2226\n\n\n\nPapers\n\n\n\n\n\n\nFeb 15, 2026\n\n\nopenpublishing.library.umass.edu\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThree levels of framing\n\n\n\nPapers\n\nWiley\n\n\n\n\n\n\nSep 1, 2023\n\n\nKaren Sullivan\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nHuman-like object concept representations emerge naturally in multimodal large language models - Nature Machine Intelligence\n\n\n\nPapers\n\nNature\n\nLLMs\n\nRepresentation\n\nMultimodal\n\nScaling\n\n\n\n\n\n\nFeb 15, 2026\n\n\nDu, Changde\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nThe impact of language models on the humanities and vice versa - Nature Computational Science\n\n\n\nPapers\n\nNature\n\nLLMs\n\n\n\n\n\n\nFeb 15, 2026\n\n\nUnderwood, Ted\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nLarge AI models are cultural and social technologies\n\n\n\nPapers\n\nScience\n\nSociety\n\nAI\n\n\n\n\n\n\nMar 14, 2025\n\n\nHenry Farrell; Alison Gopnik; Cosma Shalizi et al.\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\n\n\nFollowing in our footsteps Raising AI: An Essential Guide to Parenting Our Future De Kai MIT Press, 2025. 280 pp.\n\n\n\nPapers\n\nScience\n\n\n\n\n\n\nJul 10, 2025\n\n\nAdrian Woolfson\n\n\nFeb 15, 2026\n\n\nto-read\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "readings/home/index.html",
-    "href": "readings/home/index.html",
-    "title": "Home",
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
     "section": "",
-    "text": "Read →"
+    "text": "This is a post with executable code."
   },
   {
-    "objectID": "readings/internalist-vs-externalist-conceptions-of-epistemic-justification-stanford-encyc/index.html",
-    "href": "readings/internalist-vs-externalist-conceptions-of-epistemic-justification-stanford-encyc/index.html",
-    "title": "Internalist vs. Externalist Conceptions of Epistemic Justification (Stanford Encyclopedia of Philosophy)",
-    "section": "",
-    "text": "Read →"
-  },
-  {
-    "objectID": "readings/lacy-small-language-models/index.html",
-    "href": "readings/lacy-small-language-models/index.html",
-    "title": "LaCy: What Small Language Models Can and Should Learn is Not Just a Question of Loss",
-    "section": "",
-    "text": "Small Language Models have limited capacity to store world knowledge, leading to factual errors. This paper asks: which tokens should an SLM learn during pretraining, and which should it delegate to an external source (larger model, database, etc.)?\nKey insight: High loss alone isn’t enough to decide when to delegate. Some high-loss tokens have acceptable alternative continuations that aren’t factually wrong—they shouldn’t trigger a &lt;CALL&gt;. The key is identifying tokens that are both high-loss and factual.\nLaCy uses a spaCy grammar parser to cheaply identify factual tokens, training SLMs to delegate these when loss is high. At inference, a &lt;CALL&gt; token triggers extraction from a cascade partner (larger model).\nResults: LaCy outperforms loss thresholding, Rho-1 learnability scores, and LLM-as-judge methods on FactScore while being simpler and cheaper.\nInteresting finding: Validation loss is not correlated with downstream factual accuracy across methods and scales.\nRead the paper →\nAuthor’s thread on Bluesky →"
-  },
-  {
-    "objectID": "readings/large-ai-models-cultural-social-technologies/index.html",
-    "href": "readings/large-ai-models-cultural-social-technologies/index.html",
-    "title": "Large AI models are cultural and social technologies",
-    "section": "",
-    "text": "Henry Farrell’s author-posted version of the Science piece (published March 13, 2025; DOI: 10.1126/science.adt9819).\nCoauthors listed on the page: Alison Gopnik, Cosma Shalizi, and James Evans.\n\nWeb version: https://henryfarrell.net/large-ai-models-are-cultural-and-social-technologies/\nAccepted-version PDF (linked from the page): http://henryfarrell.net/wp-content/uploads/2025/03/Science-Accepted-Version.pdf"
-  },
-  {
-    "objectID": "readings/llm-daydreaming-gwern-net/index.html",
-    "href": "readings/llm-daydreaming-gwern-net/index.html",
-    "title": "LLM Daydreaming · Gwern.net",
+    "objectID": "readings/access-denied/index.html",
+    "href": "readings/access-denied/index.html",
+    "title": "Access Denied",
     "section": "",
     "text": "Read →"
   },
   {
-    "objectID": "readings/mechanistic-interpretability-needs-philosophy/index.html",
-    "href": "readings/mechanistic-interpretability-needs-philosophy/index.html",
-    "title": "Mechanistic Interpretability Needs Philosophy",
+    "objectID": "readings/ai-attack-from-above-on-wages/index.html",
+    "href": "readings/ai-attack-from-above-on-wages/index.html",
+    "title": "“AI is an attack from above on wages”: An interview with cognitive scientist Hagen Blix",
     "section": "",
-    "text": "Position paper arguing that mechanistic interpretability should treat philosophy as an ongoing partner for clarifying concepts, methods, and the epistemic/ethical stakes of interpreting AI systems.\nRead on arXiv →"
+    "text": "Interview/Q&A framing AI less as a neutral productivity tool and more as a technology likely to be deployed for deskilling and wage suppression, with discussion of how “AI” narratives resonate with lived experience of algorithmic management.\nRead the post →"
   },
   {
-    "objectID": "readings/moss-icml2025/index.html",
-    "href": "readings/moss-icml2025/index.html",
-    "title": "MOSS@ICML2025",
-    "section": "",
-    "text": "Read →"
-  },
-  {
-    "objectID": "readings/nlp-4-democracy-colm-2025-schedule/index.html",
-    "href": "readings/nlp-4-democracy-colm-2025-schedule/index.html",
-    "title": "NLP 4 Democracy - COLM 2025 - Schedule",
+    "objectID": "readings/been-kim/index.html",
+    "href": "readings/been-kim/index.html",
+    "title": "Been Kim",
     "section": "",
     "text": "Read →"
   },
   {
-    "objectID": "readings/ordinal-society-review/index.html",
-    "href": "readings/ordinal-society-review/index.html",
-    "title": "Book Review: The Ordinal Society",
+    "objectID": "readings/bitter-lesson/index.html",
+    "href": "readings/bitter-lesson/index.html",
+    "title": "The Bitter Lesson",
     "section": "",
-    "text": "Review of The Ordinal Society (Marion Fourcade & Kieran Healy) on what it means for computers/metrics/rankings to intervene in how society is seen and organized.\nRead the PDF →"
+    "text": "Rich Sutton’s influential essay arguing that the biggest lesson from AI research is that general methods leveraging computation scale better than methods that rely on human knowledge. Historical examples from chess, Go, speech recognition, and computer vision show that approaches based on search and learning ultimately win over hand-crafted features and domain knowledge.\nRead the full essay →"
   },
   {
-    "objectID": "readings/publications/index.html",
-    "href": "readings/publications/index.html",
-    "title": "publications",
+    "objectID": "readings/bsky-victorian-rlhf-toy-models/index.html",
+    "href": "readings/bsky-victorian-rlhf-toy-models/index.html",
+    "title": "Toy models for (pseudo) historical preference learning (Bluesky thread)",
     "section": "",
-    "text": "Read →"
+    "text": "Bluesky thread pointing to a couple of “toy models” attempting something like historically-grounded preferences (explicitly noting it’s not RLHF from Victorian-era people).\nBluesky thread: https://bsky.app/profile/neku42.bsky.social/post/3meta5wrttc2x\nSource links mentioned: - https://huggingface.co/haykgrigorian/TimeCapsuleLLM-v2-llama-1.2B - https://huggingface.co/bahree/london-historical-slm"
   },
   {
-    "objectID": "readings/quickstart-for-projects-github-docs/index.html",
-    "href": "readings/quickstart-for-projects-github-docs/index.html",
-    "title": "Quickstart for Projects - GitHub Docs",
-    "section": "",
-    "text": "Read →"
+    "objectID": "readings/bsky-victorian-rlhf-toy-models/index.html#related-reading",
+    "href": "readings/bsky-victorian-rlhf-toy-models/index.html#related-reading",
+    "title": "Toy models for (pseudo) historical preference learning (Bluesky thread)",
+    "section": "Related Reading",
+    "text": "Related Reading\n\nMonadGPT — “What would have happened if ChatGPT was invented in the 17th century?” A Mistral-Hermes finetune on 11,000 early modern texts (English, French, Latin) from EEBO and Gallica. Answers in historical language/style with period-appropriate (i.e., dated) references."
   },
   {
-    "objectID": "readings/resonant-computing-manifesto/index.html",
-    "href": "readings/resonant-computing-manifesto/index.html",
-    "title": "The Resonant Computing Manifesto",
+    "objectID": "readings/cost-of-the-agi-delusion/index.html",
+    "href": "readings/cost-of-the-agi-delusion/index.html",
+    "title": "The Cost of the AGI Delusion: By Chasing Superintelligence, America Is Falling Behind in the Real AI Race",
     "section": "",
-    "text": "A short manifesto arguing that technology should be designed to shape environments that in turn shape us well—as a reaction against hyper-scale, attention-hijacking platforms and the incentive structures that produce them.\nLink: https://resonantcomputing.org"
+    "text": "Read the full article →"
   },
   {
-    "objectID": "readings/spivak-canthesubalternspeak-pdf/index.html",
-    "href": "readings/spivak-canthesubalternspeak-pdf/index.html",
-    "title": "Spivak CanTheSubalternSpeak.pdf",
+    "objectID": "readings/devezers-urn/index.html",
+    "href": "readings/devezers-urn/index.html",
+    "title": "Devezer’s Urn",
     "section": "",
-    "text": "Read →"
+    "text": "A critique of quantitative meta-science and the latest wave of papers using LLMs to data-mine existing publications. Responds to a political science paper claiming 98% of papers suffer from publication bias. Questions what statistical model should actually govern the generation of scientific abstracts.\nRead the full article →"
   },
   {
-    "objectID": "readings/talks-cam-making-connections-brains-and-other-complex-systems/index.html",
-    "href": "readings/talks-cam-making-connections-brains-and-other-complex-systems/index.html",
-    "title": "talks.cam : Making connections- brains and other complex systems",
-    "section": "",
-    "text": "Read →"
-  },
-  {
-    "objectID": "readings/texting-network-end-of-world/index.html",
-    "href": "readings/texting-network-end-of-world/index.html",
-    "title": "The Texting Network for the End of the World",
-    "section": "",
-    "text": "WIRED piece on Meshtastic: an open-source system for sending text messages over LoRa radios in an ad-hoc mesh, useful for dead zones and disaster scenarios where cell service/internet are unavailable.\nRead the article →"
-  },
-  {
-    "objectID": "readings/understanding-optimization-in-deep-learning-with-central-flows/index.html",
-    "href": "readings/understanding-optimization-in-deep-learning-with-central-flows/index.html",
-    "title": "Understanding Optimization in Deep Learning with Central Flows",
+    "objectID": "readings/error-the-request-could-not-be-satisfied/index.html",
+    "href": "readings/error-the-request-could-not-be-satisfied/index.html",
+    "title": "ERROR: The request could not be satisfied",
     "section": "",
     "text": "Read →"
   },
   {
-    "objectID": "readings/why-agi-will-not-happen/index.html",
-    "href": "readings/why-agi-will-not-happen/index.html",
-    "title": "Why AGI Will Not Happen",
+    "objectID": "readings/guns-money-and-opium/index.html",
+    "href": "readings/guns-money-and-opium/index.html",
+    "title": "Guns, Money and Opium",
     "section": "",
-    "text": "A critique of AGI/superintelligence discourse grounded in the “computation is physical” perspective—arguing hardware/memory movement constraints and architecture-level realities are underweighted in common narratives.\nLink: https://timdettmers.com/2025/12/10/why-agi-will-not-happen/"
+    "text": "London Review of Books essay on US special forces, counterinsurgency, and covert operations from Kennedy-era Fort Bragg through the Cold War’s hot zones.\nRead the full article →"
   },
   {
-    "objectID": "videos/20-minutes-of-useless-information-about-gta-san-andreas/index.html",
-    "href": "videos/20-minutes-of-useless-information-about-gta-san-andreas/index.html",
-    "title": "20 Minutes of Useless Information about GTA San Andreas",
+    "objectID": "readings/high-value-ai-for-high-value-business/index.html",
+    "href": "readings/high-value-ai-for-high-value-business/index.html",
+    "title": "High-Value AI. For High-Value Business.",
+    "section": "",
+    "text": "Read →"
+  },
+  {
+    "objectID": "readings/hr-simulator-be-the-person-you-hate/index.html",
+    "href": "readings/hr-simulator-be-the-person-you-hate/index.html",
+    "title": "HR Simulator™: Be the Person You Hate",
+    "section": "",
+    "text": "Read →"
+  },
+  {
+    "objectID": "readings/intro/index.html",
+    "href": "readings/intro/index.html",
+    "title": "Intro",
+    "section": "",
+    "text": "Read →"
+  },
+  {
+    "objectID": "readings/language-modeling-by-language-models/index.html",
+    "href": "readings/language-modeling-by-language-models/index.html",
+    "title": "Language Modeling by Language Models",
+    "section": "",
+    "text": "Introduces Genesys, a multi-agent LLM system that simulates stages of research (ideation → review → implementation → training → evaluation) to discover new LM architectures using a genetic-programming backbone and a “Ladder of Scales” verification strategy.\nRead on arXiv →"
+  },
+  {
+    "objectID": "readings/ljmu-data-repository/index.html",
+    "href": "readings/ljmu-data-repository/index.html",
+    "title": "LJMU Data Repository",
+    "section": "",
+    "text": "Read →"
+  },
+  {
+    "objectID": "readings/machines-of-loving-grace/index.html",
+    "href": "readings/machines-of-loving-grace/index.html",
+    "title": "Machines of Loving Grace",
+    "section": "",
+    "text": "Essay by Dario Amodei (Anthropic) on a positive vision for how AI could transform the world.\nRead the full essay →"
+  },
+  {
+    "objectID": "readings/modular-manifolds/index.html",
+    "href": "readings/modular-manifolds/index.html",
+    "title": "Modular Manifolds",
+    "section": "",
+    "text": "A Thinking Machines post on constraining neural network weight matrices to live on manifolds (e.g., Stiefel manifold) and designing manifold-aware optimizers. Frames normalization/constraints as a way to keep tensors “healthy” and proposes the idea of modular manifolds for composing constraints in larger systems.\nRead the post →"
+  },
+  {
+    "objectID": "readings/my-response-to-ai-2027/index.html",
+    "href": "readings/my-response-to-ai-2027/index.html",
+    "title": "My response to AI 2027",
+    "section": "",
+    "text": "Vitalik’s response/critique of the AI 2027 scenario, focusing on how the scenario treats capabilities as highly asymmetric (offense races ahead while defense lags), and exploring what changes when “both sides get AI superpowers.”\nLink: https://vitalik.eth.limo/general/2025/07/10/2027.html"
+  },
+  {
+    "objectID": "readings/olmix-smart-data-mixing-for-evolving-language-models/index.html",
+    "href": "readings/olmix-smart-data-mixing-for-evolving-language-models/index.html",
+    "title": "Olmix: Smart Data Mixing for Evolving Language Models",
+    "section": "",
+    "text": "Emergent Mind video + written script on Olmix, a framework for:\n\nchoosing data-mixing configurations (proxy size, swarm design, surrogate modeling), and\nreusing previously-computed mixtures when domains/data evolve, reducing recomputation cost.\n\nRead / watch on Emergent Mind →"
+  },
+  {
+    "objectID": "readings/pi-minimal-agent-openclaw/index.html",
+    "href": "readings/pi-minimal-agent-openclaw/index.html",
+    "title": "Pi: The Minimal Agent Within OpenClaw",
+    "section": "",
+    "text": "Armin Ronacher on Pi (by Mario Zechner): a minimal coding agent (tiny prompt, few tools) with an extension system, and how it relates to OpenClaw.\nRead the post →"
+  },
+  {
+    "objectID": "readings/quantum-mysteries/index.html",
+    "href": "readings/quantum-mysteries/index.html",
+    "title": "Are the Mysteries of Quantum Mechanics Beginning To Dissolve?",
+    "section": "",
+    "text": "Philip Ball explores Wojciech Zurek’s work on decoherence and quantum Darwinism as a potential resolution to long-standing interpretational puzzles in quantum mechanics. Could these ideas finally explain the quantum-classical transition without resorting to many worlds, wavefunction collapse, or other contentious interpretations?\nRead the full article →"
+  },
+  {
+    "objectID": "readings/quire-pricing/index.html",
+    "href": "readings/quire-pricing/index.html",
+    "title": "Quire Pricing",
+    "section": "",
+    "text": "Read →"
+  },
+  {
+    "objectID": "readings/schedule/index.html",
+    "href": "readings/schedule/index.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Read →"
+  },
+  {
+    "objectID": "readings/stine-deitrick-navigating-interpretive-spaces-across-models-poster-pdf-at-main-z/index.html",
+    "href": "readings/stine-deitrick-navigating-interpretive-spaces-across-models-poster-pdf-at-main-z/index.html",
+    "title": "Navigating Interpretive Spaces Across Models (Poster, ACH 2025)",
+    "section": "",
+    "text": "Read →"
+  },
+  {
+    "objectID": "readings/tapeagents-framework-review/index.html",
+    "href": "readings/tapeagents-framework-review/index.html",
+    "title": "TapeAgents: a Holistic Framework for Agent Development and Optimization",
+    "section": "",
+    "text": "Medium post reviewing TapeAgents (Bahdanau et al.): a framework for agent development built around a structured “tape” (session log/state) to support persistence, auditing, debugging, and hierarchical delegation.\nRead the post →"
+  },
+  {
+    "objectID": "readings/the-third-yes/index.html",
+    "href": "readings/the-third-yes/index.html",
+    "title": "the third Yes",
+    "section": "",
+    "text": "Substack essay touching on representation geometry, ontology, and debates around “world models” in LLM discourse.\nRead the full article →"
+  },
+  {
+    "objectID": "readings/we-can-choose-not-to-let-ai-destroy-us/index.html",
+    "href": "readings/we-can-choose-not-to-let-ai-destroy-us/index.html",
+    "title": "We Can Choose Not to Let AI Destroy Us",
+    "section": "",
+    "text": "A Bulwark/Triad essay arguing that the central risk from AI may be speed: rapid adoption could create a macroeconomic shock (job displacement → reduced consumption → cascading demand collapse) that complex social/economic systems may not adapt to quickly.\nIt also emphasizes that society can choose regulatory constraints on where/when machine labor is permitted—i.e., “we have agency,” and don’t have to accept a dystopian default.\nRead the full article →"
+  },
+  {
+    "objectID": "readings/why-isnt-modern-ai-built-around-principles/index.html",
+    "href": "readings/why-isnt-modern-ai-built-around-principles/index.html",
+    "title": "Why isn’t modern AI built around principles from cognitive science?",
+    "section": "",
+    "text": "Post kicking off a series on AI ↔︎ cognitive science, with a historical perspective on why recent AI progress has been driven more by compute/data/engineering and ML-centric architectural innovation than by cognitive/neuroscience principles.\nLink: https://infinitefaculty.substack.com/p/why-isnt-modern-ai-built-around-principles"
+  },
+  {
+    "objectID": "videos/4d-toys-update-rotating-the-3d-slice-face-projections-marble-scenes-every-new-fe/index.html",
+    "href": "videos/4d-toys-update-rotating-the-3d-slice-face-projections-marble-scenes-every-new-fe/index.html",
+    "title": "4D Toys Update: Rotating the 3D Slice, Face Projections, Marble scenes + Every new feature",
     "section": "",
     "text": "Watch \u00136"
   },
   {
-    "objectID": "videos/ai-and-the-digital-playlist/index.html",
-    "href": "videos/ai-and-the-digital-playlist/index.html",
-    "title": "AI & the Digital (YouTube playlist)",
+    "objectID": "videos/ai-scientific-discovery-seminar-channel/index.html",
+    "href": "videos/ai-scientific-discovery-seminar-channel/index.html",
+    "title": "AI & Scientific Discovery Seminar (YouTube channel)",
     "section": "",
-    "text": "YouTube playlist: “AI & the Digital.” (Publish dates vary by video.)\nWatch →"
+    "text": "YouTube channel for the AI & Scientific Discovery Seminar series.\nWatch →"
   },
   {
-    "objectID": "videos/american-conversations-technology-reporter-gil-duran/index.html",
-    "href": "videos/american-conversations-technology-reporter-gil-duran/index.html",
-    "title": "American Conversations: Technology Reporter Gil Duran",
+    "objectID": "videos/amy-zhang-rldm-2022/index.html",
+    "href": "videos/amy-zhang-rldm-2022/index.html",
+    "title": "RLDM 2022 Talk",
+    "section": "",
+    "text": "Amy Zhang’s talk at RLDM 2022 (Panopto recording).\nWatch →"
+  },
+  {
+    "objectID": "videos/carlini-are-llms-worth-it/index.html",
+    "href": "videos/carlini-are-llms-worth-it/index.html",
+    "title": "Are LLMs worth it?",
+    "section": "",
+    "text": "Nicholas Carlini’s talk at the Conference on Language Modeling (COLM) examining whether large language models are worth the investment and resources they require.\nWatch →"
+  },
+  {
+    "objectID": "videos/chao-huang-llms-to-agents/index.html",
+    "href": "videos/chao-huang-llms-to-agents/index.html",
+    "title": "From LLMs to Agents: Challenges and Opportunities",
+    "section": "",
+    "text": "Talk by Chao Huang on the transition from LLMs to agentic systems.\nWatch →"
+  },
+  {
+    "objectID": "videos/how-to-see-the-4th-dimension-with-topology/index.html",
+    "href": "videos/how-to-see-the-4th-dimension-with-topology/index.html",
+    "title": "How to ‘See’ the 4th Dimension with Topology",
     "section": "",
     "text": "Watch \u00136"
   },
   {
-    "objectID": "videos/cameron-buckner-language-models-reasoning/index.html",
-    "href": "videos/cameron-buckner-language-models-reasoning/index.html",
-    "title": "Language Models as Models of Human Reasoning",
+    "objectID": "videos/kempner-frontiers-neuroai-talks/index.html",
+    "href": "videos/kempner-frontiers-neuroai-talks/index.html",
+    "title": "Frontiers in NeuroAI — Talk Recordings",
     "section": "",
-    "text": "CogIST webinar talk by Cameron Buckner on language models and human reasoning.\nWatch →"
+    "text": "Recordings of full talks from Frontiers in NeuroAI (June 5–6, 2025).\nWatch →"
   },
   {
-    "objectID": "videos/centaurs-or-butlers-cogx/index.html",
-    "href": "videos/centaurs-or-butlers-cogx/index.html",
-    "title": "Centaurs or Butlers? Designing for Human Relationships with Non-Human Intelligences",
-    "section": "",
-    "text": "Talk on designing for human relationships with non-human intelligences.\nWatch →"
-  },
-  {
-    "objectID": "videos/featured-former-fellow-samuel-schindler-11-21-25/index.html",
-    "href": "videos/featured-former-fellow-samuel-schindler-11-21-25/index.html",
-    "title": "Featured Former Fellow - Samuel Schindler 11/21/25",
+    "objectID": "videos/non-euclidean-worlds-engine/index.html",
+    "href": "videos/non-euclidean-worlds-engine/index.html",
+    "title": "Non-Euclidean Worlds Engine",
     "section": "",
     "text": "Watch \u00136"
   },
   {
-    "objectID": "videos/ilfc-seminar-monthly/index.html",
-    "href": "videos/ilfc-seminar-monthly/index.html",
-    "title": "Monthly Online ILFC Seminar",
+    "objectID": "videos/philip-resnik-naacl-srw-2025-keynote/index.html",
+    "href": "videos/philip-resnik-naacl-srw-2025-keynote/index.html",
+    "title": "Keynote: Philip Resnik (NAACL SRW 2025)",
     "section": "",
-    "text": "Monthly online seminar on interactions between formal and computational linguistics (includes recorded talks/links).\nWatch →"
+    "text": "Zoom recording of Philip Resnik’s keynote at SRW @ NAACL 2025.\nWatch →"
   },
   {
-    "objectID": "videos/mitcbmm-language-models-world-models/index.html",
-    "href": "videos/mitcbmm-language-models-world-models/index.html",
-    "title": "Language Models as World Models",
+    "objectID": "videos/simons-llm-transformers-videos/index.html",
+    "href": "videos/simons-llm-transformers-videos/index.html",
+    "title": "Large Language Models and Transformers (Simons Institute)",
     "section": "",
-    "text": "MIT CBMM talk exploring the “language models as world models” framing.\nWatch →"
+    "text": "Talk videos from the Simons Institute workshop “Large Language Models and Transformers” (Aug 14–18, 2023).\nWatch →"
   },
   {
-    "objectID": "videos/osbert-tay-language-modeling-tutorial/index.html",
-    "href": "videos/osbert-tay-language-modeling-tutorial/index.html",
-    "title": "Language Modeling: A Tutorial on Data Preparation, Model Training, and Adaptation",
-    "section": "",
-    "text": "A tutorial-style talk covering language modeling workflow end-to-end.\nWatch →"
-  },
-  {
-    "objectID": "videos/richard-sutton-llms-dead-end/index.html",
-    "href": "videos/richard-sutton-llms-dead-end/index.html",
-    "title": "Richard Sutton – Father of RL thinks LLMs are a dead end",
-    "section": "",
-    "text": "Interview/conversation with Richard Sutton (“The Bitter Lesson”) on reinforcement learning, agents, and why he thinks LLMs are a dead end.\nWatch →"
-  },
-  {
-    "objectID": "videos/the-dynamic-mind-an-architectural-blueprint/index.html",
-    "href": "videos/the-dynamic-mind-an-architectural-blueprint/index.html",
-    "title": "The Dynamic Mind - An Architectural Blueprint",
+    "objectID": "videos/the-physics-of-dissonance/index.html",
+    "href": "videos/the-physics-of-dissonance/index.html",
+    "title": "The Physics Of Dissonance",
     "section": "",
     "text": "Watch \u00136"
-  },
-  {
-    "objectID": "listening/how-to-change-a-memory/index.html",
-    "href": "listening/how-to-change-a-memory/index.html",
-    "title": "How to change a memory",
-    "section": "",
-    "text": "Neuroscientist Steve Ramirez discusses his groundbreaking research on memory manipulation and his book “How to Change a Memory: One Neuroscientist’s Quest to Alter the Past.”\nKey topics: - Artificially activating memories in mice using optogenetics (lasers + genetically engineered neurons) - Successfully reversing depression symptoms by activating positive memories - How memories are malleable (“like lava that melts and hardens into new shapes”) - Restoring memories thought lost to Alzheimer’s, traumatic brain injury, sleep deprivation - Ethical implications of memory manipulation (MK Ultra comparison) - His late lab partner Xu Liu and how grief shaped his understanding of memory - Personal struggles with addiction after Xu’s death\nQuote: “Memory is the thing that threads and unifies our overall sense of being and our sense of identity.”\nListen →"
   },
   {
     "objectID": "books/amazon-sign-in/index.html",
