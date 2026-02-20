@@ -71,20 +71,15 @@ function filterByStatus(status) {
   });
   event.target.classList.add('active');
   
-  // Find the Quarto list.js instance
-  const listingEl = document.querySelector('.quarto-listing');
-  if (!listingEl) return;
-  const listingId = listingEl.id;
-  const list = window['quarto-listings'] && window['quarto-listings'][listingId];
-  
-  if (list) {
+  // Use Quarto's search input to filter
+  const searchInput = document.querySelector('.quarto-listing-filter input.search');
+  if (searchInput) {
     if (status === 'all') {
-      list.filter(); // Clear filter
+      searchInput.value = '';
+      searchInput.dispatchEvent(new Event('input', { bubbles: true }));
     } else {
-      list.filter(function(item) {
-        const statusVal = item.values()['listing-status'];
-        return statusVal && statusVal.trim().toLowerCase() === status;
-      });
+      searchInput.value = status;
+      searchInput.dispatchEvent(new Event('input', { bubbles: true }));
     }
   }
 }
