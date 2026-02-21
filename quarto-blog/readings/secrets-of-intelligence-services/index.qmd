@@ -1,0 +1,13 @@
+---
+title: "Secrets of Intelligence Services"
+author: "Ben Recht"
+date: "2026-02-06"
+date-added: "2026-02-21"
+categories: [AI, agents, software]
+status: to-read
+url: "https://www.argmin.net/p/secrets-of-intelligence-services"
+---
+
+Ben Recht unpacks how coding agents work, arguing they’re simpler than they seem: a feedback loop between a small deterministic agent and a powerful LLM. He builds a minimalist “microagent” to make the architecture legible and uses it to demystify tool use, state, and agent behavior.
+
+[Read the full article →](https://www.argmin.net/p/secrets-of-intelligence-services)
