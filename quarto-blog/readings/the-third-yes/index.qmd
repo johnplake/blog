@@ -2,6 +2,7 @@
 title: "the third Yes"
 author: "Daniel Bashir"
 date: "2026-02-14"
+date-added: "2026-02-15"
 categories: [AI, Philosophy, Language]
 status: to-read
 url: "https://thejester.substack.com/p/the-third-yes"

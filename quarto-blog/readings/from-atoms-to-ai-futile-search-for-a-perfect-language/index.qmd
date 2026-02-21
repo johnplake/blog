@@ -2,6 +2,7 @@
 title: "From Atoms to AI: The Futile Search for a “Perfect” Language"
 author: "Andrea Moro"
 date: "2026-02-17"
+date-added: "2026-02-17"
 categories: [ai, language, linguistics, philosophy]
 status: to-read
 url: "https://thereader.mitpress.mit.edu/from-atoms-to-ai-the-futile-search-for-a-perfect-language/"

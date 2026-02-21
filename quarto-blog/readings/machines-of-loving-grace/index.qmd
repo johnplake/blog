@@ -2,6 +2,7 @@
 title: "Machines of Loving Grace"
 author: "Dario Amodei"
 date: "2024-10-01"
+date-added: "2026-02-15"
 categories: [AI, AI-policy]
 status: to-read
 url: "https://darioamodei.com/essay/machines-of-loving-grace"

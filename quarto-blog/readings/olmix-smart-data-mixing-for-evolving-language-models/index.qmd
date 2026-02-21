@@ -2,6 +2,7 @@
 title: "Olmix: Smart Data Mixing for Evolving Language Models"
 author: "Emergent Mind"
 date: "2026-02-17"
+date-added: "2026-02-17"
 categories: [ai, machine-learning, llms, data]
 status: to-read
 url: "https://www.emergentmind.com/videos/olmix-data-mixing-for-lm-development-ae6d5a8a"
