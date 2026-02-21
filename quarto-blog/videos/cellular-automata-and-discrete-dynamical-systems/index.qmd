@@ -1,0 +1,13 @@
+---
+title: "Cellular automata and discrete dynamical systems"
+author: "Carlos Gershenson"
+date: "2026-02-17"
+date-added: "2026-02-21"
+categories: [complexity, cellular-automata, dynamical-systems]
+status: to-watch
+url: "https://www.youtube.com/watch?v=I24NTZmcPQg&list=PLK-rh8p0FUUFiizPr3WjG9_19upl5JNvN"
+---
+
+Lecture 4 in the Collective Dynamics of Complex Systems series, introducing cellular automata and discrete dynamical systems.
+
+[Watch →](https://www.youtube.com/watch?v=I24NTZmcPQg&list=PLK-rh8p0FUUFiizPr3WjG9_19upl5JNvN)
