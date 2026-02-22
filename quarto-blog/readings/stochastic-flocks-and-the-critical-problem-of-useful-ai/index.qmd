@@ -1,0 +1,13 @@
+---
+title: "Stochastic Flocks and the Critical Problem of 'Useful' AI"
+author: "Eryk Salvaggio"
+date: "2026-02-22"
+date-added: "2026-02-22"
+categories: [AI, policy, ethics, critique]
+status: to-read
+url: "https://www.techpolicy.press/stochastic-flocks-and-the-critical-problem-of-useful-ai/"
+---
+
+Critiques the 'agentic' turn in AI, arguing that stacking LLMs into systems that write code ('stochastic flocks') compounds accountability, bias, and failure risks even as usefulness improves.
+
+[Read the full article →](https://www.techpolicy.press/stochastic-flocks-and-the-critical-problem-of-useful-ai/)
