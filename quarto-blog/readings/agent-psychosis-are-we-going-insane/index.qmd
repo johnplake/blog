@@ -1,0 +1,13 @@
+---
+title: "Agent Psychosis: Are We Going Insane?"
+author: "Armin Ronacher"
+date: "2026-01-18"
+date-added: "2026-02-23"
+categories: [AI, agents, psychology, culture]
+status: to-read
+url: "https://lucumr.pocoo.org/2026/1/18/agent-psychosis/"
+---
+
+Reflections on the addictive nature of AI agent coding, parasocial relationships with AI companions, and the degradation of human collaboration quality (PRs, issues) in the vibe-coding era.
+
+[Read the full article →](https://lucumr.pocoo.org/2026/1/18/agent-psychosis/)
