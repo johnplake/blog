@@ -1,0 +1,13 @@
+---
+title: "The Workplace Arms Race"
+author: "Shane Boyle"
+date: "2025-12-23"
+date-added: "2026-02-23"
+categories: [labor, technology, workplace, management]
+status: to-read
+url: "https://proteanmag.com/2025/12/23/the-workplace-arms-race/"
+---
+
+Reviews the rise of algorithmic management and workplace surveillance, framing it as an escalating contest between workers and employers over control and productivity.
+
+[Read the full article →](https://proteanmag.com/2025/12/23/the-workplace-arms-race/)
