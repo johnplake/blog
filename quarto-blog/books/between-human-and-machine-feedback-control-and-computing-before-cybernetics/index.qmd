@@ -1,0 +1,13 @@
+---
+title: "Between Human and Machine: Feedback, Control, and Computing before Cybernetics"
+author: "David A. Mindell"
+date: "2004"
+date-added: "2026-02-24"
+categories: [cybernetics, history, control-theory, computing]
+status: to-read
+url: "https://archive.org/details/B-001-002-575"
+---
+
+Brief description...
+
+[View book →](https://archive.org/details/B-001-002-575)
