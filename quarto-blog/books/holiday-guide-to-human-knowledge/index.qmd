@@ -1,6 +1,6 @@
 ---
 title: "Holiday guide to human knowledge"
-author: "Ben Shestakofsky"
+author: "Benjamin Riley"
 date: "2024-12-20"
 date-added: "2026-02-26"
 categories: [book-lists]
