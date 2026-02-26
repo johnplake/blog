@@ -41,15 +41,11 @@ title: "Links"
   transform: none;
   box-shadow: none;
 }
-/* Pastel colors */
-.pastel-blue { background: #d4e8fc; }
-.pastel-green { background: #d4f5e9; }
-.pastel-pink { background: #fce4ec; }
-.pastel-purple { background: #e8d4fc; }
-.pastel-yellow { background: #fef3cd; }
-.pastel-orange { background: #ffe0cc; }
-.pastel-teal { background: #d4f1f4; }
-.pastel-lavender { background: #e6e0f8; }
+/* Subtle uniform color */
+.pastel-blue, .pastel-green, .pastel-pink, .pastel-purple, 
+.pastel-yellow, .pastel-orange, .pastel-teal, .pastel-lavender { 
+  background: #f5f8fc; 
+}
 </style>
 ```
 
