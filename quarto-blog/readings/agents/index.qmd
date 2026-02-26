@@ -1,0 +1,13 @@
+---
+title: "Agents"
+author: "Chip Huyen"
+date: "2025-01-07"
+date-added: "2026-02-26"
+categories: [AI, agents, planning]
+status: to-read
+url: "https://huyenchip.com/2025/01/07/agents.html"
+---
+
+Deep dive into AI agents: tools, planning, and evaluation. Covers agent architecture, control flows, and failure modes.
+
+[Read the full article →](https://huyenchip.com/2025/01/07/agents.html)
