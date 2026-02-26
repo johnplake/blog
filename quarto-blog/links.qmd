@@ -48,22 +48,17 @@ A curated collection of interesting reads, tools, and resources.
 ## Interesting Reads
 
 - [The n-Category Café](https://golem.ph.utexas.edu/category/)
-- [Terence Tao's Blog](https://terrytao.wordpress.com/)
 - [Quanta Magazine](https://www.quantamagazine.org/)
 - [Distill](https://distill.pub/)
 - [The Gradient](https://thegradient.pub/)
 - [Language Log](https://languagelog.ldc.upenn.edu/nll/)
 - [Aeon Essays](https://aeon.co/essays)
 
-## Tools & Tech
-
-- [Quarto](https://quarto.org/)
-- [Observable](https://observablehq.com/)
-
 ## People & Blogs
 
 ```{=html}
 <div class="people-grid">
+<a href="https://terrytao.wordpress.com/" class="person-card pastel-blue">Terence Tao</a>
 <a href="http://bactra.org/weblog/" class="person-card pastel-blue">Cosma Shalizi</a>
 <a href="https://www.programmablemutter.com/" class="person-card pastel-blue">Henry Farrell</a>
 <a href="https://realizable.substack.com/" class="person-card pastel-blue">Maxim Raginsky</a>
