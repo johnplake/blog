@@ -92,7 +92,7 @@ A curated collection of interesting reads, tools, and resources.
 <a href="https://brianmerchant.org/" class="person-card pastel-orange">Brian Merchant</a>
 <a href="https://pluralistic.net/" class="person-card pastel-orange">Cory Doctorow</a>
 <a href="https://www.platformer.news/" class="person-card pastel-orange">Platformer</a>
-<span class="person-card pastel-orange placeholder">[?]</span>
+<a href="https://centerforhumanetechnology.substack.com/" class="person-card pastel-orange">Center for Humane Tech</a>
 <a href="https://braddelong.substack.com/" class="person-card pastel-yellow">Brad DeLong</a>
 <a href="https://marginalrevolution.com/" class="person-card pastel-yellow">Marginal Revolution</a>
 <a href="https://crookedtimber.org/" class="person-card pastel-yellow">Crooked Timber</a>
