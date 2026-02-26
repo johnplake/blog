@@ -1,0 +1,13 @@
+---
+title: "A Guide to Which AI to Use in the Agentic Era"
+author: "Ethan Mollick"
+date: "2025-01-08"
+date-added: "2026-02-26"
+categories: [AI, agents, tools]
+status: to-read
+url: "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the"
+---
+
+Models, apps, and harnesses: understanding the new landscape of AI agents and which tools to use for different tasks.
+
+[Read the full article →](https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the)
