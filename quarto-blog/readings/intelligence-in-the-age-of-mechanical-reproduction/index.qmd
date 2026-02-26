@@ -1,0 +1,13 @@
+---
+title: "Intelligence in the Age of Mechanical Reproduction"
+author: "Charles Eisenstein"
+date: "2024"
+date-added: "2026-02-26"
+categories: [AI, philosophy, technology, cognition]
+status: to-read
+url: "https://charleseisenstein.substack.com/p/intelligence-in-the-age-of-mechanical"
+---
+
+Explores the cognitive and social effects of outsourcing mental tasks to AI, drawing parallels from photography, printing, and film. Examines how AI risks atrophying human intelligence while entrenching orthodoxies.
+
+[Read the full article →](https://charleseisenstein.substack.com/p/intelligence-in-the-age-of-mechanical)
