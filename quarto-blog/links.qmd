@@ -44,7 +44,7 @@ title: "Links"
 /* Subtle uniform color */
 .pastel-blue, .pastel-green, .pastel-pink, .pastel-purple, 
 .pastel-yellow, .pastel-orange, .pastel-teal, .pastel-lavender { 
-  background: #f5f8fc; 
+  background: #e8f5e9; 
 }
 </style>
 ```
