@@ -69,34 +69,34 @@ A curated collection of interesting reads, tools, and resources.
 
 ```{=html}
 <div class="people-grid">
-<a href="http://bactra.org/weblog/" class="person-card pastel-blue">Cosma Shalizi</a>
-<a href="https://www.programmablemutter.com/" class="person-card pastel-blue">Henry Farrell</a>
-<a href="https://realizable.substack.com/" class="person-card pastel-blue">Maxim Raginsky</a>
-<a href="https://tedunderwood.com/" class="person-card pastel-blue">Ted Underwood</a>
-<a href="https://aiguide.substack.com/" class="person-card pastel-purple">Melanie Mitchell</a>
-<a href="https://infinitefaculty.substack.com/" class="person-card pastel-purple">Andrew Lampinen</a>
-<a href="https://erikjlarson.substack.com/" class="person-card pastel-purple">Erik J. Larson</a>
-<a href="https://www.interconnects.ai/" class="person-card pastel-purple">Nathan Lambert</a>
-<a href="https://www.argmin.net/" class="person-card pastel-green">Ben Recht</a>
-<a href="https://blog.dileeplearning.com/" class="person-card pastel-green">Dileep George</a>
-<a href="https://statmodeling.stat.columbia.edu/" class="person-card pastel-green">Andrew Gelman</a>
-<a href="https://elevanth.org/" class="person-card pastel-green">Richard McElreath</a>
-<a href="https://timdettmers.com/" class="person-card pastel-pink">Tim Dettmers</a>
-<a href="https://www.oneusefulthing.org/" class="person-card pastel-pink">Ethan Mollick</a>
-<a href="https://simonwillison.net/" class="person-card pastel-pink">Simon Willison</a>
-<a href="https://scottaaronson.blog/" class="person-card pastel-pink">Scott Aaronson</a>
-<a href="https://huyenchip.com/blog/" class="person-card pastel-teal">Chip Huyen</a>
-<a href="https://magazine.sebastianraschka.com/" class="person-card pastel-teal">Sebastian Raschka</a>
-<a href="https://cameronrwolfe.substack.com/" class="person-card pastel-teal">Cameron R. Wolfe</a>
-<a href="https://www.neelnanda.io/" class="person-card pastel-teal">Neel Nanda</a>
-<a href="https://brianmerchant.org/" class="person-card pastel-orange">Brian Merchant</a>
-<a href="https://pluralistic.net/" class="person-card pastel-orange">Cory Doctorow</a>
-<a href="https://www.platformer.news/" class="person-card pastel-orange">Platformer</a>
-<a href="https://centerforhumanetechnology.substack.com/" class="person-card pastel-orange">Center for Humane Tech</a>
-<a href="https://braddelong.substack.com/" class="person-card pastel-yellow">Brad DeLong</a>
-<a href="https://marginalrevolution.com/" class="person-card pastel-yellow">Marginal Revolution</a>
-<a href="https://crookedtimber.org/" class="person-card pastel-yellow">Crooked Timber</a>
-<a href="https://www.normaltech.ai/" class="person-card pastel-yellow">Narayanan & Kapoor</a>
+<a href="http://bactra.org/weblog/" class="person-card pastel-teal">Cosma Shalizi</a>
+<a href="https://www.programmablemutter.com/" class="person-card pastel-pink">Henry Farrell</a>
+<a href="https://realizable.substack.com/" class="person-card pastel-lavender">Maxim Raginsky</a>
+<a href="https://tedunderwood.com/" class="person-card pastel-green">Ted Underwood</a>
+<a href="https://aiguide.substack.com/" class="person-card pastel-orange">Melanie Mitchell</a>
+<a href="https://infinitefaculty.substack.com/" class="person-card pastel-blue">Andrew Lampinen</a>
+<a href="https://erikjlarson.substack.com/" class="person-card pastel-yellow">Erik J. Larson</a>
+<a href="https://www.interconnects.ai/" class="person-card pastel-pink">Nathan Lambert</a>
+<a href="https://www.argmin.net/" class="person-card pastel-purple">Ben Recht</a>
+<a href="https://blog.dileeplearning.com/" class="person-card pastel-teal">Dileep George</a>
+<a href="https://statmodeling.stat.columbia.edu/" class="person-card pastel-orange">Andrew Gelman</a>
+<a href="https://elevanth.org/" class="person-card pastel-blue">Richard McElreath</a>
+<a href="https://timdettmers.com/" class="person-card pastel-lavender">Tim Dettmers</a>
+<a href="https://www.oneusefulthing.org/" class="person-card pastel-green">Ethan Mollick</a>
+<a href="https://simonwillison.net/" class="person-card pastel-yellow">Simon Willison</a>
+<a href="https://scottaaronson.blog/" class="person-card pastel-purple">Scott Aaronson</a>
+<a href="https://huyenchip.com/blog/" class="person-card pastel-pink">Chip Huyen</a>
+<a href="https://magazine.sebastianraschka.com/" class="person-card pastel-blue">Sebastian Raschka</a>
+<a href="https://cameronrwolfe.substack.com/" class="person-card pastel-orange">Cameron R. Wolfe</a>
+<a href="https://www.neelnanda.io/" class="person-card pastel-lavender">Neel Nanda</a>
+<a href="https://brianmerchant.org/" class="person-card pastel-green">Brian Merchant</a>
+<a href="https://pluralistic.net/" class="person-card pastel-teal">Cory Doctorow</a>
+<a href="https://www.platformer.news/" class="person-card pastel-purple">Platformer</a>
+<a href="https://centerforhumanetechnology.substack.com/" class="person-card pastel-yellow">Center for Humane Tech</a>
+<a href="https://braddelong.substack.com/" class="person-card pastel-pink">Brad DeLong</a>
+<a href="https://marginalrevolution.com/" class="person-card pastel-lavender">Marginal Revolution</a>
+<a href="https://crookedtimber.org/" class="person-card pastel-orange">Crooked Timber</a>
+<a href="https://www.normaltech.ai/" class="person-card pastel-blue">Narayanan & Kapoor</a>
 </div>
 ```
 
