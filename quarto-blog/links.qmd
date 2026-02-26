@@ -31,6 +31,16 @@ title: "Links"
   text-decoration: none;
   color: #333;
 }
+.person-card.placeholder {
+  background: #f0f0f0;
+  color: #999;
+  cursor: default;
+  font-weight: 400;
+}
+.person-card.placeholder:hover {
+  transform: none;
+  box-shadow: none;
+}
 /* Pastel colors */
 .pastel-blue { background: #d4e8fc; }
 .pastel-green { background: #d4f5e9; }
@@ -48,6 +58,7 @@ A curated collection of interesting reads, tools, and resources.
 ## Interesting Reads
 
 - [The n-Category Café](https://golem.ph.utexas.edu/category/)
+- [Terence Tao's Blog](https://terrytao.wordpress.com/)
 - [Quanta Magazine](https://www.quantamagazine.org/)
 - [Distill](https://distill.pub/)
 - [The Gradient](https://thegradient.pub/)
@@ -58,26 +69,30 @@ A curated collection of interesting reads, tools, and resources.
 
 ```{=html}
 <div class="people-grid">
-<a href="https://terrytao.wordpress.com/" class="person-card pastel-blue">Terence Tao</a>
 <a href="http://bactra.org/weblog/" class="person-card pastel-blue">Cosma Shalizi</a>
 <a href="https://www.programmablemutter.com/" class="person-card pastel-blue">Henry Farrell</a>
 <a href="https://realizable.substack.com/" class="person-card pastel-blue">Maxim Raginsky</a>
-<a href="https://www.argmin.net/" class="person-card pastel-blue">Ben Recht</a>
-<a href="https://tedunderwood.com/" class="person-card pastel-purple">Ted Underwood</a>
-<a href="https://scottaaronson.blog/" class="person-card pastel-purple">Scott Aaronson</a>
+<a href="https://tedunderwood.com/" class="person-card pastel-blue">Ted Underwood</a>
 <a href="https://aiguide.substack.com/" class="person-card pastel-purple">Melanie Mitchell</a>
 <a href="https://infinitefaculty.substack.com/" class="person-card pastel-purple">Andrew Lampinen</a>
-<a href="https://erikjlarson.substack.com/" class="person-card pastel-green">Erik J. Larson</a>
+<a href="https://erikjlarson.substack.com/" class="person-card pastel-purple">Erik J. Larson</a>
+<span class="person-card pastel-purple placeholder">[?]</span>
+<a href="https://www.argmin.net/" class="person-card pastel-green">Ben Recht</a>
 <a href="https://blog.dileeplearning.com/" class="person-card pastel-green">Dileep George</a>
-<a href="https://braddelong.substack.com/" class="person-card pastel-yellow">Brad DeLong</a>
-<a href="https://marginalrevolution.com/" class="person-card pastel-yellow">Marginal Revolution</a>
-<a href="https://crookedtimber.org/" class="person-card pastel-yellow">Crooked Timber</a>
+<a href="https://statmodeling.stat.columbia.edu/" class="person-card pastel-green">Andrew Gelman</a>
+<span class="person-card pastel-green placeholder">[?]</span>
 <a href="https://timdettmers.com/" class="person-card pastel-pink">Tim Dettmers</a>
 <a href="https://www.oneusefulthing.org/" class="person-card pastel-pink">Ethan Mollick</a>
 <a href="https://simonwillison.net/" class="person-card pastel-pink">Simon Willison</a>
+<a href="https://scottaaronson.blog/" class="person-card pastel-pink">Scott Aaronson</a>
 <a href="https://brianmerchant.org/" class="person-card pastel-orange">Brian Merchant</a>
 <a href="https://pluralistic.net/" class="person-card pastel-orange">Cory Doctorow</a>
 <a href="https://www.platformer.news/" class="person-card pastel-orange">Platformer</a>
+<span class="person-card pastel-orange placeholder">[?]</span>
+<a href="https://braddelong.substack.com/" class="person-card pastel-yellow">Brad DeLong</a>
+<a href="https://marginalrevolution.com/" class="person-card pastel-yellow">Marginal Revolution</a>
+<a href="https://crookedtimber.org/" class="person-card pastel-yellow">Crooked Timber</a>
+<span class="person-card pastel-yellow placeholder">[?]</span>
 </div>
 ```
 
