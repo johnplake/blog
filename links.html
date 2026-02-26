@@ -158,28 +158,32 @@ ul.task-list li input[type="checkbox"] {
 
 
 <style>
+.people-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 1.5em 0;
+}
 .person-card {
-  display: inline-block;
-  margin: 6px 8px 6px 0;
-  padding: 8px 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 160px;
+  height: 48px;
+  padding: 8px 12px;
   border-radius: 8px;
   text-decoration: none;
+  font-weight: 700;
+  font-size: 0.9em;
+  color: #333;
+  text-align: center;
   transition: transform 0.15s ease, box-shadow 0.15s ease;
 }
 .person-card:hover {
   transform: translateY(-2px);
   box-shadow: 0 4px 12px rgba(0,0,0,0.15);
   text-decoration: none;
-}
-.person-card .name {
-  font-weight: 700;
   color: #333;
-  display: block;
-}
-.person-card .desc {
-  font-size: 0.85em;
-  color: #555;
-  margin-top: 2px;
 }
 /* Pastel colors */
 .pastel-blue { background: #d4e8fc; }
@@ -190,20 +194,6 @@ ul.task-list li input[type="checkbox"] {
 .pastel-orange { background: #ffe0cc; }
 .pastel-teal { background: #d4f1f4; }
 .pastel-lavender { background: #e6e0f8; }
-
-.people-grid {
-  margin: 1.5em 0;
-}
-.people-section {
-  margin-bottom: 1.5em;
-}
-.people-section h4 {
-  font-size: 0.9em;
-  color: #666;
-  margin-bottom: 0.5em;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-}
 </style>
 <p>A curated collection of interesting reads, tools, and resources.</p>
 <section id="interesting-reads" class="level2">
@@ -228,107 +218,25 @@ ul.task-list li input[type="checkbox"] {
 <section id="people-blogs" class="level2">
 <h2 class="anchored" data-anchor-id="people-blogs">People &amp; Blogs</h2>
 <div class="people-grid">
-
-<div class="people-section">
-<h4 class="anchored">Information Theory &amp; Statistical Learning</h4>
-<a href="http://bactra.org/weblog/" class="person-card pastel-blue">
-  <span class="name">Cosma Shalizi</span>
-  <span class="desc">statistics, complexity, networks</span>
-</a>
-<a href="https://realizable.substack.com/" class="person-card pastel-blue">
-  <span class="name">Maxim Raginsky</span>
-  <span class="desc">information theory, learning theory</span>
-</a>
-<a href="https://www.argmin.net/" class="person-card pastel-blue">
-  <span class="name">Ben Recht</span>
-  <span class="desc">optimization, control, ML foundations</span>
-</a>
-</div>
-
-<div class="people-section">
-<h4 class="anchored">AI &amp; Cognitive Science</h4>
-<a href="https://aiguide.substack.com/" class="person-card pastel-purple">
-  <span class="name">Melanie Mitchell</span>
-  <span class="desc">AI, complexity, analogy</span>
-</a>
-<a href="https://blog.dileeplearning.com/" class="person-card pastel-purple">
-  <span class="name">Dileep George</span>
-  <span class="desc">neuroscience, AGI, robotics</span>
-</a>
-<a href="https://erikjlarson.substack.com/" class="person-card pastel-purple">
-  <span class="name">Erik J. Larson</span>
-  <span class="desc">AI criticism, philosophy of mind</span>
-</a>
-<a href="https://infinitefaculty.substack.com/" class="person-card pastel-purple">
-  <span class="name">Andrew Lampinen</span>
-  <span class="desc">cognitive science, deep learning</span>
-</a>
-<a href="https://scottaaronson.blog/" class="person-card pastel-purple">
-  <span class="name">Scott Aaronson</span>
-  <span class="desc">quantum computing, complexity, AI safety</span>
-</a>
-</div>
-
-<div class="people-section">
-<h4 class="anchored">AI in Practice</h4>
-<a href="https://www.oneusefulthing.org/" class="person-card pastel-green">
-  <span class="name">Ethan Mollick</span>
-  <span class="desc">AI applications, education, work</span>
-</a>
-<a href="https://simonwillison.net/" class="person-card pastel-green">
-  <span class="name">Simon Willison</span>
-  <span class="desc">LLMs, tools, practical AI</span>
-</a>
-<a href="https://timdettmers.com/" class="person-card pastel-green">
-  <span class="name">Tim Dettmers</span>
-  <span class="desc">deep learning, hardware, quantization</span>
-</a>
-</div>
-
-<div class="people-section">
-<h4 class="anchored">Digital Humanities &amp; Culture</h4>
-<a href="https://tedunderwood.com/" class="person-card pastel-pink">
-  <span class="name">Ted Underwood</span>
-  <span class="desc">digital humanities, literary history</span>
-</a>
-<a href="https://www.programmablemutter.com/" class="person-card pastel-pink">
-  <span class="name">Henry Farrell</span>
-  <span class="desc">political economy, tech &amp; society</span>
-</a>
-<a href="https://crookedtimber.org/" class="person-card pastel-pink">
-  <span class="name">Crooked Timber</span>
-  <span class="desc">philosophy, politics, culture</span>
-</a>
-</div>
-
-<div class="people-section">
-<h4 class="anchored">Economics &amp; Policy</h4>
-<a href="https://braddelong.substack.com/" class="person-card pastel-yellow">
-  <span class="name">Brad DeLong</span>
-  <span class="desc">economic history, policy</span>
-</a>
-<a href="https://marginalrevolution.com/" class="person-card pastel-yellow">
-  <span class="name">Marginal Revolution</span>
-  <span class="desc">economics, culture, ideas</span>
-</a>
-</div>
-
-<div class="people-section">
-<h4 class="anchored">Tech Criticism &amp; Policy</h4>
-<a href="https://www.platformer.news/" class="person-card pastel-orange">
-  <span class="name">Platformer</span>
-  <span class="desc">tech platforms, social media</span>
-</a>
-<a href="https://brianmerchant.org/" class="person-card pastel-orange">
-  <span class="name">Brian Merchant</span>
-  <span class="desc">labor, tech, automation</span>
-</a>
-<a href="https://pluralistic.net/" class="person-card pastel-orange">
-  <span class="name">Cory Doctorow</span>
-  <span class="desc">digital rights, enshittification</span>
-</a>
-</div>
-
+<a href="http://bactra.org/weblog/" class="person-card pastel-blue">Cosma Shalizi</a>
+<a href="https://www.programmablemutter.com/" class="person-card pastel-blue">Henry Farrell</a>
+<a href="https://realizable.substack.com/" class="person-card pastel-blue">Maxim Raginsky</a>
+<a href="https://www.argmin.net/" class="person-card pastel-blue">Ben Recht</a>
+<a href="https://tedunderwood.com/" class="person-card pastel-purple">Ted Underwood</a>
+<a href="https://scottaaronson.blog/" class="person-card pastel-purple">Scott Aaronson</a>
+<a href="https://aiguide.substack.com/" class="person-card pastel-purple">Melanie Mitchell</a>
+<a href="https://infinitefaculty.substack.com/" class="person-card pastel-purple">Andrew Lampinen</a>
+<a href="https://erikjlarson.substack.com/" class="person-card pastel-green">Erik J. Larson</a>
+<a href="https://blog.dileeplearning.com/" class="person-card pastel-green">Dileep George</a>
+<a href="https://braddelong.substack.com/" class="person-card pastel-yellow">Brad DeLong</a>
+<a href="https://marginalrevolution.com/" class="person-card pastel-yellow">Marginal Revolution</a>
+<a href="https://crookedtimber.org/" class="person-card pastel-yellow">Crooked Timber</a>
+<a href="https://timdettmers.com/" class="person-card pastel-pink">Tim Dettmers</a>
+<a href="https://www.oneusefulthing.org/" class="person-card pastel-pink">Ethan Mollick</a>
+<a href="https://simonwillison.net/" class="person-card pastel-pink">Simon Willison</a>
+<a href="https://brianmerchant.org/" class="person-card pastel-orange">Brian Merchant</a>
+<a href="https://pluralistic.net/" class="person-card pastel-orange">Cory Doctorow</a>
+<a href="https://www.platformer.news/" class="person-card pastel-orange">Platformer</a>
 </div>
 <hr>
 <p><em>This page is updated periodically. Suggestions welcome!</em></p>
