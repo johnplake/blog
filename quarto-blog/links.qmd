@@ -76,7 +76,7 @@ A curated collection of interesting reads, tools, and resources.
 <a href="https://aiguide.substack.com/" class="person-card pastel-purple">Melanie Mitchell</a>
 <a href="https://infinitefaculty.substack.com/" class="person-card pastel-purple">Andrew Lampinen</a>
 <a href="https://erikjlarson.substack.com/" class="person-card pastel-purple">Erik J. Larson</a>
-<span class="person-card pastel-purple placeholder">[?]</span>
+<a href="https://www.interconnects.ai/" class="person-card pastel-purple">Nathan Lambert</a>
 <a href="https://www.argmin.net/" class="person-card pastel-green">Ben Recht</a>
 <a href="https://blog.dileeplearning.com/" class="person-card pastel-green">Dileep George</a>
 <a href="https://statmodeling.stat.columbia.edu/" class="person-card pastel-green">Andrew Gelman</a>
@@ -85,6 +85,10 @@ A curated collection of interesting reads, tools, and resources.
 <a href="https://www.oneusefulthing.org/" class="person-card pastel-pink">Ethan Mollick</a>
 <a href="https://simonwillison.net/" class="person-card pastel-pink">Simon Willison</a>
 <a href="https://scottaaronson.blog/" class="person-card pastel-pink">Scott Aaronson</a>
+<a href="https://huyenchip.com/blog/" class="person-card pastel-teal">Chip Huyen</a>
+<a href="https://magazine.sebastianraschka.com/" class="person-card pastel-teal">Sebastian Raschka</a>
+<a href="https://cameronrwolfe.substack.com/" class="person-card pastel-teal">Cameron R. Wolfe</a>
+<span class="person-card pastel-teal placeholder">[?]</span>
 <a href="https://brianmerchant.org/" class="person-card pastel-orange">Brian Merchant</a>
 <a href="https://pluralistic.net/" class="person-card pastel-orange">Cory Doctorow</a>
 <a href="https://www.platformer.news/" class="person-card pastel-orange">Platformer</a>
