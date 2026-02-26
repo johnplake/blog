@@ -1,0 +1,13 @@
+---
+title: "Will AI break democracy or fix it? Yes."
+author: "Bruce Schneier, Nathan E. Sanders"
+date: "2025"
+date-added: "2026-02-26"
+categories: [AI, democracy, journalism, politics]
+status: to-read
+url: "https://newpublic.substack.com/p/will-ai-break-democracy-or-fix-it"
+---
+
+Excerpt from 'Rewiring Democracy' exploring how AI will transform media, local journalism, and political behavior. Discusses personalized news, AI-generated content, and the flood-the-zone strategy in politics.
+
+[Read the full article →](https://newpublic.substack.com/p/will-ai-break-democracy-or-fix-it)
