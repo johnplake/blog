@@ -28,6 +28,7 @@ A curated collection of interesting reads, tools, and resources.
 - [Henry Farrell](https://www.programmablemutter.com/)
 - [Erik J. Larson](https://erikjlarson.substack.com/)
 - [Crooked Timber](https://crookedtimber.org/)
+- [Dileep George](https://blog.dileeplearning.com/)
 - [Brad DeLong](https://braddelong.substack.com/)
 - [Marginal Revolution](https://marginalrevolution.com/)
 - [Ted Underwood](https://tedunderwood.com/)
