@@ -80,7 +80,7 @@ A curated collection of interesting reads, tools, and resources.
 <a href="https://www.argmin.net/" class="person-card pastel-green">Ben Recht</a>
 <a href="https://blog.dileeplearning.com/" class="person-card pastel-green">Dileep George</a>
 <a href="https://statmodeling.stat.columbia.edu/" class="person-card pastel-green">Andrew Gelman</a>
-<span class="person-card pastel-green placeholder">[?]</span>
+<a href="https://elevanth.org/" class="person-card pastel-green">Richard McElreath</a>
 <a href="https://timdettmers.com/" class="person-card pastel-pink">Tim Dettmers</a>
 <a href="https://www.oneusefulthing.org/" class="person-card pastel-pink">Ethan Mollick</a>
 <a href="https://simonwillison.net/" class="person-card pastel-pink">Simon Willison</a>
