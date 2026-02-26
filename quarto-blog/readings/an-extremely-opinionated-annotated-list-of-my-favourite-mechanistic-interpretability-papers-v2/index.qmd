@@ -1,0 +1,13 @@
+---
+title: "An Extremely Opinionated Annotated List of My Favourite Mechanistic Interpretability Papers v2"
+author: "Neel Nanda"
+date: "2024-07-07"
+date-added: "2026-02-26"
+categories: [AI, mechanistic-interpretability, research]
+status: to-read
+url: "https://www.alignmentforum.org/posts/NfFST5Mio7BCAQHPA/an-extremely-opinionated-annotated-list-of-my-favourite"
+---
+
+Curated and annotated list of mechanistic interpretability papers from Neel Nanda, with opinionated takes on the most important work in understanding how neural networks work internally.
+
+[Read the full article →](https://www.alignmentforum.org/posts/NfFST5Mio7BCAQHPA/an-extremely-opinionated-annotated-list-of-my-favourite)
