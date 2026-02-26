@@ -88,7 +88,7 @@ A curated collection of interesting reads, tools, and resources.
 <a href="https://huyenchip.com/blog/" class="person-card pastel-teal">Chip Huyen</a>
 <a href="https://magazine.sebastianraschka.com/" class="person-card pastel-teal">Sebastian Raschka</a>
 <a href="https://cameronrwolfe.substack.com/" class="person-card pastel-teal">Cameron R. Wolfe</a>
-<span class="person-card pastel-teal placeholder">[?]</span>
+<a href="https://www.neelnanda.io/" class="person-card pastel-teal">Neel Nanda</a>
 <a href="https://brianmerchant.org/" class="person-card pastel-orange">Brian Merchant</a>
 <a href="https://pluralistic.net/" class="person-card pastel-orange">Cory Doctorow</a>
 <a href="https://www.platformer.news/" class="person-card pastel-orange">Platformer</a>
