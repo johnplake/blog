@@ -1,0 +1,13 @@
+---
+title: "Floating-Gate FPAA Now Commercially Available! (Field Programmable Analog Array from Okika Devices)"
+author: "Unknown"
+date: "2025-12-29"
+date-added: "2026-02-27"
+categories: [electronics, FPAA, analog-computing, hardware]
+status: to-watch
+url: "https://www.youtube.com/watch?v=TWW0Q8sEGEA"
+---
+
+Overview of the OTC2902K SoC FPAA Development Board from Okika Devices - the first commercially available floating-gate field programmable analog array.
+
+[Watch →](https://www.youtube.com/watch?v=TWW0Q8sEGEA)
