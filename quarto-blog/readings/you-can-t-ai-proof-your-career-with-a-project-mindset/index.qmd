@@ -1,5 +1,5 @@
 ---
-title: "You can't "AI-proof your career" with a project mindset"
+title: 'You can''t "AI-proof your career" with a project mindset'
 author: "Pavel Samsonov"
 date: "2026-02-01"
 date-added: "2026-03-06"
