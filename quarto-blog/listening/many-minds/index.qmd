@@ -1,0 +1,13 @@
+---
+title: "Many Minds"
+author: "Diverse Intelligences Summer Institute (DISI)"
+date: "2020-11-25"
+date-added: "2026-03-18"
+categories: [podcast, intelligence, cognitive-science]
+status: to-listen
+url: "https://disi.org/manyminds/"
+---
+
+DISI’s Many Minds podcast exploring intelligence across humans, animals, and AI.
+
+[Listen →](https://disi.org/manyminds/)
