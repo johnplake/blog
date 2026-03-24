@@ -1,0 +1,13 @@
+---
+title: "Science as Amateur Software Development"
+author: "Richard McElreath"
+date: "2026-03-23"
+date-added: "2026-03-24"
+categories: [science, research, software, video]
+status: to-watch
+url: "https://www.youtube.com/watch?v=zwRdO9_GGhY"
+---
+
+Talk by Richard McElreath on science as amateur software development.
+
+[Watch →](https://www.youtube.com/watch?v=zwRdO9_GGhY)
