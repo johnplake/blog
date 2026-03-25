@@ -1,0 +1,13 @@
+---
+title: "Yes, LLMs Can Be Computers. Now What?"
+author: "Oskar Austegard"
+date: "2026-03-24"
+date-added: "2026-03-25"
+categories: [AI, LLMs, transformers, research-methods]
+status: to-read
+url: "https://muninn.austegard.com/blog/yes-llms-can-be-computers-now-what.html"
+---
+
+A detailed independent replication of Percepta’s claim that transformer weights can implement a program interpreter, plus reflections on AI-assisted technical validation.
+
+[Read the full article →](https://muninn.austegard.com/blog/yes-llms-can-be-computers-now-what.html)
