@@ -1,0 +1,13 @@
+---
+title: "Malleable Software"
+author: "Geoffrey Litt, Josh Horowitz, Peter van Hardenberg, Todd Matthews"
+date: "2025-06-01"
+date-added: "2026-03-29"
+categories: [software, HCI, end-user-programming, local-first, AI]
+status: to-read
+url: "https://www.inkandswitch.com/essay/malleable-software/"
+---
+
+An Ink & Switch essay on designing software environments where people can customize tools in the moment to meet their unique needs. Covers compound-document systems, local-first foundations, and their Patchwork prototype — exploring how malleable software restores user agency in a world of locked-down apps.
+
+[Read the full article →](https://www.inkandswitch.com/essay/malleable-software/)
