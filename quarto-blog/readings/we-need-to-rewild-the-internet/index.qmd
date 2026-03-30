@@ -1,0 +1,13 @@
+---
+title: "We Need To Rewild The Internet"
+author: "Maria Farrell, Robin Berjon"
+date: "2024-04-16"
+date-added: "2026-03-30"
+categories: [internet, technology, ecology, digital-society, decentralization]
+status: to-read
+url: "https://www.noemamag.com/we-need-to-rewild-the-internet/"
+---
+
+A Noema essay arguing that the internet has become an extractive and fragile monoculture — and that lessons from ecology (specifically rewilding) offer a path to revitalizing it. Draws on Jane Jacobs, internet engineering, and ecological theory to make the case for diversity, redundancy, and openness over consolidation.
+
+[Read the full article →](https://www.noemamag.com/we-need-to-rewild-the-internet/)
