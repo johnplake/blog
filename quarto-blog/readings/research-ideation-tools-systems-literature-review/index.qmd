@@ -5,9 +5,9 @@ date: "2026-03-25"
 date-added: "2026-03-25"
 categories: [AI, research, ideation, tools]
 status: to-read
-url: "https://jialingjia.github.io/CST_tool_review/"
+url: "https://jialingjia.github.io/Computational-Research-Ideations-AI-Lit-Review/"
 ---
 
 Brief description...
 
-[Read the full article →](https://jialingjia.github.io/CST_tool_review/)
+[Read the full article →](https://jialingjia.github.io/Computational-Research-Ideations-AI-Lit-Review/)
