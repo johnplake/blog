@@ -1,0 +1,13 @@
+---
+title: "Learn Hiragana: The Ultimate Guide"
+author: "Tofugu"
+date: "2014-01-01"
+date-added: "2026-04-06"
+categories: [japanese, language-learning, hiragana]
+status: to-read
+url: "https://www.tofugu.com/japanese/learn-hiragana/"
+---
+
+Brief description...
+
+[Read the full article →](https://www.tofugu.com/japanese/learn-hiragana/)
