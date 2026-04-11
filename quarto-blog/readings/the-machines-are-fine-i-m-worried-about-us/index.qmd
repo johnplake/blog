@@ -1,0 +1,13 @@
+---
+title: "The machines are fine. I'm worried about us."
+author: "Minas Karamanis"
+date: "2026-03-30"
+date-added: "2026-04-11"
+categories: [AI, science, pedagogy, research]
+status: to-read
+url: "https://ergosphere.blog/posts/the-machines-are-fine/"
+---
+
+On AI agents, grunt work, and the part of science that isn't replaceable. Argues that outsourcing scientific 'grunt work' to LLMs carries deep pedagogical risks.
+
+[Read the full article →](https://ergosphere.blog/posts/the-machines-are-fine/)
