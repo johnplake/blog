@@ -1,0 +1,13 @@
+---
+title: "Why Do We Tell Ourselves Scary Stories About AI?"
+author: "Amanda Gefter"
+date: "2026-04-10"
+date-added: "2026-04-11"
+categories: [AI, philosophy, psychology, culture]
+status: to-read
+url: "https://www.quantamagazine.org/why-do-we-tell-ourselves-scary-stories-about-ai-20260410/"
+---
+
+Our tales of AI developing the will to survive, commandeer resources, and manipulate people say more about us than they do about language models.
+
+[Read the full article →](https://www.quantamagazine.org/why-do-we-tell-ourselves-scary-stories-about-ai-20260410/)
