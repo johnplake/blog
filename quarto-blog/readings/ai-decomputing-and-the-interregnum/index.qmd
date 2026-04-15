@@ -1,0 +1,13 @@
+---
+title: "AI, Decomputing and the Interregnum"
+author: "Dan McQuillan"
+date: "2026-03-08"
+date-added: "2026-04-15"
+categories: [AI, technology-critique, politics, decomputing, preprint]
+status: to-read
+url: "https://www.danmcquillan.org/ai_decomputing_interregnum.html"
+---
+
+Preprint exploring AI, decomputing, and the political concept of the interregnum — when the old world is dying and the new one cannot yet be born.
+
+[Read the full article →](https://www.danmcquillan.org/ai_decomputing_interregnum.html)
