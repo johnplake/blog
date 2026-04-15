@@ -1,0 +1,13 @@
+---
+title: "A Pattern Language Index"
+author: "Christopher Alexander"
+date: "1977"
+date-added: "2026-04-15"
+categories: [architecture, design, patterns, urbanism]
+status: to-read
+url: "https://www.patternlanguageindex.com/"
+---
+
+A guide to the seminal architecture book by Christopher Alexander.
+
+[Read the full article →](https://www.patternlanguageindex.com/)
