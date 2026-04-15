@@ -9,7 +9,7 @@
 <link>https://johnplake.github.io/blog/</link>
 <atom:link href="https://johnplake.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto</description>
-<generator>quarto-1.9.37</generator>
+<generator>quarto-1.8.27</generator>
 <lastBuildDate>Fri, 13 Feb 2026 00:00:00 GMT</lastBuildDate>
 <item>
   <title>The Basel Problem: A Fourier Series Proof</title>
