@@ -11,3 +11,5 @@ url: "https://www.danmcquillan.org/decomputing.html"
 A talk given at the 2nd Ecology of AI Workshop (ECAI 2024) on the concept of decomputing — moving away from computation as the dominant paradigm.
 
 [Read the full article →](https://www.danmcquillan.org/decomputing.html)
+
+**See also:** [AI, Decomputing and the Interregnum](https://www.danmcquillan.org/ai_decomputing_interregnum.html) (2026 preprint by the same author)
