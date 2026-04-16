@@ -1,0 +1,13 @@
+---
+title: "From Feeds to Trails"
+author: "Kenny Peng, Erica Chiang, Sophie Greenwood, Jon Kleinberg, Nikhil Garg"
+date: "2026-04-15"
+date-added: "2026-04-16"
+categories: [social-media, information, hypertext, AI, design, internet]
+status: to-read
+url: "https://leaflet.pub/p/did:plc:ldmcdu57vnkqriwqojr2lcqc/3mjk4e6aok22m"
+---
+
+An argument for redesigning social media interfaces from feeds (passive, one-directional) to trails (active, interconnected). Drawing on Bush's Memex, Nelson's hypertext, and the early Web, the authors propose using LLMs to blaze associative trails through social media — a prototype built on Bluesky at skytrails.org.
+
+[Read the full article →](https://leaflet.pub/p/did:plc:ldmcdu57vnkqriwqojr2lcqc/3mjk4e6aok22m)
