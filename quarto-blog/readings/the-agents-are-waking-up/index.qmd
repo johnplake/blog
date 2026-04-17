@@ -1,0 +1,13 @@
+---
+title: "The Agents Are Waking Up"
+author: "Mark Humphries"
+date: "2026-04-17"
+date-added: "2026-04-17"
+categories: [AI, agents, future-of-work]
+status: to-read
+url: "https://generativehistory.substack.com/p/the-agents-are-waking-up"
+---
+
+The Intelligence Revolution that swept through the software industry this past winter is coming to knowledge-work next.
+
+[Read the full article →](https://generativehistory.substack.com/p/the-agents-are-waking-up)
