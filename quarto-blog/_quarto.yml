@@ -19,9 +19,9 @@ project:
     - experiments/*.qmd
 
 website:
-  description: "A blog built with Quarto"
+  description: "A reading log and notebook by John P. Lake"
   site-url: https://johnplake.github.io/blog/ # required for RSS / absolute URLs
-  title: "John's Blog"
+  title: "Requisite Variety"
   navbar:
     right:
       - about.qmd
