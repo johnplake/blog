@@ -1,0 +1,13 @@
+---
+title: "AI as Social Technology"
+author: "Henry Farrell and Cosma Rohilla Shalizi"
+date: "2026-05-11"
+date-added: "2026-05-12"
+categories: [AI, society, technology, bureaucracy]
+status: to-read
+url: "https://knightcolumbia.org/content/ai-as-social-technology"
+---
+
+An essay arguing that AI is better understood as a social technology — reshaping bureaucracy and institutions — than as a path to post-human superintelligence. Published by the Knight First Amendment Institute.
+
+[Read the full article →](https://knightcolumbia.org/content/ai-as-social-technology)
