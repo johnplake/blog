@@ -1,0 +1,13 @@
+---
+title: "The Great Zombification"
+author: "Owen Yingling"
+date: "2026-05-11"
+date-added: "2026-05-14"
+categories: [AI, education, writing, culture]
+status: to-read
+url: "https://www.thenewcritic.com/p/the-great-zombification"
+---
+
+On how AI-generated prose is homogenizing student writing — perfect parallel constructions filling lecture halls, take-home tests, and school newspapers.
+
+[Read the full article →](https://www.thenewcritic.com/p/the-great-zombification)
