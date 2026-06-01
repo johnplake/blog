@@ -1,0 +1,13 @@
+---
+title: "An OpenAI model solved a famous math problem that stumped humans for 80 years"
+author: "Ars Technica"
+date: "2026-06-01"
+date-added: "2026-06-01"
+categories: [AI, mathematics, OpenAI, research]
+status: to-read
+url: "https://arstechnica.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths/"
+---
+
+OpenAI's model solved a famous math problem that had stumped humans for 80 years, leveraging AI's strengths in formal verification and search over proof space.
+
+[Read the full article →](https://arstechnica.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths/)
