@@ -1,0 +1,13 @@
+---
+title: "When AI builds itself"
+author: "Marina Favaro and Jack Clark"
+date: "2026-06-04"
+date-added: "2026-06-04"
+categories: [AI, recursive-self-improvement, AI-safety, agents, Anthropic]
+status: to-read
+url: "https://www.anthropic.com/institute/recursive-self-improvement"
+---
+
+Anthropic Institute essay arguing that AI is already accelerating AI development, using public benchmarks and internal Anthropic data to assess the path toward recursive self-improvement and its governance implications.
+
+[Read the full article →](https://www.anthropic.com/institute/recursive-self-improvement)
