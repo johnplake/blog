@@ -1,0 +1,13 @@
+---
+title: "The Misguided Quest for Mechanistic AI Interpretability"
+author: "Cameron Berg, Oscar Delaney, Dan Hendrycks"
+date: "2025-05-15"
+date-added: "2026-06-24"
+categories: [AI, interpretability, mechanistic-interpretability, safety]
+status: to-read
+url: "https://ai-frontiers.org/articles/the-misguided-quest-for-mechanistic-ai-interpretability"
+---
+
+Argues that mechanistic interpretability is a fundamentally misguided research direction — AI systems are complex systems, not clockwork mechanisms, and a decade of work has yielded no lasting results. Advocates instead for top-down approaches like representation engineering that operate at the level of emergent properties.
+
+[Read the full article →](https://ai-frontiers.org/articles/the-misguided-quest-for-mechanistic-ai-interpretability)
