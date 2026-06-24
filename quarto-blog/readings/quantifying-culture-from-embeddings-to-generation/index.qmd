@@ -1,0 +1,13 @@
+---
+title: "Quantifying Culture from Embeddings to Generation"
+author: "Laura K. Nelson, Tom Einhorn"
+date: "2026-06-15"
+date-added: "2026-06-24"
+categories: [AI, sociology, cultural-sociology, word-embeddings, LLMs, quantitative-methods]
+status: to-read
+url: "https://rohanalexander.github.io/notes_on_the_future/16-Nelson_Einhorn.html"
+---
+
+Traces the trajectory from static word embeddings to contemporary LLMs for measuring culture. Argues that while newer models are more powerful, they aggregate across languages, communities, and periods — producing representations detached from identifiable social standpoints. Reviews how embeddings measured cultural associations, examines evidence that large generative models struggle to reproduce human population diversity, and discusses provisional solutions: steering methods and historically/socially bounded models.
+
+[Read the full article →](https://rohanalexander.github.io/notes_on_the_future/16-Nelson_Einhorn.html)
