@@ -1,0 +1,13 @@
+---
+title: "Notes on the Industry Job Search"
+author: "Alisa Liu"
+date: "2026-06-20"
+date-added: "2026-06-26"
+categories: [careers, research, industry, nlp]
+status: to-read
+url: "https://alisawuffles.github.io/blog/job-search/"
+---
+
+A candid field guide to the industry research job search from the end of an NLP PhD, covering timelines, interview formats, preparation, negotiation, and networking.
+
+[Read the full article →](https://alisawuffles.github.io/blog/job-search/)
