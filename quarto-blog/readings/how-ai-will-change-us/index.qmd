@@ -1,0 +1,13 @@
+---
+title: "How AI Will Change Us"
+author: "Houda Nait El Barj"
+date: "2026-06-25"
+date-added: "2026-06-28"
+categories: [AI, philosophy, society, technology]
+status: to-read
+url: "https://www.noemamag.com/how-ai-will-change-us/"
+---
+
+A Noema essay on AI companionship, presence, and the difference between systems that can interpret human experience and people who must participate in it.
+
+[Read the full article →](https://www.noemamag.com/how-ai-will-change-us/)
