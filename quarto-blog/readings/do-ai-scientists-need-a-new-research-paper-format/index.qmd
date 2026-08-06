@@ -1,0 +1,13 @@
+---
+title: "Do AI Scientists Need a New Research Paper Format?"
+author: "David Berreby"
+date: "2026-08-05"
+date-added: "2026-08-06"
+categories: [AI, research, scientific-publishing, meta-science]
+status: to-read
+url: "https://spectrum.ieee.org/ai-scientist-research-paper-format"
+---
+
+IEEE Spectrum interview and reported piece on Jiachen Liu's push for an agent-native research artifact, arguing that AI-centered research workflows may demand formats beyond the traditional PDF paper.
+
+[Read the full article →](https://spectrum.ieee.org/ai-scientist-research-paper-format)
