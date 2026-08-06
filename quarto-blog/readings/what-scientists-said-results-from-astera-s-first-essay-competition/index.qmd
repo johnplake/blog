@@ -1,0 +1,13 @@
+---
+title: "What Scientists Said: Results from Astera's First Essay Competition"
+author: "Astera Admin"
+date: "2026-07-01"
+date-added: "2026-08-06"
+categories: [meta-science, research, scientific-publishing, science-policy]
+status: to-read
+url: "https://astera.org/what-scientists-said/"
+---
+
+Astera's synthesis of its first essay competition, distilling working scientists' complaints and proposals about research incentives, invisibility of null results, reuse, and broader metascience infrastructure.
+
+[Read the full article →](https://astera.org/what-scientists-said/)
