@@ -1,0 +1,13 @@
+---
+title: "Introducing Un-0: Generating Images with Coupled Oscillators"
+author: "Unconventional AI"
+date: "2026-06-25"
+date-added: "2026-08-06"
+categories: [AI, image-generation, physical-computing, hardware]
+status: to-read
+url: "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/"
+---
+
+Unconventional AI introduces Un-0, an image generator built on simulated coupled oscillators, positioning it as an early physical-computing substrate with open weights, training code, and ablations.
+
+[Read the full article →](https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/)
