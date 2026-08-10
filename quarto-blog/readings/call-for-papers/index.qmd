@@ -1,5 +1,5 @@
 ---
-title: "Call for Papers"
+title: "CfP: LM Playschool Workshop 2026"
 author: "The LM Playschool Workshop"
 date: "2026-07-14"
 date-added: "2026-08-10"
