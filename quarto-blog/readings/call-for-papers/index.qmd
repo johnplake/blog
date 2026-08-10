@@ -1,0 +1,13 @@
+---
+title: "Call for Papers"
+author: "The LM Playschool Workshop"
+date: "2026-07-14"
+date-added: "2026-08-10"
+categories: [AI, workshops, language-agents, interactive-learning]
+status: to-read
+url: "https://lm-playschool.github.io/cfp/"
+---
+
+Call for papers for the LM Playschool Workshop 2026, focused on language agents that learn through situated, conversational, and multi-turn interaction.
+
+[Read the full article →](https://lm-playschool.github.io/cfp/)
