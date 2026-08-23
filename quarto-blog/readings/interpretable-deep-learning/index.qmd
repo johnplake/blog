@@ -1,0 +1,12 @@
+---
+title: "Interpretable Deep Learning"
+author: "Interpretable Deep Learning"
+date-added: "2026-08-23"
+categories: [AI, interpretability, deep-learning, community, tutorials]
+status: to-read
+url: "https://interpretabledeeplearning.github.io/"
+---
+
+A community hub for interpretable deep learning with tutorials, seminars, reading-group information, and curated resources for researchers working on interpretability.
+
+[Read the full article →](https://interpretabledeeplearning.github.io/)
