@@ -1,0 +1,13 @@
+---
+title: "Reify This"
+author: "Leif Weatherby, Tyler Shoemaker, and Benjamin Recht"
+date: "2026-06-11"
+date-added: "2026-08-31"
+categories: [AI, interpretability, philosophy, psychometrics]
+status: to-read
+url: "https://www.theideasletter.org/essay/reify-this/"
+---
+
+A critique of AI interpretability as a form of automated reification, connecting Anthropic’s feature-labeling claims to older psychometric habits of turning statistical artifacts into apparently real causal entities.
+
+[Read the full article →](https://www.theideasletter.org/essay/reify-this/)
